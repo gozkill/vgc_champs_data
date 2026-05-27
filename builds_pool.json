@@ -1,0 +1,7661 @@
+[
+    {
+        "id": "TALONFLAME-c85f5ce8",
+        "pokemon": "Talonflame",
+        "ability": "Gale Wings",
+        "item": "Sharp Beak",
+        "moves": [
+            "Protect",
+            "Dual Wingbeat",
+            "Flare Blitz",
+            "Tailwind"
+        ]
+    },
+    {
+        "id": "GARCHOMP-1b0fc876",
+        "pokemon": "Garchomp",
+        "ability": "Rough Skin",
+        "item": "Roseli Berry",
+        "moves": [
+            "Protect",
+            "Rock Slide",
+            "Earthquake",
+            "Dragon Claw"
+        ]
+    },
+    {
+        "id": "BASCULEGION-80730fce",
+        "pokemon": "Basculegion",
+        "ability": "Adaptability",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Protect",
+            "Liquidation",
+            "Last Respects",
+            "Aqua Jet"
+        ]
+    },
+    {
+        "id": "KINGAMBIT-d7d60bc9",
+        "pokemon": "Kingambit",
+        "ability": "Defiant",
+        "item": "Black Glasses",
+        "moves": [
+            "Protect",
+            "Sucker Punch",
+            "Iron Head",
+            "Kowtow Cleave"
+        ]
+    },
+    {
+        "id": "SNEASLER-40bf2897",
+        "pokemon": "Sneasler",
+        "ability": "Unburden",
+        "item": "White Herb",
+        "moves": [
+            "Protect",
+            "Close Combat",
+            "Gunk Shot",
+            "Fake Out"
+        ]
+    },
+    {
+        "id": "FLOETTE-ETERNAL-8f1d6bfd",
+        "pokemon": "FLOETTE-ETERNAL",
+        "ability": "Flower Veil",
+        "item": "Floettite",
+        "moves": [
+            "Protect",
+            "Light of Ruin",
+            "Dazzling Gleam",
+            "Moonblast"
+        ]
+    },
+    {
+        "id": "AERODACTYL-32e00727",
+        "pokemon": "Aerodactyl",
+        "ability": "Unnerve",
+        "item": "Aerodactylite",
+        "moves": [
+            "Protect",
+            "Rock Slide",
+            "Dual Wingbeat",
+            "Tailwind"
+        ]
+    },
+    {
+        "id": "GARCHOMP-dade71b5",
+        "pokemon": "Garchomp",
+        "ability": "Rough Skin",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Protect",
+            "Dragon Claw",
+            "Stomping Tantrum",
+            "Earthquake"
+        ]
+    },
+    {
+        "id": "FROSLASS-db4c270d",
+        "pokemon": "Froslass",
+        "ability": "Cursed Body",
+        "item": "Froslassite",
+        "moves": [
+            "Protect",
+            "Blizzard",
+            "Shadow Ball",
+            "Aurora Veil"
+        ]
+    },
+    {
+        "id": "BASCULEGION-311a0566",
+        "pokemon": "Basculegion",
+        "ability": "Adaptability",
+        "item": "Focus Sash",
+        "moves": [
+            "Protect",
+            "Liquidation",
+            "Aqua Jet",
+            "Last Respects"
+        ]
+    },
+    {
+        "id": "SNEASLER-e274dcb7",
+        "pokemon": "Sneasler",
+        "ability": "Unburden",
+        "item": "White Herb",
+        "moves": [
+            "Fake Out",
+            "Gunk Shot",
+            "Close Combat",
+            "Coaching"
+        ]
+    },
+    {
+        "id": "KINGAMBIT-df02ef79",
+        "pokemon": "Kingambit",
+        "ability": "Defiant",
+        "item": "Black Glasses",
+        "moves": [
+            "Protect",
+            "Kowtow Cleave",
+            "Sucker Punch",
+            "Swords Dance"
+        ]
+    },
+    {
+        "id": "SNEASLER-a117f646",
+        "pokemon": "Sneasler",
+        "ability": "Unburden",
+        "item": "White Herb",
+        "moves": [
+            "Protect",
+            "Close Combat",
+            "Dire Claw",
+            "Fake Out"
+        ]
+    },
+    {
+        "id": "KINGAMBIT-6ffecd9b",
+        "pokemon": "Kingambit",
+        "ability": "Defiant",
+        "item": "Chople Berry",
+        "moves": [
+            "Protect",
+            "Kowtow Cleave",
+            "Low Kick",
+            "Sucker Punch"
+        ]
+    },
+    {
+        "id": "MILOTIC-b3d37d13",
+        "pokemon": "Milotic",
+        "ability": "Competitive",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Protect",
+            "Scald",
+            "Icy Wind",
+            "Life Dew"
+        ]
+    },
+    {
+        "id": "DRAGONITE-42f06528",
+        "pokemon": "Dragonite",
+        "ability": "Multiscale",
+        "item": "Dragon Fang",
+        "moves": [
+            "Dragon Claw",
+            "Extreme Speed",
+            "Low Kick",
+            "Tailwind"
+        ]
+    },
+    {
+        "id": "DRAGONITE-3ca10565",
+        "pokemon": "Dragonite",
+        "ability": "Inner Focus",
+        "item": "Dragoninite",
+        "moves": [
+            "Flamethrower",
+            "Protect",
+            "Draco Meteor",
+            "Hurricane"
+        ]
+    },
+    {
+        "id": "ARCHALUDON-465c0378",
+        "pokemon": "Archaludon",
+        "ability": "Stamina",
+        "item": "Leftovers",
+        "moves": [
+            "Draco Meteor",
+            "Flash Cannon",
+            "Electro Shot",
+            "Aura Sphere"
+        ]
+    },
+    {
+        "id": "PELIPPER-c1765e03",
+        "pokemon": "Pelipper",
+        "ability": "Drizzle",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Weather Ball",
+            "Hurricane",
+            "Wide Guard",
+            "Tailwind"
+        ]
+    },
+    {
+        "id": "BASCULEGION-1bb0273e",
+        "pokemon": "Basculegion",
+        "ability": "Adaptability",
+        "item": "Mystic Water",
+        "moves": [
+            "Last Respects",
+            "Aqua Jet",
+            "Wave Crash",
+            "Protect"
+        ]
+    },
+    {
+        "id": "SCIZOR-9f21cfb4",
+        "pokemon": "Scizor",
+        "ability": "Light Metal",
+        "item": "Scizorite",
+        "moves": [
+            "Bullet Punch",
+            "Bug Bite",
+            "Protect",
+            "Dual Wingbeat"
+        ]
+    },
+    {
+        "id": "SNEASLER-71562888",
+        "pokemon": "Sneasler",
+        "ability": "Unburden",
+        "item": "Focus Sash",
+        "moves": [
+            "Dire Claw",
+            "Close Combat",
+            "Fake Out",
+            "Throat Chop"
+        ]
+    },
+    {
+        "id": "KANGASKHAN-aa08e35b",
+        "pokemon": "Kangaskhan",
+        "ability": "Scrappy",
+        "item": "Kangaskhanite",
+        "moves": [
+            "Double-Edge",
+            "Low Kick",
+            "Sucker Punch",
+            "Fake Out"
+        ]
+    },
+    {
+        "id": "SINISTCHA-e1b794d2",
+        "pokemon": "Sinistcha",
+        "ability": "Hospitality",
+        "item": "Kasib Berry",
+        "moves": [
+            "Matcha Gotcha",
+            "Shadow Ball",
+            "Rage Powder",
+            "Trick Room"
+        ]
+    },
+    {
+        "id": "KOMMOO-ab6fbe55",
+        "pokemon": "Kommo-o",
+        "ability": "Soundproof",
+        "item": "Leftovers",
+        "moves": [
+            "Clanging Scales",
+            "Clangorous Soul",
+            "Flamethrower",
+            "Protect"
+        ]
+    },
+    {
+        "id": "AEGISLASH-de645837",
+        "pokemon": "Aegislash",
+        "ability": "Stance Change",
+        "item": "Spell Tag",
+        "moves": [
+            "Poltergeist",
+            "Sacred Sword",
+            "Shadow Sneak"
+        ]
+    },
+    {
+        "id": "SNEASLER-4b870af1",
+        "pokemon": "Sneasler",
+        "ability": "Poison Touch",
+        "item": "Focus Sash",
+        "moves": [
+            "Close Combat",
+            "Dire Claw",
+            "Coaching",
+            "Fake Out"
+        ]
+    },
+    {
+        "id": "CHARIZARD-66f98ac6",
+        "pokemon": "Charizard",
+        "ability": "Blaze",
+        "item": "Charizardite X",
+        "moves": [
+            "Flare Blitz",
+            "Breaking Swipe",
+            "Dragon Dance",
+            "Protect"
+        ]
+    },
+    {
+        "id": "SINISTCHA-00e5a44f",
+        "pokemon": "Sinistcha",
+        "ability": "Hospitality",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Matcha Gotcha",
+            "Rage Powder",
+            "Life Dew",
+            "Trick Room"
+        ]
+    },
+    {
+        "id": "INCINEROAR-695fcef1",
+        "pokemon": "Incineroar",
+        "ability": "Intimidate",
+        "item": "Shuca Berry",
+        "moves": [
+            "Flare Blitz",
+            "Throat Chop",
+            "Parting Shot",
+            "Fake Out"
+        ]
+    },
+    {
+        "id": "MILOTIC-16c2a128",
+        "pokemon": "Milotic",
+        "ability": "Competitive",
+        "item": "Leftovers",
+        "moves": [
+            "Scald",
+            "Icy Wind",
+            "Life Dew",
+            "Protect"
+        ]
+    },
+    {
+        "id": "SNEASLER-7f1412d4",
+        "pokemon": "Sneasler",
+        "ability": "Unburden",
+        "item": "White Herb",
+        "moves": [
+            "Close Combat",
+            "Dire Claw",
+            "Fake Out",
+            "Coaching"
+        ]
+    },
+    {
+        "id": "SCIZOR-9a652531",
+        "pokemon": "Scizor",
+        "ability": "Technician",
+        "item": "Scizorite",
+        "moves": [
+            "Bullet Punch",
+            "Bug Bite",
+            "Swords Dance",
+            "Protect"
+        ]
+    },
+    {
+        "id": "GENGAR-8872db90",
+        "pokemon": "Gengar",
+        "ability": "Cursed Body",
+        "item": "Gengarite",
+        "moves": [
+            "Protect",
+            "Perish Song",
+            "Sludge Bomb",
+            "Shadow Ball"
+        ]
+    },
+    {
+        "id": "SNEASLER-ff5f035d",
+        "pokemon": "Sneasler",
+        "ability": "Unburden",
+        "item": "Focus Sash",
+        "moves": [
+            "Protect",
+            "Fake Out",
+            "Close Combat",
+            "Dire Claw"
+        ]
+    },
+    {
+        "id": "INCINEROAR-23e7bca0",
+        "pokemon": "Incineroar",
+        "ability": "Intimidate",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Protect",
+            "Fake Out",
+            "Flare Blitz",
+            "Parting Shot"
+        ]
+    },
+    {
+        "id": "NINETALESALOLANFORM-8f9705fb",
+        "pokemon": "Ninetales [Alolan Form]",
+        "ability": "Snow Warning",
+        "item": "Never-Melt Ice",
+        "moves": [
+            "Protect",
+            "Encore",
+            "Disable",
+            "Blizzard"
+        ]
+    },
+    {
+        "id": "DRAGONITE-53376dcf",
+        "pokemon": "Dragonite",
+        "ability": "Multiscale",
+        "item": "Dragon Fang",
+        "moves": [
+            "Protect",
+            "Extreme Speed",
+            "Dragon Claw",
+            "Low Kick"
+        ]
+    },
+    {
+        "id": "BASCULEGION-6357bed7",
+        "pokemon": "Basculegion",
+        "ability": "Adaptability",
+        "item": "Choice Scarf",
+        "moves": [
+            "Wave Crash",
+            "Last Respects",
+            "Icy Wind",
+            "Flip Turn"
+        ]
+    },
+    {
+        "id": "ROTOMHEATROTOM-b1b9f600",
+        "pokemon": "Rotom [Heat Rotom]",
+        "ability": "Levitate",
+        "item": "Leftovers",
+        "moves": [
+            "Thunderbolt",
+            "Overheat",
+            "Will-O-Wisp",
+            "Protect"
+        ]
+    },
+    {
+        "id": "FROSLASS-cecc277d",
+        "pokemon": "Froslass",
+        "ability": "Snow Cloak",
+        "item": "Froslassite",
+        "moves": [
+            "Blizzard",
+            "Shadow Ball",
+            "Taunt",
+            "Protect"
+        ]
+    },
+    {
+        "id": "SNEASLER-4e331280",
+        "pokemon": "Sneasler",
+        "ability": "Poison Touch",
+        "item": "Focus Sash",
+        "moves": [
+            "Close Combat",
+            "Dire Claw",
+            "Fake Out",
+            "Protect"
+        ]
+    },
+    {
+        "id": "CLEFABLE-14750356",
+        "pokemon": "Clefable",
+        "ability": "Unaware",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Moonblast",
+            "Follow Me",
+            "Helping Hand",
+            "Protect"
+        ]
+    },
+    {
+        "id": "PRIMARINA-7d68b9f4",
+        "pokemon": "Primarina",
+        "ability": "Liquid Voice",
+        "item": "Leftovers",
+        "moves": [
+            "Hyper Voice",
+            "Moonblast",
+            "Calm Mind",
+            "Protect"
+        ]
+    },
+    {
+        "id": "SINISTCHA-61391c03",
+        "pokemon": "Sinistcha",
+        "ability": "Hospitality",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Matcha Gotcha",
+            "Rage Powder",
+            "Strength Sap",
+            "Trick Room"
+        ]
+    },
+    {
+        "id": "INCINEROAR-a4075e2f",
+        "pokemon": "Incineroar",
+        "ability": "Intimidate",
+        "item": "Shuca Berry",
+        "moves": [
+            "Flare Blitz",
+            "Parting Shot",
+            "Helping Hand",
+            "Fake Out"
+        ]
+    },
+    {
+        "id": "SNEASLER-0c4ad3cc",
+        "pokemon": "Sneasler",
+        "ability": "Unburden",
+        "item": "Focus Sash",
+        "moves": [
+            "Close Combat",
+            "Dire Claw",
+            "Fake Out",
+            "Coaching"
+        ]
+    },
+    {
+        "id": "DRAGONITE-0b59daca",
+        "pokemon": "Dragonite",
+        "ability": "Inner Focus",
+        "item": "Lum Berry",
+        "moves": [
+            "Scale Shot",
+            "Extreme Speed",
+            "Tailwind",
+            "Protect"
+        ]
+    },
+    {
+        "id": "CHARIZARD-e74ab779",
+        "pokemon": "Charizard",
+        "ability": "Resplandor",
+        "item": "Charizardita Y",
+        "moves": [
+            "Ola de calor",
+            "Bola meteorológica",
+            "Rayo solar",
+            "Proteger"
+        ]
+    },
+    {
+        "id": "AERODACTYL-8a471db0",
+        "pokemon": "Aerodactyl",
+        "ability": "Enervar",
+        "item": "Aerodactilita",
+        "moves": [
+            "Doble aleteo",
+            "Deslizamiento de rocas",
+            "viento de cola",
+            "Proteger"
+        ]
+    },
+    {
+        "id": "BASCULLEGIN-bee9420f",
+        "pokemon": "Bascullegión",
+        "ability": "Adaptabilidad",
+        "item": "Marco de enfoque",
+        "moves": [
+            "Liquidación",
+            "Aqua Jet",
+            "Últimos respetos",
+            "Proteger"
+        ]
+    },
+    {
+        "id": "SYLVEON-f5943d2d",
+        "pokemon": "Sylveon",
+        "ability": "Pixilate",
+        "item": "Pluma de hada",
+        "moves": [
+            "Hipervoz",
+            "Hiperrayo",
+            "Ataque rápido",
+            "Detectar"
+        ]
+    },
+    {
+        "id": "FARIGIRAF-b414f22b",
+        "pokemon": "Farigiraf",
+        "ability": "Cola de armadura",
+        "item": "Baya de Sitrus",
+        "moves": [
+            "Proteger",
+            "Mano amiga",
+            "Psíquico",
+            "Habitación de trucos"
+        ]
+    },
+    {
+        "id": "GARCHOMP-4368a61e",
+        "pokemon": "Garchomp",
+        "ability": "Rough Skin",
+        "item": "Soft Sand",
+        "moves": [
+            "Dragon Claw",
+            "Rock Tomb",
+            "Earthquake",
+            "Protect"
+        ]
+    },
+    {
+        "id": "GARCHOMP-e91bf652",
+        "pokemon": "Garchomp",
+        "ability": "Rough Skin",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Earthquake",
+            "Stomping Tantrum",
+            "Rock Slide",
+            "Protect"
+        ]
+    },
+    {
+        "id": "KINGAMBIT-7d209318",
+        "pokemon": "Kingambit",
+        "ability": "Defiant",
+        "item": "Chople Berry",
+        "moves": [
+            "Sucker Punch",
+            "Kowtow Cleave",
+            "Iron Head",
+            "Protect"
+        ]
+    },
+    {
+        "id": "BASCULEGION-1ac1e573",
+        "pokemon": "Basculegion",
+        "ability": "Swift Swim",
+        "item": "Choice Scarf",
+        "moves": [
+            "Wave Crash",
+            "Flip Turn",
+            "Last Respects",
+            "Aqua Jet"
+        ]
+    },
+    {
+        "id": "CHARIZARD-7f5826ed",
+        "pokemon": "Charizard",
+        "ability": "Solar Power",
+        "item": "Charizardite Y",
+        "moves": [
+            "Heat Wave",
+            "Weather Ball",
+            "Solar Beam",
+            "Protect"
+        ]
+    },
+    {
+        "id": "GARCHOMP-c1ee264a",
+        "pokemon": "Garchomp",
+        "ability": "Rough Skin",
+        "item": "Dragon Fang",
+        "moves": [
+            "Scale Shot",
+            "Earthquake",
+            "Rock Slide",
+            "Protect"
+        ]
+    },
+    {
+        "id": "AERODACTYL-d63ff27f",
+        "pokemon": "Aerodactyl",
+        "ability": "Unnerve",
+        "item": "Focus Sash",
+        "moves": [
+            "Rock Slide",
+            "Wide Guard",
+            "Tailwind",
+            "Protect"
+        ]
+    },
+    {
+        "id": "BASCULEGION-5148cea7",
+        "pokemon": "Basculegion",
+        "ability": "Adaptability",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Wave Crash",
+            "Last Respects",
+            "Aqua Jet",
+            "Protect"
+        ]
+    },
+    {
+        "id": "AERODACTYL-36e6f4cc",
+        "pokemon": "Aerodactyl",
+        "ability": "Unnerve",
+        "item": "Focus Sash",
+        "moves": [
+            "Rock Slide",
+            "Dual Wingbeat",
+            "Tailwind",
+            "Protect"
+        ]
+    },
+    {
+        "id": "GARCHOMP-81ecf082",
+        "pokemon": "Garchomp",
+        "ability": "Rough Skin",
+        "item": "White Herb",
+        "moves": [
+            "Earthquake",
+            "Dragon Claw",
+            "Swords Dance",
+            "Protect"
+        ]
+    },
+    {
+        "id": "AEGISLASH-5cbf4eac",
+        "pokemon": "Aegislash",
+        "ability": "Stance Change",
+        "item": "Spell Tag",
+        "moves": [
+            "Poltergeist",
+            "Iron Head",
+            "King's Shield",
+            "Shadow Sneak"
+        ]
+    },
+    {
+        "id": "ROTOMWASHROTOM-9855ac46",
+        "pokemon": "Rotom [Wash Rotom]",
+        "ability": "Levitate",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Thunderbolt",
+            "Hydro Pump",
+            "Will-O-Wisp",
+            "Protect"
+        ]
+    },
+    {
+        "id": "INCINEROAR-391f59e7",
+        "pokemon": "Incineroar",
+        "ability": "Intimidate",
+        "item": "Charcoal",
+        "moves": [
+            "Flare Blitz",
+            "Darkest Lariat",
+            "Fake Out",
+            "Parting Shot"
+        ]
+    },
+    {
+        "id": "GARCHOMP-1f8896f7",
+        "pokemon": "Garchomp",
+        "ability": "Rough Skin",
+        "item": "Soft Sand",
+        "moves": [
+            "Earthquake",
+            "Stomping Tantrum",
+            "Dragon Claw",
+            "Protect"
+        ]
+    },
+    {
+        "id": "SYLVEON-68cdd2c6",
+        "pokemon": "Sylveon",
+        "ability": "Pixilate",
+        "item": "Fairy Feather",
+        "moves": [
+            "Hyper Voice",
+            "Moonblast",
+            "Hyper Beam",
+            "Protect"
+        ]
+    },
+    {
+        "id": "CHARIZARD-a02be4e7",
+        "pokemon": "Charizard",
+        "ability": "Blaze",
+        "item": "Charizardite Y",
+        "moves": [
+            "Heat Wave",
+            "Weather Ball",
+            "Solar Beam",
+            "Protect"
+        ]
+    },
+    {
+        "id": "GARCHOMP-badec415",
+        "pokemon": "Garchomp",
+        "ability": "Rough Skin",
+        "item": "Choice Scarf",
+        "moves": [
+            "Earthquake",
+            "Rock Slide",
+            "Stomping Tantrum",
+            "Dragon Claw"
+        ]
+    },
+    {
+        "id": "GARCHOMP-a51914b7",
+        "pokemon": "Garchomp",
+        "ability": "Rough Skin",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Protect",
+            "Rock Slide",
+            "Dragon Claw",
+            "Earthquake"
+        ]
+    },
+    {
+        "id": "VENUSAUR-20a077d1",
+        "pokemon": "Venusaur",
+        "ability": "Chlorophyll",
+        "item": "Venusaurite",
+        "moves": [
+            "Giga Drain",
+            "Sludge Bomb",
+            "Earth Power",
+            "Protect"
+        ]
+    },
+    {
+        "id": "TYRANITAR-bb7ac1ed",
+        "pokemon": "Tyranitar",
+        "ability": "Sand Stream",
+        "item": "Focus Sash",
+        "moves": [
+            "Rock Slide",
+            "Knock Off",
+            "Low Kick",
+            "Protect"
+        ]
+    },
+    {
+        "id": "CORVIKNIGHT-fbf73b8c",
+        "pokemon": "Corviknight",
+        "ability": "Mirror Armor",
+        "item": "Leftovers",
+        "moves": [
+            "Iron Head",
+            "Brave Bird",
+            "Tailwind",
+            "Roost"
+        ]
+    },
+    {
+        "id": "GARCHOMP-26a185c0",
+        "pokemon": "Garchomp",
+        "ability": "Rough Skin",
+        "item": "Haban Berry",
+        "moves": [
+            "Dragon Claw",
+            "Earthquake",
+            "Rock Slide",
+            "Protect"
+        ]
+    },
+    {
+        "id": "ROTOMHEATROTOM-776ddab5",
+        "pokemon": "Rotom [Heat Rotom]",
+        "ability": "Levitate",
+        "item": "Choice Scarf",
+        "moves": [
+            "Thunderbolt",
+            "Overheat",
+            "Volt Switch",
+            "Electroweb"
+        ]
+    },
+    {
+        "id": "PRIMARINA-bdc4a1dd",
+        "pokemon": "Primarina",
+        "ability": "Liquid Voice",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Hyper Voice",
+            "Moonblast",
+            "Hydro Cannon",
+            "Protect"
+        ]
+    },
+    {
+        "id": "GARDEVOIR-83253b21",
+        "pokemon": "Gardevoir",
+        "ability": "Telepathy",
+        "item": "Gardevoirite",
+        "moves": [
+            "Protect",
+            "Hyper Voice",
+            "Trick Room",
+            "Psyshock"
+        ]
+    },
+    {
+        "id": "MAUSHOLD-b8b093a1",
+        "pokemon": "Maushold",
+        "ability": "Friend Guard",
+        "item": "Focus Sash",
+        "moves": [
+            "Protect",
+            "Follow Me",
+            "Super Fang",
+            "Encore"
+        ]
+    },
+    {
+        "id": "TALONFLAME-82bdccd3",
+        "pokemon": "Talonflame",
+        "ability": "Gale Wings",
+        "item": "Sin Objeto",
+        "moves": [
+            "Protect",
+            "Tailwind",
+            "Will-O-Wisp",
+            "Acrobatics"
+        ]
+    },
+    {
+        "id": "GARCHOMP-cb8e748d",
+        "pokemon": "Garchomp",
+        "ability": "Rough Skin",
+        "item": "White Herb",
+        "moves": [
+            "Protect",
+            "Dragon Claw",
+            "Rock Slide",
+            "Earthquake"
+        ]
+    },
+    {
+        "id": "DELPHOX-d46aa157",
+        "pokemon": "Delphox",
+        "ability": "Blaze",
+        "item": "Delphoxite",
+        "moves": [
+            "Heat Wave",
+            "Psyshock",
+            "Protect",
+            "Substitute"
+        ]
+    },
+    {
+        "id": "WHIMSICOTT-213366cf",
+        "pokemon": "Whimsicott",
+        "ability": "Prankster",
+        "item": "Focus Sash",
+        "moves": [
+            "Tailwind",
+            "Encore",
+            "Protect",
+            "Moonblast"
+        ]
+    },
+    {
+        "id": "BASCULEGION-ee2ddc9f",
+        "pokemon": "Basculegion",
+        "ability": "Adaptability",
+        "item": "Choice Scarf",
+        "moves": [
+            "Flip Turn",
+            "Aqua Jet",
+            "Wave Crash",
+            "Last Respects"
+        ]
+    },
+    {
+        "id": "GARCHOMP-200af6df",
+        "pokemon": "Garchomp",
+        "ability": "Rough Skin",
+        "item": "Lum Berry",
+        "moves": [
+            "Earthquake",
+            "Rock Slide",
+            "Dragon Claw",
+            "Protect"
+        ]
+    },
+    {
+        "id": "INCINEROAR-e377154b",
+        "pokemon": "Incineroar",
+        "ability": "Intimidar",
+        "item": "Hierba blanca",
+        "moves": [
+            "Ataque de bengalas",
+            "Lazo más oscuro",
+            "Lucha cercana",
+            "Fingir"
+        ]
+    },
+    {
+        "id": "HATTERENE-6bda63b1",
+        "pokemon": "Hatterene",
+        "ability": "Rebote mágico",
+        "item": "Pluma de hada",
+        "moves": [
+            "Proteger",
+            "Psíquico",
+            "Resplandor deslumbrante",
+            "Habitación de trucos"
+        ]
+    },
+    {
+        "id": "FARIGIRAF-15225bf6",
+        "pokemon": "Farigiraf",
+        "ability": "Cola de armadura",
+        "item": "Colbur Berry",
+        "moves": [
+            "Proteger",
+            "Psíquico",
+            "Encarcelar",
+            "Habitación de trucos"
+        ]
+    },
+    {
+        "id": "TORKOAL-5ea24c5a",
+        "pokemon": "Torkoal",
+        "ability": "Sequía",
+        "item": "Carbón",
+        "moves": [
+            "Erupción",
+            "Bola meteorológica",
+            "Energía de la Tierra",
+            "Proteger"
+        ]
+    },
+    {
+        "id": "KINGAMBIT-b1c12fb6",
+        "pokemon": "Kingambit",
+        "ability": "Desafiante",
+        "item": "Gafas negras",
+        "moves": [
+            "Inclinación Hendidura",
+            "Sucker Punch",
+            "Iron Head",
+            "Low Kick"
+        ]
+    },
+    {
+        "id": "INCINEROAR-7e21c6cd",
+        "pokemon": "Incineroar",
+        "ability": "Intimidate",
+        "item": "Chople Berry",
+        "moves": [
+            "Fake Out",
+            "Flare Blitz",
+            "Will-O-Wisp",
+            "Parting Shot"
+        ]
+    },
+    {
+        "id": "MILOTIC-aa6c996b",
+        "pokemon": "Milotic",
+        "ability": "Competitive",
+        "item": "Leftovers",
+        "moves": [
+            "Muddy Water",
+            "Hypnosis",
+            "Recover",
+            "Coil"
+        ]
+    },
+    {
+        "id": "SCIZOR-1aeb46b6",
+        "pokemon": "Scizor",
+        "ability": "Technician",
+        "item": "Scizorite",
+        "moves": [
+            "Bullet Punch",
+            "Close Combat",
+            "Swords Dance",
+            "Protect"
+        ]
+    },
+    {
+        "id": "MEGANIUM-61113c2e",
+        "pokemon": "Meganium",
+        "ability": "Overgrow",
+        "item": "Meganiumite",
+        "moves": [
+            "Solar Beam",
+            "Weather Ball",
+            "Dazzling Gleam",
+            "Protect"
+        ]
+    },
+    {
+        "id": "PELIPPER-99030bb4",
+        "pokemon": "Pelipper",
+        "ability": "Drizzle",
+        "item": "Focus Sash",
+        "moves": [
+            "Hurricane",
+            "Weather Ball",
+            "Tailwind",
+            "Protect"
+        ]
+    },
+    {
+        "id": "GARCHOMP-ca6aa4b1",
+        "pokemon": "Garchomp",
+        "ability": "Rough Skin",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Rock Slide",
+            "Stomping Tantrum",
+            "Dragon Claw",
+            "Protect"
+        ]
+    },
+    {
+        "id": "INCINEROAR-5edc8073",
+        "pokemon": "Incineroar",
+        "ability": "Intimidate",
+        "item": "Passho Berry",
+        "moves": [
+            "Flare Blitz",
+            "Throat Chop",
+            "Parting Shot",
+            "Fake Out"
+        ]
+    },
+    {
+        "id": "FLOETTE-ETERNAL-51eaaad4",
+        "pokemon": "FLOETTE-ETERNAL",
+        "ability": "Fairy Aura",
+        "item": "Floettite",
+        "moves": [
+            "Moonblast",
+            "Dazzling Gleam",
+            "Calm Mind",
+            "Protect"
+        ]
+    },
+    {
+        "id": "INCINEROAR-9dfb465d",
+        "pokemon": "Incineroar",
+        "ability": "Intimidate",
+        "item": "Chople Berry",
+        "moves": [
+            "Fake Out",
+            "Helping Hand",
+            "Parting Shot",
+            "Flare Blitz"
+        ]
+    },
+    {
+        "id": "SNEASLER-0818e864",
+        "pokemon": "Sneasler",
+        "ability": "Poison Touch",
+        "item": "White Herb",
+        "moves": [
+            "Fake Out",
+            "Dire Claw",
+            "Close Combat",
+            "Rock Tomb"
+        ]
+    },
+    {
+        "id": "INCINEROAR-d8921634",
+        "pokemon": "Incineroar",
+        "ability": "Intimidate",
+        "item": "Chople Berry",
+        "moves": [
+            "Flare Blitz",
+            "Parting Shot",
+            "Fake Out",
+            "Throat Chop"
+        ]
+    },
+    {
+        "id": "CORVIKNIGHT-b38a3d83",
+        "pokemon": "Corviknight",
+        "ability": "Mirror Armor",
+        "item": "Leftovers",
+        "moves": [
+            "Iron Head",
+            "Brave Bird",
+            "Roost",
+            "Bulk Up"
+        ]
+    },
+    {
+        "id": "GARCHOMP-bc561c67",
+        "pokemon": "Garchomp",
+        "ability": "Rough Skin",
+        "item": "Garchompite",
+        "moves": [
+            "Earthquake",
+            "Stomping Tantrum",
+            "Protect",
+            "Rock Slide"
+        ]
+    },
+    {
+        "id": "FLOETTE-ETERNAL-54784e4c",
+        "pokemon": "FLOETTE-ETERNAL",
+        "ability": "Flower Veil",
+        "item": "Floettite",
+        "moves": [
+            "Moonblast",
+            "Draining Kiss",
+            "Protect",
+            "Calm Mind"
+        ]
+    },
+    {
+        "id": "SNEASLER-1e41714a",
+        "pokemon": "Sneasler",
+        "ability": "Pressure",
+        "item": "Focus Sash",
+        "moves": [
+            "Fake Out",
+            "Close Combat",
+            "Coaching",
+            "Dire Claw"
+        ]
+    },
+    {
+        "id": "SINISTCHA-5da4543f",
+        "pokemon": "Sinistcha",
+        "ability": "Hospitality",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Matcha Gotcha",
+            "Protect",
+            "Rage Powder",
+            "Trick Room"
+        ]
+    },
+    {
+        "id": "FLOETTE-ETERNAL-12394c99",
+        "pokemon": "FLOETTE-ETERNAL",
+        "ability": "Flower Veil",
+        "item": "Floettite",
+        "moves": [
+            "Protect",
+            "Moonblast",
+            "Dazzling Gleam",
+            "Calm Mind"
+        ]
+    },
+    {
+        "id": "GARCHOMP-07728100",
+        "pokemon": "Garchomp",
+        "ability": "Rough Skin",
+        "item": "Soft Sand",
+        "moves": [
+            "Protect",
+            "Earthquake",
+            "Stomping Tantrum",
+            "Rock Slide"
+        ]
+    },
+    {
+        "id": "INCINEROAR-5f7082d2",
+        "pokemon": "Incineroar",
+        "ability": "Intimidate",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Flare Blitz",
+            "Throat Chop",
+            "Fake Out",
+            "Parting Shot"
+        ]
+    },
+    {
+        "id": "MILOTIC-ade7cf9a",
+        "pokemon": "Milotic",
+        "ability": "Competitive",
+        "item": "Leftovers",
+        "moves": [
+            "Protect",
+            "Scald",
+            "Ice Beam",
+            "Life Dew"
+        ]
+    },
+    {
+        "id": "MAUSHOLD-4ad97bbb",
+        "pokemon": "Maushold",
+        "ability": "Friend Guard",
+        "item": "Chople Berry",
+        "moves": [
+            "Super Fang",
+            "Follow Me",
+            "Taunt",
+            "Protect"
+        ]
+    },
+    {
+        "id": "INCINEROAR-bd85dc55",
+        "pokemon": "Incineroar",
+        "ability": "Intimidate",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Fake Out",
+            "Flare Blitz",
+            "Darkest Lariat",
+            "Parting Shot"
+        ]
+    },
+    {
+        "id": "CORVIKNIGHT-ba50d063",
+        "pokemon": "Corviknight",
+        "ability": "Mirror Armor",
+        "item": "Leftovers",
+        "moves": [
+            "Brave Bird",
+            "Tailwind",
+            "Bulk Up",
+            "Roost"
+        ]
+    },
+    {
+        "id": "ARCHALUDON-5454ed7d",
+        "pokemon": "Archaludon",
+        "ability": "Stamina",
+        "item": "Leftovers",
+        "moves": [
+            "Electro Shot",
+            "Draco Meteor",
+            "Flash Cannon",
+            "Protect"
+        ]
+    },
+    {
+        "id": "PELIPPER-ba22a102",
+        "pokemon": "Pelipper",
+        "ability": "Drizzle",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Weather Ball",
+            "Hurricane",
+            "Helping Hand",
+            "Tailwind"
+        ]
+    },
+    {
+        "id": "INCINEROAR-5592bb71",
+        "pokemon": "Incineroar",
+        "ability": "Intimidate",
+        "item": "Chople Berry",
+        "moves": [
+            "Darkest Lariat",
+            "Flare Blitz",
+            "Parting Shot",
+            "Fake Out"
+        ]
+    },
+    {
+        "id": "AEGISLASH-b7719a40",
+        "pokemon": "Aegislash",
+        "ability": "Stance Change",
+        "item": "Colbur Berry",
+        "moves": [
+            "Poltergeist",
+            "Shadow Sneak",
+            "Sacred Sword",
+            "King's Shield"
+        ]
+    },
+    {
+        "id": "ROTOMWASHROTOM-ecb1af46",
+        "pokemon": "Rotom [Wash Rotom]",
+        "ability": "Levitate",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Hydro Pump",
+            "Volt Switch",
+            "Will-O-Wisp",
+            "Protect"
+        ]
+    },
+    {
+        "id": "GENGAR-e718fe56",
+        "pokemon": "Gengar",
+        "ability": "Cursed Body",
+        "item": "Gengarite",
+        "moves": [
+            "Sludge Bomb",
+            "Shadow Ball",
+            "Disable",
+            "Protect"
+        ]
+    },
+    {
+        "id": "GARCHOMP-cc23c107",
+        "pokemon": "Garchomp",
+        "ability": "Rough Skin",
+        "item": "Choice Scarf",
+        "moves": [
+            "Earthquake",
+            "Stomping Tantrum",
+            "Rock Slide",
+            "Rock Tomb"
+        ]
+    },
+    {
+        "id": "NINETALESALOLANFORM-f0449429",
+        "pokemon": "Ninetales [Alolan Form]",
+        "ability": "Snow Warning",
+        "item": "Focus Sash",
+        "moves": [
+            "Blizzard",
+            "Freeze-Dry",
+            "Encore",
+            "Protect"
+        ]
+    },
+    {
+        "id": "GARCHOMP-3090a58b",
+        "pokemon": "Garchomp",
+        "ability": "Rough Skin",
+        "item": "Dragon Fang",
+        "moves": [
+            "Scale Shot",
+            "Earthquake",
+            "Stomping Tantrum",
+            "Protect"
+        ]
+    },
+    {
+        "id": "ROTOMWASHROTOM-7eed556d",
+        "pokemon": "Rotom [Wash Rotom]",
+        "ability": "Levitate",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Thunderbolt",
+            "Hydro Pump",
+            "Nasty Plot",
+            "Protect"
+        ]
+    },
+    {
+        "id": "GARCHOMP-1ac32e53",
+        "pokemon": "Garchomp",
+        "ability": "Rough Skin",
+        "item": "Soft Sand",
+        "moves": [
+            "Earthquake",
+            "Dragon Claw",
+            "Rock Slide",
+            "Protect"
+        ]
+    },
+    {
+        "id": "TALONFLAME-d457aa35",
+        "pokemon": "Talonflame",
+        "ability": "Gale Wings",
+        "item": "Sharp Beak",
+        "moves": [
+            "Brave Bird",
+            "Will-O-Wisp",
+            "Tailwind",
+            "Protect"
+        ]
+    },
+    {
+        "id": "KINGAMBIT-01146a9b",
+        "pokemon": "Kingambit",
+        "ability": "Defiant",
+        "item": "Black Glasses",
+        "moves": [
+            "Kowtow Cleave",
+            "Sucker Punch",
+            "Low Kick",
+            "Protect"
+        ]
+    },
+    {
+        "id": "MAUSHOLD-3065761a",
+        "pokemon": "Maushold",
+        "ability": "Friend Guard",
+        "item": "Focus Sash",
+        "moves": [
+            "Super Fang",
+            "Follow Me",
+            "Helping Hand",
+            "Protect"
+        ]
+    },
+    {
+        "id": "KINGAMBIT-9418473e",
+        "pokemon": "Kingambit",
+        "ability": "Defiant",
+        "item": "Chople Berry",
+        "moves": [
+            "Kowtow Cleave",
+            "Sucker Punch",
+            "Low Kick",
+            "Iron Head"
+        ]
+    },
+    {
+        "id": "TALONFLAME-b9ac60f4",
+        "pokemon": "Talonflame",
+        "ability": "Gale Wings",
+        "item": "Sin Objeto",
+        "moves": [
+            "Acrobatics",
+            "Flare Blitz",
+            "Tailwind",
+            "Protect"
+        ]
+    },
+    {
+        "id": "KOMMOO-9013c966",
+        "pokemon": "Kommo-o",
+        "ability": "Soundproof",
+        "item": "Leftovers",
+        "moves": [
+            "Clanging Scales",
+            "Aura Sphere",
+            "Clangorous Soul",
+            "Protect"
+        ]
+    },
+    {
+        "id": "SCOVILLAIN-2276dbc3",
+        "pokemon": "Scovillain",
+        "ability": "Moody",
+        "item": "Scovillainite",
+        "moves": [
+            "Overheat",
+            "Leech Seed",
+            "Rage Powder",
+            "Protect"
+        ]
+    },
+    {
+        "id": "BASCULEGION-b9e291d9",
+        "pokemon": "Basculegion",
+        "ability": "Adaptability",
+        "item": "Colbur Berry",
+        "moves": [
+            "Wave Crash",
+            "Aqua Jet",
+            "Last Respects",
+            "Protect"
+        ]
+    },
+    {
+        "id": "KANGASKHAN-5c0c9e69",
+        "pokemon": "Kangaskhan",
+        "ability": "Scrappy",
+        "item": "Kangaskhanite",
+        "moves": [
+            "Double-Edge",
+            "Sucker Punch",
+            "Drain Punch",
+            "Fake Out"
+        ]
+    },
+    {
+        "id": "BASCULEGION-c34f2bb2",
+        "pokemon": "Basculegion",
+        "ability": "Swift Swim",
+        "item": "Mystic Water",
+        "moves": [
+            "Wave Crash",
+            "Aqua Jet",
+            "Last Respects",
+            "Protect"
+        ]
+    },
+    {
+        "id": "GENGAR-878ffdab",
+        "pokemon": "Gengar",
+        "ability": "Cursed Body",
+        "item": "Gengarite",
+        "moves": [
+            "Shadow Ball",
+            "Icy Wind",
+            "Sludge Bomb",
+            "Protect"
+        ]
+    },
+    {
+        "id": "ARCHALUDON-5c3b5200",
+        "pokemon": "Archaludon",
+        "ability": "Stamina",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Electro Shot",
+            "Dragon Pulse",
+            "Flash Cannon",
+            "Protect"
+        ]
+    },
+    {
+        "id": "SINISTCHA-5bc5a56f",
+        "pokemon": "Sinistcha",
+        "ability": "Hospitality",
+        "item": "Colbur Berry",
+        "moves": [
+            "Matcha Gotcha",
+            "Rage Powder",
+            "Strength Sap",
+            "Trick Room"
+        ]
+    },
+    {
+        "id": "INCINEROAR-9ac419aa",
+        "pokemon": "Incineroar",
+        "ability": "Intimidate",
+        "item": "Lum Berry",
+        "moves": [
+            "Throat Chop",
+            "Taunt",
+            "Parting Shot",
+            "Fake Out"
+        ]
+    },
+    {
+        "id": "ARCANINEHISUIANFORM-ebb00b04",
+        "pokemon": "Arcanine [Hisuian Form]",
+        "ability": "Intimidate",
+        "item": "Lum Berry",
+        "moves": [
+            "Flare Blitz",
+            "Rock Slide",
+            "Protect",
+            "Extreme Speed"
+        ]
+    },
+    {
+        "id": "ROTOMWASHROTOM-f23559ee",
+        "pokemon": "Rotom [Wash Rotom]",
+        "ability": "Levitate",
+        "item": "Choice Scarf",
+        "moves": [
+            "Thunderbolt",
+            "Hydro Pump",
+            "Volt Switch",
+            "Electroweb"
+        ]
+    },
+    {
+        "id": "SINISTCHA-cb0bdbfa",
+        "pokemon": "Sinistcha",
+        "ability": "Hospitality",
+        "item": "Occa Berry",
+        "moves": [
+            "Matcha Gotcha",
+            "Trick Room",
+            "Imprison",
+            "Rage Powder"
+        ]
+    },
+    {
+        "id": "PALAFIN-d4e2b270",
+        "pokemon": "Palafin",
+        "ability": "Zero to Hero",
+        "item": "Mystic Water",
+        "moves": [
+            "Jet Punch",
+            "Wave Crash",
+            "Ice Punch",
+            "Protect"
+        ]
+    },
+    {
+        "id": "INCINEROAR-bdf01b36",
+        "pokemon": "Incineroar",
+        "ability": "Intimidate",
+        "item": "Leftovers",
+        "moves": [
+            "Fake Out",
+            "Parting Shot",
+            "Throat Chop",
+            "Flare Blitz"
+        ]
+    },
+    {
+        "id": "SINISTCHA-e8fd79b0",
+        "pokemon": "Sinistcha",
+        "ability": "Hospitality",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Matcha Gotcha",
+            "Rage Powder",
+            "Protect",
+            "Life Dew"
+        ]
+    },
+    {
+        "id": "GALLADE-ce5d62f7",
+        "pokemon": "Gallade",
+        "ability": "Justified",
+        "item": "Galladite",
+        "moves": [
+            "Protect",
+            "Sacred Sword",
+            "Psycho Cut",
+            "Knock Off"
+        ]
+    },
+    {
+        "id": "KLEFKI-b2dee0dc",
+        "pokemon": "Klefki",
+        "ability": "Prankster",
+        "item": "Occa Berry",
+        "moves": [
+            "Dazzling Gleam",
+            "Light Screen",
+            "Sunny Day",
+            "Reflect"
+        ]
+    },
+    {
+        "id": "TYRANITAR-9f9fd8ff",
+        "pokemon": "Tyranitar",
+        "ability": "Sand Stream",
+        "item": "Tyranitarite",
+        "moves": [
+            "Rock Slide",
+            "Knock Off",
+            "Low Kick",
+            "Protect"
+        ]
+    },
+    {
+        "id": "ROTOMHEATROTOM-c64933a2",
+        "pokemon": "Rotom [Heat Rotom]",
+        "ability": "Levitate",
+        "item": "Passho Berry",
+        "moves": [
+            "Overheat",
+            "Thunderbolt",
+            "Volt Switch",
+            "Protect"
+        ]
+    },
+    {
+        "id": "GYARADOS-aeb45ba5",
+        "pokemon": "Gyarados",
+        "ability": "Intimidate",
+        "item": "Lum Berry",
+        "moves": [
+            "Waterfall",
+            "Thunder Wave",
+            "Helping Hand",
+            "Taunt"
+        ]
+    },
+    {
+        "id": "SINISTCHA-fbebcf4f",
+        "pokemon": "Sinistcha",
+        "ability": "Hospitality",
+        "item": "Leftovers",
+        "moves": [
+            "Matcha Gotcha",
+            "Trick Room",
+            "Rage Powder",
+            "Life Dew"
+        ]
+    },
+    {
+        "id": "TYRANITAR-65ef61bd",
+        "pokemon": "Tyranitar",
+        "ability": "Sand Stream",
+        "item": "Tyranitarite",
+        "moves": [
+            "Rock Slide",
+            "Knock Off",
+            "Protect",
+            "Curse"
+        ]
+    },
+    {
+        "id": "EXCADRILL-5b9939a9",
+        "pokemon": "Excadrill",
+        "ability": "Sand Rush",
+        "item": "Focus Sash",
+        "moves": [
+            "Protect",
+            "Earthquake",
+            "Iron Head",
+            "High Horsepower"
+        ]
+    },
+    {
+        "id": "DELPHOX-04573163",
+        "pokemon": "Delphox",
+        "ability": "Blaze",
+        "item": "Delphoxite",
+        "moves": [
+            "Heat Wave",
+            "Psychic",
+            "Calm Mind",
+            "Protect"
+        ]
+    },
+    {
+        "id": "AERODACTYL-73f64298",
+        "pokemon": "Aerodactyl",
+        "ability": "Unnerve",
+        "item": "Aerodactylite",
+        "moves": [
+            "Rock Slide",
+            "Dual Wingbeat",
+            "Tailwind",
+            "Wide Guard"
+        ]
+    },
+    {
+        "id": "SNEASLER-d471d661",
+        "pokemon": "Sneasler",
+        "ability": "Unburden",
+        "item": "White Herb",
+        "moves": [
+            "Gunk Shot",
+            "Close Combat",
+            "Throat Chop",
+            "Fake Out"
+        ]
+    },
+    {
+        "id": "KINGAMBIT-eb424fa6",
+        "pokemon": "Kingambit",
+        "ability": "Defiant",
+        "item": "Focus Sash",
+        "moves": [
+            "Kowtow Cleave",
+            "Sucker Punch",
+            "Iron Head",
+            "Protect"
+        ]
+    },
+    {
+        "id": "AERODACTYL-6346ed4e",
+        "pokemon": "Aerodactyl",
+        "ability": "Unnerve",
+        "item": "Aerodactylite",
+        "moves": [
+            "Protect",
+            "Dual Wingbeat",
+            "Rock Slide",
+            "Wide Guard"
+        ]
+    },
+    {
+        "id": "NINETALESALOLANFORM-2fa39728",
+        "pokemon": "Ninetales [Alolan Form]",
+        "ability": "Snow Warning",
+        "item": "Focus Sash",
+        "moves": [
+            "Protect",
+            "Blizzard",
+            "Encore",
+            "Disable"
+        ]
+    },
+    {
+        "id": "SINISTCHA-f36622ba",
+        "pokemon": "Sinistcha",
+        "ability": "Hospitality",
+        "item": "Occa Berry",
+        "moves": [
+            "Protect",
+            "Matcha Gotcha",
+            "Rage Powder",
+            "Life Dew"
+        ]
+    },
+    {
+        "id": "AERODACTYL-a2abb934",
+        "pokemon": "Aerodactyl",
+        "ability": "Unnerve",
+        "item": "Focus Sash",
+        "moves": [
+            "Rock Slide",
+            "Dual Wingbeat",
+            "Tailwind",
+            "Wide Guard"
+        ]
+    },
+    {
+        "id": "TSAREENA-6bd33f65",
+        "pokemon": "Tsareena",
+        "ability": "Queenly Majesty",
+        "item": "Choice Scarf",
+        "moves": [
+            "Power Whip",
+            "Triple Axel",
+            "U-turn",
+            "High Jump Kick"
+        ]
+    },
+    {
+        "id": "SNEASLER-2a5c55b6",
+        "pokemon": "Sneasler",
+        "ability": "Unburden",
+        "item": "White Herb",
+        "moves": [
+            "Dire Claw",
+            "Close Combat",
+            "Fake Out",
+            "Rock Tomb"
+        ]
+    },
+    {
+        "id": "CHANDELURE-4ffb11a2",
+        "pokemon": "Chandelure",
+        "ability": "Flash Fire",
+        "item": "Chandelurite",
+        "moves": [
+            "Shadow Ball",
+            "Heat Wave",
+            "Trick Room",
+            "Protect"
+        ]
+    },
+    {
+        "id": "CHARIZARD-1e6583ea",
+        "pokemon": "Charizard",
+        "ability": "Solar Power",
+        "item": "Charizardite Y",
+        "moves": [
+            "Heat Wave",
+            "Overheat",
+            "Solar Beam",
+            "Protect"
+        ]
+    },
+    {
+        "id": "GARCHOMP-1859fa90",
+        "pokemon": "Garchomp",
+        "ability": "Rough Skin",
+        "item": "Choice Scarf",
+        "moves": [
+            "Earthquake",
+            "Rock Slide",
+            "Dragon Claw",
+            "Poison Jab"
+        ]
+    },
+    {
+        "id": "AERODACTYL-6fceaa0d",
+        "pokemon": "Aerodactyl",
+        "ability": "Rock Head",
+        "item": "Focus Sash",
+        "moves": [
+            "Dual Wingbeat",
+            "Rock Slide",
+            "Tailwind",
+            "Protect"
+        ]
+    },
+    {
+        "id": "CHARIZARD-d262b562",
+        "pokemon": "Charizard",
+        "ability": "Blaze",
+        "item": "Charizardite Y",
+        "moves": [
+            "Heat Wave",
+            "Overheat",
+            "Solar Beam",
+            "Protect"
+        ]
+    },
+    {
+        "id": "FARIGIRAF-169afb94",
+        "pokemon": "Farigiraf",
+        "ability": "Armor Tail",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Hyper Voice",
+            "Psychic",
+            "Trick Room",
+            "Imprison"
+        ]
+    },
+    {
+        "id": "KANGASKHAN-11d81da1",
+        "pokemon": "Kangaskhan",
+        "ability": "Scrappy",
+        "item": "Kangaskhanite",
+        "moves": [
+            "Double-Edge",
+            "Fake Out",
+            "Hammer Arm",
+            "Ice Punch"
+        ]
+    },
+    {
+        "id": "FARIGIRAF-ebc98ba9",
+        "pokemon": "Farigiraf",
+        "ability": "Armor Tail",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Psychic",
+            "Hyper Voice",
+            "Trick Room",
+            "Protect"
+        ]
+    },
+    {
+        "id": "TORKOAL-163b20ee",
+        "pokemon": "Torkoal",
+        "ability": "Drought",
+        "item": "Charcoal",
+        "moves": [
+            "Weather Ball",
+            "Eruption",
+            "Heat Wave",
+            "Protect"
+        ]
+    },
+    {
+        "id": "SNEASLER-541088ed",
+        "pokemon": "Sneasler",
+        "ability": "Unburden",
+        "item": "White Herb",
+        "moves": [
+            "Close Combat",
+            "Dire Claw",
+            "Fake Out",
+            "U-turn"
+        ]
+    },
+    {
+        "id": "PRIMARINA-2ac74908",
+        "pokemon": "Primarina",
+        "ability": "Liquid Voice",
+        "item": "Mystic Water",
+        "moves": [
+            "Hyper Voice",
+            "Moonblast",
+            "Substitute",
+            "Protect"
+        ]
+    },
+    {
+        "id": "CHARIZARD-cf1b6732",
+        "pokemon": "Charizard",
+        "ability": "Blaze",
+        "item": "Charizardite X",
+        "moves": [
+            "Flare Blitz",
+            "Dragon Claw",
+            "Dragon Dance",
+            "Protect"
+        ]
+    },
+    {
+        "id": "MILOTIC-0a957cf3",
+        "pokemon": "Milotic",
+        "ability": "Competitive",
+        "item": "Leftovers",
+        "moves": [
+            "Scald",
+            "Icy Wind",
+            "Recover",
+            "Protect"
+        ]
+    },
+    {
+        "id": "SINISTCHA-4c30d178",
+        "pokemon": "Sinistcha",
+        "ability": "Hospitality",
+        "item": "Occa Berry",
+        "moves": [
+            "Matcha Gotcha",
+            "Life Dew",
+            "Rage Powder",
+            "Trick Room"
+        ]
+    },
+    {
+        "id": "KINGAMBIT-ae5cf60e",
+        "pokemon": "Kingambit",
+        "ability": "Defiant",
+        "item": "Sin Objeto",
+        "moves": [
+            "Kowtow Cleave",
+            "Sucker Punch",
+            "Swords Dance",
+            "Protect"
+        ]
+    },
+    {
+        "id": "FLOETTE-ETERNAL-e400c642",
+        "pokemon": "FLOETTE-ETERNAL",
+        "ability": "Symbiosis",
+        "item": "Floettite",
+        "moves": [
+            "Moonblast",
+            "Dazzling Gleam",
+            "Light of Ruin",
+            "Protect"
+        ]
+    },
+    {
+        "id": "FLOETTE-ETERNAL-990889d7",
+        "pokemon": "FLOETTE-ETERNAL",
+        "ability": "Flower Veil",
+        "item": "Floettite",
+        "moves": [
+            "Draining Kiss",
+            "Dazzling Gleam",
+            "Calm Mind",
+            "Protect"
+        ]
+    },
+    {
+        "id": "DELPHOX-09eeaeb4",
+        "pokemon": "Delphox",
+        "ability": "Levitate",
+        "item": "Delphoxite",
+        "moves": [
+            "Heat Wave",
+            "Psychic",
+            "Will-O-Wisp",
+            "Protect"
+        ]
+    },
+    {
+        "id": "FLOETTE-ETERNAL-1f644e4e",
+        "pokemon": "FLOETTE-ETERNAL",
+        "ability": "Flower Veil",
+        "item": "Floettite",
+        "moves": [
+            "Dazzling Gleam",
+            "Light of Ruin",
+            "Calm Mind",
+            "Protect"
+        ]
+    },
+    {
+        "id": "ROTOMWASHROTOM-764ba411",
+        "pokemon": "Rotom [Wash Rotom]",
+        "ability": "Levitate",
+        "item": "Leftovers",
+        "moves": [
+            "Hydro Pump",
+            "Thunderbolt",
+            "Will-O-Wisp",
+            "Protect"
+        ]
+    },
+    {
+        "id": "GARCHOMP-286dad9a",
+        "pokemon": "Garchomp",
+        "ability": "Sand Veil",
+        "item": "Lum Berry",
+        "moves": [
+            "Dragon Claw",
+            "Rock Slide",
+            "Earthquake",
+            "Protect"
+        ]
+    },
+    {
+        "id": "FROSLASS-ffbc44c9",
+        "pokemon": "Froslass",
+        "ability": "Snow Cloak",
+        "item": "Froslassite",
+        "moves": [
+            "Blizzard",
+            "Shadow Ball",
+            "Protect",
+            "Aurora Veil"
+        ]
+    },
+    {
+        "id": "GARCHOMP-e14c627a",
+        "pokemon": "Garchomp",
+        "ability": "Rough Skin",
+        "item": "Lum Berry",
+        "moves": [
+            "Earthquake",
+            "Dragon Claw",
+            "Stomping Tantrum",
+            "Protect"
+        ]
+    },
+    {
+        "id": "ROTOMWASHROTOM-ca9dfc41",
+        "pokemon": "Rotom [Wash Rotom]",
+        "ability": "Levitate",
+        "item": "Choice Scarf",
+        "moves": [
+            "Hydro Pump",
+            "Electroweb",
+            "Volt Switch",
+            "Will-O-Wisp"
+        ]
+    },
+    {
+        "id": "TALONFLAME-02a5286a",
+        "pokemon": "Talonflame",
+        "ability": "Gale Wings",
+        "item": "Sharp Beak",
+        "moves": [
+            "Brave Bird",
+            "Flare Blitz",
+            "Tailwind",
+            "Protect"
+        ]
+    },
+    {
+        "id": "DELPHOX-96bfb90a",
+        "pokemon": "Delphox",
+        "ability": "Blaze",
+        "item": "Delphoxite",
+        "moves": [
+            "Heat Wave",
+            "Psychic",
+            "Encore",
+            "Protect"
+        ]
+    },
+    {
+        "id": "ARCANINEHISUIANFORM-b1eb87dc",
+        "pokemon": "Arcanine [Hisuian Form]",
+        "ability": "Intimidate",
+        "item": "Choice Scarf",
+        "moves": [
+            "Rock Slide",
+            "Close Combat",
+            "Flare Blitz",
+            "Extreme Speed"
+        ]
+    },
+    {
+        "id": "PELIPPER-8fed1bb8",
+        "pokemon": "Pelipper",
+        "ability": "Drizzle",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Weather Ball",
+            "Hurricane",
+            "Tailwind",
+            "Protect"
+        ]
+    },
+    {
+        "id": "ROTOMWASHROTOM-25cc22c0",
+        "pokemon": "Rotom [Wash Rotom]",
+        "ability": "Levitate",
+        "item": "Leftovers",
+        "moves": [
+            "Thunderbolt",
+            "Hydro Pump",
+            "Protect",
+            "Electroweb"
+        ]
+    },
+    {
+        "id": "QUAQUAVAL-b04ac0f1",
+        "pokemon": "Quaquaval",
+        "ability": "Moxie",
+        "item": "Focus Sash",
+        "moves": [
+            "Aqua Step",
+            "Close Combat",
+            "Protect",
+            "Ice Spinner"
+        ]
+    },
+    {
+        "id": "ARCHALUDON-a29a7608",
+        "pokemon": "Archaludon",
+        "ability": "Stamina",
+        "item": "Leftovers",
+        "moves": [
+            "Electro Shot",
+            "Dragon Pulse",
+            "Flash Cannon",
+            "Protect"
+        ]
+    },
+    {
+        "id": "SABLEYE-1d7d3f6e",
+        "pokemon": "Sableye",
+        "ability": "Prankster",
+        "item": "Roseli Berry",
+        "moves": [
+            "Will-O-Wisp",
+            "Rain Dance",
+            "Encore",
+            "Disable"
+        ]
+    },
+    {
+        "id": "KINGAMBIT-e68779bb",
+        "pokemon": "Kingambit",
+        "ability": "Defiant",
+        "item": "Focus Sash",
+        "moves": [
+            "Sucker Punch",
+            "Protect",
+            "Low Kick",
+            "Iron Head"
+        ]
+    },
+    {
+        "id": "DRAGONITE-8de2eee5",
+        "pokemon": "Dragonite",
+        "ability": "Multiscale",
+        "item": "Dragoninite",
+        "moves": [
+            "Draco Meteor",
+            "Hurricane",
+            "Thunder",
+            "Protect"
+        ]
+    },
+    {
+        "id": "PELIPPER-b166a963",
+        "pokemon": "Pelipper",
+        "ability": "Keen Eye",
+        "item": "Focus Sash",
+        "moves": [
+            "Weather Ball",
+            "Hurricane",
+            "Protect",
+            "Tailwind"
+        ]
+    },
+    {
+        "id": "DRAGONITE-7a26f3ab",
+        "pokemon": "Dragonite",
+        "ability": "Inner Focus",
+        "item": "Dragoninite",
+        "moves": [
+            "Dragon Pulse",
+            "Hurricane",
+            "Tailwind",
+            "Protect"
+        ]
+    },
+    {
+        "id": "ARCHALUDON-12d2b531",
+        "pokemon": "Archaludon",
+        "ability": "Stamina",
+        "item": "Chople Berry",
+        "moves": [
+            "Electro Shot",
+            "Dragon Pulse",
+            "Aura Sphere",
+            "Protect"
+        ]
+    },
+    {
+        "id": "TALONFLAME-4980fa42",
+        "pokemon": "Talonflame",
+        "ability": "Gale Wings",
+        "item": "Charti Berry",
+        "moves": [
+            "Brave Bird",
+            "Tailwind",
+            "Will-O-Wisp",
+            "Protect"
+        ]
+    },
+    {
+        "id": "PELIPPER-ec2b967f",
+        "pokemon": "Pelipper",
+        "ability": "Drizzle",
+        "item": "Choice Scarf",
+        "moves": [
+            "Weather Ball",
+            "Hurricane",
+            "Muddy Water",
+            "Icy Wind"
+        ]
+    },
+    {
+        "id": "PELIPPER-aa543255",
+        "pokemon": "Pelipper",
+        "ability": "Drizzle",
+        "item": "Focus Sash",
+        "moves": [
+            "Weather Ball",
+            "Hurricane",
+            "Wide Guard",
+            "Tailwind"
+        ]
+    },
+    {
+        "id": "SCIZOR-fff96871",
+        "pokemon": "Scizor",
+        "ability": "Technician",
+        "item": "Scizorite",
+        "moves": [
+            "Bullet Punch",
+            "Dual Wingbeat",
+            "Swords Dance",
+            "Protect"
+        ]
+    },
+    {
+        "id": "DRAGONITE-54b2eae5",
+        "pokemon": "Dragonite",
+        "ability": "Multiscale",
+        "item": "Dragoninite",
+        "moves": [
+            "Hurricane",
+            "Dragon Pulse",
+            "Weather Ball",
+            "Protect"
+        ]
+    },
+    {
+        "id": "DRAGONITE-c80af0a4",
+        "pokemon": "Dragonite",
+        "ability": "Multiscale",
+        "item": "Dragoninite",
+        "moves": [
+            "Dragon Pulse",
+            "Hurricane",
+            "Tailwind",
+            "Protect"
+        ]
+    },
+    {
+        "id": "PELIPPER-f8741eee",
+        "pokemon": "Pelipper",
+        "ability": "Drizzle",
+        "item": "Focus Sash",
+        "moves": [
+            "Weather Ball",
+            "Hurricane",
+            "Wide Guard",
+            "Protect"
+        ]
+    },
+    {
+        "id": "ORTHWORM-a1d7ad16",
+        "pokemon": "Orthworm",
+        "ability": "Earth Eater",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Body Press",
+            "Shed Tail",
+            "Helping Hand",
+            "Protect"
+        ]
+    },
+    {
+        "id": "PELIPPER-0dd7f698",
+        "pokemon": "Pelipper",
+        "ability": "Drizzle",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Weather Ball",
+            "Hurricane",
+            "Wide Guard",
+            "Protect"
+        ]
+    },
+    {
+        "id": "ARCHALUDON-fcdb38a4",
+        "pokemon": "Archaludon",
+        "ability": "Stamina",
+        "item": "Leftovers",
+        "moves": [
+            "Electro Shot",
+            "Snarl",
+            "Dragon Pulse",
+            "Protect"
+        ]
+    },
+    {
+        "id": "TSAREENA-0b1f873a",
+        "pokemon": "Tsareena",
+        "ability": "Queenly Majesty",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Power Whip",
+            "Triple Axel",
+            "Low Kick",
+            "Protect"
+        ]
+    },
+    {
+        "id": "WHIMSICOTT-00ba92d5",
+        "pokemon": "Whimsicott",
+        "ability": "Prankster",
+        "item": "Fairy Feather",
+        "moves": [
+            "Moonblast",
+            "Tailwind",
+            "Protect",
+            "Encore"
+        ]
+    },
+    {
+        "id": "ZOROARKHISUIANFORM-ffe09a58",
+        "pokemon": "Zoroark [Hisuian Form]",
+        "ability": "Illusion",
+        "item": "Choice Scarf",
+        "moves": [
+            "Shadow Ball",
+            "Will-O-Wisp",
+            "Psychic",
+            "Icy Wind"
+        ]
+    },
+    {
+        "id": "ARCANINEHISUIANFORM-ac1b47cb",
+        "pokemon": "Arcanine [Hisuian Form]",
+        "ability": "Rock Head",
+        "item": "Hard Stone",
+        "moves": [
+            "Rock Slide",
+            "Head Smash",
+            "Flare Blitz",
+            "Protect"
+        ]
+    },
+    {
+        "id": "AEGISLASH-486bd5f8",
+        "pokemon": "Aegislash",
+        "ability": "Stance Change",
+        "item": "Focus Sash",
+        "moves": [
+            "King's Shield",
+            "Shadow Sneak",
+            "Poltergeist",
+            "Close Combat"
+        ]
+    },
+    {
+        "id": "CERULEDGE-aa2f543e",
+        "pokemon": "Ceruledge",
+        "ability": "Flash Fire",
+        "item": "Charcoal",
+        "moves": [
+            "Bitter Blade",
+            "Shadow Sneak",
+            "Will-O-Wisp",
+            "Protect"
+        ]
+    },
+    {
+        "id": "WHIMSICOTT-f94d2e17",
+        "pokemon": "Whimsicott",
+        "ability": "Prankster",
+        "item": "Occa Berry",
+        "moves": [
+            "Moonblast",
+            "Tailwind",
+            "Encore",
+            "Protect"
+        ]
+    },
+    {
+        "id": "BLASTOISE-c71d7be6",
+        "pokemon": "Blastoise",
+        "ability": "Rain Dish",
+        "item": "Blastoisinite",
+        "moves": [
+            "Water Spout",
+            "Aura Sphere",
+            "Dark Pulse",
+            "Protect"
+        ]
+    },
+    {
+        "id": "GLIMMORA-55a9f808",
+        "pokemon": "Glimmora",
+        "ability": "Toxic Debris",
+        "item": "Focus Sash",
+        "moves": [
+            "Power Gem",
+            "Sludge Bomb",
+            "Earth Power",
+            "Spiky Shield"
+        ]
+    },
+    {
+        "id": "TSAREENA-ba67e3d8",
+        "pokemon": "Tsareena",
+        "ability": "Queenly Majesty",
+        "item": "Choice Scarf",
+        "moves": [
+            "Trop Kick",
+            "Knock Off",
+            "Triple Axel",
+            "Zen Headbutt"
+        ]
+    },
+    {
+        "id": "DRAGONITE-ada456d4",
+        "pokemon": "Dragonite",
+        "ability": "Inner Focus",
+        "item": "Dragon Fang",
+        "moves": [
+            "Scale Shot",
+            "Extreme Speed",
+            "Tailwind",
+            "Protect"
+        ]
+    },
+    {
+        "id": "INCINEROAR-153774ec",
+        "pokemon": "Incineroar",
+        "ability": "Intimidate",
+        "item": "Chople Berry",
+        "moves": [
+            "Fake Out",
+            "Throat Chop",
+            "Parting Shot",
+            "Protect"
+        ]
+    },
+    {
+        "id": "POLITOED-3a816078",
+        "pokemon": "Politoed",
+        "ability": "Drizzle",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Protect",
+            "Perish Song",
+            "Muddy Water",
+            "Helping Hand"
+        ]
+    },
+    {
+        "id": "WHIMSICOTT-299585c7",
+        "pokemon": "Whimsicott",
+        "ability": "Prankster",
+        "item": "Focus Sash",
+        "moves": [
+            "Protect",
+            "Moonblast",
+            "Tailwind",
+            "Fake Tears"
+        ]
+    },
+    {
+        "id": "KOMMOO-102365c0",
+        "pokemon": "Kommo-o",
+        "ability": "Overcoat",
+        "item": "Dragon Fang",
+        "moves": [
+            "Protect",
+            "Clanging Scales",
+            "Aura Sphere",
+            "Draco Meteor"
+        ]
+    },
+    {
+        "id": "CHARIZARD-376d2f57",
+        "pokemon": "Charizard",
+        "ability": "Blaze",
+        "item": "Charizardite Y",
+        "moves": [
+            "Protect",
+            "Heat Wave",
+            "Weather Ball",
+            "Air Slash"
+        ]
+    },
+    {
+        "id": "WHIMSICOTT-34d6e5b3",
+        "pokemon": "Whimsicott",
+        "ability": "Prankster",
+        "item": "Mental Herb",
+        "moves": [
+            "Moonblast",
+            "Tailwind",
+            "Fake Tears",
+            "Encore"
+        ]
+    },
+    {
+        "id": "INCINEROAR-0050e84f",
+        "pokemon": "Incineroar",
+        "ability": "Intimidate",
+        "item": "Lum Berry",
+        "moves": [
+            "Parting Shot",
+            "Fake Out",
+            "Flare Blitz",
+            "Helping Hand"
+        ]
+    },
+    {
+        "id": "ROTOMWASHROTOM-8e4799ea",
+        "pokemon": "Rotom [Wash Rotom]",
+        "ability": "Levitate",
+        "item": "Magnet",
+        "moves": [
+            "Protect",
+            "Discharge",
+            "Hydro Pump",
+            "Thunderbolt"
+        ]
+    },
+    {
+        "id": "GARCHOMP-4f1ed411",
+        "pokemon": "Garchomp",
+        "ability": "Rough Skin",
+        "item": "Focus Sash",
+        "moves": [
+            "Protect",
+            "Earthquake",
+            "Dragon Claw",
+            "Rock Slide"
+        ]
+    },
+    {
+        "id": "WHIMSICOTT-48575496",
+        "pokemon": "Whimsicott",
+        "ability": "Prankster",
+        "item": "Focus Sash",
+        "moves": [
+            "Encore",
+            "Tailwind",
+            "Sunny Day",
+            "Moonblast"
+        ]
+    },
+    {
+        "id": "TYPHLOSIONHISUIANFORM-906de873",
+        "pokemon": "Typhlosion [Hisuian Form]",
+        "ability": "Blaze",
+        "item": "Choice Scarf",
+        "moves": [
+            "Heat Wave",
+            "Eruption",
+            "Overheat",
+            "Shadow Ball"
+        ]
+    },
+    {
+        "id": "TSAREENA-2deff92b",
+        "pokemon": "Tsareena",
+        "ability": "Queenly Majesty",
+        "item": "Miracle Seed",
+        "moves": [
+            "Protect",
+            "Triple Axel",
+            "Power Whip",
+            "Helping Hand"
+        ]
+    },
+    {
+        "id": "TAUROSPALDEANFORMAQUABREED-533ea1ed",
+        "pokemon": "Tauros [Paldean Form (Aqua Breed)]",
+        "ability": "Intimidate",
+        "item": "Mystic Water",
+        "moves": [
+            "Protect",
+            "Aqua Jet",
+            "Wave Crash",
+            "Close Combat"
+        ]
+    },
+    {
+        "id": "DRAGAPULT-c677872a",
+        "pokemon": "Dragapult",
+        "ability": "Clear Body",
+        "item": "Colbur Berry",
+        "moves": [
+            "Sucker Punch",
+            "Dragon Darts",
+            "Psychic Fangs",
+            "Protect"
+        ]
+    },
+    {
+        "id": "FLOETTE-ETERNAL-2814a31b",
+        "pokemon": "FLOETTE-ETERNAL",
+        "ability": "Flower Veil",
+        "item": "Floettite",
+        "moves": [
+            "Moonblast",
+            "Dazzling Gleam",
+            "Psychic",
+            "Protect"
+        ]
+    },
+    {
+        "id": "TYPHLOSIONHISUIANFORM-c919b91b",
+        "pokemon": "Typhlosion [Hisuian Form]",
+        "ability": "Frisk",
+        "item": "Choice Scarf",
+        "moves": [
+            "Eruption",
+            "Overheat",
+            "Shadow Ball",
+            "Focus Blast"
+        ]
+    },
+    {
+        "id": "WHIMSICOTT-ef2572a4",
+        "pokemon": "Whimsicott",
+        "ability": "Prankster",
+        "item": "Focus Sash",
+        "moves": [
+            "Moonblast",
+            "Tailwind",
+            "Sunny Day",
+            "Protect"
+        ]
+    },
+    {
+        "id": "AERODACTYL-8dbc0b8c",
+        "pokemon": "Aerodactyl",
+        "ability": "Unnerve",
+        "item": "Lum Berry",
+        "moves": [
+            "Rock Slide",
+            "Dual Wingbeat",
+            "Earthquake",
+            "Protect"
+        ]
+    },
+    {
+        "id": "INCINEROAR-4ac1c5eb",
+        "pokemon": "Incineroar",
+        "ability": "Intimidate",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Taunt",
+            "Fake Out",
+            "Flare Blitz",
+            "Parting Shot"
+        ]
+    },
+    {
+        "id": "WHIMSICOTT-360a6aa6",
+        "pokemon": "Whimsicott",
+        "ability": "Prankster",
+        "item": "Focus Sash",
+        "moves": [
+            "Moonblast",
+            "Tailwind",
+            "Encore",
+            "Fake Tears"
+        ]
+    },
+    {
+        "id": "GARCHOMP-a0164de3",
+        "pokemon": "Garchomp",
+        "ability": "Rough Skin",
+        "item": "Choice Scarf",
+        "moves": [
+            "Earthquake",
+            "Stomping Tantrum",
+            "Breaking Swipe",
+            "Rock Slide"
+        ]
+    },
+    {
+        "id": "GARDEVOIR-420f6124",
+        "pokemon": "Gardevoir",
+        "ability": "Telepathy",
+        "item": "Gardevoirite",
+        "moves": [
+            "Hyper Voice",
+            "Mystical Fire",
+            "Protect",
+            "Trick Room"
+        ]
+    },
+    {
+        "id": "WHIMSICOTT-56a57191",
+        "pokemon": "Whimsicott",
+        "ability": "Prankster",
+        "item": "Focus Sash",
+        "moves": [
+            "Moonblast",
+            "Tailwind",
+            "Encore",
+            "Taunt"
+        ]
+    },
+    {
+        "id": "FARIGIRAF-46d0ccc5",
+        "pokemon": "Farigiraf",
+        "ability": "Armor Tail",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Helping Hand",
+            "Psychic",
+            "Trick Room",
+            "Protect"
+        ]
+    },
+    {
+        "id": "SCOVILLAIN-a95aa73f",
+        "pokemon": "Scovillain",
+        "ability": "Moody",
+        "item": "Scovillainite",
+        "moves": [
+            "Overheat",
+            "Giga Drain",
+            "Rage Powder",
+            "Protect"
+        ]
+    },
+    {
+        "id": "CORVIKNIGHT-1541bea4",
+        "pokemon": "Corviknight",
+        "ability": "Mirror Armor",
+        "item": "Leftovers",
+        "moves": [
+            "Brave Bird",
+            "Iron Head",
+            "Bulk Up",
+            "Tailwind"
+        ]
+    },
+    {
+        "id": "INCINEROAR-e3969f27",
+        "pokemon": "Incineroar",
+        "ability": "Intimidate",
+        "item": "Shuca Berry",
+        "moves": [
+            "Fake Out",
+            "Parting Shot",
+            "Flare Blitz",
+            "Will-O-Wisp"
+        ]
+    },
+    {
+        "id": "SINISTCHA-e902e5f7",
+        "pokemon": "Sinistcha",
+        "ability": "Hospitality",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Matcha Gotcha",
+            "Shadow Ball",
+            "Rage Powder",
+            "Trick Room"
+        ]
+    },
+    {
+        "id": "TYRANITAR-7965ccbc",
+        "pokemon": "Tyranitar",
+        "ability": "Sand Stream",
+        "item": "Tyranitarite",
+        "moves": [
+            "Rock Slide",
+            "Crunch",
+            "Dragon Dance",
+            "Protect"
+        ]
+    },
+    {
+        "id": "TYRANITAR-3b2140bf",
+        "pokemon": "Tyranitar",
+        "ability": "Sand Stream",
+        "item": "Tyranitarite",
+        "moves": [
+            "Rock Slide",
+            "Ice Punch",
+            "Crunch",
+            "Protect"
+        ]
+    },
+    {
+        "id": "KOMMOO-e8680ee4",
+        "pokemon": "Kommo-o",
+        "ability": "Soundproof",
+        "item": "Choice Scarf",
+        "moves": [
+            "Clanging Scales",
+            "Draco Meteor",
+            "Aura Sphere",
+            "Flamethrower"
+        ]
+    },
+    {
+        "id": "TYRANITAR-aeeb4629",
+        "pokemon": "Tyranitar",
+        "ability": "Sand Stream",
+        "item": "Tyranitarite",
+        "moves": [
+            "Rock Slide",
+            "Crunch",
+            "Low Kick",
+            "Protect"
+        ]
+    },
+    {
+        "id": "MEGANIUM-38b3fafd",
+        "pokemon": "Meganium",
+        "ability": "Leaf Guard",
+        "item": "Meganiumite",
+        "moves": [
+            "Solar Beam",
+            "Dazzling Gleam",
+            "Weather Ball",
+            "Protect"
+        ]
+    },
+    {
+        "id": "MILOTIC-8a7345b8",
+        "pokemon": "Milotic",
+        "ability": "Competitive",
+        "item": "Leftovers",
+        "moves": [
+            "Scald",
+            "Ice Beam",
+            "Icy Wind",
+            "Protect"
+        ]
+    },
+    {
+        "id": "AEGISLASH-c7147810",
+        "pokemon": "Aegislash",
+        "ability": "Stance Change",
+        "item": "Spell Tag",
+        "moves": [
+            "Poltergeist",
+            "Sacred Sword",
+            "Shadow Sneak",
+            "King's Shield"
+        ]
+    },
+    {
+        "id": "TYRANITAR-bd05f0ea",
+        "pokemon": "Tyranitar",
+        "ability": "Sand Stream",
+        "item": "Tyranitarite",
+        "moves": [
+            "Knock Off",
+            "Rock Slide",
+            "Dragon Dance",
+            "Protect"
+        ]
+    },
+    {
+        "id": "ROTOMWASHROTOM-3f4bdf06",
+        "pokemon": "Rotom [Wash Rotom]",
+        "ability": "Levitate",
+        "item": "Magnet",
+        "moves": [
+            "Hydro Pump",
+            "Volt Switch",
+            "Electroweb",
+            "Protect"
+        ]
+    },
+    {
+        "id": "CORVIKNIGHT-8aa26dfa",
+        "pokemon": "Corviknight",
+        "ability": "Mirror Armor",
+        "item": "Leftovers",
+        "moves": [
+            "Brave Bird",
+            "Body Press",
+            "Bulk Up",
+            "Tailwind"
+        ]
+    },
+    {
+        "id": "VENUSAUR-657f4e4c",
+        "pokemon": "Venusaur",
+        "ability": "Thick Fat",
+        "item": "Venusaurite",
+        "moves": [
+            "Sludge Bomb",
+            "Giga Drain",
+            "Earth Power",
+            "Protect"
+        ]
+    },
+    {
+        "id": "TYRANITAR-832e7011",
+        "pokemon": "Tyranitar",
+        "ability": "Sand Stream",
+        "item": "Tyranitarite",
+        "moves": [
+            "Rock Slide",
+            "Knock Off",
+            "Ice Punch",
+            "Protect"
+        ]
+    },
+    {
+        "id": "EXCADRILL-8b7924ae",
+        "pokemon": "Excadrill",
+        "ability": "Sand Rush",
+        "item": "Focus Sash",
+        "moves": [
+            "Earthquake",
+            "Rock Slide",
+            "Iron Head",
+            "Protect"
+        ]
+    },
+    {
+        "id": "CORVIKNIGHT-e2efb4d4",
+        "pokemon": "Corviknight",
+        "ability": "Mirror Armor",
+        "item": "Occa Berry",
+        "moves": [
+            "Brave Bird",
+            "Iron Head",
+            "Roost",
+            "Tailwind"
+        ]
+    },
+    {
+        "id": "ROTOMWASHROTOM-b02b6a91",
+        "pokemon": "Rotom [Wash Rotom]",
+        "ability": "Levitate",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Volt Switch",
+            "Hydro Pump",
+            "Thunderbolt",
+            "Will-O-Wisp"
+        ]
+    },
+    {
+        "id": "FROSLASS-28694e73",
+        "pokemon": "Froslass",
+        "ability": "Snow Warning",
+        "item": "Froslassite",
+        "moves": [
+            "Blizzard",
+            "Shadow Ball",
+            "Taunt",
+            "Protect"
+        ]
+    },
+    {
+        "id": "MILOTIC-e14e94a0",
+        "pokemon": "Milotic",
+        "ability": "Competitive",
+        "item": "Leftovers",
+        "moves": [
+            "Protect",
+            "Icy Wind",
+            "Scald",
+            "Muddy Water"
+        ]
+    },
+    {
+        "id": "MILOTIC-fb4602bc",
+        "pokemon": "Milotic",
+        "ability": "Competitive",
+        "item": "Leftovers",
+        "moves": [
+            "Scald",
+            "Ice Beam",
+            "Protect",
+            "Helping Hand"
+        ]
+    },
+    {
+        "id": "GARDEVOIR-ce3f2a66",
+        "pokemon": "Gardevoir",
+        "ability": "Telepathy",
+        "item": "Gardevoirite",
+        "moves": [
+            "Hyper Voice",
+            "Psychic",
+            "Protect",
+            "Calm Mind"
+        ]
+    },
+    {
+        "id": "MEOWSCARADA-ac7c22f8",
+        "pokemon": "Meowscarada",
+        "ability": "Overgrow",
+        "item": "Focus Sash",
+        "moves": [
+            "Flower Trick",
+            "Knock Off",
+            "Protect",
+            "Sucker Punch"
+        ]
+    },
+    {
+        "id": "GARCHOMP-60cd94c6",
+        "pokemon": "Garchomp",
+        "ability": "Rough Skin",
+        "item": "Choice Scarf",
+        "moves": [
+            "Dragon Claw",
+            "Earthquake",
+            "Stomping Tantrum",
+            "Iron Head"
+        ]
+    },
+    {
+        "id": "MILOTIC-ae85a49f",
+        "pokemon": "Milotic",
+        "ability": "Competitive",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Scald",
+            "Ice Beam",
+            "Recover",
+            "Protect"
+        ]
+    },
+    {
+        "id": "ROTOMMOWROTOM-5e082fbc",
+        "pokemon": "Rotom [Mow Rotom]",
+        "ability": "Levitate",
+        "item": "Choice Scarf",
+        "moves": [
+            "Leaf Storm",
+            "Electroweb",
+            "Thunderbolt",
+            "Volt Switch"
+        ]
+    },
+    {
+        "id": "VOLCARONA-46d6cf80",
+        "pokemon": "Volcarona",
+        "ability": "Flame Body",
+        "item": "Passho Berry",
+        "moves": [
+            "Overheat",
+            "Struggle Bug",
+            "Tailwind",
+            "Rage Powder"
+        ]
+    },
+    {
+        "id": "VENUSAUR-d65479d3",
+        "pokemon": "Venusaur",
+        "ability": "Chlorophyll",
+        "item": "Focus Sash",
+        "moves": [
+            "Energy Ball",
+            "Sludge Bomb",
+            "Sleep Powder",
+            "Protect"
+        ]
+    },
+    {
+        "id": "MILOTIC-84b41d8e",
+        "pokemon": "Milotic",
+        "ability": "Competitive",
+        "item": "Leftovers",
+        "moves": [
+            "Scald",
+            "Ice Beam",
+            "Recover",
+            "Protect"
+        ]
+    },
+    {
+        "id": "CHARIZARD-9c34a4bf",
+        "pokemon": "Charizard",
+        "ability": "Tough Claws",
+        "item": "Charizardite X",
+        "moves": [
+            "Dragon Claw",
+            "Flare Blitz",
+            "Dragon Dance",
+            "Protect"
+        ]
+    },
+    {
+        "id": "KOMMOO-26b7b2e5",
+        "pokemon": "Kommo-o",
+        "ability": "Soundproof",
+        "item": "Dragon Fang",
+        "moves": [
+            "Clanging Scales",
+            "Aura Sphere",
+            "Flash Cannon",
+            "Protect"
+        ]
+    },
+    {
+        "id": "FARIGIRAF-f47d5e1f",
+        "pokemon": "Farigiraf",
+        "ability": "Armor Tail",
+        "item": "Colbur Berry",
+        "moves": [
+            "Helping Hand",
+            "Psychic",
+            "Hyper Voice",
+            "Trick Room"
+        ]
+    },
+    {
+        "id": "VENUSAUR-719589de",
+        "pokemon": "Venusaur",
+        "ability": "Chlorophyll",
+        "item": "Focus Sash",
+        "moves": [
+            "Leaf Storm",
+            "Sludge Bomb",
+            "Sleep Powder",
+            "Protect"
+        ]
+    },
+    {
+        "id": "FARIGIRAF-97a0bc40",
+        "pokemon": "Farigiraf",
+        "ability": "Armor Tail",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Twin Beam",
+            "Trick Room",
+            "Helping Hand",
+            "Protect"
+        ]
+    },
+    {
+        "id": "RHYPERIOR-8402bf26",
+        "pokemon": "Rhyperior",
+        "ability": "Solid Rock",
+        "item": "Soft Sand",
+        "moves": [
+            "Rock Slide",
+            "High Horsepower",
+            "Earthquake",
+            "Protect"
+        ]
+    },
+    {
+        "id": "INCINEROAR-fe408abc",
+        "pokemon": "Incineroar",
+        "ability": "Intimidate",
+        "item": "White Herb",
+        "moves": [
+            "Fake Out",
+            "Flare Blitz",
+            "Darkest Lariat",
+            "Close Combat"
+        ]
+    },
+    {
+        "id": "TORKOAL-b965270a",
+        "pokemon": "Torkoal",
+        "ability": "Drought",
+        "item": "Charcoal",
+        "moves": [
+            "Eruption",
+            "Heat Wave",
+            "Solar Beam",
+            "Protect"
+        ]
+    },
+    {
+        "id": "FARIGIRAF-fadebd96",
+        "pokemon": "Farigiraf",
+        "ability": "Armor Tail",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Foul Play",
+            "Psychic",
+            "Helping Hand",
+            "Trick Room"
+        ]
+    },
+    {
+        "id": "GOLURK-03d25277",
+        "pokemon": "Golurk",
+        "ability": "Iron Fist",
+        "item": "Golurkite",
+        "moves": [
+            "Ice Punch",
+            "Headlong Rush",
+            "Poltergeist",
+            "Protect"
+        ]
+    },
+    {
+        "id": "FARIGIRAF-52994b12",
+        "pokemon": "Farigiraf",
+        "ability": "Armor Tail",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Hyper Voice",
+            "Psychic",
+            "Helping Hand",
+            "Trick Room"
+        ]
+    },
+    {
+        "id": "GARCHOMP-73c36c0b",
+        "pokemon": "Garchomp",
+        "ability": "Rough Skin",
+        "item": "Lum Berry",
+        "moves": [
+            "Rock Slide",
+            "Dragon Claw",
+            "Stomping Tantrum",
+            "Protect"
+        ]
+    },
+    {
+        "id": "ARCHALUDON-9c84fa56",
+        "pokemon": "Archaludon",
+        "ability": "Stamina",
+        "item": "Chople Berry",
+        "moves": [
+            "Protect",
+            "Dragon Pulse",
+            "Flash Cannon",
+            "Electro Shot"
+        ]
+    },
+    {
+        "id": "DRAGONITE-f854d243",
+        "pokemon": "Dragonite",
+        "ability": "Multiscale",
+        "item": "Dragoninite",
+        "moves": [
+            "Protect",
+            "Hurricane",
+            "Dragon Pulse",
+            "Surf"
+        ]
+    },
+    {
+        "id": "ARCHALUDON-ba511b86",
+        "pokemon": "Archaludon",
+        "ability": "Stamina",
+        "item": "Leftovers",
+        "moves": [
+            "Electro Shot",
+            "Protect",
+            "Aura Sphere",
+            "Dragon Pulse"
+        ]
+    },
+    {
+        "id": "SABLEYE-d4963ec4",
+        "pokemon": "Sableye",
+        "ability": "Prankster",
+        "item": "Roseli Berry",
+        "moves": [
+            "Disable",
+            "Light Screen",
+            "Fake Out",
+            "Will-O-Wisp"
+        ]
+    },
+    {
+        "id": "GENGAR-7672721d",
+        "pokemon": "Gengar",
+        "ability": "Cursed Body",
+        "item": "Gengarite",
+        "moves": [
+            "Protect",
+            "Shadow Ball",
+            "Perish Song",
+            "Disable"
+        ]
+    },
+    {
+        "id": "POLITOED-4e1dadf2",
+        "pokemon": "Politoed",
+        "ability": "Drizzle",
+        "item": "Leftovers",
+        "moves": [
+            "Protect",
+            "Weather Ball",
+            "Encore",
+            "Perish Song"
+        ]
+    },
+    {
+        "id": "INCINEROAR-10d50813",
+        "pokemon": "Incineroar",
+        "ability": "Intimidate",
+        "item": "Lum Berry",
+        "moves": [
+            "Protect",
+            "Fake Out",
+            "Throat Chop",
+            "Parting Shot"
+        ]
+    },
+    {
+        "id": "ARCHALUDON-e66e9176",
+        "pokemon": "Archaludon",
+        "ability": "Stamina",
+        "item": "Chople Berry",
+        "moves": [
+            "Protect",
+            "Electro Shot",
+            "Flash Cannon",
+            "Draco Meteor"
+        ]
+    },
+    {
+        "id": "ORTHWORM-034d1c45",
+        "pokemon": "Orthworm",
+        "ability": "Earth Eater",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Protect",
+            "Iron Defense",
+            "Body Press",
+            "Shed Tail"
+        ]
+    },
+    {
+        "id": "CHARIZARD-9e353f1e",
+        "pokemon": "Charizard",
+        "ability": "Drought",
+        "item": "Charizardite Y",
+        "moves": [
+            "Heat Wave",
+            "Protect",
+            "Dragon Pulse",
+            "Solar Beam"
+        ]
+    },
+    {
+        "id": "AEGISLASH-0e60805f",
+        "pokemon": "Aegislash",
+        "ability": "Stance Change",
+        "item": "Leftovers",
+        "moves": [
+            "Iron Head",
+            "King's Shield",
+            "Shadow Sneak",
+            "Poltergeist"
+        ]
+    },
+    {
+        "id": "VENUSAUR-faff10d7",
+        "pokemon": "Venusaur",
+        "ability": "Chlorophyll",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Energy Ball",
+            "Sludge Bomb",
+            "Protect",
+            "Sleep Powder"
+        ]
+    },
+    {
+        "id": "GARCHOMP-9fea91eb",
+        "pokemon": "Garchomp",
+        "ability": "Rough Skin",
+        "item": "Yache Berry",
+        "moves": [
+            "Dragon Claw",
+            "Earthquake",
+            "Rock Slide",
+            "Protect"
+        ]
+    },
+    {
+        "id": "INCINEROAR-f693e814",
+        "pokemon": "Incineroar",
+        "ability": "Intimidate",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Flare Blitz",
+            "Throat Chop",
+            "Helping Hand",
+            "Fake Out"
+        ]
+    },
+    {
+        "id": "GARDEVOIR-646c3a3a",
+        "pokemon": "Gardevoir",
+        "ability": "Telepathy",
+        "item": "Choice Scarf",
+        "moves": [
+            "Moonblast",
+            "Dazzling Gleam",
+            "Psychic",
+            "Icy Wind"
+        ]
+    },
+    {
+        "id": "DELPHOX-8cf49566",
+        "pokemon": "Delphox",
+        "ability": "Blaze",
+        "item": "Delphoxite",
+        "moves": [
+            "Heat Wave",
+            "Psychic",
+            "Substitute",
+            "Protect"
+        ]
+    },
+    {
+        "id": "VENUSAUR-022f70cb",
+        "pokemon": "Venusaur",
+        "ability": "Chlorophyll",
+        "item": "Venusaurite",
+        "moves": [
+            "Giga Drain",
+            "Sludge Bomb",
+            "Leech Seed",
+            "Protect"
+        ]
+    },
+    {
+        "id": "AEGISLASH-711186ea",
+        "pokemon": "Aegislash",
+        "ability": "Stance Change",
+        "item": "Spell Tag",
+        "moves": [
+            "Shadow Ball",
+            "King's Shield",
+            "Flash Cannon",
+            "Shadow Sneak"
+        ]
+    },
+    {
+        "id": "CHARIZARD-ea29ee99",
+        "pokemon": "Charizard",
+        "ability": "Drought",
+        "item": "Charizardite Y",
+        "moves": [
+            "Heat Wave",
+            "Weather Ball",
+            "Protect",
+            "Air Slash"
+        ]
+    },
+    {
+        "id": "VENUSAUR-f181b201",
+        "pokemon": "Venusaur",
+        "ability": "Chlorophyll",
+        "item": "Focus Sash",
+        "moves": [
+            "Energy Ball",
+            "Sludge Bomb",
+            "Earth Power",
+            "Sleep Powder"
+        ]
+    },
+    {
+        "id": "GLIMMORA-60bfb11a",
+        "pokemon": "Glimmora",
+        "ability": "Toxic Debris",
+        "item": "Glimmoranite",
+        "moves": [
+            "Sludge Bomb",
+            "Power Gem",
+            "Earth Power",
+            "Spiky Shield"
+        ]
+    },
+    {
+        "id": "DRAGONITE-023fa16e",
+        "pokemon": "Dragonite",
+        "ability": "Multiscale",
+        "item": "Dragoninite",
+        "moves": [
+            "Draco Meteor",
+            "Hurricane",
+            "Tailwind",
+            "Protect"
+        ]
+    },
+    {
+        "id": "FROSLASS-8f120f70",
+        "pokemon": "Froslass",
+        "ability": "Cursed Body",
+        "item": "Froslassite",
+        "moves": [
+            "Blizzard",
+            "Shadow Ball",
+            "Will-O-Wisp",
+            "Protect"
+        ]
+    },
+    {
+        "id": "SNEASLER-25f16909",
+        "pokemon": "Sneasler",
+        "ability": "Unburden",
+        "item": "White Herb",
+        "moves": [
+            "Close Combat",
+            "Dire Claw",
+            "Fake Out",
+            "Feint"
+        ]
+    },
+    {
+        "id": "TALONFLAME-401e4835",
+        "pokemon": "Talonflame",
+        "ability": "Gale Wings",
+        "item": "Sin Objeto",
+        "moves": [
+            "Acrobatics",
+            "Rain Dance",
+            "Tailwind",
+            "Protect"
+        ]
+    },
+    {
+        "id": "FROSLASS-7dfb6ce8",
+        "pokemon": "Froslass",
+        "ability": "Cursed Body",
+        "item": "Froslassite",
+        "moves": [
+            "Blizzard",
+            "Shadow Ball",
+            "Substitute",
+            "Protect"
+        ]
+    },
+    {
+        "id": "JOLTEON-2b801afc",
+        "pokemon": "Jolteon",
+        "ability": "Volt Absorb",
+        "item": "Focus Sash",
+        "moves": [
+            "Thunderbolt",
+            "Electroweb",
+            "Fake Tears",
+            "Protect"
+        ]
+    },
+    {
+        "id": "ARCANINEHISUIANFORM-e9e865a1",
+        "pokemon": "Arcanine [Hisuian Form]",
+        "ability": "Intimidate",
+        "item": "Chople Berry",
+        "moves": [
+            "Flare Blitz",
+            "Head Smash",
+            "Extreme Speed",
+            "Protect"
+        ]
+    },
+    {
+        "id": "HYDREIGON-cfbab308",
+        "pokemon": "Hydreigon",
+        "ability": "Levitate",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Draco Meteor",
+            "Dark Pulse",
+            "Snarl",
+            "Protect"
+        ]
+    },
+    {
+        "id": "FROSLASS-0ef24825",
+        "pokemon": "Froslass",
+        "ability": "Cursed Body",
+        "item": "Froslassite",
+        "moves": [
+            "Blizzard",
+            "Shadow Ball",
+            "Taunt",
+            "Protect"
+        ]
+    },
+    {
+        "id": "GARCHOMP-af114a7a",
+        "pokemon": "Garchomp",
+        "ability": "Rough Skin",
+        "item": "Focus Sash",
+        "moves": [
+            "Stomping Tantrum",
+            "Dragon Claw",
+            "Rock Slide",
+            "Protect"
+        ]
+    },
+    {
+        "id": "FROSLASS-96a1c47c",
+        "pokemon": "Froslass",
+        "ability": "Cursed Body",
+        "item": "Froslassite",
+        "moves": [
+            "Nasty Plot",
+            "Protect",
+            "Blizzard",
+            "Shadow Ball"
+        ]
+    },
+    {
+        "id": "ESPATHRA-fe02d834",
+        "pokemon": "Espathra",
+        "ability": "Speed Boost",
+        "item": "Colbur Berry",
+        "moves": [
+            "Skill Swap",
+            "Ally Switch",
+            "Protect",
+            "Lumina Crash"
+        ]
+    },
+    {
+        "id": "MILOTIC-a3454597",
+        "pokemon": "Milotic",
+        "ability": "Marvel Scale",
+        "item": "Leftovers",
+        "moves": [
+            "Scald",
+            "Ice Beam",
+            "Muddy Water",
+            "Protect"
+        ]
+    },
+    {
+        "id": "ALTARIA-89bde7f5",
+        "pokemon": "Altaria",
+        "ability": "Cloud Nine",
+        "item": "Sin Objeto",
+        "moves": [
+            "Breaking Swipe",
+            "Moonblast",
+            "Tailwind",
+            "Protect"
+        ]
+    },
+    {
+        "id": "FROSLASS-2b6c3c01",
+        "pokemon": "Froslass",
+        "ability": "Cursed Body",
+        "item": "Froslassite",
+        "moves": [
+            "Blizzard",
+            "Shadow Ball",
+            "Thunderbolt",
+            "Protect"
+        ]
+    },
+    {
+        "id": "MEOWSCARADA-ae74fbae",
+        "pokemon": "Meowscarada",
+        "ability": "Protean",
+        "item": "Focus Sash",
+        "moves": [
+            "Flower Trick",
+            "Knock Off",
+            "Triple Axel",
+            "Protect"
+        ]
+    },
+    {
+        "id": "PALAFIN-60f17493",
+        "pokemon": "Palafin",
+        "ability": "Zero to Hero",
+        "item": "Mystic Water",
+        "moves": [
+            "Jet Punch",
+            "Wave Crash",
+            "Encore",
+            "Protect"
+        ]
+    },
+    {
+        "id": "PELIPPER-53cc4719",
+        "pokemon": "Pelipper",
+        "ability": "Drizzle",
+        "item": "Leftovers",
+        "moves": [
+            "Hurricane",
+            "Muddy Water",
+            "Wide Guard",
+            "Protect"
+        ]
+    },
+    {
+        "id": "INCINEROAR-23657d0c",
+        "pokemon": "Incineroar",
+        "ability": "Intimidate",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Fake Out",
+            "Darkest Lariat",
+            "Parting Shot",
+            "Protect"
+        ]
+    },
+    {
+        "id": "HYDREIGON-c307b4f4",
+        "pokemon": "Hydreigon",
+        "ability": "Levitate",
+        "item": "Choice Scarf",
+        "moves": [
+            "Dark Pulse",
+            "Snarl",
+            "Draco Meteor",
+            "U-turn"
+        ]
+    },
+    {
+        "id": "AERODACTYL-dd8c8d3d",
+        "pokemon": "Aerodactyl",
+        "ability": "Unnerve",
+        "item": "Aerodactylite",
+        "moves": [
+            "Dual Wingbeat",
+            "Stone Edge",
+            "Tailwind",
+            "Protect"
+        ]
+    },
+    {
+        "id": "POLITOED-bd2cb93b",
+        "pokemon": "Politoed",
+        "ability": "Drizzle",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Weather Ball",
+            "Protect",
+            "Helping Hand",
+            "Ice Beam"
+        ]
+    },
+    {
+        "id": "INCINEROAR-8df944a0",
+        "pokemon": "Incineroar",
+        "ability": "Intimidate",
+        "item": "Shuca Berry",
+        "moves": [
+            "Fake Out",
+            "Parting Shot",
+            "Close Combat",
+            "Throat Chop"
+        ]
+    },
+    {
+        "id": "GENGAR-48763552",
+        "pokemon": "Gengar",
+        "ability": "Cursed Body",
+        "item": "Gengarite",
+        "moves": [
+            "Sludge Bomb",
+            "Shadow Ball",
+            "Will-O-Wisp",
+            "Protect"
+        ]
+    },
+    {
+        "id": "GENGAR-777b84d9",
+        "pokemon": "Gengar",
+        "ability": "Cursed Body",
+        "item": "Gengarite",
+        "moves": [
+            "Shadow Ball",
+            "Sludge Bomb",
+            "Substitute",
+            "Protect"
+        ]
+    },
+    {
+        "id": "GARCHOMP-bdcb2ed0",
+        "pokemon": "Garchomp",
+        "ability": "Rough Skin",
+        "item": "Garchompite",
+        "moves": [
+            "Earthquake",
+            "Dragon Claw",
+            "Rock Slide",
+            "Protect"
+        ]
+    },
+    {
+        "id": "ROTOMWASHROTOM-50215847",
+        "pokemon": "Rotom [Wash Rotom]",
+        "ability": "Levitate",
+        "item": "Choice Scarf",
+        "moves": [
+            "Electroweb",
+            "Hydro Pump",
+            "Volt Switch",
+            "Trick"
+        ]
+    },
+    {
+        "id": "GENGAR-8141145a",
+        "pokemon": "Gengar",
+        "ability": "Cursed Body",
+        "item": "Gengarite",
+        "moves": [
+            "Protect",
+            "Shadow Ball",
+            "Perish Song",
+            "Substitute"
+        ]
+    },
+    {
+        "id": "PALAFIN-8356386e",
+        "pokemon": "Palafin",
+        "ability": "Zero to Hero",
+        "item": "Choice Scarf",
+        "moves": [
+            "Flip Turn",
+            "Wave Crash",
+            "Ice Punch",
+            "Jet Punch"
+        ]
+    },
+    {
+        "id": "VOLCARONA-8d11cab2",
+        "pokemon": "Volcarona",
+        "ability": "Flame Body",
+        "item": "Passho Berry",
+        "moves": [
+            "Protect",
+            "Overheat",
+            "U-turn",
+            "Rage Powder"
+        ]
+    },
+    {
+        "id": "VENUSAUR-3044921a",
+        "pokemon": "Venusaur",
+        "ability": "Overgrow",
+        "item": "Venusaurite",
+        "moves": [
+            "Giga Drain",
+            "Sludge Bomb",
+            "Leech Seed",
+            "Protect"
+        ]
+    },
+    {
+        "id": "VOLCARONA-1decd658",
+        "pokemon": "Volcarona",
+        "ability": "Flame Body",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Overheat",
+            "Struggle Bug",
+            "Rage Powder",
+            "Protect"
+        ]
+    },
+    {
+        "id": "CORVIKNIGHT-6c23de1a",
+        "pokemon": "Corviknight",
+        "ability": "Mirror Armor",
+        "item": "Occa Berry",
+        "moves": [
+            "Brave Bird",
+            "Bulk Up",
+            "Tailwind",
+            "Roost"
+        ]
+    },
+    {
+        "id": "KOMMOO-42c08ee0",
+        "pokemon": "Kommo-o",
+        "ability": "Overcoat",
+        "item": "Leftovers",
+        "moves": [
+            "Clanging Scales",
+            "Aura Sphere",
+            "Clangorous Soul",
+            "Protect"
+        ]
+    },
+    {
+        "id": "TYRANITAR-10ac4d0e",
+        "pokemon": "Tyranitar",
+        "ability": "Sand Stream",
+        "item": "Tyranitarite",
+        "moves": [
+            "Rock Slide",
+            "Lash Out",
+            "Low Kick",
+            "Protect"
+        ]
+    },
+    {
+        "id": "EXCADRILL-45e278b2",
+        "pokemon": "Excadrill",
+        "ability": "Sand Rush",
+        "item": "Focus Sash",
+        "moves": [
+            "High Horsepower",
+            "Iron Head",
+            "Rock Slide",
+            "Protect"
+        ]
+    },
+    {
+        "id": "SINISTCHA-5e1a3f6c",
+        "pokemon": "Sinistcha",
+        "ability": "Hospitality",
+        "item": "Mental Herb",
+        "moves": [
+            "Strength Sap",
+            "Matcha Gotcha",
+            "Rage Powder",
+            "Trick Room"
+        ]
+    },
+    {
+        "id": "MILOTIC-51ab93a7",
+        "pokemon": "Milotic",
+        "ability": "Competitive",
+        "item": "Wacan Berry",
+        "moves": [
+            "Scald",
+            "Ice Beam",
+            "Recover",
+            "Protect"
+        ]
+    },
+    {
+        "id": "CORVIKNIGHT-18f649d0",
+        "pokemon": "Corviknight",
+        "ability": "Mirror Armor",
+        "item": "Leftovers",
+        "moves": [
+            "Brave Bird",
+            "Body Press",
+            "Iron Defense",
+            "Roost"
+        ]
+    },
+    {
+        "id": "NINETALESALOLANFORM-8e548597",
+        "pokemon": "Ninetales [Alolan Form]",
+        "ability": "Snow Warning",
+        "item": "Focus Sash",
+        "moves": [
+            "Protect",
+            "Blizzard",
+            "Freeze-Dry",
+            "Icy Wind"
+        ]
+    },
+    {
+        "id": "AEGISLASH-9c2dbb58",
+        "pokemon": "Aegislash",
+        "ability": "Stance Change",
+        "item": "Spell Tag",
+        "moves": [
+            "Shadow Sneak",
+            "Wide Guard",
+            "Poltergeist",
+            "King's Shield"
+        ]
+    },
+    {
+        "id": "ROTOMWASHROTOM-572fed83",
+        "pokemon": "Rotom [Wash Rotom]",
+        "ability": "Levitate",
+        "item": "Leftovers",
+        "moves": [
+            "Hydro Pump",
+            "Volt Switch",
+            "Protect",
+            "Will-O-Wisp"
+        ]
+    },
+    {
+        "id": "UMBREON-c12ec776",
+        "pokemon": "Umbreon",
+        "ability": "Inner Focus",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Foul Play",
+            "Yawn",
+            "Taunt",
+            "Moonlight"
+        ]
+    },
+    {
+        "id": "FLOETTE-ETERNAL-95524493",
+        "pokemon": "FLOETTE-ETERNAL",
+        "ability": "Flower Veil",
+        "item": "Floettite",
+        "moves": [
+            "Dazzling Gleam",
+            "Moonblast",
+            "Calm Mind"
+        ]
+    },
+    {
+        "id": "AEGISLASH-aa21a7c9",
+        "pokemon": "Aegislash",
+        "ability": "Stance Change",
+        "item": "Spell Tag",
+        "moves": [
+            "Poltergeist",
+            "Close Combat",
+            "Shadow Sneak",
+            "King's Shield"
+        ]
+    },
+    {
+        "id": "SNEASLER-2349f9b0",
+        "pokemon": "Sneasler",
+        "ability": "Unburden",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Fake Out",
+            "Close Combat",
+            "Dire Claw",
+            "Rock Tomb"
+        ]
+    },
+    {
+        "id": "AEGISLASH-45efbd0c",
+        "pokemon": "Aegislash",
+        "ability": "Stance Change",
+        "item": "Spell Tag",
+        "moves": [
+            "Flash Cannon",
+            "Shadow Ball",
+            "King's Shield",
+            "Wide Guard"
+        ]
+    },
+    {
+        "id": "DRAGONITE-765286f8",
+        "pokemon": "Dragonite",
+        "ability": "Multiscale",
+        "item": "Lum Berry",
+        "moves": [
+            "Scale Shot",
+            "Extreme Speed",
+            "Haze",
+            "Protect"
+        ]
+    },
+    {
+        "id": "GARCHOMP-9391b9a3",
+        "pokemon": "Garchomp",
+        "ability": "Rough Skin",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Scale Shot",
+            "Earthquake",
+            "Rock Slide",
+            "Protect"
+        ]
+    },
+    {
+        "id": "DELPHOX-2f19472f",
+        "pokemon": "Delphox",
+        "ability": "Blaze",
+        "item": "Delphoxite",
+        "moves": [
+            "Psyshock",
+            "Heat Wave",
+            "Encore",
+            "Protect"
+        ]
+    },
+    {
+        "id": "DELPHOX-43103b9c",
+        "pokemon": "Delphox",
+        "ability": "Blaze",
+        "item": "Delphoxite",
+        "moves": [
+            "Heat Wave",
+            "Psychic",
+            "Will-O-Wisp",
+            "Protect"
+        ]
+    },
+    {
+        "id": "BLASTOISE-7a63cab5",
+        "pokemon": "Blastoise",
+        "ability": "Rain Dish",
+        "item": "Leftovers",
+        "moves": [
+            "Hydro Pump",
+            "Ice Beam",
+            "Fake Out",
+            "Protect"
+        ]
+    },
+    {
+        "id": "HELIOLISK-c7c8da6f",
+        "pokemon": "Heliolisk",
+        "ability": "Dry Skin",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Thunderbolt",
+            "Ally Switch",
+            "Shed Tail",
+            "Protect"
+        ]
+    },
+    {
+        "id": "DELPHOX-6b76ec9f",
+        "pokemon": "Delphox",
+        "ability": "Blaze",
+        "item": "Delphoxite",
+        "moves": [
+            "Heat Wave",
+            "Psychic",
+            "Nasty Plot",
+            "Protect"
+        ]
+    },
+    {
+        "id": "KINGAMBIT-eb5e9e53",
+        "pokemon": "Kingambit",
+        "ability": "Defiant",
+        "item": "Chople Berry",
+        "moves": [
+            "Sucker Punch",
+            "Kowtow Cleave",
+            "Quick Guard",
+            "Protect"
+        ]
+    },
+    {
+        "id": "WHIMSICOTT-95aa2ff0",
+        "pokemon": "Whimsicott",
+        "ability": "Prankster",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Moonblast",
+            "Tailwind",
+            "Sunny Day",
+            "Protect"
+        ]
+    },
+    {
+        "id": "VIVILLON-d148ff6b",
+        "pokemon": "Vivillon",
+        "ability": "Compound Eyes",
+        "item": "Focus Sash",
+        "moves": [
+            "Sleep Powder",
+            "Hurricane",
+            "Rage Powder",
+            "Protect"
+        ]
+    },
+    {
+        "id": "MILOTIC-b60c54fb",
+        "pokemon": "Milotic",
+        "ability": "Competitive",
+        "item": "Leftovers",
+        "moves": [
+            "Surf",
+            "Scald",
+            "Ice Beam",
+            "Protect"
+        ]
+    },
+    {
+        "id": "TOXICROAK-6126cb15",
+        "pokemon": "Toxicroak",
+        "ability": "Dry Skin",
+        "item": "Focus Sash",
+        "moves": [
+            "Fake Out",
+            "Close Combat",
+            "Poison Jab",
+            "Sucker Punch"
+        ]
+    },
+    {
+        "id": "BASCULEGION-d251cb81",
+        "pokemon": "Basculegion",
+        "ability": "Swift Swim",
+        "item": "Mystic Water",
+        "moves": [
+            "Wave Crash",
+            "Aqua Jet",
+            "Flip Turn",
+            "Last Respects"
+        ]
+    },
+    {
+        "id": "MEGANIUM-86664d71",
+        "pokemon": "Meganium",
+        "ability": "Overgrow",
+        "item": "Meganiumite",
+        "moves": [
+            "Dazzling Gleam",
+            "Solar Beam",
+            "Weather Ball",
+            "Synthesis"
+        ]
+    },
+    {
+        "id": "KINGAMBIT-412b0101",
+        "pokemon": "Kingambit",
+        "ability": "Defiant",
+        "item": "Lum Berry",
+        "moves": [
+            "Protect",
+            "Kowtow Cleave",
+            "Sucker Punch",
+            "Iron Head"
+        ]
+    },
+    {
+        "id": "DRAGONITE-da558f64",
+        "pokemon": "Dragonite",
+        "ability": "Multiscale",
+        "item": "Dragoninite",
+        "moves": [
+            "Protect",
+            "Hurricane",
+            "Draco Meteor",
+            "Extreme Speed"
+        ]
+    },
+    {
+        "id": "CHARIZARD-05a92dc4",
+        "pokemon": "Charizard",
+        "ability": "Blaze",
+        "item": "Charizardite Y",
+        "moves": [
+            "Dragon Pulse",
+            "Ancient Power",
+            "Heat Wave",
+            "Protect"
+        ]
+    },
+    {
+        "id": "FROSLASS-3718c4f1",
+        "pokemon": "Froslass",
+        "ability": "Cursed Body",
+        "item": "Focus Sash",
+        "moves": [
+            "Protect",
+            "Ice Beam",
+            "Thunderbolt",
+            "Shadow Ball"
+        ]
+    },
+    {
+        "id": "SNEASLER-0b1eb23b",
+        "pokemon": "Sneasler",
+        "ability": "Unburden",
+        "item": "White Herb",
+        "moves": [
+            "Protect",
+            "Poison Jab",
+            "Brick Break",
+            "Close Combat"
+        ]
+    },
+    {
+        "id": "SCIZOR-ad50ce3a",
+        "pokemon": "Scizor",
+        "ability": "Technician",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Protect",
+            "Bug Bite",
+            "Bullet Punch",
+            "Assurance"
+        ]
+    },
+    {
+        "id": "MEGANIUM-ecc49d14",
+        "pokemon": "Meganium",
+        "ability": "Overgrow",
+        "item": "Meganiumite",
+        "moves": [
+            "Solar Beam",
+            "Dazzling Gleam",
+            "Protect",
+            "Earth Power"
+        ]
+    },
+    {
+        "id": "ROTOMWASHROTOM-7f5d247c",
+        "pokemon": "Rotom [Wash Rotom]",
+        "ability": "Levitate",
+        "item": "Choice Scarf",
+        "moves": [
+            "Hydro Pump",
+            "Dark Pulse",
+            "Thunder",
+            "Shadow Ball"
+        ]
+    },
+    {
+        "id": "SKARMORY-3355d7c5",
+        "pokemon": "Skarmory",
+        "ability": "Weak Armor",
+        "item": "Skarmorite",
+        "moves": [
+            "Iron Head",
+            "Drill Peck",
+            "Swords Dance",
+            "Protect"
+        ]
+    },
+    {
+        "id": "ARCHALUDON-771a10c6",
+        "pokemon": "Archaludon",
+        "ability": "Stamina",
+        "item": "Leftovers",
+        "moves": [
+            "Electro Shot",
+            "Flash Cannon",
+            "Aura Sphere",
+            "Protect"
+        ]
+    },
+    {
+        "id": "SABLEYE-c02c6795",
+        "pokemon": "Sableye",
+        "ability": "Prankster",
+        "item": "Roseli Berry",
+        "moves": [
+            "Light Screen",
+            "Reflect",
+            "Rain Dance",
+            "Disable"
+        ]
+    },
+    {
+        "id": "MEGANIUM-dce140e8",
+        "pokemon": "Meganium",
+        "ability": "Leaf Guard",
+        "item": "Meganiumite",
+        "moves": [
+            "Solar Beam",
+            "Dazzling Gleam",
+            "Weather Ball",
+            "Synthesis"
+        ]
+    },
+    {
+        "id": "ZOROARKHISUIANFORM-e627c774",
+        "pokemon": "Zoroark [Hisuian Form]",
+        "ability": "Illusion",
+        "item": "Choice Scarf",
+        "moves": [
+            "Icy Wind",
+            "Psychic",
+            "Curse",
+            "Trick"
+        ]
+    },
+    {
+        "id": "TALONFLAME-0a66dfdf",
+        "pokemon": "Talonflame",
+        "ability": "Gale Wings",
+        "item": "Sharp Beak",
+        "moves": [
+            "Dual Wingbeat",
+            "Will-O-Wisp",
+            "Tailwind",
+            "Protect"
+        ]
+    },
+    {
+        "id": "PRIMARINA-2f799466",
+        "pokemon": "Primarina",
+        "ability": "Liquid Voice",
+        "item": "Mystic Water",
+        "moves": [
+            "Hyper Voice",
+            "Moonblast",
+            "Hydro Cannon",
+            "Protect"
+        ]
+    },
+    {
+        "id": "TALONFLAME-1eb99130",
+        "pokemon": "Talonflame",
+        "ability": "Gale Wings",
+        "item": "Lum Berry",
+        "moves": [
+            "Protect",
+            "Brave Bird",
+            "Tailwind",
+            "Will-O-Wisp"
+        ]
+    },
+    {
+        "id": "TYRANITAR-afb34992",
+        "pokemon": "Tyranitar",
+        "ability": "Sand Stream",
+        "item": "Shuca Berry",
+        "moves": [
+            "Rock Slide",
+            "Knock Off",
+            "Ice Punch",
+            "Protect"
+        ]
+    },
+    {
+        "id": "ROTOMWASHROTOM-2bc926e6",
+        "pokemon": "Rotom [Wash Rotom]",
+        "ability": "Levitate",
+        "item": "Choice Scarf",
+        "moves": [
+            "Volt Switch",
+            "Discharge",
+            "Hydro Pump",
+            "Electroweb"
+        ]
+    },
+    {
+        "id": "TALONFLAME-eb42daf0",
+        "pokemon": "Talonflame",
+        "ability": "Gale Wings",
+        "item": "Focus Sash",
+        "moves": [
+            "Dual Wingbeat",
+            "Flare Blitz",
+            "Tailwind",
+            "Protect"
+        ]
+    },
+    {
+        "id": "SABLEYE-8aac88f8",
+        "pokemon": "Sableye",
+        "ability": "Prankster",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Fake Out",
+            "Disable",
+            "Foul Play",
+            "Encore"
+        ]
+    },
+    {
+        "id": "TALONFLAME-8ce7d91d",
+        "pokemon": "Talonflame",
+        "ability": "Gale Wings",
+        "item": "Focus Sash",
+        "moves": [
+            "Protect",
+            "Brave Bird",
+            "Flare Blitz",
+            "Tailwind"
+        ]
+    },
+    {
+        "id": "PRIMARINA-8b41b4ef",
+        "pokemon": "Primarina",
+        "ability": "Liquid Voice",
+        "item": "Fairy Feather",
+        "moves": [
+            "Protect",
+            "Moonblast",
+            "Dazzling Gleam",
+            "Hyper Voice"
+        ]
+    },
+    {
+        "id": "MAUSHOLD-3afcce60",
+        "pokemon": "Maushold",
+        "ability": "Friend Guard",
+        "item": "Lum Berry",
+        "moves": [
+            "Protect",
+            "Helping Hand",
+            "Follow Me",
+            "Super Fang"
+        ]
+    },
+    {
+        "id": "GARCHOMP-7c922ddc",
+        "pokemon": "Garchomp",
+        "ability": "Rough Skin",
+        "item": "White Herb",
+        "moves": [
+            "Protect",
+            "Dragon Claw",
+            "Earthquake",
+            "Stomping Tantrum"
+        ]
+    },
+    {
+        "id": "MAUSHOLD-8f9414e8",
+        "pokemon": "Maushold",
+        "ability": "Friend Guard",
+        "item": "Chople Berry",
+        "moves": [
+            "Follow Me",
+            "Super Fang",
+            "Helping Hand",
+            "Protect"
+        ]
+    },
+    {
+        "id": "STARMIE-91a990c5",
+        "pokemon": "Starmie",
+        "ability": "Natural Cure",
+        "item": "Starminite",
+        "moves": [
+            "Liquidation",
+            "Aqua Jet",
+            "Zen Headbutt",
+            "Protect"
+        ]
+    },
+    {
+        "id": "SNEASLER-282a71e5",
+        "pokemon": "Sneasler",
+        "ability": "Unburden",
+        "item": "White Herb",
+        "moves": [
+            "Fake Out",
+            "Close Combat",
+            "Dire Claw",
+            "Rain Dance"
+        ]
+    },
+    {
+        "id": "MAUSHOLD-465bde2c",
+        "pokemon": "Maushold",
+        "ability": "Friend Guard",
+        "item": "Chople Berry",
+        "moves": [
+            "Super Fang",
+            "Follow Me",
+            "Feint",
+            "Protect"
+        ]
+    },
+    {
+        "id": "GARDEVOIR-f9cb06e0",
+        "pokemon": "Gardevoir",
+        "ability": "Telepathy",
+        "item": "Gardevoirite",
+        "moves": [
+            "Hyper Voice",
+            "Psychic",
+            "Trick Room",
+            "Protect"
+        ]
+    },
+    {
+        "id": "BASCULEGION-b2b55865",
+        "pokemon": "Basculegion",
+        "ability": "Adaptability",
+        "item": "Kasib Berry",
+        "moves": [
+            "Wave Crash",
+            "Last Respects",
+            "Aqua Jet",
+            "Protect"
+        ]
+    },
+    {
+        "id": "MAUSHOLD-14b7fdd8",
+        "pokemon": "Maushold",
+        "ability": "Friend Guard",
+        "item": "Focus Sash",
+        "moves": [
+            "Super Fang",
+            "Follow Me",
+            "Feint",
+            "Protect"
+        ]
+    },
+    {
+        "id": "GARCHOMP-786b374f",
+        "pokemon": "Garchomp",
+        "ability": "Rough Skin",
+        "item": "White Herb",
+        "moves": [
+            "Scale Shot",
+            "Earthquake",
+            "Rock Slide",
+            "Protect"
+        ]
+    },
+    {
+        "id": "MAUSHOLD-73207612",
+        "pokemon": "Maushold",
+        "ability": "Friend Guard",
+        "item": "Focus Sash",
+        "moves": [
+            "Super Fang",
+            "Follow Me",
+            "Taunt",
+            "Protect"
+        ]
+    },
+    {
+        "id": "ROTOMWASHROTOM-ecd663bf",
+        "pokemon": "Rotom [Wash Rotom]",
+        "ability": "Levitate",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Thunderbolt",
+            "Hydro Pump",
+            "Helping Hand",
+            "Protect"
+        ]
+    },
+    {
+        "id": "MAUSHOLD-c17dd8cf",
+        "pokemon": "Maushold",
+        "ability": "Friend Guard",
+        "item": "Chople Berry",
+        "moves": [
+            "Protect",
+            "Follow Me",
+            "Super Fang",
+            "Encore"
+        ]
+    },
+    {
+        "id": "DRAGAPULT-cf3d6d50",
+        "pokemon": "Dragapult",
+        "ability": "Infiltrator",
+        "item": "Focus Sash",
+        "moves": [
+            "Draco Meteor",
+            "Shadow Ball",
+            "Will-O-Wisp",
+            "U-turn"
+        ]
+    },
+    {
+        "id": "GARCHOMP-9dee063e",
+        "pokemon": "Garchomp",
+        "ability": "Rough Skin",
+        "item": "Choice Scarf",
+        "moves": [
+            "Stomping Tantrum",
+            "Bulldoze",
+            "Rock Slide",
+            "Dragon Claw"
+        ]
+    },
+    {
+        "id": "SCIZOR-89129c27",
+        "pokemon": "Scizor",
+        "ability": "Light Metal",
+        "item": "Scizorite",
+        "moves": [
+            "Bug Bite",
+            "Bullet Punch",
+            "Swords Dance",
+            "Protect"
+        ]
+    },
+    {
+        "id": "INCINEROAR-67a3b573",
+        "pokemon": "Incineroar",
+        "ability": "Intimidate",
+        "item": "Lum Berry",
+        "moves": [
+            "Flare Blitz",
+            "Throat Chop",
+            "Fake Out",
+            "Parting Shot"
+        ]
+    },
+    {
+        "id": "MANECTRIC-4febda76",
+        "pokemon": "Manectric",
+        "ability": "Lightning Rod",
+        "item": "Manectite",
+        "moves": [
+            "Volt Switch",
+            "Snarl",
+            "Overheat",
+            "Protect"
+        ]
+    },
+    {
+        "id": "GARCHOMP-1c91eb94",
+        "pokemon": "Garchomp",
+        "ability": "Rough Skin",
+        "item": "Lum Berry",
+        "moves": [
+            "Swords Dance",
+            "Stomping Tantrum",
+            "Rock Slide",
+            "Protect"
+        ]
+    },
+    {
+        "id": "SCIZOR-0ce59dba",
+        "pokemon": "Scizor",
+        "ability": "Technician",
+        "item": "Scizorite",
+        "moves": [
+            "Bullet Punch",
+            "Bug Bite",
+            "Knock Off",
+            "Protect"
+        ]
+    },
+    {
+        "id": "SCIZOR-a378b4ab",
+        "pokemon": "Scizor",
+        "ability": "Technician",
+        "item": "Scizorite",
+        "moves": [
+            "Bullet Punch",
+            "Close Combat",
+            "Bug Bite",
+            "Protect"
+        ]
+    },
+    {
+        "id": "SCIZOR-6b9375ed",
+        "pokemon": "Scizor",
+        "ability": "Technician",
+        "item": "Scizorite",
+        "moves": [
+            "Bullet Punch",
+            "Bug Bite",
+            "Protect",
+            "Dual Wingbeat"
+        ]
+    },
+    {
+        "id": "SNEASLER-3759db06",
+        "pokemon": "Sneasler",
+        "ability": "Poison Touch",
+        "item": "Focus Sash",
+        "moves": [
+            "Dire Claw",
+            "Close Combat",
+            "Rock Slide",
+            "Fake Out"
+        ]
+    },
+    {
+        "id": "HYDREIGON-217b52f0",
+        "pokemon": "Hydreigon",
+        "ability": "Levitate",
+        "item": "Haban Berry",
+        "moves": [
+            "Dark Pulse",
+            "Protect",
+            "Snarl",
+            "Draco Meteor"
+        ]
+    },
+    {
+        "id": "SCIZOR-ee99aeb1",
+        "pokemon": "Scizor",
+        "ability": "Technician",
+        "item": "Metal Coat",
+        "moves": [
+            "Bullet Punch",
+            "Protect",
+            "Bug Bite",
+            "Swords Dance"
+        ]
+    },
+    {
+        "id": "SCOVILLAIN-f76d06bb",
+        "pokemon": "Scovillain",
+        "ability": "Moody",
+        "item": "Scovillainite",
+        "moves": [
+            "Protect",
+            "Flamethrower",
+            "Leaf Storm",
+            "Rage Powder"
+        ]
+    },
+    {
+        "id": "HYDREIGON-ad697ab1",
+        "pokemon": "Hydreigon",
+        "ability": "Levitate",
+        "item": "Choice Scarf",
+        "moves": [
+            "Dark Pulse",
+            "Draco Meteor",
+            "Heat Wave",
+            "Snarl"
+        ]
+    },
+    {
+        "id": "MIMIKYU-2e09cee6",
+        "pokemon": "Mimikyu",
+        "ability": "Disguise",
+        "item": "White Herb",
+        "moves": [
+            "Shadow Claw",
+            "Shadow Sneak",
+            "Play Rough",
+            "Protect"
+        ]
+    },
+    {
+        "id": "EXCADRILL-30f7919b",
+        "pokemon": "Excadrill",
+        "ability": "Sand Rush",
+        "item": "Focus Sash",
+        "moves": [
+            "Iron Head",
+            "High Horsepower",
+            "Throat Chop",
+            "Protect"
+        ]
+    },
+    {
+        "id": "EXCADRILL-7709ecf8",
+        "pokemon": "Excadrill",
+        "ability": "Sand Rush",
+        "item": "Excadrite",
+        "moves": [
+            "High Horsepower",
+            "Iron Head",
+            "Rock Slide",
+            "Protect"
+        ]
+    },
+    {
+        "id": "TYRANITAR-daf8c6d5",
+        "pokemon": "Tyranitar",
+        "ability": "Sand Stream",
+        "item": "Chople Berry",
+        "moves": [
+            "Rock Slide",
+            "Knock Off",
+            "Low Kick",
+            "Protect"
+        ]
+    },
+    {
+        "id": "DRAGONITE-8862346b",
+        "pokemon": "Dragonite",
+        "ability": "Inner Focus",
+        "item": "Yache Berry",
+        "moves": [
+            "Tailwind",
+            "Dragon Claw",
+            "Extreme Speed",
+            "Protect"
+        ]
+    },
+    {
+        "id": "TYRANITAR-b2065007",
+        "pokemon": "Tyranitar",
+        "ability": "Sand Stream",
+        "item": "Choice Scarf",
+        "moves": [
+            "Rock Slide",
+            "Knock Off",
+            "Breaking Swipe",
+            "Low Kick"
+        ]
+    },
+    {
+        "id": "EXCADRILL-40a0ff09",
+        "pokemon": "Excadrill",
+        "ability": "Sand Rush",
+        "item": "White Herb",
+        "moves": [
+            "High Horsepower",
+            "Iron Head",
+            "Rock Slide",
+            "Protect"
+        ]
+    },
+    {
+        "id": "CORVIKNIGHT-7066f8ec",
+        "pokemon": "Corviknight",
+        "ability": "Mirror Armor",
+        "item": "Occa Berry",
+        "moves": [
+            "Brave Bird",
+            "Iron Head",
+            "Bulk Up",
+            "Tailwind"
+        ]
+    },
+    {
+        "id": "EXCADRILL-9fb41868",
+        "pokemon": "Excadrill",
+        "ability": "Sand Rush",
+        "item": "Focus Sash",
+        "moves": [
+            "Earthquake",
+            "Iron Head",
+            "Swords Dance",
+            "Protect"
+        ]
+    },
+    {
+        "id": "AEGISLASH-636267a0",
+        "pokemon": "Aegislash",
+        "ability": "Stance Change",
+        "item": "Leftovers",
+        "moves": [
+            "Shadow Ball",
+            "Flash Cannon",
+            "Wide Guard",
+            "King's Shield"
+        ]
+    },
+    {
+        "id": "SINISTCHA-00374690",
+        "pokemon": "Sinistcha",
+        "ability": "Hospitality",
+        "item": "Kasib Berry",
+        "moves": [
+            "Matcha Gotcha",
+            "Life Dew",
+            "Rage Powder",
+            "Trick Room"
+        ]
+    },
+    {
+        "id": "SYLVEON-df359c87",
+        "pokemon": "Sylveon",
+        "ability": "Pixilate",
+        "item": "Fairy Feather",
+        "moves": [
+            "Hyper Voice",
+            "Hyper Beam",
+            "Mystical Fire",
+            "Detect"
+        ]
+    },
+    {
+        "id": "GARDEVOIR-ee445949",
+        "pokemon": "Gardevoir",
+        "ability": "Trace",
+        "item": "Gardevoirite",
+        "moves": [
+            "Hyper Voice",
+            "Psychic",
+            "Trick Room",
+            "Protect"
+        ]
+    },
+    {
+        "id": "ARCANINEHISUIANFORM-122c11ea",
+        "pokemon": "Arcanine [Hisuian Form]",
+        "ability": "Intimidate",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Rock Slide",
+            "Flare Blitz",
+            "Extreme Speed",
+            "Protect"
+        ]
+    },
+    {
+        "id": "ROTOMHEATROTOM-737b3641",
+        "pokemon": "Rotom [Heat Rotom]",
+        "ability": "Levitate",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Thunderbolt",
+            "Overheat",
+            "Volt Switch",
+            "Protect"
+        ]
+    },
+    {
+        "id": "SINISTCHA-6b52fe40",
+        "pokemon": "Sinistcha",
+        "ability": "Hospitality",
+        "item": "Leftovers",
+        "moves": [
+            "Matcha Gotcha",
+            "Rage Powder",
+            "Strength Sap",
+            "Trick Room"
+        ]
+    },
+    {
+        "id": "TYRANITAR-1115dc26",
+        "pokemon": "Tyranitar",
+        "ability": "Sand Stream",
+        "item": "Tyranitarite",
+        "moves": [
+            "Rock Slide",
+            "Assurance",
+            "Low Kick",
+            "Protect"
+        ]
+    },
+    {
+        "id": "GARDEVOIR-b201e5df",
+        "pokemon": "Gardevoir",
+        "ability": "Telepathy",
+        "item": "Choice Scarf",
+        "moves": [
+            "Psyshock",
+            "Dazzling Gleam",
+            "Moonblast",
+            "Icy Wind"
+        ]
+    },
+    {
+        "id": "TAUROSPALDEANFORMBLAZEBREED-53dd2fb1",
+        "pokemon": "Tauros [Paldean Form (Blaze Breed)]",
+        "ability": "Intimidate",
+        "item": "White Herb",
+        "moves": [
+            "Close Combat",
+            "Flare Blitz",
+            "Will-O-Wisp",
+            "Protect"
+        ]
+    },
+    {
+        "id": "GARDEVOIR-5ffa1c4e",
+        "pokemon": "Gardevoir",
+        "ability": "Trace",
+        "item": "Gardevoirite",
+        "moves": [
+            "Hyper Voice",
+            "Psyshock",
+            "Protect",
+            "Trick Room"
+        ]
+    },
+    {
+        "id": "ROTOMWASHROTOM-726af47b",
+        "pokemon": "Rotom [Wash Rotom]",
+        "ability": "Levitate",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Thunderbolt",
+            "Hydro Pump",
+            "Discharge",
+            "Will-O-Wisp"
+        ]
+    },
+    {
+        "id": "GARDEVOIR-6a39257f",
+        "pokemon": "Gardevoir",
+        "ability": "Telepathy",
+        "item": "Choice Scarf",
+        "moves": [
+            "Moonblast",
+            "Psyshock",
+            "Dazzling Gleam",
+            "Aura Sphere"
+        ]
+    },
+    {
+        "id": "INCINEROAR-1901aa95",
+        "pokemon": "Incineroar",
+        "ability": "Intimidate",
+        "item": "Chople Berry",
+        "moves": [
+            "Fake Out",
+            "Flare Blitz",
+            "Protect",
+            "Parting Shot"
+        ]
+    },
+    {
+        "id": "PALAFIN-687e23cf",
+        "pokemon": "Palafin",
+        "ability": "Zero to Hero",
+        "item": "Mystic Water",
+        "moves": [
+            "Wave Crash",
+            "Jet Punch",
+            "Close Combat",
+            "Protect"
+        ]
+    },
+    {
+        "id": "FROSLASS-d4d57a5a",
+        "pokemon": "Froslass",
+        "ability": "Snow Cloak",
+        "item": "Sin Objeto",
+        "moves": [
+            "Blizzard",
+            "Shadow Ball",
+            "Aurora Veil",
+            "Protect"
+        ]
+    },
+    {
+        "id": "BEARTIC-b2bebb35",
+        "pokemon": "Beartic",
+        "ability": "Slush Rush",
+        "item": "Focus Sash",
+        "moves": [
+            "Close Combat",
+            "Icicle Crash",
+            "Icy Wind",
+            "Protect"
+        ]
+    },
+    {
+        "id": "KOMMOO-1c871876",
+        "pokemon": "Kommo-o",
+        "ability": "Soundproof",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Clanging Scales",
+            "Aura Sphere",
+            "Clangorous Soul",
+            "Protect"
+        ]
+    },
+    {
+        "id": "VOLCARONA-ef4a7bf2",
+        "pokemon": "Volcarona",
+        "ability": "Flame Body",
+        "item": "Leftovers",
+        "moves": [
+            "Overheat",
+            "Tailwind",
+            "Rage Powder",
+            "Protect"
+        ]
+    },
+    {
+        "id": "ARCANINEHISUIANFORM-d89901a7",
+        "pokemon": "Arcanine [Hisuian Form]",
+        "ability": "Intimidate",
+        "item": "White Herb",
+        "moves": [
+            "Flare Blitz",
+            "Rock Slide",
+            "Extreme Speed",
+            "Protect"
+        ]
+    },
+    {
+        "id": "KOMMOO-fd8b3f04",
+        "pokemon": "Kommo-o",
+        "ability": "Overcoat",
+        "item": "Leftovers",
+        "moves": [
+            "Body Press",
+            "Flamethrower",
+            "Iron Defense",
+            "Protect"
+        ]
+    },
+    {
+        "id": "KOMMOO-6fd7e82b",
+        "pokemon": "Kommo-o",
+        "ability": "Overcoat",
+        "item": "Dragon Fang",
+        "moves": [
+            "Clanging Scales",
+            "Clangorous Soul",
+            "Aura Sphere",
+            "Protect"
+        ]
+    },
+    {
+        "id": "KOMMOO-aaf3aa48",
+        "pokemon": "Kommo-o",
+        "ability": "Soundproof",
+        "item": "Dragon Fang",
+        "moves": [
+            "Clanging Scales",
+            "Clangorous Soul",
+            "Aura Sphere",
+            "Protect"
+        ]
+    },
+    {
+        "id": "SINISTCHA-805d56a4",
+        "pokemon": "Sinistcha",
+        "ability": "Hospitality",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Matcha Gotcha",
+            "Rage Powder",
+            "Trick Room",
+            "Imprison"
+        ]
+    },
+    {
+        "id": "SCOVILLAIN-6f63e5d4",
+        "pokemon": "Scovillain",
+        "ability": "Moody",
+        "item": "Scovillainite",
+        "moves": [
+            "Flamethrower",
+            "Leech Seed",
+            "Rage Powder",
+            "Protect"
+        ]
+    },
+    {
+        "id": "PRIMARINA-5e9d13c9",
+        "pokemon": "Primarina",
+        "ability": "Liquid Voice",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Hyper Voice",
+            "Moonblast",
+            "Encore",
+            "Protect"
+        ]
+    },
+    {
+        "id": "PRIMARINA-1a832f60",
+        "pokemon": "Primarina",
+        "ability": "Liquid Voice",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Hyper Voice",
+            "Moonblast",
+            "Calm Mind",
+            "Protect"
+        ]
+    },
+    {
+        "id": "VENUSAUR-3548e173",
+        "pokemon": "Venusaur",
+        "ability": "Chlorophyll",
+        "item": "Venusaurite",
+        "moves": [
+            "Leaf Storm",
+            "Sludge Bomb",
+            "Earth Power",
+            "Protect"
+        ]
+    },
+    {
+        "id": "DRAGONITE-c0f3ff52",
+        "pokemon": "Dragonite",
+        "ability": "Multiscale",
+        "item": "Lum Berry",
+        "moves": [
+            "Scale Shot",
+            "Extreme Speed",
+            "Tailwind",
+            "Protect"
+        ]
+    },
+    {
+        "id": "FROSLASS-8dda57b9",
+        "pokemon": "Froslass",
+        "ability": "Cursed Body",
+        "item": "Froslassite",
+        "moves": [
+            "Aurora Veil",
+            "Blizzard",
+            "Shadow Ball",
+            "Destiny Bond"
+        ]
+    },
+    {
+        "id": "TSAREENA-544441ee",
+        "pokemon": "Tsareena",
+        "ability": "Queenly Majesty",
+        "item": "Leftovers",
+        "moves": [
+            "Trop Kick",
+            "Helping Hand",
+            "Zen Headbutt",
+            "High Jump Kick"
+        ]
+    },
+    {
+        "id": "KINGAMBIT-cb2cf85f",
+        "pokemon": "Kingambit",
+        "ability": "Defiant",
+        "item": "Chople Berry",
+        "moves": [
+            "Swords Dance",
+            "Kowtow Cleave",
+            "Sucker Punch",
+            "Iron Head"
+        ]
+    },
+    {
+        "id": "SNEASLER-b959a80b",
+        "pokemon": "Sneasler",
+        "ability": "Unburden",
+        "item": "White Herb",
+        "moves": [
+            "Close Combat",
+            "Dire Claw",
+            "Fake Out",
+            "Rock Slide"
+        ]
+    },
+    {
+        "id": "PRIMARINA-9d547981",
+        "pokemon": "Primarina",
+        "ability": "Liquid Voice",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Aqua Jet",
+            "Hyper Voice",
+            "Moonblast",
+            "Protect"
+        ]
+    },
+    {
+        "id": "TALONFLAME-07c44d56",
+        "pokemon": "Talonflame",
+        "ability": "Gale Wings",
+        "item": "Sharp Beak",
+        "moves": [
+            "Dual Wingbeat",
+            "Brave Bird",
+            "Flare Blitz",
+            "Tailwind"
+        ]
+    },
+    {
+        "id": "PELIPPER-de88ab98",
+        "pokemon": "Pelipper",
+        "ability": "Drizzle",
+        "item": "Focus Sash",
+        "moves": [
+            "Weather Ball",
+            "Protect",
+            "Helping Hand",
+            "Hurricane"
+        ]
+    },
+    {
+        "id": "PRIMARINA-2463b80f",
+        "pokemon": "Primarina",
+        "ability": "Liquid Voice",
+        "item": "Mystic Water",
+        "moves": [
+            "Moonblast",
+            "Hyper Voice",
+            "Protect",
+            "Calm Mind"
+        ]
+    },
+    {
+        "id": "PRIMARINA-e29b4d8e",
+        "pokemon": "Primarina",
+        "ability": "Liquid Voice",
+        "item": "Leftovers",
+        "moves": [
+            "Moonblast",
+            "Hyper Voice",
+            "Protect",
+            "Icy Wind"
+        ]
+    },
+    {
+        "id": "BASCULEGION-bb71ffa3",
+        "pokemon": "Basculegion",
+        "ability": "Swift Swim",
+        "item": "Choice Scarf",
+        "moves": [
+            "Last Respects",
+            "Wave Crash",
+            "Protect",
+            "Aqua Jet"
+        ]
+    },
+    {
+        "id": "HATTERENE-ebbd9d97",
+        "pokemon": "Hatterene",
+        "ability": "Magic Bounce",
+        "item": "Fairy Feather",
+        "moves": [
+            "Protect",
+            "Psychic",
+            "Dazzling Gleam",
+            "Trick Room"
+        ]
+    },
+    {
+        "id": "FARIGIRAF-b399a07a",
+        "pokemon": "Farigiraf",
+        "ability": "Armor Tail",
+        "item": "Colbur Berry",
+        "moves": [
+            "Protect",
+            "Psychic",
+            "Imprison",
+            "Trick Room"
+        ]
+    },
+    {
+        "id": "TORKOAL-9a853d41",
+        "pokemon": "Torkoal",
+        "ability": "Drought",
+        "item": "Charcoal",
+        "moves": [
+            "Eruption",
+            "Weather Ball",
+            "Earth Power",
+            "Protect"
+        ]
+    },
+    {
+        "id": "KINGAMBIT-2b9f81b5",
+        "pokemon": "Kingambit",
+        "ability": "Defiant",
+        "item": "Black Glasses",
+        "moves": [
+            "Kowtow Cleave",
+            "Sucker Punch",
+            "Iron Head",
+            "Low Kick"
+        ]
+    },
+    {
+        "id": "TORKOAL-0f6e2181",
+        "pokemon": "Torkoal",
+        "ability": "Drought",
+        "item": "Charcoal",
+        "moves": [
+            "Eruption",
+            "Weather Ball",
+            "Helping Hand",
+            "Protect"
+        ]
+    },
+    {
+        "id": "VENUSAUR-d61c17a2",
+        "pokemon": "Venusaur",
+        "ability": "Chlorophyll",
+        "item": "Focus Sash",
+        "moves": [
+            "Weather Ball",
+            "Leaf Storm",
+            "Sleep Powder",
+            "Protect"
+        ]
+    },
+    {
+        "id": "SCOVILLAIN-3a3af4ef",
+        "pokemon": "Scovillain",
+        "ability": "Chlorophyll",
+        "item": "Scovillainite",
+        "moves": [
+            "Giga Drain",
+            "Leaf Storm",
+            "Flamethrower",
+            "Rage Powder"
+        ]
+    },
+    {
+        "id": "SINISTCHA-e121c7ba",
+        "pokemon": "Sinistcha",
+        "ability": "Hospitality",
+        "item": "Occa Berry",
+        "moves": [
+            "Matcha Gotcha",
+            "Strength Sap",
+            "Rage Powder",
+            "Trick Room"
+        ]
+    },
+    {
+        "id": "FARIGIRAF-98573eba",
+        "pokemon": "Farigiraf",
+        "ability": "Armor Tail",
+        "item": "Colbur Berry",
+        "moves": [
+            "Hyper Voice",
+            "Psychic",
+            "Protect",
+            "Trick Room"
+        ]
+    },
+    {
+        "id": "TORKOAL-9dbef57a",
+        "pokemon": "Torkoal",
+        "ability": "Drought",
+        "item": "Charcoal",
+        "moves": [
+            "Eruption",
+            "Earth Power",
+            "Heat Wave",
+            "Protect"
+        ]
+    },
+    {
+        "id": "VENUSAUR-0f8b2dd3",
+        "pokemon": "Venusaur",
+        "ability": "Chlorophyll",
+        "item": "Venusaurite",
+        "moves": [
+            "Sleep Powder",
+            "Giga Drain",
+            "Acid Spray",
+            "Earth Power"
+        ]
+    },
+    {
+        "id": "GARCHOMP-4d784a58",
+        "pokemon": "Garchomp",
+        "ability": "Rough Skin",
+        "item": "Choice Scarf",
+        "moves": [
+            "Rock Slide",
+            "Stomping Tantrum",
+            "Dragon Claw",
+            "Breaking Swipe"
+        ]
+    },
+    {
+        "id": "TORKOAL-527a32d2",
+        "pokemon": "Torkoal",
+        "ability": "Drought",
+        "item": "Charcoal",
+        "moves": [
+            "Eruption",
+            "Solar Beam",
+            "Weather Ball",
+            "Protect"
+        ]
+    },
+    {
+        "id": "SINISTCHA-712fb04d",
+        "pokemon": "Sinistcha",
+        "ability": "Hospitality",
+        "item": "Colbur Berry",
+        "moves": [
+            "Matcha Gotcha",
+            "Shadow Ball",
+            "Life Dew",
+            "Trick Room"
+        ]
+    },
+    {
+        "id": "SYLVEON-4a8270ab",
+        "pokemon": "Sylveon",
+        "ability": "Pixilate",
+        "item": "Fairy Feather",
+        "moves": [
+            "Hyper Voice",
+            "Moonblast",
+            "Quick Attack",
+            "Detect"
+        ]
+    },
+    {
+        "id": "BLASTOISE-8388e765",
+        "pokemon": "Blastoise",
+        "ability": "Torrent",
+        "item": "Blastoisinite",
+        "moves": [
+            "Water Spout",
+            "Dark Pulse",
+            "Aura Sphere",
+            "Fake Out"
+        ]
+    },
+    {
+        "id": "GARCHOMP-1a3bee4b",
+        "pokemon": "Garchomp",
+        "ability": "Rough Skin",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Earthquake",
+            "Dragon Claw",
+            "Rock Tomb",
+            "Protect"
+        ]
+    },
+    {
+        "id": "SYLVEON-136b1fe8",
+        "pokemon": "Sylveon",
+        "ability": "Pixilate",
+        "item": "Fairy Feather",
+        "moves": [
+            "Hyper Voice",
+            "Hyper Beam",
+            "Quick Attack",
+            "Detect"
+        ]
+    },
+    {
+        "id": "SYLVEON-0b7d274e",
+        "pokemon": "Sylveon",
+        "ability": "Pixilate",
+        "item": "Fairy Feather",
+        "moves": [
+            "Protect",
+            "Hyper Voice",
+            "Hyper Beam",
+            "Quick Attack"
+        ]
+    },
+    {
+        "id": "AEGISLASH-87f2be7c",
+        "pokemon": "Aegislash",
+        "ability": "Stance Change",
+        "item": "Spell Tag",
+        "moves": [
+            "Poltergeist",
+            "Shadow Sneak",
+            "Iron Head"
+        ]
+    },
+    {
+        "id": "VENUSAUR-57957836",
+        "pokemon": "Venusaur",
+        "ability": "Chlorophyll",
+        "item": "Miracle Seed",
+        "moves": [
+            "Leaf Storm",
+            "Sleep Powder",
+            "Earth Power",
+            "Protect"
+        ]
+    },
+    {
+        "id": "SYLVEON-e302b3e9",
+        "pokemon": "Sylveon",
+        "ability": "Pixilate",
+        "item": "Fairy Feather",
+        "moves": [
+            "Hyper Voice",
+            "Moonblast",
+            "Quick Attack",
+            "Protect"
+        ]
+    },
+    {
+        "id": "BLASTOISE-fed2557d",
+        "pokemon": "Blastoise",
+        "ability": "Rain Dish",
+        "item": "Blastoisinite",
+        "moves": [
+            "Shell Smash",
+            "Water Spout",
+            "Dark Pulse",
+            "Protect"
+        ]
+    },
+    {
+        "id": "SYLVEON-9f698fb9",
+        "pokemon": "Sylveon",
+        "ability": "Pixilate",
+        "item": "Fairy Feather",
+        "moves": [
+            "Detect",
+            "Quick Attack",
+            "Hyper Voice",
+            "Helping Hand"
+        ]
+    },
+    {
+        "id": "GARCHOMP-3d5ad625",
+        "pokemon": "Garchomp",
+        "ability": "Rough Skin",
+        "item": "Choice Scarf",
+        "moves": [
+            "Rock Slide",
+            "Dragon Claw",
+            "Earthquake",
+            "Bulldoze"
+        ]
+    },
+    {
+        "id": "GARCHOMP-fdfa0bd7",
+        "pokemon": "Garchomp",
+        "ability": "Rough Skin",
+        "item": "Dragon Fang",
+        "moves": [
+            "Dragon Claw",
+            "Earthquake",
+            "Stomping Tantrum",
+            "Protect"
+        ]
+    },
+    {
+        "id": "KANGASKHAN-e0095cc1",
+        "pokemon": "Kangaskhan",
+        "ability": "Scrappy",
+        "item": "Kangaskhanite",
+        "moves": [
+            "Double-Edge",
+            "Sucker Punch",
+            "Fake Out",
+            "Hammer Arm"
+        ]
+    },
+    {
+        "id": "BASCULEGION-676e1974",
+        "pokemon": "Basculegion",
+        "ability": "Swift Swim",
+        "item": "Focus Sash",
+        "moves": [
+            "Liquidation",
+            "Aqua Jet",
+            "Protect",
+            "Last Respects"
+        ]
+    },
+    {
+        "id": "KANGASKHAN-ffb0090c",
+        "pokemon": "Kangaskhan",
+        "ability": "Scrappy",
+        "item": "Kangaskhanite",
+        "moves": [
+            "Fake Out",
+            "Double-Edge",
+            "Crunch",
+            "Drain Punch"
+        ]
+    },
+    {
+        "id": "KANGASKHAN-61a00442",
+        "pokemon": "Kangaskhan",
+        "ability": "Inner Focus",
+        "item": "Kangaskhanite",
+        "moves": [
+            "Fake Out",
+            "Double-Edge",
+            "Sucker Punch",
+            "Low Kick"
+        ]
+    },
+    {
+        "id": "KANGASKHAN-d5e86ac6",
+        "pokemon": "Kangaskhan",
+        "ability": "Inner Focus",
+        "item": "Kangaskhanite",
+        "moves": [
+            "Double-Edge",
+            "Fake Out",
+            "Drain Punch",
+            "Sucker Punch"
+        ]
+    },
+    {
+        "id": "TAUROSPALDEANFORMAQUABREED-ee864af4",
+        "pokemon": "Tauros [Paldean Form (Aqua Breed)]",
+        "ability": "Intimidate",
+        "item": "White Herb",
+        "moves": [
+            "Protect",
+            "Aqua Jet",
+            "Wave Crash",
+            "Close Combat"
+        ]
+    },
+    {
+        "id": "ARCHALUDON-ea5d8198",
+        "pokemon": "Archaludon",
+        "ability": "Sturdy",
+        "item": "Dragon Fang",
+        "moves": [
+            "Thunderbolt",
+            "Dragon Pulse",
+            "Protect"
+        ]
+    },
+    {
+        "id": "KANGASKHAN-748806f6",
+        "pokemon": "Kangaskhan",
+        "ability": "Scrappy",
+        "item": "Silk Scarf",
+        "moves": [
+            "Last Resort",
+            "Fake Out"
+        ]
+    },
+    {
+        "id": "DELPHOX-47334a20",
+        "pokemon": "Delphox",
+        "ability": "Levitate",
+        "item": "Delphoxite",
+        "moves": [
+            "Heat Wave",
+            "Psyshock",
+            "Encore",
+            "Protect"
+        ]
+    },
+    {
+        "id": "NINETALESALOLANFORM-4f462371",
+        "pokemon": "Ninetales [Alolan Form]",
+        "ability": "Snow Warning",
+        "item": "Choice Scarf",
+        "moves": [
+            "Blizzard",
+            "Freeze-Dry",
+            "Moonblast",
+            "Icy Wind"
+        ]
+    },
+    {
+        "id": "ROTOMWASHROTOM-6ef1237a",
+        "pokemon": "Rotom [Wash Rotom]",
+        "ability": "Levitate",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Thunderbolt",
+            "Hydro Pump",
+            "Volt Switch",
+            "Protect"
+        ]
+    },
+    {
+        "id": "NINETALESALOLANFORM-95761e97",
+        "pokemon": "Ninetales [Alolan Form]",
+        "ability": "Snow Warning",
+        "item": "Never-Melt Ice",
+        "moves": [
+            "Blizzard",
+            "Freeze-Dry",
+            "Encore",
+            "Protect"
+        ]
+    },
+    {
+        "id": "NINETALESALOLANFORM-153e47d8",
+        "pokemon": "Ninetales [Alolan Form]",
+        "ability": "Snow Warning",
+        "item": "Focus Sash",
+        "moves": [
+            "Blizzard",
+            "Moonblast",
+            "Aurora Veil",
+            "Protect"
+        ]
+    },
+    {
+        "id": "GYARADOS-369ec9c9",
+        "pokemon": "Gyarados",
+        "ability": "Intimidate",
+        "item": "Gyaradosite",
+        "moves": [
+            "Waterfall",
+            "Crunch",
+            "Dragon Dance",
+            "Protect"
+        ]
+    },
+    {
+        "id": "ROTOMHEATROTOM-d11510f1",
+        "pokemon": "Rotom [Heat Rotom]",
+        "ability": "Levitate",
+        "item": "Leftovers",
+        "moves": [
+            "Overheat",
+            "Will-O-Wisp",
+            "Volt Switch",
+            "Protect"
+        ]
+    },
+    {
+        "id": "LOPUNNY-47cd7e3c",
+        "pokemon": "Lopunny",
+        "ability": "Limber",
+        "item": "Lopunnite",
+        "moves": [
+            "Fake Out",
+            "Close Combat",
+            "Encore",
+            "Protect"
+        ]
+    },
+    {
+        "id": "VOLCARONA-b4dd5fb5",
+        "pokemon": "Volcarona",
+        "ability": "Flame Body",
+        "item": "Leftovers",
+        "moves": [
+            "Protect",
+            "Heat Wave",
+            "Giga Drain",
+            "Quiver Dance"
+        ]
+    },
+    {
+        "id": "CORVIKNIGHT-7ff3e019",
+        "pokemon": "Corviknight",
+        "ability": "Mirror Armor",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Iron Head",
+            "Brave Bird",
+            "Tailwind",
+            "Bulk Up"
+        ]
+    },
+    {
+        "id": "GARCHOMP-219ea13d",
+        "pokemon": "Garchomp",
+        "ability": "Rough Skin",
+        "item": "White Herb",
+        "moves": [
+            "Earthquake",
+            "Protect",
+            "Rock Slide",
+            "Stomping Tantrum"
+        ]
+    },
+    {
+        "id": "NINETALESALOLANFORM-5d4470b4",
+        "pokemon": "Ninetales [Alolan Form]",
+        "ability": "Snow Warning",
+        "item": "Focus Sash",
+        "moves": [
+            "Protect",
+            "Blizzard",
+            "Freeze-Dry",
+            "Aurora Veil"
+        ]
+    },
+    {
+        "id": "SINISTCHA-e945b56a",
+        "pokemon": "Sinistcha",
+        "ability": "Hospitality",
+        "item": "Colbur Berry",
+        "moves": [
+            "Matcha Gotcha",
+            "Rage Powder",
+            "Trick Room",
+            "Protect"
+        ]
+    },
+    {
+        "id": "NINETALESALOLANFORM-582b719f",
+        "pokemon": "Ninetales [Alolan Form]",
+        "ability": "Snow Warning",
+        "item": "Focus Sash",
+        "moves": [
+            "Blizzard",
+            "Encore",
+            "Aurora Veil",
+            "Protect"
+        ]
+    },
+    {
+        "id": "NINETALESALOLANFORM-55a7e4a1",
+        "pokemon": "Ninetales [Alolan Form]",
+        "ability": "Snow Warning",
+        "item": "Focus Sash",
+        "moves": [
+            "Blizzard",
+            "Icy Wind",
+            "Aurora Veil",
+            "Protect"
+        ]
+    },
+    {
+        "id": "POLITOED-6583242c",
+        "pokemon": "Politoed",
+        "ability": "Drizzle",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Weather Ball",
+            "Icy Wind",
+            "Helping Hand",
+            "Protect"
+        ]
+    },
+    {
+        "id": "BLASTOISE-2d683dbf",
+        "pokemon": "Blastoise",
+        "ability": "Rain Dish",
+        "item": "Blastoisinite",
+        "moves": [
+            "Water Spout",
+            "Dark Pulse",
+            "Aura Sphere",
+            "Fake Out"
+        ]
+    },
+    {
+        "id": "POLITOED-01f132d4",
+        "pokemon": "Politoed",
+        "ability": "Drizzle",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Weather Ball",
+            "Ice Beam",
+            "Perish Song",
+            "Protect"
+        ]
+    },
+    {
+        "id": "TSAREENA-329ff9c1",
+        "pokemon": "Tsareena",
+        "ability": "Queenly Majesty",
+        "item": "White Herb",
+        "moves": [
+            "Trop Kick",
+            "Triple Axel",
+            "Low Kick",
+            "Protect"
+        ]
+    },
+    {
+        "id": "INCINEROAR-ff15c6ca",
+        "pokemon": "Incineroar",
+        "ability": "Intimidate",
+        "item": "Passho Berry",
+        "moves": [
+            "Throat Chop",
+            "Fake Out",
+            "Parting Shot",
+            "Protect"
+        ]
+    },
+    {
+        "id": "SABLEYE-506d0367",
+        "pokemon": "Sableye",
+        "ability": "Prankster",
+        "item": "Roseli Berry",
+        "moves": [
+            "Rain Dance",
+            "Light Screen",
+            "Will-O-Wisp",
+            "Encore"
+        ]
+    },
+    {
+        "id": "POLITOED-3fbb39db",
+        "pokemon": "Politoed",
+        "ability": "Drizzle",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Weather Ball",
+            "Perish Song",
+            "Encore",
+            "Protect"
+        ]
+    },
+    {
+        "id": "POLITOED-194af816",
+        "pokemon": "Politoed",
+        "ability": "Drizzle",
+        "item": "Leftovers",
+        "moves": [
+            "Weather Ball",
+            "Icy Wind",
+            "Perish Song",
+            "Protect"
+        ]
+    },
+    {
+        "id": "INCINEROAR-f1c0125f",
+        "pokemon": "Incineroar",
+        "ability": "Intimidate",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Throat Chop",
+            "Will-O-Wisp",
+            "Parting Shot",
+            "Fake Out"
+        ]
+    },
+    {
+        "id": "INCINEROAR-c5476343",
+        "pokemon": "Incineroar",
+        "ability": "Intimidate",
+        "item": "Chople Berry",
+        "moves": [
+            "Protect",
+            "Fake Out",
+            "Darkest Lariat",
+            "Parting Shot"
+        ]
+    },
+    {
+        "id": "POLITOED-8b163894",
+        "pokemon": "Politoed",
+        "ability": "Drizzle",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Protect",
+            "Weather Ball",
+            "Icy Wind",
+            "Perish Song"
+        ]
+    },
+    {
+        "id": "GLIMMORA-38f5ff54",
+        "pokemon": "Glimmora",
+        "ability": "Toxic Debris",
+        "item": "Glimmoranite",
+        "moves": [
+            "Sludge Bomb",
+            "Power Gem",
+            "Earth Power",
+            "Protect"
+        ]
+    },
+    {
+        "id": "GLIMMORA-4808e452",
+        "pokemon": "Glimmora",
+        "ability": "Toxic Debris",
+        "item": "Glimmoranite",
+        "moves": [
+            "Sludge Wave",
+            "Power Gem",
+            "Earth Power",
+            "Spiky Shield"
+        ]
+    },
+    {
+        "id": "TINKATON-c20b19ec",
+        "pokemon": "Tinkaton",
+        "ability": "Mold Breaker",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Gigaton Hammer",
+            "Encore",
+            "Fake Out",
+            "Helping Hand"
+        ]
+    },
+    {
+        "id": "VENUSAUR-cb87ebd6",
+        "pokemon": "Venusaur",
+        "ability": "Chlorophyll",
+        "item": "Venusaurite",
+        "moves": [
+            "Protect",
+            "Earth Power",
+            "Giga Drain",
+            "Leech Seed"
+        ]
+    },
+    {
+        "id": "ROTOMHEATROTOM-66d1eb0a",
+        "pokemon": "Rotom [Heat Rotom]",
+        "ability": "Levitate",
+        "item": "Choice Scarf",
+        "moves": [
+            "Electroweb",
+            "Trick",
+            "Volt Switch",
+            "Overheat"
+        ]
+    },
+    {
+        "id": "GLIMMORA-e04c467a",
+        "pokemon": "Glimmora",
+        "ability": "Toxic Debris",
+        "item": "Focus Sash",
+        "moves": [
+            "Mortal Spin",
+            "Spiky Shield",
+            "Sludge Bomb",
+            "Power Gem"
+        ]
+    },
+    {
+        "id": "TOXAPEX-a71d39d6",
+        "pokemon": "Toxapex",
+        "ability": "Regenerator",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Recover",
+            "Infestation",
+            "Toxic",
+            "Wide Guard"
+        ]
+    },
+    {
+        "id": "GARCHOMP-cb3b5b0f",
+        "pokemon": "Garchomp",
+        "ability": "Sand Veil",
+        "item": "Bright Powder",
+        "moves": [
+            "Rock Slide",
+            "Earthquake",
+            "Protect",
+            "Dragon Claw"
+        ]
+    },
+    {
+        "id": "GLIMMORA-902e4ab9",
+        "pokemon": "Glimmora",
+        "ability": "Toxic Debris",
+        "item": "Glimmoranite",
+        "moves": [
+            "Spiky Shield",
+            "Power Gem",
+            "Substitute",
+            "Sludge Bomb"
+        ]
+    },
+    {
+        "id": "CORVIKNIGHT-383eed8b",
+        "pokemon": "Corviknight",
+        "ability": "Mirror Armor",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Iron Defense",
+            "Brave Bird",
+            "Body Press",
+            "Roost"
+        ]
+    },
+    {
+        "id": "SINISTCHA-12c5d519",
+        "pokemon": "Sinistcha",
+        "ability": "Hospitality",
+        "item": "Leftovers",
+        "moves": [
+            "Matcha Gotcha",
+            "Rage Powder",
+            "Protect",
+            "Trick Room"
+        ]
+    },
+    {
+        "id": "VENUSAUR-5f3b9745",
+        "pokemon": "Venusaur",
+        "ability": "Chlorophyll",
+        "item": "Venusaurite",
+        "moves": [
+            "Giga Drain",
+            "Sludge Wave",
+            "Earth Power",
+            "Protect"
+        ]
+    },
+    {
+        "id": "SABLEYE-4f94e352",
+        "pokemon": "Sableye",
+        "ability": "Prankster",
+        "item": "Roseli Berry",
+        "moves": [
+            "Foul Play",
+            "Will-O-Wisp",
+            "Light Screen",
+            "Rain Dance"
+        ]
+    },
+    {
+        "id": "SABLEYE-29c0c5a0",
+        "pokemon": "Sableye",
+        "ability": "Prankster",
+        "item": "Roseli Berry",
+        "moves": [
+            "Foul Play",
+            "Rain Dance",
+            "Light Screen",
+            "Reflect"
+        ]
+    },
+    {
+        "id": "KINGAMBIT-00aac683",
+        "pokemon": "Kingambit",
+        "ability": "Defiant",
+        "item": "Chople Berry",
+        "moves": [
+            "Sucker Punch",
+            "Kowtow Cleave",
+            "Swords Dance",
+            "Protect"
+        ]
+    },
+    {
+        "id": "SABLEYE-01132aee",
+        "pokemon": "Sableye",
+        "ability": "Prankster",
+        "item": "Roseli Berry",
+        "moves": [
+            "Reflect",
+            "Quash",
+            "Rain Dance",
+            "Light Screen"
+        ]
+    },
+    {
+        "id": "DRAGONITE-f67430f2",
+        "pokemon": "Dragonite",
+        "ability": "Inner Focus",
+        "item": "Dragoninite",
+        "moves": [
+            "Draco Meteor",
+            "Flamethrower",
+            "Hurricane",
+            "Tailwind"
+        ]
+    },
+    {
+        "id": "SABLEYE-2a508796",
+        "pokemon": "Sableye",
+        "ability": "Prankster",
+        "item": "Roseli Berry",
+        "moves": [
+            "Rain Dance",
+            "Encore",
+            "Light Screen",
+            "Reflect"
+        ]
+    },
+    {
+        "id": "GARCHOMP-dec97ca2",
+        "pokemon": "Garchomp",
+        "ability": "Rough Skin",
+        "item": "White Herb",
+        "moves": [
+            "Protect",
+            "Stomping Tantrum",
+            "Rock Slide",
+            "Dragon Claw"
+        ]
+    },
+    {
+        "id": "SCOVILLAIN-2592f42c",
+        "pokemon": "Scovillain",
+        "ability": "Moody",
+        "item": "Scovillainite",
+        "moves": [
+            "Protect",
+            "Rage Powder",
+            "Leaf Storm",
+            "Overheat"
+        ]
+    },
+    {
+        "id": "DRAGONITE-3a1d96b8",
+        "pokemon": "Dragonite",
+        "ability": "Inner Focus",
+        "item": "Haban Berry",
+        "moves": [
+            "Protect",
+            "Extreme Speed",
+            "Dragon Claw",
+            "Low Kick"
+        ]
+    },
+    {
+        "id": "SCOVILLAIN-0fc94562",
+        "pokemon": "Scovillain",
+        "ability": "Insomnia",
+        "item": "Scovillainite",
+        "moves": [
+            "Overheat",
+            "Leech Seed",
+            "Rage Powder",
+            "Protect"
+        ]
+    },
+    {
+        "id": "SCOVILLAIN-48b4a58e",
+        "pokemon": "Scovillain",
+        "ability": "Chlorophyll",
+        "item": "Scovillainite",
+        "moves": [
+            "Protect",
+            "Overheat",
+            "Leech Seed",
+            "Rage Powder"
+        ]
+    },
+    {
+        "id": "SCOVILLAIN-c06e2510",
+        "pokemon": "Scovillain",
+        "ability": "Moody",
+        "item": "Scovillainite",
+        "moves": [
+            "Giga Drain",
+            "Flamethrower",
+            "Rage Powder",
+            "Protect"
+        ]
+    },
+    {
+        "id": "DRAGONITE-53c2ab60",
+        "pokemon": "Dragonite",
+        "ability": "Multiscale",
+        "item": "White Herb",
+        "moves": [
+            "Scale Shot",
+            "Extreme Speed",
+            "Stomping Tantrum",
+            "Protect"
+        ]
+    },
+    {
+        "id": "GYARADOS-4c2341df",
+        "pokemon": "Gyarados",
+        "ability": "Intimidate",
+        "item": "Leftovers",
+        "moves": [
+            "Waterfall",
+            "Thunder Wave",
+            "Taunt",
+            "Protect"
+        ]
+    },
+    {
+        "id": "CONKELDURR-82936ca3",
+        "pokemon": "Conkeldurr",
+        "ability": "Guts",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Close Combat",
+            "Mach Punch",
+            "Ice Punch",
+            "Protect"
+        ]
+    },
+    {
+        "id": "SINISTCHA-10bb49fa",
+        "pokemon": "Sinistcha",
+        "ability": "Hospitality",
+        "item": "Leftovers",
+        "moves": [
+            "Matcha Gotcha",
+            "Strength Sap",
+            "Rage Powder",
+            "Protect"
+        ]
+    },
+    {
+        "id": "ROTOMHEATROTOM-25c89578",
+        "pokemon": "Rotom [Heat Rotom]",
+        "ability": "Levitate",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Thunderbolt",
+            "Overheat",
+            "Will-O-Wisp",
+            "Protect"
+        ]
+    },
+    {
+        "id": "DRAGONITE-f6be21f1",
+        "pokemon": "Dragonite",
+        "ability": "Multiscale",
+        "item": "Dragon Fang",
+        "moves": [
+            "Scale Shot",
+            "Haze",
+            "Protect",
+            "Tailwind"
+        ]
+    },
+    {
+        "id": "CORVIKNIGHT-72a15d98",
+        "pokemon": "Corviknight",
+        "ability": "Mirror Armor",
+        "item": "Leftovers",
+        "moves": [
+            "Tailwind",
+            "Protect",
+            "Brave Bird",
+            "Iron Head"
+        ]
+    },
+    {
+        "id": "SINISTCHA-787bca78",
+        "pokemon": "Sinistcha",
+        "ability": "Hospitality",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Protect",
+            "Matcha Gotcha",
+            "Strength Sap",
+            "Rage Powder"
+        ]
+    },
+    {
+        "id": "ROTOMHEATROTOM-e6ad2f29",
+        "pokemon": "Rotom [Heat Rotom]",
+        "ability": "Levitate",
+        "item": "Passho Berry",
+        "moves": [
+            "Overheat",
+            "Thunderbolt",
+            "Will-O-Wisp",
+            "Protect"
+        ]
+    },
+    {
+        "id": "ROTOMHEATROTOM-2b15e64a",
+        "pokemon": "Rotom [Heat Rotom]",
+        "ability": "Levitate",
+        "item": "Choice Scarf",
+        "moves": [
+            "Volt Switch",
+            "Electroweb",
+            "Overheat",
+            "Will-O-Wisp"
+        ]
+    },
+    {
+        "id": "CORVIKNIGHT-0e004c16",
+        "pokemon": "Corviknight",
+        "ability": "Mirror Armor",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Brave Bird",
+            "Bulk Up",
+            "Roost",
+            "Tailwind"
+        ]
+    },
+    {
+        "id": "SHARPEDO-6272d7b9",
+        "pokemon": "Sharpedo",
+        "ability": "Speed Boost",
+        "item": "Sharpedonite",
+        "moves": [
+            "Crunch",
+            "Ice Fang",
+            "Protect",
+            "Psychic Fangs"
+        ]
+    },
+    {
+        "id": "FLOETTE-ETERNAL-4c7e9099",
+        "pokemon": "FLOETTE-ETERNAL",
+        "ability": "Fairy Aura",
+        "item": "Floettite",
+        "moves": [
+            "Moonblast",
+            "Draining Kiss",
+            "Calm Mind",
+            "Protect"
+        ]
+    },
+    {
+        "id": "GARCHOMP-c0b8a229",
+        "pokemon": "Garchomp",
+        "ability": "Sand Veil",
+        "item": "White Herb",
+        "moves": [
+            "Stomping Tantrum",
+            "Dragon Claw",
+            "Earthquake",
+            "Protect"
+        ]
+    },
+    {
+        "id": "AEGISLASH-70254818",
+        "pokemon": "Aegislash",
+        "ability": "Stance Change",
+        "item": "Spell Tag",
+        "moves": [
+            "Shadow Ball",
+            "Iron Head",
+            "Shadow Sneak",
+            "King's Shield"
+        ]
+    },
+    {
+        "id": "ROTOMHEATROTOM-64d80b86",
+        "pokemon": "Rotom [Heat Rotom]",
+        "ability": "Levitate",
+        "item": "Choice Scarf",
+        "moves": [
+            "Thunderbolt",
+            "Overheat",
+            "Volt Switch",
+            "Trick"
+        ]
+    },
+    {
+        "id": "ARCANINEHISUIANFORM-1c9ef7d5",
+        "pokemon": "Arcanine [Hisuian Form]",
+        "ability": "Intimidate",
+        "item": "Focus Sash",
+        "moves": [
+            "Rock Slide",
+            "Flare Blitz",
+            "Extreme Speed",
+            "Protect"
+        ]
+    },
+    {
+        "id": "PALAFIN-d9dbc95c",
+        "pokemon": "Palafin",
+        "ability": "Zero to Hero",
+        "item": "Mystic Water",
+        "moves": [
+            "Wave Crash",
+            "Flip Turn",
+            "Jet Punch",
+            "Protect"
+        ]
+    },
+    {
+        "id": "AEGISLASH-ad790f70",
+        "pokemon": "Aegislash",
+        "ability": "Stance Change",
+        "item": "Leftovers",
+        "moves": [
+            "Shadow Ball",
+            "Shadow Sneak",
+            "Flash Cannon",
+            "King's Shield"
+        ]
+    },
+    {
+        "id": "INCINEROAR-4a9bc4a6",
+        "pokemon": "Incineroar",
+        "ability": "Intimidate",
+        "item": "Chople Berry",
+        "moves": [
+            "Throat Chop",
+            "Fake Out",
+            "Will-O-Wisp",
+            "Parting Shot"
+        ]
+    },
+    {
+        "id": "PALAFIN-69a1f940",
+        "pokemon": "Palafin",
+        "ability": "Zero to Hero",
+        "item": "Mystic Water",
+        "moves": [
+            "Wave Crash",
+            "Jet Punch",
+            "Haze",
+            "Protect"
+        ]
+    },
+    {
+        "id": "ROTOMHEATROTOM-19ee029a",
+        "pokemon": "Rotom [Heat Rotom]",
+        "ability": "Levitate",
+        "item": "Leftovers",
+        "moves": [
+            "Electroweb",
+            "Overheat",
+            "Protect",
+            "Volt Switch"
+        ]
+    },
+    {
+        "id": "KINGAMBIT-2132a047",
+        "pokemon": "Kingambit",
+        "ability": "Defiant",
+        "item": "Black Glasses",
+        "moves": [
+            "Protect",
+            "Kowtow Cleave",
+            "Sucker Punch",
+            "Protect"
+        ]
+    },
+    {
+        "id": "PALAFIN-5c849c2b",
+        "pokemon": "Palafin",
+        "ability": "Zero to Hero",
+        "item": "Mystic Water",
+        "moves": [
+            "Protect",
+            "Wave Crash",
+            "Drain Punch",
+            "Jet Punch"
+        ]
+    },
+    {
+        "id": "SCIZOR-6ca5cd39",
+        "pokemon": "Scizor",
+        "ability": "Technician",
+        "item": "Scizorite",
+        "moves": [
+            "Bullet Punch",
+            "Dual Wingbeat",
+            "U-turn",
+            "Protect"
+        ]
+    },
+    {
+        "id": "INCINEROAR-69471dfd",
+        "pokemon": "Incineroar",
+        "ability": "Intimidate",
+        "item": "Chesto Berry",
+        "moves": [
+            "Fake Out",
+            "Parting Shot",
+            "Darkest Lariat",
+            "Flare Blitz"
+        ]
+    },
+    {
+        "id": "SINISTCHA-82778b58",
+        "pokemon": "Sinistcha",
+        "ability": "Hospitality",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Matcha Gotcha",
+            "Life Dew",
+            "Rage Powder",
+            "Shadow Ball"
+        ]
+    },
+    {
+        "id": "PALAFIN-128322dc",
+        "pokemon": "Palafin",
+        "ability": "Zero to Hero",
+        "item": "Mystic Water",
+        "moves": [
+            "Flip Turn",
+            "Jet Punch",
+            "Wave Crash",
+            "Close Combat"
+        ]
+    },
+    {
+        "id": "MANECTRIC-f270b926",
+        "pokemon": "Manectric",
+        "ability": "Lightning Rod",
+        "item": "Manectite",
+        "moves": [
+            "Thunder",
+            "Volt Switch",
+            "Snarl",
+            "Protect"
+        ]
+    },
+    {
+        "id": "PALAFIN-ebe595f2",
+        "pokemon": "Palafin",
+        "ability": "Zero to Hero",
+        "item": "Choice Scarf",
+        "moves": [
+            "Wave Crash",
+            "Close Combat",
+            "Jet Punch",
+            "Flip Turn"
+        ]
+    },
+    {
+        "id": "KLEFKI-17d7287b",
+        "pokemon": "Klefki",
+        "ability": "Prankster",
+        "item": "Shuca Berry",
+        "moves": [
+            "Thunder Wave",
+            "Trick Room",
+            "Rain Dance",
+            "Light Screen"
+        ]
+    },
+    {
+        "id": "AGGRON-a88991e5",
+        "pokemon": "Aggron",
+        "ability": "Filter",
+        "item": "Aggronite",
+        "moves": [
+            "Heavy Slam",
+            "Body Press",
+            "Iron Defense",
+            "Protect"
+        ]
+    },
+    {
+        "id": "ROTOMWASHROTOM-ab459016",
+        "pokemon": "Rotom [Wash Rotom]",
+        "ability": "Levitate",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Hydro Pump",
+            "Volt Switch",
+            "Eerie Impulse",
+            "Protect"
+        ]
+    },
+    {
+        "id": "TYRANITAR-cf7f9b40",
+        "pokemon": "Tyranitar",
+        "ability": "Sand Stream",
+        "item": "Chople Berry",
+        "moves": [
+            "Crunch",
+            "Rock Slide",
+            "Protect",
+            "Low Kick"
+        ]
+    },
+    {
+        "id": "SNEASLER-5c5b5af5",
+        "pokemon": "Sneasler",
+        "ability": "Unburden",
+        "item": "White Herb",
+        "moves": [
+            "Dire Claw",
+            "Close Combat",
+            "Protect",
+            "Coaching"
+        ]
+    },
+    {
+        "id": "HYDREIGON-d877afc3",
+        "pokemon": "Hydreigon",
+        "ability": "Levitate",
+        "item": "Choice Scarf",
+        "moves": [
+            "Draco Meteor",
+            "Dark Pulse",
+            "Flamethrower",
+            "Snarl"
+        ]
+    },
+    {
+        "id": "LUCARIO-9c9d1f60",
+        "pokemon": "Lucario",
+        "ability": "Inner Focus",
+        "item": "Lucarionite",
+        "moves": [
+            "Close Combat",
+            "Meteor Mash",
+            "Bullet Punch",
+            "Protect"
+        ]
+    },
+    {
+        "id": "HYDREIGON-deb4c2d1",
+        "pokemon": "Hydreigon",
+        "ability": "Levitate",
+        "item": "Scope Lens",
+        "moves": [
+            "Draco Meteor",
+            "Dark Pulse",
+            "Focus Energy",
+            "Protect"
+        ]
+    },
+    {
+        "id": "VOLCARONA-74f89370",
+        "pokemon": "Volcarona",
+        "ability": "Flame Body",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Heat Wave",
+            "Rage Powder",
+            "Struggle Bug",
+            "Protect"
+        ]
+    },
+    {
+        "id": "AEGISLASH-1c599287",
+        "pokemon": "Aegislash",
+        "ability": "Stance Change",
+        "item": "White Herb",
+        "moves": [
+            "Iron Head",
+            "Poltergeist",
+            "Sacred Sword",
+            "King's Shield"
+        ]
+    },
+    {
+        "id": "HYDREIGON-970c3cb1",
+        "pokemon": "Hydreigon",
+        "ability": "Levitate",
+        "item": "Choice Scarf",
+        "moves": [
+            "Dark Pulse",
+            "Draco Meteor",
+            "Heat Wave",
+            "Earth Power"
+        ]
+    },
+    {
+        "id": "INCINEROAR-b9176428",
+        "pokemon": "Incineroar",
+        "ability": "Intimidate",
+        "item": "Chople Berry",
+        "moves": [
+            "Fake Out",
+            "Flare Blitz",
+            "Parting Shot",
+            "Close Combat"
+        ]
+    },
+    {
+        "id": "MILOTIC-ab5ab511",
+        "pokemon": "Milotic",
+        "ability": "Competitive",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Scald",
+            "Coil",
+            "Recover",
+            "Hypnosis"
+        ]
+    },
+    {
+        "id": "VOLCARONA-dfec62dd",
+        "pokemon": "Volcarona",
+        "ability": "Flame Body",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Struggle Bug",
+            "Fiery Dance",
+            "Rage Powder",
+            "Giga Drain"
+        ]
+    },
+    {
+        "id": "HYDREIGON-d7dc4d33",
+        "pokemon": "Hydreigon",
+        "ability": "Levitate",
+        "item": "Choice Scarf",
+        "moves": [
+            "Dark Pulse",
+            "Draco Meteor",
+            "Earth Power",
+            "Snarl"
+        ]
+    },
+    {
+        "id": "GARDEVOIR-a20cd0db",
+        "pokemon": "Gardevoir",
+        "ability": "Trace",
+        "item": "Gardevoirite",
+        "moves": [
+            "Hyper Voice",
+            "Psyshock",
+            "Protect",
+            "Thunderbolt"
+        ]
+    },
+    {
+        "id": "CLEFABLE-8e7ae0a7",
+        "pokemon": "Clefable",
+        "ability": "Unaware",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Moonblast",
+            "Icy Wind",
+            "Follow Me",
+            "Protect"
+        ]
+    },
+    {
+        "id": "CLEFABLE-f59a5c68",
+        "pokemon": "Clefable",
+        "ability": "Unaware",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Moonblast",
+            "Follow Me",
+            "Life Dew",
+            "Protect"
+        ]
+    },
+    {
+        "id": "ARCANINEHISUIANFORM-88c799da",
+        "pokemon": "Arcanine [Hisuian Form]",
+        "ability": "Intimidate",
+        "item": "Shuca Berry",
+        "moves": [
+            "Flare Blitz",
+            "Rock Slide",
+            "Howl",
+            "Protect"
+        ]
+    },
+    {
+        "id": "CLEFABLE-24925dc3",
+        "pokemon": "Clefable",
+        "ability": "Unaware",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Moonblast",
+            "Thunder Wave",
+            "Follow Me",
+            "Protect"
+        ]
+    },
+    {
+        "id": "GENGAR-1927fa4b",
+        "pokemon": "Gengar",
+        "ability": "Cursed Body",
+        "item": "Gengarite",
+        "moves": [
+            "Shadow Ball",
+            "Substitute",
+            "Disable",
+            "Protect"
+        ]
+    },
+    {
+        "id": "ZOROARKHISUIANFORM-d575268c",
+        "pokemon": "Zoroark [Hisuian Form]",
+        "ability": "Illusion",
+        "item": "Choice Scarf",
+        "moves": [
+            "Shadow Ball",
+            "Trick",
+            "Icy Wind",
+            "Curse"
+        ]
+    },
+    {
+        "id": "DITTO-e99fd8cd",
+        "pokemon": "Ditto",
+        "ability": "Imposter",
+        "item": "Quick Claw",
+        "moves": [
+            "Transform"
+        ]
+    },
+    {
+        "id": "CLEFABLE-a59eb6c3",
+        "pokemon": "Clefable",
+        "ability": "Unaware",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Moonblast",
+            "Encore",
+            "Follow Me",
+            "Protect"
+        ]
+    },
+    {
+        "id": "CLEFABLE-ebcdb082",
+        "pokemon": "Clefable",
+        "ability": "Magic Guard",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Moonblast",
+            "Follow Me",
+            "Helping Hand",
+            "Protect"
+        ]
+    },
+    {
+        "id": "TYRANITAR-28e0fa75",
+        "pokemon": "Tyranitar",
+        "ability": "Sand Stream",
+        "item": "Chople Berry",
+        "moves": [
+            "Rock Slide",
+            "Knock Off",
+            "Protect",
+            "Ice Punch"
+        ]
+    },
+    {
+        "id": "DRAGAPULT-a88d5088",
+        "pokemon": "Dragapult",
+        "ability": "Clear Body",
+        "item": "Colbur Berry",
+        "moves": [
+            "Dragon Darts",
+            "Phantom Force",
+            "Protect",
+            "Will-O-Wisp"
+        ]
+    },
+    {
+        "id": "SNEASLER-4d043c39",
+        "pokemon": "Sneasler",
+        "ability": "Pressure",
+        "item": "White Herb",
+        "moves": [
+            "Close Combat",
+            "Dire Claw",
+            "Fake Out",
+            "Protect"
+        ]
+    },
+    {
+        "id": "DRAGAPULT-70306341",
+        "pokemon": "Dragapult",
+        "ability": "Clear Body",
+        "item": "Kasib Berry",
+        "moves": [
+            "Dragon Darts",
+            "Phantom Force",
+            "Will-O-Wisp",
+            "Protect"
+        ]
+    },
+    {
+        "id": "LOPUNNY-93672961",
+        "pokemon": "Lopunny",
+        "ability": "Limber",
+        "item": "Lopunnite",
+        "moves": [
+            "Fake Out",
+            "Close Combat",
+            "Protect",
+            "Triple Axel"
+        ]
+    },
+    {
+        "id": "RAICHU-85a17a46",
+        "pokemon": "Raichu",
+        "ability": "Lightning Rod",
+        "item": "Focus Sash",
+        "moves": [
+            "Thunderbolt",
+            "Fake Out",
+            "Nuzzle",
+            "Encore"
+        ]
+    },
+    {
+        "id": "DRAGAPULT-fb13400f",
+        "pokemon": "Dragapult",
+        "ability": "Clear Body",
+        "item": "Dragon Fang",
+        "moves": [
+            "Dragon Darts",
+            "Phantom Force",
+            "Psychic Fangs",
+            "Protect"
+        ]
+    },
+    {
+        "id": "PRIMARINA-80744038",
+        "pokemon": "Primarina",
+        "ability": "Liquid Voice",
+        "item": "Leftovers",
+        "moves": [
+            "Hyper Voice",
+            "Moonblast",
+            "Energy Ball",
+            "Protect"
+        ]
+    },
+    {
+        "id": "INCINEROAR-6c4fc129",
+        "pokemon": "Incineroar",
+        "ability": "Intimidate",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Flare Blitz",
+            "Darkest Lariat",
+            "Fake Out",
+            "Protect"
+        ]
+    },
+    {
+        "id": "CORVIKNIGHT-dd65dd9e",
+        "pokemon": "Corviknight",
+        "ability": "Mirror Armor",
+        "item": "Metal Coat",
+        "moves": [
+            "Body Press",
+            "Tailwind",
+            "Iron Head",
+            "Protect"
+        ]
+    },
+    {
+        "id": "MEOWSCARADA-e8fed788",
+        "pokemon": "Meowscarada",
+        "ability": "Protean",
+        "item": "Choice Scarf",
+        "moves": [
+            "Flower Trick",
+            "Triple Axel",
+            "Low Kick",
+            "Throat Chop"
+        ]
+    },
+    {
+        "id": "DRAGAPULT-705f7083",
+        "pokemon": "Dragapult",
+        "ability": "Clear Body",
+        "item": "Focus Sash",
+        "moves": [
+            "Psychic Fangs",
+            "Protect",
+            "Phantom Force",
+            "Dragon Darts"
+        ]
+    },
+    {
+        "id": "CORVIKNIGHT-e683452d",
+        "pokemon": "Corviknight",
+        "ability": "Mirror Armor",
+        "item": "Leftovers",
+        "moves": [
+            "Brave Bird",
+            "Iron Defense",
+            "Roost",
+            "Iron Defense"
+        ]
+    },
+    {
+        "id": "SABLEYE-b3bc5199",
+        "pokemon": "Sableye",
+        "ability": "Prankster",
+        "item": "Roseli Berry",
+        "moves": [
+            "Foul Play",
+            "Encore",
+            "Disable",
+            "Thunder Wave"
+        ]
+    },
+    {
+        "id": "GARDEVOIR-82d419c7",
+        "pokemon": "Gardevoir",
+        "ability": "Trace",
+        "item": "Gardevoirite",
+        "moves": [
+            "Hyper Voice",
+            "Shadow Ball",
+            "Psychic",
+            "Protect"
+        ]
+    },
+    {
+        "id": "GARCHOMP-7ef75f8f",
+        "pokemon": "Garchomp",
+        "ability": "Sand Veil",
+        "item": "Leftovers",
+        "moves": [
+            "Dragon Claw",
+            "Earthquake",
+            "Substitute",
+            "Protect"
+        ]
+    },
+    {
+        "id": "GYARADOS-5e372880",
+        "pokemon": "Gyarados",
+        "ability": "Intimidate",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Waterfall",
+            "Taunt",
+            "Thunder Wave",
+            "Protect"
+        ]
+    },
+    {
+        "id": "TALONFLAME-a6d49896",
+        "pokemon": "Talonflame",
+        "ability": "Flame Body",
+        "item": "Bright Powder",
+        "moves": [
+            "Flare Blitz",
+            "Brave Bird",
+            "Will-O-Wisp",
+            "Tailwind"
+        ]
+    },
+    {
+        "id": "GARDEVOIR-748809bc",
+        "pokemon": "Gardevoir",
+        "ability": "Trace",
+        "item": "Gardevoirite",
+        "moves": [
+            "Psychic",
+            "Hyper Voice",
+            "Aura Sphere",
+            "Protect"
+        ]
+    },
+    {
+        "id": "ESPATHRA-7810094d",
+        "pokemon": "Espathra",
+        "ability": "Speed Boost",
+        "item": "Leftovers",
+        "moves": [
+            "Calm Mind",
+            "Baton Pass",
+            "Dazzling Gleam",
+            "Lumina Crash"
+        ]
+    },
+    {
+        "id": "NINETALESALOLANFORM-cd4a8252",
+        "pokemon": "Ninetales [Alolan Form]",
+        "ability": "Snow Warning",
+        "item": "Focus Sash",
+        "moves": [
+            "Blizzard",
+            "Icy Wind",
+            "Encore",
+            "Aurora Veil"
+        ]
+    },
+    {
+        "id": "ORTHWORM-02b764d4",
+        "pokemon": "Orthworm",
+        "ability": "Earth Eater",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Body Press",
+            "Shed Tail",
+            "Heavy Slam",
+            "Protect"
+        ]
+    },
+    {
+        "id": "GARCHOMP-72f87072",
+        "pokemon": "Garchomp",
+        "ability": "Sand Veil",
+        "item": "Choice Scarf",
+        "moves": [
+            "Dragon Claw",
+            "Stomping Tantrum",
+            "Earthquake",
+            "Bulldoze"
+        ]
+    },
+    {
+        "id": "GYARADOS-28ae44e3",
+        "pokemon": "Gyarados",
+        "ability": "Intimidate",
+        "item": "Lum Berry",
+        "moves": [
+            "Waterfall",
+            "Thunder Wave",
+            "Taunt",
+            "Protect"
+        ]
+    },
+    {
+        "id": "ROTOMHEATROTOM-2e0dcd02",
+        "pokemon": "Rotom [Heat Rotom]",
+        "ability": "Levitate",
+        "item": "Passho Berry",
+        "moves": [
+            "Overheat",
+            "Volt Tackle",
+            "Will-O-Wisp",
+            "Protect"
+        ]
+    },
+    {
+        "id": "ESPATHRA-2b38f8fe",
+        "pokemon": "Espathra",
+        "ability": "Speed Boost",
+        "item": "Focus Sash",
+        "moves": [
+            "Lumina Crash",
+            "Hypnosis",
+            "Feather Dance",
+            "Protect"
+        ]
+    },
+    {
+        "id": "ARCANINEHISUIANFORM-3496bd87",
+        "pokemon": "Arcanine [Hisuian Form]",
+        "ability": "Intimidate",
+        "item": "Chople Berry",
+        "moves": [
+            "Flare Blitz",
+            "Rock Slide",
+            "Extreme Speed",
+            "Protect"
+        ]
+    },
+    {
+        "id": "SNEASLER-6c50cdab",
+        "pokemon": "Sneasler",
+        "ability": "Poison Touch",
+        "item": "White Herb",
+        "moves": [
+            "Close Combat",
+            "Dire Claw",
+            "Fake Out",
+            "Protect"
+        ]
+    },
+    {
+        "id": "ARCANINEHISUIANFORM-555e2754",
+        "pokemon": "Arcanine [Hisuian Form]",
+        "ability": "Intimidate",
+        "item": "Shuca Berry",
+        "moves": [
+            "Flare Blitz",
+            "Rock Slide",
+            "Extreme Speed",
+            "Protect"
+        ]
+    },
+    {
+        "id": "BLASTOISE-7a13e27e",
+        "pokemon": "Blastoise",
+        "ability": "Torrent",
+        "item": "Blastoisinite",
+        "moves": [
+            "Water Spout",
+            "Dark Pulse",
+            "Shell Smash",
+            "Protect"
+        ]
+    },
+    {
+        "id": "MAUSHOLD-8ffe850b",
+        "pokemon": "Maushold",
+        "ability": "Friend Guard",
+        "item": "Chople Berry",
+        "moves": [
+            "Follow Me",
+            "Feint",
+            "Taunt",
+            "Protect"
+        ]
+    },
+    {
+        "id": "BLASTOISE-d99148eb",
+        "pokemon": "Blastoise",
+        "ability": "Rain Dish",
+        "item": "Blastoisinite",
+        "moves": [
+            "Fake Out",
+            "Water Pulse",
+            "Water Spout",
+            "Dark Pulse"
+        ]
+    },
+    {
+        "id": "FARIGIRAF-75e87018",
+        "pokemon": "Farigiraf",
+        "ability": "Armor Tail",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Trick Room",
+            "Helping Hand",
+            "Twin Beam",
+            "Rain Dance"
+        ]
+    },
+    {
+        "id": "SINISTCHA-d124a83b",
+        "pokemon": "Sinistcha",
+        "ability": "Hospitality",
+        "item": "Focus Sash",
+        "moves": [
+            "Matcha Gotcha",
+            "Life Dew",
+            "Rage Powder",
+            "Trick Room"
+        ]
+    },
+    {
+        "id": "GALLADE-076d2de2",
+        "pokemon": "Gallade",
+        "ability": "Sharpness",
+        "item": "White Herb",
+        "moves": [
+            "Sacred Sword",
+            "Psycho Cut",
+            "Protect",
+            "Wide Guard"
+        ]
+    }
+]
