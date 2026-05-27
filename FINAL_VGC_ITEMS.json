@@ -16,7 +16,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "Holder's Ability cannot be changed, suppressed, or ignored by any effect.",
-    "id": "abilityshield"
+    "id": "abilityshield",
+    "champions": false
   },
   {
     "name": {
@@ -38,7 +39,8 @@
       "es": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Abomasnow en combate."
     },
     "shortDesc": "If held by an Abomasnow, this item allows it to Mega Evolve in battle.",
-    "id": "abomasite"
+    "id": "abomasite",
+    "champions": true
   },
   {
     "name": {
@@ -60,7 +62,8 @@
       "es": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Absol en combate."
     },
     "shortDesc": "If held by an Absol, this item allows it to Mega Evolve into Mega Absol in battle.",
-    "id": "absolite"
+    "id": "absolite",
+    "champions": true
   },
   {
     "name": {
@@ -82,7 +85,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "If held by an Absol, this item allows it to Mega Evolve into Mega Absol Z in battle.",
-    "id": "absolitez"
+    "id": "absolitez",
+    "champions": false
   },
   {
     "name": {
@@ -103,7 +107,8 @@
       "es": "Aumenta el Ataque Especial del portador si le alcanza un ataque de tipo Agua. Desaparece tras usarlo."
     },
     "shortDesc": "Raises holder's Sp. Atk by 1 stage if hit by a Water-type attack. Single use.",
-    "id": "absorbbulb"
+    "id": "absorbbulb",
+    "champions": false
   },
   {
     "name": {
@@ -123,7 +128,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "If held by a Dialga, its Steel- and Dragon-type attacks have 1.2x power.",
-    "id": "adamantcrystal"
+    "id": "adamantcrystal",
+    "champions": false
   },
   {
     "name": {
@@ -145,7 +151,8 @@
       "es": "Una esfera brillante que potencia los movimientos de tipo Acero y Dragón. Debe llevarla Dialga."
     },
     "shortDesc": "If held by a Dialga, its Steel- and Dragon-type attacks have 1.2x power.",
-    "id": "adamantorb"
+    "id": "adamantorb",
+    "champions": false
   },
   {
     "name": {
@@ -166,7 +173,8 @@
       "es": "Aumenta la Velocidad del portador si se siente intimidado."
     },
     "shortDesc": "Raises holder's Speed by 1 stage if it gets affected by Intimidate. Single use.",
-    "id": "adrenalineorb"
+    "id": "adrenalineorb",
+    "champions": false
   },
   {
     "name": {
@@ -188,7 +196,8 @@
       "es": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Aerodactyl en combate."
     },
     "shortDesc": "If held by an Aerodactyl, this item allows it to Mega Evolve in battle.",
-    "id": "aerodactylite"
+    "id": "aerodactylite",
+    "champions": true
   },
   {
     "name": {
@@ -210,7 +219,8 @@
       "es": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Aggron en combate."
     },
     "shortDesc": "If held by an Aggron, this item allows it to Mega Evolve in battle.",
-    "id": "aggronite"
+    "id": "aggronite",
+    "champions": true
   },
   {
     "name": {
@@ -230,7 +240,8 @@
       "es": "Los Pokémon pueden llevarla o usarla para restaurar algunos PS. Su sabor puede causar confusión si no les gusta."
     },
     "shortDesc": "Restores 1/3 max HP at 1/4 max HP or less; confuses if -SpD Nature. Single use.",
-    "id": "aguavberry"
+    "id": "aguavberry",
+    "champions": false
   },
   {
     "name": {
@@ -248,7 +259,8 @@
       "es": "El Pokémon que lo lleve flotará en el aire. Si recibe un golpe, estallará."
     },
     "shortDesc": "Holder is immune to Ground-type attacks. Pops when holder is hit.",
-    "id": "airballoon"
+    "id": "airballoon",
+    "champions": false
   },
   {
     "name": {
@@ -270,7 +282,8 @@
       "es": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Alakazam en combate."
     },
     "shortDesc": "If held by an Alakazam, this item allows it to Mega Evolve in battle.",
-    "id": "alakazite"
+    "id": "alakazite",
+    "champions": true
   },
   {
     "name": {
@@ -292,7 +305,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "If held by an Alolan Raichu with Thunderbolt, it can use Stoked Sparksurfer.",
-    "id": "aloraichiumz"
+    "id": "aloraichiumz",
+    "champions": false
   },
   {
     "name": {
@@ -314,7 +328,8 @@
       "es": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Altaria en combate."
     },
     "shortDesc": "If held by an Altaria, this item allows it to Mega Evolve in battle.",
-    "id": "altarianite"
+    "id": "altarianite",
+    "champions": true
   },
   {
     "name": {
@@ -336,7 +351,8 @@
       "es": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Ampharos en combate."
     },
     "shortDesc": "If held by an Ampharos, this item allows it to Mega Evolve in battle.",
-    "id": "ampharosite"
+    "id": "ampharosite",
+    "champions": true
   },
   {
     "name": {
@@ -356,7 +372,8 @@
       "es": "Si la lleva un Pokémon, le sube la Defensa Especial en un momento de apuro."
     },
     "shortDesc": "Raises holder's Sp. Def by 1 stage when at 1/4 max HP or less. Single use.",
-    "id": "apicotberry"
+    "id": "apicotberry",
+    "champions": false
   },
   {
     "name": {
@@ -375,7 +392,8 @@
       "es": "Fósil de un Pokémon prehistórico terrestre. Parece ser parte de una protección ósea del cuello."
     },
     "shortDesc": "Can be revived into Shieldon.",
-    "id": "armorfossil"
+    "id": "armorfossil",
+    "champions": false
   },
   {
     "name": {
@@ -395,7 +413,8 @@
       "es": "Los Pokémon pueden llevarla o usarla para descongelarse."
     },
     "shortDesc": "Holder is cured if it is frozen. Single use.",
-    "id": "aspearberry"
+    "id": "aspearberry",
+    "champions": true
   },
   {
     "name": {
@@ -414,7 +433,8 @@
       "es": "Chaleco que potencia la Defensa Especial del Pokémon que lo lleva, pero le impide lanzar movimientos de estado."
     },
     "shortDesc": "Holder's Sp. Def is 1.5x, but it can only select damaging moves.",
-    "id": "assaultvest"
+    "id": "assaultvest",
+    "champions": false
   },
   {
     "name": {
@@ -436,7 +456,8 @@
       "es": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Audino en combate."
     },
     "shortDesc": "If held by an Audino, this item allows it to Mega Evolve in battle.",
-    "id": "audinite"
+    "id": "audinite",
+    "champions": true
   },
   {
     "name": {
@@ -454,7 +475,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "Evolves Charcadet into Armarouge when used.",
-    "id": "auspiciousarmor"
+    "id": "auspiciousarmor",
+    "champions": false
   },
   {
     "name": {
@@ -474,7 +496,8 @@
       "es": "Si la lleva un Pokémon, debilita un ataque supereficaz de tipo Acero de un enemigo."
     },
     "shortDesc": "Halves damage taken from a supereffective Steel-type attack. Single use.",
-    "id": "babiriberry"
+    "id": "babiriberry",
+    "champions": true
   },
   {
     "name": {
@@ -496,7 +519,8 @@
       "es": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Banette en combate."
     },
     "shortDesc": "If held by a Banette, this item allows it to Mega Evolve in battle.",
-    "id": "banettite"
+    "id": "banettite",
+    "champions": true
   },
   {
     "name": {
@@ -518,7 +542,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "If held by a Barbaracle, this item allows it to Mega Evolve in battle.",
-    "id": "barbaracite"
+    "id": "barbaracite",
+    "champions": false
   },
   {
     "name": {
@@ -540,7 +565,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "If held by a Baxcalibur, this item allows it to Mega Evolve in battle.",
-    "id": "baxcalibrite"
+    "id": "baxcalibrite",
+    "champions": false
   },
   {
     "name": {
@@ -556,7 +582,8 @@
       "es": "Un tipo especial de Poké Ball con la que resulta difícil atrapar Pokémon."
     },
     "shortDesc": "A special Poke Ball designed to catch Ultra Beasts.",
-    "id": "beastball"
+    "id": "beastball",
+    "champions": false
   },
   {
     "name": {
@@ -578,7 +605,8 @@
       "es": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Beedrill en combate."
     },
     "shortDesc": "If held by a Beedrill, this item allows it to Mega Evolve in battle.",
-    "id": "beedrillite"
+    "id": "beedrillite",
+    "champions": true
   },
   {
     "name": {
@@ -600,7 +628,8 @@
       "es": "Se utiliza en la producción de Pokécubos que potencian la belleza. Es una baya muy rara en otras regiones."
     },
     "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
-    "id": "belueberry"
+    "id": "belueberry",
+    "champions": false
   },
   {
     "name": {
@@ -619,7 +648,8 @@
       "es": "Zumo de bayas 100% natural que restaura 20 PS de un Pokémon."
     },
     "shortDesc": "Restores 20 HP when at 1/2 max HP or less. Single use.",
-    "id": "berryjuice"
+    "id": "berryjuice",
+    "champions": false
   },
   {
     "name": {
@@ -637,7 +667,8 @@
       "es": "Figura de caramelo con forma de baya. Al dárselo a Milcery, se pone a girar rebosante de alegría."
     },
     "shortDesc": "Evolves Milcery into Alcremie when held and spun around.",
-    "id": "berrysweet"
+    "id": "berrysweet",
+    "champions": false
   },
   {
     "name": {
@@ -655,7 +686,8 @@
       "es": "Pepita grande de oro puro que desprende un brillo espectacular. Puede venderse a un precio muy alto en las tiendas."
     },
     "shortDesc": "A big nugget of pure gold that gives off a lustrous gleam.",
-    "id": "bignugget"
+    "id": "bignugget",
+    "champions": false
   },
   {
     "name": {
@@ -674,7 +706,8 @@
       "es": "El Pokémon que la lleva recupera más PS al usar movimientos que drenan al objetivo."
     },
     "shortDesc": "Holder gains 1.3x HP from draining/Aqua Ring/Ingrain/Leech Seed/Strength Sap.",
-    "id": "bigroot"
+    "id": "bigroot",
+    "champions": false
   },
   {
     "name": {
@@ -692,7 +725,8 @@
       "es": "Banda que potencia los movimientos que estrujan al rival."
     },
     "shortDesc": "Holder's partial-trapping moves deal 1/6 max HP per turn instead of 1/8.",
-    "id": "bindingband"
+    "id": "bindingband",
+    "champions": false
   },
   {
     "name": {
@@ -711,7 +745,8 @@
       "es": "Debe llevarlo un Pokémon. Aumenta la concentración y fortalece los movimientos de tipo Lucha."
     },
     "shortDesc": "Holder's Fighting-type attacks have 1.2x power.",
-    "id": "blackbelt"
+    "id": "blackbelt",
+    "champions": true
   },
   {
     "name": {
@@ -730,7 +765,8 @@
       "es": "Debe llevarlas un Pokémon. Fortalecen los movimientos de tipo Siniestro."
     },
     "shortDesc": "Holder's Dark-type attacks have 1.2x power.",
-    "id": "blackglasses"
+    "id": "blackglasses",
+    "champions": true
   },
   {
     "name": {
@@ -750,7 +786,8 @@
       "es": "Si lo lleva un Pokémon de tipo Veneno, restaura gradualmente sus PS durante el combate. Si es de otro tipo, sus PS se reducirán."
     },
     "shortDesc": "Each turn, if holder is a Poison type, restores 1/16 max HP; loses 1/8 if not.",
-    "id": "blacksludge"
+    "id": "blacksludge",
+    "champions": false
   },
   {
     "name": {
@@ -772,7 +809,8 @@
       "es": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Blastoise en combate."
     },
     "shortDesc": "If held by a Blastoise, this item allows it to Mega Evolve in battle.",
-    "id": "blastoisinite"
+    "id": "blastoisinite",
+    "champions": true
   },
   {
     "name": {
@@ -794,7 +832,8 @@
       "es": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Blaziken en combate."
     },
     "shortDesc": "If held by a Blaziken, this item allows it to Mega Evolve in battle.",
-    "id": "blazikenite"
+    "id": "blazikenite",
+    "champions": false
   },
   {
     "name": {
@@ -815,7 +854,8 @@
       "es": "Piedra añil que, según dicen, guarda una estrecha relación con las leyendas de Hoenn."
     },
     "shortDesc": "If held by a Kyogre, this item triggers its Primal Reversion in battle.",
-    "id": "blueorb"
+    "id": "blueorb",
+    "champions": false
   },
   {
     "name": {
@@ -837,7 +877,8 @@
       "es": "Se utiliza en la producción de Pokécubos que potencian la belleza. Es de color azulado y sabor seco."
     },
     "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
-    "id": "blukberry"
+    "id": "blukberry",
+    "champions": false
   },
   {
     "name": {
@@ -855,7 +896,8 @@
       "es": "Aumenta mucho la Velocidad cuando el Pokémon yerra el movimiento debido a la precisión."
     },
     "shortDesc": "If the holder misses due to accuracy, its Speed is raised by 2 stages. Single use.",
-    "id": "blunderpolicy"
+    "id": "blunderpolicy",
+    "champions": false
   },
   {
     "name": {
@@ -874,7 +916,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "Activates the Protosynthesis or Quark Drive Abilities. Single use.",
-    "id": "boosterenergy"
+    "id": "boosterenergy",
+    "champions": false
   },
   {
     "name": {
@@ -892,7 +935,8 @@
       "es": "Una bonita chapa de color plata. Hay gente que las aprecia mucho."
     },
     "shortDesc": "Used for Hyper Training. One of a Pokemon's stats is calculated with an IV of 31.",
-    "id": "bottlecap"
+    "id": "bottlecap",
+    "champions": false
   },
   {
     "name": {
@@ -911,7 +955,8 @@
       "es": "Lanza un destello que baja la Precisión del enemigo. Debe llevarlo un Pokémon."
     },
     "shortDesc": "The accuracy of attacks against the holder is 0.9x.",
-    "id": "brightpowder"
+    "id": "brightpowder",
+    "champions": true
   },
   {
     "name": {
@@ -928,7 +973,8 @@
       "es": "Joya de un solo uso que potencia los movimientos de tipo Bicho. Debe llevarla un Pokémon."
     },
     "shortDesc": "Holder's first successful Bug-type attack will have 1.3x power. Single use.",
-    "id": "buggem"
+    "id": "buggem",
+    "champions": false
   },
   {
     "name": {
@@ -949,7 +995,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "If holder has a Bug move, this item allows it to use a Bug Z-Move.",
-    "id": "buginiumz"
+    "id": "buginiumz",
+    "champions": false
   },
   {
     "name": {
@@ -970,7 +1017,8 @@
       "es": "Disco de datos que contiene información relativa al tipo Bicho. Permite cambiar de tipo a cierto Pokémon."
     },
     "shortDesc": "Holder's Multi-Attack is Bug type.",
-    "id": "bugmemory"
+    "id": "bugmemory",
+    "champions": false
   },
   {
     "name": {
@@ -991,7 +1039,8 @@
       "es": "Cartucho que convierte Tecno Shock de Genesect en un movimiento de tipo Fuego."
     },
     "shortDesc": "Holder's Techno Blast is Fire type.",
-    "id": "burndrive"
+    "id": "burndrive",
+    "champions": false
   },
   {
     "name": {
@@ -1013,7 +1062,8 @@
       "es": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Camerupt en combate."
     },
     "shortDesc": "If held by a Camerupt, this item allows it to Mega Evolve in battle.",
-    "id": "cameruptite"
+    "id": "cameruptite",
+    "champions": true
   },
   {
     "name": {
@@ -1034,7 +1084,8 @@
       "es": "Batería de usar y tirar que sube el Ataque de quien la lleva cuando recibe un golpe de tipo Eléctrico."
     },
     "shortDesc": "Raises holder's Attack by 1 if hit by an Electric-type attack. Single use.",
-    "id": "cellbattery"
+    "id": "cellbattery",
+    "champions": false
   },
   {
     "name": {
@@ -1056,7 +1107,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "If held by a Chandelure, this item allows it to Mega Evolve in battle.",
-    "id": "chandelurite"
+    "id": "chandelurite",
+    "champions": true
   },
   {
     "name": {
@@ -1075,7 +1127,8 @@
       "es": "Actúa como combustible y potencia los movimientos de tipo Fuego. Debe llevarlo un Pokémon."
     },
     "shortDesc": "Holder's Fire-type attacks have 1.2x power.",
-    "id": "charcoal"
+    "id": "charcoal",
+    "champions": true
   },
   {
     "name": {
@@ -1097,7 +1150,8 @@
       "es": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Charizard en combate."
     },
     "shortDesc": "If held by a Charizard, this item allows it to Mega Evolve into Mega Charizard X.",
-    "id": "charizarditex"
+    "id": "charizarditex",
+    "champions": true
   },
   {
     "name": {
@@ -1119,7 +1173,8 @@
       "es": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Charizard en combate."
     },
     "shortDesc": "If held by a Charizard, this item allows it to Mega Evolve into Mega Charizard Y.",
-    "id": "charizarditey"
+    "id": "charizarditey",
+    "champions": true
   },
   {
     "name": {
@@ -1139,7 +1194,8 @@
       "es": "Si la lleva un Pokémon, debilita un ataque supereficaz de tipo Roca de un enemigo."
     },
     "shortDesc": "Halves damage taken from a supereffective Rock-type attack. Single use.",
-    "id": "chartiberry"
+    "id": "chartiberry",
+    "champions": true
   },
   {
     "name": {
@@ -1159,7 +1215,8 @@
       "es": "Los Pokémon pueden llevarla o usarla para recuperarse de la parálisis."
     },
     "shortDesc": "Holder cures itself if it is paralyzed. Single use.",
-    "id": "cheriberry"
+    "id": "cheriberry",
+    "champions": true
   },
   {
     "name": {
@@ -1176,7 +1233,8 @@
       "es": "Es una Poké Ball bastante singular que se creó para conmemorar alguna ocasión especial."
     },
     "shortDesc": "A rare Poke Ball that has been crafted to commemorate an occasion.",
-    "id": "cherishball"
+    "id": "cherishball",
+    "champions": false
   },
   {
     "name": {
@@ -1198,7 +1256,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "If held by a Chesnaught, this item allows it to Mega Evolve in battle.",
-    "id": "chesnaughtite"
+    "id": "chesnaughtite",
+    "champions": true
   },
   {
     "name": {
@@ -1218,7 +1277,8 @@
       "es": "Los Pokémon pueden llevarla o usarla para despertar del sueño."
     },
     "shortDesc": "Holder wakes up if it is asleep. Single use.",
-    "id": "chestoberry"
+    "id": "chestoberry",
+    "champions": true
   },
   {
     "name": {
@@ -1238,7 +1298,8 @@
       "es": "Si la lleva un Pokémon, debilita un ataque de tipo Normal de un enemigo."
     },
     "shortDesc": "Halves damage taken from a Normal-type attack. Single use.",
-    "id": "chilanberry"
+    "id": "chilanberry",
+    "champions": true
   },
   {
     "name": {
@@ -1259,7 +1320,8 @@
       "es": "Cartucho que convierte Tecno Shock de Genesect en un movimiento de tipo Hielo."
     },
     "shortDesc": "Holder's Techno Blast is Ice type.",
-    "id": "chilldrive"
+    "id": "chilldrive",
+    "champions": false
   },
   {
     "name": {
@@ -1281,7 +1343,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "If held by a Chimecho, this item allows it to Mega Evolve in battle.",
-    "id": "chimechite"
+    "id": "chimechite",
+    "champions": true
   },
   {
     "name": {
@@ -1299,7 +1362,8 @@
       "es": "Curiosa tetera que hace evolucionar a determinadas especies de Pokémon. Pese a estar rota, sirve un té exquisito."
     },
     "shortDesc": "Evolves Sinistea-Antique into Polteageist-Antique when used.",
-    "id": "chippedpot"
+    "id": "chippedpot",
+    "champions": false
   },
   {
     "name": {
@@ -1319,7 +1383,8 @@
       "es": "Aumenta la potencia de los ataques físicos del Pokémon que la lleva, pero solo le permite usar un movimiento."
     },
     "shortDesc": "Holder's Attack is 1.5x, but it can only select the first move it executes.",
-    "id": "choiceband"
+    "id": "choiceband",
+    "champions": false
   },
   {
     "name": {
@@ -1338,7 +1403,8 @@
       "es": "Debe llevarlo un Pokémon. Potencia la Velocidad, pero solo permite usar un movimiento."
     },
     "shortDesc": "Holder's Speed is 1.5x, but it can only select the first move it executes.",
-    "id": "choicescarf"
+    "id": "choicescarf",
+    "champions": true
   },
   {
     "name": {
@@ -1358,7 +1424,8 @@
       "es": "Aumentan la potencia de los ataques especiales del Pokémon que las lleva, pero solo le permiten usar un movimiento."
     },
     "shortDesc": "Holder's Sp. Atk is 1.5x, but it can only select the first move it executes.",
-    "id": "choicespecs"
+    "id": "choicespecs",
+    "champions": false
   },
   {
     "name": {
@@ -1378,7 +1445,8 @@
       "es": "Si la lleva un Pokémon, debilita un ataque supereficaz de tipo Lucha de un enemigo."
     },
     "shortDesc": "Halves damage taken from a supereffective Fighting-type attack. Single use.",
-    "id": "chopleberry"
+    "id": "chopleberry",
+    "champions": true
   },
   {
     "name": {
@@ -1397,7 +1465,8 @@
       "es": "Fósil de un Pokémon prehistórico que vivía en el fondo del mar. Parece ser parte de una garra."
     },
     "shortDesc": "Can be revived into Anorith.",
-    "id": "clawfossil"
+    "id": "clawfossil",
+    "champions": false
   },
   {
     "name": {
@@ -1416,7 +1485,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "Prevents other Pokemon from lowering the holder's stat stages.",
-    "id": "clearamulet"
+    "id": "clearamulet",
+    "champions": false
   },
   {
     "name": {
@@ -1438,7 +1508,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "If held by a Clefable, this item allows it to Mega Evolve in battle.",
-    "id": "clefablite"
+    "id": "clefablite",
+    "champions": true
   },
   {
     "name": {
@@ -1456,7 +1527,8 @@
       "es": "Figura de caramelo con forma de trébol. Al dárselo a Milcery, se pone a girar rebosante de alegría."
     },
     "shortDesc": "Evolves Milcery into Alcremie when held and spun around.",
-    "id": "cloversweet"
+    "id": "cloversweet",
+    "champions": false
   },
   {
     "name": {
@@ -1476,7 +1548,8 @@
       "es": "Si la lleva un Pokémon, debilita un ataque supereficaz de tipo Volador de un enemigo."
     },
     "shortDesc": "Halves damage taken from a supereffective Flying-type attack. Single use.",
-    "id": "cobaberry"
+    "id": "cobaberry",
+    "champions": true
   },
   {
     "name": {
@@ -1496,7 +1569,8 @@
       "es": "Si la lleva un Pokémon, debilita un ataque supereficaz de tipo Siniestro de un enemigo."
     },
     "shortDesc": "Halves damage taken from a supereffective Dark-type attack. Single use.",
-    "id": "colburberry"
+    "id": "colburberry",
+    "champions": true
   },
   {
     "name": {
@@ -1519,7 +1593,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "Ogerpon-Cornerstone: 1.2x power attacks; Terastallize to gain Embody Aspect.",
-    "id": "cornerstonemask"
+    "id": "cornerstonemask",
+    "champions": false
   },
   {
     "name": {
@@ -1541,7 +1616,8 @@
       "es": "Se utiliza en la producción de Pokécubos que potencian la belleza. Es una baya muy rara en otras regiones."
     },
     "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
-    "id": "cornnberry"
+    "id": "cornnberry",
+    "champions": false
   },
   {
     "name": {
@@ -1560,7 +1636,8 @@
       "es": "Fósil de un Pokémon prehistórico que vivía en el fondo del mar. Parece ser un fragmento de caparazón."
     },
     "shortDesc": "Can be revived into Tirtouga.",
-    "id": "coverfossil"
+    "id": "coverfossil",
+    "champions": false
   },
   {
     "name": {
@@ -1578,7 +1655,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "Holder is not affected by the secondary effect of another Pokemon's attack.",
-    "id": "covertcloak"
+    "id": "covertcloak",
+    "champions": false
   },
   {
     "name": {
@@ -1600,7 +1678,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "If held by a Crabominable, this item allows it to Mega Evolve in battle.",
-    "id": "crabominite"
+    "id": "crabominite",
+    "champions": true
   },
   {
     "name": {
@@ -1618,7 +1697,8 @@
       "es": "Curiosa tetera que hace evolucionar a determinadas especies de Pokémon. Pese a estar agrietada, sirve un té exquisito."
     },
     "shortDesc": "Evolves Sinistea into Polteageist when used.",
-    "id": "crackedpot"
+    "id": "crackedpot",
+    "champions": false
   },
   {
     "name": {
@@ -1639,7 +1719,8 @@
       "es": "El Pokémon que la lleva puede actuar en primer lugar una vez cuando se encuentra en un momento de apuro."
     },
     "shortDesc": "Holder moves first in its priority bracket when at 1/4 max HP or less. Single use.",
-    "id": "custapberry"
+    "id": "custapberry",
+    "champions": false
   },
   {
     "name": {
@@ -1657,7 +1738,8 @@
       "es": "Prolonga la duración del movimiento Danza Lluvia que use el Pokémon que la lleva."
     },
     "shortDesc": "Holder's use of Rain Dance lasts 8 turns instead of 5.",
-    "id": "damprock"
+    "id": "damprock",
+    "champions": false
   },
   {
     "name": {
@@ -1674,7 +1756,8 @@
       "es": "Joya de un solo uso que potencia los movimientos de tipo Siniestro. Debe llevarla un Pokémon."
     },
     "shortDesc": "Holder's first successful Dark-type attack will have 1.3x power. Single use.",
-    "id": "darkgem"
+    "id": "darkgem",
+    "champions": false
   },
   {
     "name": {
@@ -1695,7 +1778,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "If holder has a Dark move, this item allows it to use a Dark Z-Move.",
-    "id": "darkiniumz"
+    "id": "darkiniumz",
+    "champions": false
   },
   {
     "name": {
@@ -1716,7 +1800,8 @@
       "es": "Disco de datos que contiene información relativa al tipo Siniestro. Permite cambiar de tipo a cierto Pokémon."
     },
     "shortDesc": "Holder's Multi-Attack is Dark type.",
-    "id": "darkmemory"
+    "id": "darkmemory",
+    "champions": false
   },
   {
     "name": {
@@ -1738,7 +1823,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "If held by a Darkrai, this item allows it to Mega Evolve in battle.",
-    "id": "darkranite"
+    "id": "darkranite",
+    "champions": false
   },
   {
     "name": {
@@ -1756,7 +1842,8 @@
       "es": "Una piedra peculiar que hace evolucionar a algunos Pokémon. Brilla como un lucero."
     },
     "shortDesc": "Evolves certain species of Pokemon when used.",
-    "id": "dawnstone"
+    "id": "dawnstone",
+    "champions": false
   },
   {
     "name": {
@@ -1778,7 +1865,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "If held by a Decidueye with Spirit Shackle, it can use Sinister Arrow Raid.",
-    "id": "decidiumz"
+    "id": "decidiumz",
+    "champions": false
   },
   {
     "name": {
@@ -1801,7 +1889,8 @@
       "es": "Tiene un débil brillo rosado y debe llevarla Clamperl. Sube la Defensa Especial."
     },
     "shortDesc": "If held by a Clamperl, its Sp. Def is doubled.",
-    "id": "deepseascale"
+    "id": "deepseascale",
+    "champions": false
   },
   {
     "name": {
@@ -1824,7 +1913,8 @@
       "es": "Tiene el brillo afilado de la plata y debe llevarlo Clamperl. Sube el Ataque Especial."
     },
     "shortDesc": "If held by a Clamperl, its Sp. Atk is doubled.",
-    "id": "deepseatooth"
+    "id": "deepseatooth",
+    "champions": false
   },
   {
     "name": {
@@ -1846,7 +1936,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "If held by a Delphox, this item allows it to Mega Evolve in battle.",
-    "id": "delphoxite"
+    "id": "delphoxite",
+    "champions": true
   },
   {
     "name": {
@@ -1865,7 +1956,8 @@
       "es": "Un hilo largo y delgado de color rojo que transmite el enamoramiento del Pokémon que lo lleva a su objetivo."
     },
     "shortDesc": "If holder becomes infatuated, the other Pokemon also becomes infatuated.",
-    "id": "destinyknot"
+    "id": "destinyknot",
+    "champions": false
   },
   {
     "name": {
@@ -1887,7 +1979,8 @@
       "es": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Diancie en combate."
     },
     "shortDesc": "If held by a Diancie, this item allows it to Mega Evolve in battle.",
-    "id": "diancite"
+    "id": "diancite",
+    "champions": false
   },
   {
     "name": {
@@ -1903,7 +1996,8 @@
       "es": "Es algo distinta a las demás. Funciona especialmente bien con los Pokémon que viven bajo el agua."
     },
     "shortDesc": "A Poke Ball that works especially well on Pokemon that live underwater.",
-    "id": "diveball"
+    "id": "diveball",
+    "champions": false
   },
   {
     "name": {
@@ -1922,7 +2016,8 @@
       "es": "Fósil de un Pokémon prehistórico que vivía en el fondo del mar. Parece ser un fragmento de caparazón."
     },
     "shortDesc": "Can be revived into Kabuto.",
-    "id": "domefossil"
+    "id": "domefossil",
+    "champions": false
   },
   {
     "name": {
@@ -1943,7 +2038,8 @@
       "es": "Cartucho que convierte Tecno Shock de Genesect en un movimiento de tipo Agua."
     },
     "shortDesc": "Holder's Techno Blast is Water type.",
-    "id": "dousedrive"
+    "id": "dousedrive",
+    "champions": false
   },
   {
     "name": {
@@ -1961,7 +2057,8 @@
       "es": "Tabla de piedra que potencia los movimientos de tipo Dragón. Debe llevarla un Pokémon."
     },
     "shortDesc": "Holder's Dragon-type attacks have 1.2x power. Judgment is Dragon type.",
-    "id": "dracoplate"
+    "id": "dracoplate",
+    "champions": false
   },
   {
     "name": {
@@ -1983,7 +2080,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "If held by a Dragalge, this item allows it to Mega Evolve in battle.",
-    "id": "dragalgite"
+    "id": "dragalgite",
+    "champions": false
   },
   {
     "name": {
@@ -2002,7 +2100,8 @@
       "es": "Colmillo de gran dureza que refuerza los movimientos de tipo Dragón. Debe llevarlo un Pokémon."
     },
     "shortDesc": "Holder's Dragon-type attacks have 1.2x power.",
-    "id": "dragonfang"
+    "id": "dragonfang",
+    "champions": true
   },
   {
     "name": {
@@ -2019,7 +2118,8 @@
       "es": "Joya de un solo uso que potencia los movimientos de tipo Dragón. Debe llevarla un Pokémon."
     },
     "shortDesc": "Holder's first successful Dragon-type attack will have 1.3x power. Single use.",
-    "id": "dragongem"
+    "id": "dragongem",
+    "champions": false
   },
   {
     "name": {
@@ -2041,7 +2141,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "If held by a Dragonite, this item allows it to Mega Evolve in battle.",
-    "id": "dragoninite"
+    "id": "dragoninite",
+    "champions": true
   },
   {
     "name": {
@@ -2062,7 +2163,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "If holder has a Dragon move, this item allows it to use a Dragon Z-Move.",
-    "id": "dragoniumz"
+    "id": "dragoniumz",
+    "champions": false
   },
   {
     "name": {
@@ -2083,7 +2185,8 @@
       "es": "Disco de datos que contiene información relativa al tipo Dragón. Permite cambiar de tipo a cierto Pokémon."
     },
     "shortDesc": "Holder's Multi-Attack is Dragon type.",
-    "id": "dragonmemory"
+    "id": "dragonmemory",
+    "champions": false
   },
   {
     "name": {
@@ -2101,7 +2204,8 @@
       "es": "Una gruesa y resistente escama que pueden llevar los Pokémon de tipo Dragón cuando son capturados."
     },
     "shortDesc": "Evolves Seadra into Kingdra when traded.",
-    "id": "dragonscale"
+    "id": "dragonscale",
+    "champions": false
   },
   {
     "name": {
@@ -2123,7 +2227,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "If held by a Drampa, this item allows it to Mega Evolve in battle.",
-    "id": "drampanite"
+    "id": "drampanite",
+    "champions": true
   },
   {
     "name": {
@@ -2141,7 +2246,8 @@
       "es": "Tabla de piedra que potencia los movimientos de tipo Siniestro. Debe llevarla un Pokémon."
     },
     "shortDesc": "Holder's Dark-type attacks have 1.2x power. Judgment is Dark type.",
-    "id": "dreadplate"
+    "id": "dreadplate",
+    "champions": false
   },
   {
     "name": {
@@ -2157,7 +2263,8 @@
       "es": "Es algo distinta a las demás. Funciona especialmente bien con los Pokémon dormidos."
     },
     "shortDesc": "A Poke Ball that makes it easier to catch wild Pokémon while they're asleep.",
-    "id": "dreamball"
+    "id": "dreamball",
+    "champions": false
   },
   {
     "name": {
@@ -2175,7 +2282,8 @@
       "es": "Dispositivo transparente que contiene datos misteriosos. Es de fabricante desconocido."
     },
     "shortDesc": "Evolves Porygon2 into Porygon-Z when traded.",
-    "id": "dubiousdisc"
+    "id": "dubiousdisc",
+    "champions": false
   },
   {
     "name": {
@@ -2197,7 +2305,8 @@
       "es": "Se utiliza en la producción de Pokécubos que potencian el ingenio. Es una baya muy rara en otras regiones."
     },
     "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
-    "id": "durinberry"
+    "id": "durinberry",
+    "champions": false
   },
   {
     "name": {
@@ -2213,7 +2322,8 @@
       "es": "Es algo particular. Hace que sea más fácil capturar a los Pokémon salvajes por la noche o en lugares oscuros."
     },
     "shortDesc": "A Poke Ball that makes it easier to catch wild Pokemon at night or in caves.",
-    "id": "duskball"
+    "id": "duskball",
+    "champions": false
   },
   {
     "name": {
@@ -2231,7 +2341,8 @@
       "es": "Una piedra peculiar que hace evolucionar a algunos Pokémon. Es oscura como la noche."
     },
     "shortDesc": "Evolves certain species of Pokemon when used.",
-    "id": "duskstone"
+    "id": "duskstone",
+    "champions": false
   },
   {
     "name": {
@@ -2249,7 +2360,8 @@
       "es": "Tabla de piedra que potencia los movimientos de tipo Tierra. Debe llevarla un Pokémon."
     },
     "shortDesc": "Holder's Ground-type attacks have 1.2x power. Judgment is Ground type.",
-    "id": "earthplate"
+    "id": "earthplate",
+    "champions": false
   },
   {
     "name": {
@@ -2271,7 +2383,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "If held by an Eelektross, this item allows it to Mega Evolve in battle.",
-    "id": "eelektrossite"
+    "id": "eelektrossite",
+    "champions": false
   },
   {
     "name": {
@@ -2293,7 +2406,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "If held by an Eevee with Last Resort, it can use Extreme Evoboost.",
-    "id": "eeviumz"
+    "id": "eeviumz",
+    "champions": false
   },
   {
     "name": {
@@ -2312,7 +2426,8 @@
       "es": "Si el portador es alcanzado por un ataque, saldrá del combate y será sustituido por otro Pokémon del equipo."
     },
     "shortDesc": "If holder survives a hit, it immediately switches out to a chosen ally. Single use.",
-    "id": "ejectbutton"
+    "id": "ejectbutton",
+    "champions": false
   },
   {
     "name": {
@@ -2332,7 +2447,8 @@
       "es": "Si el portador ve reducidas sus características, será sustituido por otro Pokémon del equipo."
     },
     "shortDesc": "If the holder's stat stages are lowered, it switches to a chosen ally. Single use.",
-    "id": "ejectpack"
+    "id": "ejectpack",
+    "champions": false
   },
   {
     "name": {
@@ -2350,7 +2466,8 @@
       "es": "Este dispositivo contiene una gran cantidad de energía eléctrica. Cierto Pokémon lo adora."
     },
     "shortDesc": "Evolves Electabuzz into Electivire when traded.",
-    "id": "electirizer"
+    "id": "electirizer",
+    "champions": false
   },
   {
     "name": {
@@ -2367,7 +2484,8 @@
       "es": "Joya de un solo uso que potencia los movimientos de tipo Eléctrico. Debe llevarla un Pokémon."
     },
     "shortDesc": "Holder's first successful Electric-type attack will have 1.3x power. Single use.",
-    "id": "electricgem"
+    "id": "electricgem",
+    "champions": false
   },
   {
     "name": {
@@ -2388,7 +2506,8 @@
       "es": "Disco de datos que contiene información relativa al tipo Eléctrico. Permite cambiar de tipo a cierto Pokémon."
     },
     "shortDesc": "Holder's Multi-Attack is Electric type.",
-    "id": "electricmemory"
+    "id": "electricmemory",
+    "champions": false
   },
   {
     "name": {
@@ -2410,7 +2529,8 @@
       "es": "Aumenta la Defensa del portador si se usa cuando el terreno está cubierto por un campo eléctrico."
     },
     "shortDesc": "If the terrain is Electric Terrain, raises holder's Defense by 1 stage. Single use.",
-    "id": "electricseed"
+    "id": "electricseed",
+    "champions": false
   },
   {
     "name": {
@@ -2431,7 +2551,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "If holder has an Electric move, this item allows it to use an Electric Z-Move.",
-    "id": "electriumz"
+    "id": "electriumz",
+    "champions": false
   },
   {
     "name": {
@@ -2453,7 +2574,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "If held by an Emboar, this item allows it to Mega Evolve in battle.",
-    "id": "emboarite"
+    "id": "emboarite",
+    "champions": true
   },
   {
     "name": {
@@ -2473,7 +2595,8 @@
       "es": "Restaura los PS de un Pokémon si la lleva cuando le alcanza un ataque supereficaz."
     },
     "shortDesc": "Restores 1/4 max HP after holder is hit by a supereffective move. Single use.",
-    "id": "enigmaberry"
+    "id": "enigmaberry",
+    "champions": false
   },
   {
     "name": {
@@ -2493,7 +2616,8 @@
       "es": "Roca misteriosa. El Pokémon portador aumentará su Defensa y su Defensa Especial si aún puede evolucionar."
     },
     "shortDesc": "If holder's species can evolve, its Defense and Sp. Def are 1.5x.",
-    "id": "eviolite"
+    "id": "eviolite",
+    "champions": false
   },
   {
     "name": {
@@ -2515,7 +2639,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "If held by an Excadrill, this item allows it to Mega Evolve in battle.",
-    "id": "excadrite"
+    "id": "excadrite",
+    "champions": true
   },
   {
     "name": {
@@ -2533,7 +2658,8 @@
       "es": "Potencia ligeramente los movimientos supereficaces. Debe llevarla un Pokémon."
     },
     "shortDesc": "Holder's attacks that are super effective against the target do 1.2x damage.",
-    "id": "expertbelt"
+    "id": "expertbelt",
+    "champions": false
   },
   {
     "name": {
@@ -2554,7 +2680,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "If holder has a Fairy move, this item allows it to use a Fairy Z-Move.",
-    "id": "fairiumz"
+    "id": "fairiumz",
+    "champions": false
   },
   {
     "name": {
@@ -2573,7 +2700,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "Holder's Fairy-type attacks have 1.2x power.",
-    "id": "fairyfeather"
+    "id": "fairyfeather",
+    "champions": true
   },
   {
     "name": {
@@ -2590,7 +2718,8 @@
       "es": "Joya de un solo uso que potencia los movimientos de tipo Hada. Debe llevarla un Pokémon."
     },
     "shortDesc": "Holder's first successful Fairy-type attack will have 1.3x power. Single use.",
-    "id": "fairygem"
+    "id": "fairygem",
+    "champions": false
   },
   {
     "name": {
@@ -2611,7 +2740,8 @@
       "es": "Disco de datos que contiene información relativa al tipo Hada. Permite cambiar de tipo a cierto Pokémon."
     },
     "shortDesc": "Holder's Multi-Attack is Fairy type.",
-    "id": "fairymemory"
+    "id": "fairymemory",
+    "champions": false
   },
   {
     "name": {
@@ -2633,7 +2763,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "If held by a Falinks, this item allows it to Mega Evolve in battle.",
-    "id": "falinksite"
+    "id": "falinksite",
+    "champions": false
   },
   {
     "name": {
@@ -2649,7 +2780,8 @@
       "es": "Poké Ball algo distinta, especialmente indicada para capturar Pokémon evasivos."
     },
     "shortDesc": "A Poke Ball that makes it easier to catch Pokemon which are quick to run away.",
-    "id": "fastball"
+    "id": "fastball",
+    "champions": false
   },
   {
     "name": {
@@ -2671,7 +2803,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "If held by a Feraligatr, this item allows it to Mega Evolve in battle.",
-    "id": "feraligite"
+    "id": "feraligite",
+    "champions": true
   },
   {
     "name": {
@@ -2688,7 +2821,8 @@
       "es": "Joya de un solo uso que potencia los movimientos de tipo Lucha. Debe llevarla un Pokémon."
     },
     "shortDesc": "Holder's first successful Fighting-type attack will have 1.3x power. Single use.",
-    "id": "fightinggem"
+    "id": "fightinggem",
+    "champions": false
   },
   {
     "name": {
@@ -2709,7 +2843,8 @@
       "es": "Disco de datos que contiene información relativa al tipo Lucha. Permite cambiar de tipo a cierto Pokémon."
     },
     "shortDesc": "Holder's Multi-Attack is Fighting type.",
-    "id": "fightingmemory"
+    "id": "fightingmemory",
+    "champions": false
   },
   {
     "name": {
@@ -2730,7 +2865,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "If holder has a Fighting move, this item allows it to use a Fighting Z-Move.",
-    "id": "fightiniumz"
+    "id": "fightiniumz",
+    "champions": false
   },
   {
     "name": {
@@ -2750,7 +2886,8 @@
       "es": "Los Pokémon pueden llevarla o usarla para restaurar algunos PS. Su sabor puede causar confusión si no les gusta."
     },
     "shortDesc": "Restores 1/3 max HP at 1/4 max HP or less; confuses if -Atk Nature. Single use.",
-    "id": "figyberry"
+    "id": "figyberry",
+    "champions": false
   },
   {
     "name": {
@@ -2767,7 +2904,8 @@
       "es": "Joya de un solo uso que potencia los movimientos de tipo Fuego. Debe llevarla un Pokémon."
     },
     "shortDesc": "Holder's first successful Fire-type attack will have 1.3x power. Single use.",
-    "id": "firegem"
+    "id": "firegem",
+    "champions": false
   },
   {
     "name": {
@@ -2788,7 +2926,8 @@
       "es": "Disco de datos que contiene información relativa al tipo Fuego. Permite cambiar de tipo a cierto Pokémon."
     },
     "shortDesc": "Holder's Multi-Attack is Fire type.",
-    "id": "firememory"
+    "id": "firememory",
+    "champions": false
   },
   {
     "name": {
@@ -2806,7 +2945,8 @@
       "es": "Curiosa piedra que hace evolucionar a determinadas especies de Pokémon. Es amarilla con una marca naranja."
     },
     "shortDesc": "Evolves certain species of Pokemon when used.",
-    "id": "firestone"
+    "id": "firestone",
+    "champions": false
   },
   {
     "name": {
@@ -2827,7 +2967,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "If holder has a Fire move, this item allows it to use a Fire Z-Move.",
-    "id": "firiumz"
+    "id": "firiumz",
+    "champions": false
   },
   {
     "name": {
@@ -2845,7 +2986,8 @@
       "es": "Tabla de piedra que potencia los movimientos de tipo Lucha. Debe llevarla un Pokémon."
     },
     "shortDesc": "Holder's Fighting-type attacks have 1.2x power. Judgment is Fighting type.",
-    "id": "fistplate"
+    "id": "fistplate",
+    "champions": false
   },
   {
     "name": {
@@ -2866,7 +3008,8 @@
       "es": "Extraña esfera que causa quemaduras al Pokémon que la lleva en combate."
     },
     "shortDesc": "At the end of every turn, this item attempts to burn the holder.",
-    "id": "flameorb"
+    "id": "flameorb",
+    "champions": false
   },
   {
     "name": {
@@ -2884,7 +3027,8 @@
       "es": "Tabla de piedra que potencia los movimientos de tipo Fuego. Debe llevarla un Pokémon."
     },
     "shortDesc": "Holder's Fire-type attacks have 1.2x power. Judgment is Fire type.",
-    "id": "flameplate"
+    "id": "flameplate",
+    "champions": false
   },
   {
     "name": {
@@ -2902,7 +3046,8 @@
       "es": "Piedra muy ligera que reduce el peso del Pokémon que la lleve."
     },
     "shortDesc": "Holder's weight is halved.",
-    "id": "floatstone"
+    "id": "floatstone",
+    "champions": false
   },
   {
     "name": {
@@ -2924,7 +3069,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "If held by an Eternal Flower Floette, this item allows it to Mega Evolve in battle.",
-    "id": "floettite"
+    "id": "floettite",
+    "champions": true
   },
   {
     "name": {
@@ -2942,7 +3088,8 @@
       "es": "Figura de caramelo con forma de flor. Al dárselo a Milcery, se pone a girar rebosante de alegría."
     },
     "shortDesc": "Evolves Milcery into Alcremie when held and spun around.",
-    "id": "flowersweet"
+    "id": "flowersweet",
+    "champions": false
   },
   {
     "name": {
@@ -2959,7 +3106,8 @@
       "es": "Joya de un solo uso que potencia los movimientos de tipo Volador. Debe llevarla un Pokémon."
     },
     "shortDesc": "Holder's first successful Flying-type attack will have 1.3x power. Single use.",
-    "id": "flyinggem"
+    "id": "flyinggem",
+    "champions": false
   },
   {
     "name": {
@@ -2980,7 +3128,8 @@
       "es": "Disco de datos que contiene información relativa al tipo Volador. Permite cambiar de tipo a cierto Pokémon."
     },
     "shortDesc": "Holder's Multi-Attack is Flying type.",
-    "id": "flyingmemory"
+    "id": "flyingmemory",
+    "champions": false
   },
   {
     "name": {
@@ -3001,7 +3150,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "If holder has a Flying move, this item allows it to use a Flying Z-Move.",
-    "id": "flyiniumz"
+    "id": "flyiniumz",
+    "champions": false
   },
   {
     "name": {
@@ -3020,7 +3170,8 @@
       "es": "El Pokémon que la lleva puede resistir un golpe que potencialmente lo dejaría K. O. y se queda con 1 PS."
     },
     "shortDesc": "Holder has a 10% chance to survive an attack that would KO it with 1 HP.",
-    "id": "focusband"
+    "id": "focusband",
+    "champions": true
   },
   {
     "name": {
@@ -3039,7 +3190,8 @@
       "es": "Si el Pokémon que la lleva tiene los PS al máximo, puede resistir un golpe que lo dejaría K. O. y se queda con 1 PS."
     },
     "shortDesc": "If holder's HP is full, will survive an attack that would KO it with 1 HP. Single use.",
-    "id": "focussash"
+    "id": "focussash",
+    "champions": true
   },
   {
     "name": {
@@ -3058,7 +3210,8 @@
       "es": "Parte del fósil de un Pokémon prehistórico que surcaba los cielos. Su apariencia sigue siendo una incógnita."
     },
     "shortDesc": "Can revive into Dracozolt with Fossilized Drake or Arctozolt with Fossilized Dino.",
-    "id": "fossilizedbird"
+    "id": "fossilizedbird",
+    "champions": false
   },
   {
     "name": {
@@ -3077,7 +3230,8 @@
       "es": "Parte del fósil de un Pokémon prehistórico que habitaba en el mar. Su apariencia sigue siendo una incógnita."
     },
     "shortDesc": "Can revive into Arctovish with Fossilized Fish or Arctozolt with Fossilized Bird.",
-    "id": "fossilizeddino"
+    "id": "fossilizeddino",
+    "champions": false
   },
   {
     "name": {
@@ -3096,7 +3250,8 @@
       "es": "Parte del fósil de un Pokémon prehistórico que habitaba en tierra firme. Su aspecto sigue siendo una incógnita."
     },
     "shortDesc": "Can revive into Dracozolt with Fossilized Bird or Dracovish with Fossilized Fish.",
-    "id": "fossilizeddrake"
+    "id": "fossilizeddrake",
+    "champions": false
   },
   {
     "name": {
@@ -3115,7 +3270,8 @@
       "es": "Parte del fósil de un Pokémon prehistórico que habitaba en el mar. Su apariencia sigue siendo una incógnita."
     },
     "shortDesc": "Can revive into Dracovish with Fossilized Drake or Arctovish with Fossilized Dino.",
-    "id": "fossilizedfish"
+    "id": "fossilizedfish",
+    "champions": false
   },
   {
     "name": {
@@ -3131,7 +3287,8 @@
       "es": "Poké Ball algo distinta que hace más amistosos a los Pokémon salvajes que se capturan con ella."
     },
     "shortDesc": "A Poke Ball that makes caught Pokemon more friendly.",
-    "id": "friendball"
+    "id": "friendball",
+    "champions": false
   },
   {
     "name": {
@@ -3153,7 +3310,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "If held by a Froslass, this item allows it to Mega Evolve in battle.",
-    "id": "froslassite"
+    "id": "froslassite",
+    "champions": true
   },
   {
     "name": {
@@ -3173,7 +3331,8 @@
       "es": "Incienso de exótico aroma que hace que el Pokémon que lo lleve esté aturdido y se mueva más despacio."
     },
     "shortDesc": "Holder moves last in its priority bracket.",
-    "id": "fullincense"
+    "id": "fullincense",
+    "champions": false
   },
   {
     "name": {
@@ -3191,7 +3350,8 @@
       "es": "Un brazalete hecho de Ramas de Galanuez trenzadas. Los Slowpoke de Galar se ponen contentísimos si lo reciben como regalo."
     },
     "shortDesc": "Evolves Galarian Slowpoke into Galarian Slowbro when used.",
-    "id": "galaricacuff"
+    "id": "galaricacuff",
+    "champions": false
   },
   {
     "name": {
@@ -3209,7 +3369,8 @@
       "es": "Una corona hecha de Ramas de Galanuez trenzadas. Los Slowpoke de Galar se ponen contentísimos cuando la llevan puesta."
     },
     "shortDesc": "Evolves Galarian Slowpoke into Galarian Slowking when used.",
-    "id": "galaricawreath"
+    "id": "galaricawreath",
+    "champions": false
   },
   {
     "name": {
@@ -3231,7 +3392,8 @@
       "es": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Gallade en combate."
     },
     "shortDesc": "If held by a Gallade, this item allows it to Mega Evolve in battle.",
-    "id": "galladite"
+    "id": "galladite",
+    "champions": true
   },
   {
     "name": {
@@ -3251,7 +3413,8 @@
       "es": "Si la lleva un Pokémon, le sube la Defensa en un momento de apuro."
     },
     "shortDesc": "Raises holder's Defense by 1 stage when at 1/4 max HP or less. Single use.",
-    "id": "ganlonberry"
+    "id": "ganlonberry",
+    "champions": false
   },
   {
     "name": {
@@ -3273,7 +3436,8 @@
       "es": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Garchomp en combate."
     },
     "shortDesc": "If held by a Garchomp, this item allows it to Mega Evolve into Mega Garchomp.",
-    "id": "garchompite"
+    "id": "garchompite",
+    "champions": true
   },
   {
     "name": {
@@ -3295,7 +3459,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "If held by a Garchomp, this item allows it to Mega Evolve into Mega Garchomp Z.",
-    "id": "garchompitez"
+    "id": "garchompitez",
+    "champions": false
   },
   {
     "name": {
@@ -3317,7 +3482,8 @@
       "es": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Gardevoir en combate."
     },
     "shortDesc": "If held by a Gardevoir, this item allows it to Mega Evolve in battle.",
-    "id": "gardevoirite"
+    "id": "gardevoirite",
+    "champions": true
   },
   {
     "name": {
@@ -3339,7 +3505,8 @@
       "es": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Gengar en combate."
     },
     "shortDesc": "If held by a Gengar, this item allows it to Mega Evolve in battle.",
-    "id": "gengarite"
+    "id": "gengarite",
+    "champions": true
   },
   {
     "name": {
@@ -3356,7 +3523,8 @@
       "es": "Joya de un solo uso que potencia los movimientos de tipo Fantasma. Debe llevarla un Pokémon."
     },
     "shortDesc": "Holder's first successful Ghost-type attack will have 1.3x power. Single use.",
-    "id": "ghostgem"
+    "id": "ghostgem",
+    "champions": false
   },
   {
     "name": {
@@ -3377,7 +3545,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "If holder has a Ghost move, this item allows it to use a Ghost Z-Move.",
-    "id": "ghostiumz"
+    "id": "ghostiumz",
+    "champions": false
   },
   {
     "name": {
@@ -3398,7 +3567,8 @@
       "es": "Disco de datos que contiene información relativa al tipo Fantasma. Permite cambiar de tipo a cierto Pokémon."
     },
     "shortDesc": "Holder's Multi-Attack is Ghost type.",
-    "id": "ghostmemory"
+    "id": "ghostmemory",
+    "champions": false
   },
   {
     "name": {
@@ -3420,7 +3590,8 @@
       "es": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Glalie en combate."
     },
     "shortDesc": "If held by a Glalie, this item allows it to Mega Evolve in battle.",
-    "id": "glalitite"
+    "id": "glalitite",
+    "champions": true
   },
   {
     "name": {
@@ -3442,7 +3613,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "If held by a Glimmora, this item allows it to Mega Evolve in battle.",
-    "id": "glimmoranite"
+    "id": "glimmoranite",
+    "champions": true
   },
   {
     "name": {
@@ -3460,7 +3632,8 @@
       "es": "Una bonita chapa de color dorado, menos común que su equivalente plateada. Hay gente que las aprecia mucho."
     },
     "shortDesc": "Used for Hyper Training. All of a Pokemon's stats are calculated with an IV of 31.",
-    "id": "goldbottlecap"
+    "id": "goldbottlecap",
+    "champions": false
   },
   {
     "name": {
@@ -3482,7 +3655,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "If held by a Golisopod, this item allows it to Mega Evolve in battle.",
-    "id": "golisopite"
+    "id": "golisopite",
+    "champions": false
   },
   {
     "name": {
@@ -3504,7 +3678,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "If held by a Golurk, this item allows it to Mega Evolve in battle.",
-    "id": "golurkite"
+    "id": "golurkite",
+    "champions": true
   },
   {
     "name": {
@@ -3521,7 +3696,8 @@
       "es": "Joya de un solo uso que potencia los movimientos de tipo Planta. Debe llevarla un Pokémon."
     },
     "shortDesc": "Holder's first successful Grass-type attack will have 1.3x power. Single use.",
-    "id": "grassgem"
+    "id": "grassgem",
+    "champions": false
   },
   {
     "name": {
@@ -3542,7 +3718,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "If holder has a Grass move, this item allows it to use a Grass Z-Move.",
-    "id": "grassiumz"
+    "id": "grassiumz",
+    "champions": false
   },
   {
     "name": {
@@ -3563,7 +3740,8 @@
       "es": "Disco de datos que contiene información relativa al tipo Planta. Permite cambiar de tipo a cierto Pokémon."
     },
     "shortDesc": "Holder's Multi-Attack is Grass type.",
-    "id": "grassmemory"
+    "id": "grassmemory",
+    "champions": false
   },
   {
     "name": {
@@ -3585,7 +3763,8 @@
       "es": "Aumenta la Defensa del portador si se usa cuando el terreno está cubierto por un campo de hierba."
     },
     "shortDesc": "If the terrain is Grassy Terrain, raises holder's Defense by 1 stage. Single use.",
-    "id": "grassyseed"
+    "id": "grassyseed",
+    "champions": false
   },
   {
     "name": {
@@ -3601,7 +3780,8 @@
       "es": "Poké Ball de alto rendimiento. Tiene un índice de éxito superior al de la Poké Ball."
     },
     "shortDesc": "A high-performance Ball that provides a higher catch rate than a Poke Ball.",
-    "id": "greatball"
+    "id": "greatball",
+    "champions": false
   },
   {
     "name": {
@@ -3623,7 +3803,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "If held by a Greninja, this item allows it to Mega Evolve in battle.",
-    "id": "greninjite"
+    "id": "greninjite",
+    "champions": true
   },
   {
     "name": {
@@ -3644,7 +3825,8 @@
       "es": "Al usarla con un Pokémon, se gana su amistad, pero también reduce su Defensa Especial de base."
     },
     "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
-    "id": "grepaberry"
+    "id": "grepaberry",
+    "champions": false
   },
   {
     "name": {
@@ -3662,7 +3844,8 @@
       "es": "Prolonga la duración de ataques multiturno como Atadura y Constricción si la lleva un Pokémon."
     },
     "shortDesc": "Holder's partial-trapping moves always last 7 turns.",
-    "id": "gripclaw"
+    "id": "gripclaw",
+    "champions": false
   },
   {
     "name": {
@@ -3682,7 +3865,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "If held by a Giratina, its Ghost- and Dragon-type attacks have 1.2x power.",
-    "id": "griseouscore"
+    "id": "griseouscore",
+    "champions": false
   },
   {
     "name": {
@@ -3704,7 +3888,8 @@
       "es": "Una esfera brillante que potencia los movimientos de tipo Dragón y Fantasma. Debe llevarla Giratina."
     },
     "shortDesc": "If held by a Giratina, its Ghost- and Dragon-type attacks have 1.2x power.",
-    "id": "griseousorb"
+    "id": "griseousorb",
+    "champions": false
   },
   {
     "name": {
@@ -3721,7 +3906,8 @@
       "es": "Joya de un solo uso que potencia los movimientos de tipo Tierra. Debe llevarla un Pokémon."
     },
     "shortDesc": "Holder's first successful Ground-type attack will have 1.3x power. Single use.",
-    "id": "groundgem"
+    "id": "groundgem",
+    "champions": false
   },
   {
     "name": {
@@ -3742,7 +3928,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "If holder has a Ground move, this item allows it to use a Ground Z-Move.",
-    "id": "groundiumz"
+    "id": "groundiumz",
+    "champions": false
   },
   {
     "name": {
@@ -3763,7 +3950,8 @@
       "es": "Disco de datos que contiene información relativa al tipo Tierra. Permite cambiar de tipo a cierto Pokémon."
     },
     "shortDesc": "Holder's Multi-Attack is Ground type.",
-    "id": "groundmemory"
+    "id": "groundmemory",
+    "champions": false
   },
   {
     "name": {
@@ -3785,7 +3973,8 @@
       "es": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Gyarados en combate."
     },
     "shortDesc": "If held by a Gyarados, this item allows it to Mega Evolve in battle.",
-    "id": "gyaradosite"
+    "id": "gyaradosite",
+    "champions": true
   },
   {
     "name": {
@@ -3805,7 +3994,8 @@
       "es": "Si la lleva un Pokémon, debilita un ataque supereficaz de tipo Dragón de un enemigo."
     },
     "shortDesc": "Halves damage taken from a supereffective Dragon-type attack. Single use.",
-    "id": "habanberry"
+    "id": "habanberry",
+    "champions": true
   },
   {
     "name": {
@@ -3824,7 +4014,8 @@
       "es": "Debe llevarla un Pokémon. La robustez de la piedra fortalece los movimientos de tipo Roca."
     },
     "shortDesc": "Holder's Rock-type attacks have 1.2x power.",
-    "id": "hardstone"
+    "id": "hardstone",
+    "champions": true
   },
   {
     "name": {
@@ -3846,7 +4037,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "If held by a Hawlucha, this item allows it to Mega Evolve in battle.",
-    "id": "hawluchanite"
+    "id": "hawluchanite",
+    "champions": true
   },
   {
     "name": {
@@ -3862,7 +4054,8 @@
       "es": "Poké Ball curativa que restaura los PS y cura todos los problemas de estado de un Pokémon después de capturarlo."
     },
     "shortDesc": "A remedial Poke Ball that restores the caught Pokemon's HP and status problem.",
-    "id": "healball"
+    "id": "healball",
+    "champions": false
   },
   {
     "name": {
@@ -3885,7 +4078,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "Ogerpon-Hearthflame: 1.2x power attacks; Terastallize to gain Embody Aspect.",
-    "id": "hearthflamemask"
+    "id": "hearthflamemask",
+    "champions": false
   },
   {
     "name": {
@@ -3907,7 +4101,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "If held by a Heatran, this item allows it to Mega Evolve in battle.",
-    "id": "heatranite"
+    "id": "heatranite",
+    "champions": false
   },
   {
     "name": {
@@ -3925,7 +4120,8 @@
       "es": "Prolonga la duración del movimiento Día Soleado que use el Pokémon que la lleva."
     },
     "shortDesc": "Holder's use of Sunny Day lasts 8 turns instead of 5.",
-    "id": "heatrock"
+    "id": "heatrock",
+    "champions": false
   },
   {
     "name": {
@@ -3941,7 +4137,8 @@
       "es": "Poké Ball algo distinta que funciona especialmente bien a la hora de atrapar Pokémon de mucho peso."
     },
     "shortDesc": "A Poke Ball for catching very heavy Pokemon.",
-    "id": "heavyball"
+    "id": "heavyball",
+    "champions": false
   },
   {
     "name": {
@@ -3959,7 +4156,8 @@
       "es": "Anula los efectos de aquello que se coloca a los pies del Pokémon para obstaculizarlo, como las trampas."
     },
     "shortDesc": "When switching in, the holder is unaffected by hazards on its side of the field.",
-    "id": "heavydutyboots"
+    "id": "heavydutyboots",
+    "champions": false
   },
   {
     "name": {
@@ -3978,7 +4176,8 @@
       "es": "Fósil de un Pokémon prehistórico que vivía en el fondo del mar. Parece ser un fragmento de concha marina."
     },
     "shortDesc": "Can be revived into Omanyte.",
-    "id": "helixfossil"
+    "id": "helixfossil",
+    "champions": false
   },
   {
     "name": {
@@ -4000,7 +4199,8 @@
       "es": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Heracross en combate."
     },
     "shortDesc": "If held by a Heracross, this item allows it to Mega Evolve in battle.",
-    "id": "heracronite"
+    "id": "heracronite",
+    "champions": true
   },
   {
     "name": {
@@ -4021,7 +4221,8 @@
       "es": "Al usarla con un Pokémon, se gana su amistad, pero también reduce su Ataque Especial de base."
     },
     "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
-    "id": "hondewberry"
+    "id": "hondewberry",
+    "champions": false
   },
   {
     "name": {
@@ -4043,7 +4244,8 @@
       "es": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Houndoom en combate."
     },
     "shortDesc": "If held by a Houndoom, this item allows it to Mega Evolve in battle.",
-    "id": "houndoominite"
+    "id": "houndoominite",
+    "champions": true
   },
   {
     "name": {
@@ -4063,7 +4265,8 @@
       "es": "Los Pokémon pueden llevarla o usarla para restaurar algunos PS. Su sabor puede causar confusión si no les gusta."
     },
     "shortDesc": "Restores 1/3 max HP at 1/4 max HP or less; confuses if -Def Nature. Single use.",
-    "id": "iapapaberry"
+    "id": "iapapaberry",
+    "champions": false
   },
   {
     "name": {
@@ -4080,7 +4283,8 @@
       "es": "Joya de un solo uso que potencia los movimientos de tipo Hielo. Debe llevarla un Pokémon."
     },
     "shortDesc": "Holder's first successful Ice-type attack will have 1.3x power. Single use.",
-    "id": "icegem"
+    "id": "icegem",
+    "champions": false
   },
   {
     "name": {
@@ -4101,7 +4305,8 @@
       "es": "Disco de datos que contiene información relativa al tipo Hielo. Permite cambiar de tipo a cierto Pokémon."
     },
     "shortDesc": "Holder's Multi-Attack is Ice type.",
-    "id": "icememory"
+    "id": "icememory",
+    "champions": false
   },
   {
     "name": {
@@ -4119,7 +4324,8 @@
       "es": "Una piedra peculiar que hace evolucionar a algunos Pokémon. Presenta motivos que recuerdan a los cristales de hielo."
     },
     "shortDesc": "Evolves certain species of Pokemon when used.",
-    "id": "icestone"
+    "id": "icestone",
+    "champions": false
   },
   {
     "name": {
@@ -4137,7 +4343,8 @@
       "es": "Tabla de piedra que potencia los movimientos de tipo Hielo. Debe llevarla un Pokémon."
     },
     "shortDesc": "Holder's Ice-type attacks have 1.2x power. Judgment is Ice type.",
-    "id": "icicleplate"
+    "id": "icicleplate",
+    "champions": false
   },
   {
     "name": {
@@ -4158,7 +4365,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "If holder has an Ice move, this item allows it to use an Ice Z-Move.",
-    "id": "iciumz"
+    "id": "iciumz",
+    "champions": false
   },
   {
     "name": {
@@ -4176,7 +4384,8 @@
       "es": "Prolonga la duración del movimiento Granizo que use el Pokémon que la lleva."
     },
     "shortDesc": "Holder's use of Snowscape lasts 8 turns instead of 5.",
-    "id": "icyrock"
+    "id": "icyrock",
+    "champions": false
   },
   {
     "name": {
@@ -4198,7 +4407,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "If held by an Incineroar with Darkest Lariat, it can use Malicious Moonsault.",
-    "id": "inciniumz"
+    "id": "inciniumz",
+    "champions": false
   },
   {
     "name": {
@@ -4216,7 +4426,8 @@
       "es": "Tabla de piedra que potencia los movimientos de tipo Bicho. Debe llevarla un Pokémon."
     },
     "shortDesc": "Holder's Bug-type attacks have 1.2x power. Judgment is Bug type.",
-    "id": "insectplate"
+    "id": "insectplate",
+    "champions": false
   },
   {
     "name": {
@@ -4234,7 +4445,8 @@
       "es": "Reduce la Velocidad. Los Pokémon que levitan y los de tipo Volador se tornan sensibles a movimientos de tipo Tierra."
     },
     "shortDesc": "Holder is grounded, Speed halved. If Flying type, takes neutral Ground damage.",
-    "id": "ironball"
+    "id": "ironball",
+    "champions": false
   },
   {
     "name": {
@@ -4252,7 +4464,8 @@
       "es": "Tabla de piedra que potencia los movimientos de tipo Acero. Debe llevarla un Pokémon."
     },
     "shortDesc": "Holder's Steel-type attacks have 1.2x power. Judgment is Steel type.",
-    "id": "ironplate"
+    "id": "ironplate",
+    "champions": false
   },
   {
     "name": {
@@ -4272,7 +4485,8 @@
       "es": "Si la lleva un Pokémon cuando otro lanza un ataque físico, este último también recibe daño."
     },
     "shortDesc": "If holder is hit by a physical move, attacker loses 1/8 of its max HP. Single use.",
-    "id": "jabocaberry"
+    "id": "jabocaberry",
+    "champions": false
   },
   {
     "name": {
@@ -4291,7 +4505,8 @@
       "es": "Fósil de un Pokémon prehistórico terrestre. Parece ser parte de una mandíbula."
     },
     "shortDesc": "Can be revived into Tyrunt.",
-    "id": "jawfossil"
+    "id": "jawfossil",
+    "champions": false
   },
   {
     "name": {
@@ -4313,7 +4528,8 @@
       "es": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Kangaskhan en combate."
     },
     "shortDesc": "If held by a Kangaskhan, this item allows it to Mega Evolve in battle.",
-    "id": "kangaskhanite"
+    "id": "kangaskhanite",
+    "champions": true
   },
   {
     "name": {
@@ -4333,7 +4549,8 @@
       "es": "Si la lleva un Pokémon, debilita un ataque supereficaz de tipo Fantasma de un enemigo."
     },
     "shortDesc": "Halves damage taken from a supereffective Ghost-type attack. Single use.",
-    "id": "kasibberry"
+    "id": "kasibberry",
+    "champions": true
   },
   {
     "name": {
@@ -4353,7 +4570,8 @@
       "es": "Si la lleva un Pokémon, debilita un ataque supereficaz de tipo Veneno de un enemigo."
     },
     "shortDesc": "Halves damage taken from a supereffective Poison-type attack. Single use.",
-    "id": "kebiaberry"
+    "id": "kebiaberry",
+    "champions": true
   },
   {
     "name": {
@@ -4373,7 +4591,8 @@
       "es": "Si la lleva un Pokémon, aumenta su Defensa tras recibir un ataque físico."
     },
     "shortDesc": "Raises holder's Defense by 1 stage after it is hit by a physical attack. Single use.",
-    "id": "keeberry"
+    "id": "keeberry",
+    "champions": false
   },
   {
     "name": {
@@ -4394,7 +4613,8 @@
       "es": "Al usarla con un Pokémon, se gana su amistad, pero también reduce su Ataque de base."
     },
     "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
-    "id": "kelpsyberry"
+    "id": "kelpsyberry",
+    "champions": false
   },
   {
     "name": {
@@ -4414,7 +4634,8 @@
       "es": "El Pokémon que la lleva puede amedrentar al Pokémon al que le inflige daño."
     },
     "shortDesc": "Holder's attacks without a chance to flinch gain a 10% chance to flinch.",
-    "id": "kingsrock"
+    "id": "kingsrock",
+    "champions": true
   },
   {
     "name": {
@@ -4437,7 +4658,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "If held by a Kommo-o with Clanging Scales, it can use Clangorous Soulblaze.",
-    "id": "kommoniumz"
+    "id": "kommoniumz",
+    "champions": false
   },
   {
     "name": {
@@ -4456,7 +4678,8 @@
       "es": "Es muy pesada y hace que el Pokémon que la lleva se mueva más lento de lo normal."
     },
     "shortDesc": "Holder moves last in its priority bracket.",
-    "id": "laggingtail"
+    "id": "laggingtail",
+    "champions": false
   },
   {
     "name": {
@@ -4476,7 +4699,8 @@
       "es": "Si la lleva un Pokémon, aumenta la probabilidad de dar un golpe crítico en un momento de apuro."
     },
     "shortDesc": "Holder gains the Focus Energy effect when at 1/4 max HP or less. Single use.",
-    "id": "lansatberry"
+    "id": "lansatberry",
+    "champions": false
   },
   {
     "name": {
@@ -4498,7 +4722,8 @@
       "es": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Latias en combate."
     },
     "shortDesc": "If held by a Latias, this item allows it to Mega Evolve in battle.",
-    "id": "latiasite"
+    "id": "latiasite",
+    "champions": false
   },
   {
     "name": {
@@ -4520,7 +4745,8 @@
       "es": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Latios en combate."
     },
     "shortDesc": "If held by a Latios, this item allows it to Mega Evolve in battle.",
-    "id": "latiosite"
+    "id": "latiosite",
+    "champions": false
   },
   {
     "name": {
@@ -4540,7 +4766,8 @@
       "es": "Debe llevarlo un Pokémon. Su peculiar aroma reduce la Precisión del objetivo."
     },
     "shortDesc": "The accuracy of attacks against the holder is 0.9x.",
-    "id": "laxincense"
+    "id": "laxincense",
+    "champions": false
   },
   {
     "name": {
@@ -4558,7 +4785,8 @@
       "es": "Curiosa piedra que hace evolucionar a determinadas especies de Pokémon. Tiene grabada una hoja."
     },
     "shortDesc": "Evolves certain species of Pokemon when used.",
-    "id": "leafstone"
+    "id": "leafstone",
+    "champions": false
   },
   {
     "name": {
@@ -4582,7 +4810,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "If held by a Farfetch’d or Sirfetch’d, its critical hit ratio is raised by 2 stages.",
-    "id": "leek"
+    "id": "leek",
+    "champions": false
   },
   {
     "name": {
@@ -4602,7 +4831,8 @@
       "es": "Este objeto restaura gradualmente durante el combate los PS del Pokémon que lo lleva."
     },
     "shortDesc": "At the end of every turn, holder restores 1/16 of its max HP.",
-    "id": "leftovers"
+    "id": "leftovers",
+    "champions": true
   },
   {
     "name": {
@@ -4622,7 +4852,8 @@
       "es": "Los Pokémon pueden llevarla o usarla para restaurar 10 PP de un movimiento."
     },
     "shortDesc": "Restores 10 PP to the first of the holder's moves to reach 0 PP. Single use.",
-    "id": "leppaberry"
+    "id": "leppaberry",
+    "champions": true
   },
   {
     "name": {
@@ -4638,7 +4869,8 @@
       "es": "Poké Ball algo distinta que funciona especialmente bien con Pokémon de nivel inferior a los que se posee."
     },
     "shortDesc": "A Poke Ball for catching Pokemon that are a lower level than your own.",
-    "id": "levelball"
+    "id": "levelball",
+    "champions": false
   },
   {
     "name": {
@@ -4658,7 +4890,8 @@
       "es": "Si la lleva un Pokémon, le sube el Ataque en un momento de apuro."
     },
     "shortDesc": "Raises holder's Attack by 1 stage when at 1/4 max HP or less. Single use.",
-    "id": "liechiberry"
+    "id": "liechiberry",
+    "champions": false
   },
   {
     "name": {
@@ -4676,7 +4909,8 @@
       "es": "Potencia los movimientos, pero consume PS con cada ataque. Debe llevarla un Pokémon."
     },
     "shortDesc": "Holder's attacks do 1.3x damage, and it loses 1/10 its max HP after the attack.",
-    "id": "lifeorb"
+    "id": "lifeorb",
+    "champions": false
   },
   {
     "name": {
@@ -4715,7 +4949,8 @@
       "es": "Asombrosa esfera que debe llevar Pikachu y que aumenta su Ataque y su Ataque Especial."
     },
     "shortDesc": "If held by a Pikachu, its Attack and Sp. Atk are doubled.",
-    "id": "lightball"
+    "id": "lightball",
+    "champions": true
   },
   {
     "name": {
@@ -4733,7 +4968,8 @@
       "es": "Prolonga la duración de barreras como las creadas por Reflejo y Pantalla de Luz. Debe llevarla un Pokémon."
     },
     "shortDesc": "Holder's use of Aurora Veil, Light Screen, or Reflect lasts 8 turns instead of 5.",
-    "id": "lightclay"
+    "id": "lightclay",
+    "champions": false
   },
   {
     "name": {
@@ -4751,7 +4987,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "Holder's moves that hit 2-5 times hit 4-5 times; Population Bomb hits 4-10 times.",
-    "id": "loadeddice"
+    "id": "loadeddice",
+    "champions": false
   },
   {
     "name": {
@@ -4773,7 +5010,8 @@
       "es": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Lopunny en combate."
     },
     "shortDesc": "If held by a Lopunny, this item allows it to Mega Evolve in battle.",
-    "id": "lopunnite"
+    "id": "lopunnite",
+    "champions": true
   },
   {
     "name": {
@@ -4789,7 +5027,8 @@
       "es": "Poké Ball algo distinta que atrapa mejor Pokémon de la misma especie que los que se posee, pero de sexo diferente."
     },
     "shortDesc": "Poke Ball for catching Pokemon that are the opposite gender of your Pokemon.",
-    "id": "loveball"
+    "id": "loveball",
+    "champions": false
   },
   {
     "name": {
@@ -4807,7 +5046,8 @@
       "es": "Figura de caramelo con forma de corazón. Al dárselo a Milcery, se pone a girar rebosante de alegría."
     },
     "shortDesc": "Evolves Milcery into Alcremie when held and spun around.",
-    "id": "lovesweet"
+    "id": "lovesweet",
+    "champions": false
   },
   {
     "name": {
@@ -4829,7 +5069,8 @@
       "es": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Lucario en combate."
     },
     "shortDesc": "If held by a Lucario, this item allows it to Mega Evolve into Mega Lucario in battle.",
-    "id": "lucarionite"
+    "id": "lucarionite",
+    "champions": true
   },
   {
     "name": {
@@ -4851,7 +5092,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "If held by a Lucario, this item allows it to Mega Evolve into Mega Lucario Z in battle.",
-    "id": "lucarionitez"
+    "id": "lucarionitez",
+    "champions": false
   },
   {
     "name": {
@@ -4873,7 +5115,8 @@
       "es": "Un par de guantes que debe llevar Chansey. Potencian mucho su índice de golpe crítico."
     },
     "shortDesc": "If held by a Chansey, its critical hit ratio is raised by 2 stages.",
-    "id": "luckypunch"
+    "id": "luckypunch",
+    "champions": false
   },
   {
     "name": {
@@ -4894,7 +5137,8 @@
       "es": "Los Pokémon pueden llevarla o usarla para recuperarse de problemas de estado."
     },
     "shortDesc": "Holder cures itself if it has a non-volatile status or is confused. Single use.",
-    "id": "lumberry"
+    "id": "lumberry",
+    "champions": true
   },
   {
     "name": {
@@ -4915,7 +5159,8 @@
       "es": "Objeto de un solo uso. Aumenta la Defensa Especial del Pokémon que lo lleva si este recibe un ataque de tipo Agua."
     },
     "shortDesc": "Raises holder's Sp. Def by 1 stage if hit by a Water-type attack. Single use.",
-    "id": "luminousmoss"
+    "id": "luminousmoss",
+    "champions": false
   },
   {
     "name": {
@@ -4938,7 +5183,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "Lunala or Dawn Wings Necrozma with Moongeist Beam can use a special Z-Move.",
-    "id": "lunaliumz"
+    "id": "lunaliumz",
+    "champions": false
   },
   {
     "name": {
@@ -4954,7 +5200,8 @@
       "es": "Poké Ball algo distinta, especialmente indicada para capturar los Pokémon que se han pescado con una caña."
     },
     "shortDesc": "A Poke Ball for catching Pokemon hooked by a Rod when fishing.",
-    "id": "lureball"
+    "id": "lureball",
+    "champions": false
   },
   {
     "name": {
@@ -4974,7 +5221,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "If held by a Palkia, its Water- and Dragon-type attacks have 1.2x power.",
-    "id": "lustrousglobe"
+    "id": "lustrousglobe",
+    "champions": false
   },
   {
     "name": {
@@ -4996,7 +5244,8 @@
       "es": "Una bonita esfera que potencia los movimientos de tipo Dragón y Agua. Debe llevarla Palkia."
     },
     "shortDesc": "If held by a Palkia, its Water- and Dragon-type attacks have 1.2x power.",
-    "id": "lustrousorb"
+    "id": "lustrousorb",
+    "champions": false
   },
   {
     "name": {
@@ -5012,7 +5261,8 @@
       "es": "Acogedora Poké Ball que hace más amistosos a los Pokémon salvajes capturados."
     },
     "shortDesc": "A comfortable Poke Ball that makes a caught wild Pokemon quickly grow friendly.",
-    "id": "luxuryball"
+    "id": "luxuryball",
+    "champions": false
   },
   {
     "name": {
@@ -5036,7 +5286,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "If held by a Lycanroc forme with Stone Edge, it can use Splintered Stormshards.",
-    "id": "lycaniumz"
+    "id": "lycaniumz",
+    "champions": false
   },
   {
     "name": {
@@ -5056,7 +5307,8 @@
       "es": "Sólido y pesado brazal que potencia aún más las características del Pokémon que lo lleva al subir de nivel, pero que reduce la Velocidad en combate."
     },
     "shortDesc": "Holder's Speed is halved. The Klutz Ability does not ignore this effect.",
-    "id": "machobrace"
+    "id": "machobrace",
+    "champions": false
   },
   {
     "name": {
@@ -5080,7 +5332,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "If held by a Magearna, this item allows it to Mega Evolve in battle.",
-    "id": "magearnite"
+    "id": "magearnite",
+    "champions": false
   },
   {
     "name": {
@@ -5098,7 +5351,8 @@
       "es": "Esta caja contiene una enorme cantidad de energía magmática. Cierto Pokémon la adora."
     },
     "shortDesc": "Evolves Magmar into Magmortar when traded.",
-    "id": "magmarizer"
+    "id": "magmarizer",
+    "champions": false
   },
   {
     "name": {
@@ -5117,7 +5371,8 @@
       "es": "Debe llevarlo un Pokémon. Su potente magnetismo fortalece los movimientos de tipo Eléctrico."
     },
     "shortDesc": "Holder's Electric-type attacks have 1.2x power.",
-    "id": "magnet"
+    "id": "magnet",
+    "champions": true
   },
   {
     "name": {
@@ -5137,7 +5392,8 @@
       "es": "Los Pokémon pueden llevarla o usarla para restaurar algunos PS. Su sabor puede causar confusión si no les gusta."
     },
     "shortDesc": "Restores 1/3 max HP at 1/4 max HP or less; confuses if -Spe Nature. Single use.",
-    "id": "magoberry"
+    "id": "magoberry",
+    "champions": false
   },
   {
     "name": {
@@ -5159,7 +5415,8 @@
       "es": "Se utiliza en la producción de Pokécubos que potencian la dulzura. Es una baya muy rara en otras regiones."
     },
     "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
-    "id": "magostberry"
+    "id": "magostberry",
+    "champions": false
   },
   {
     "name": {
@@ -5175,7 +5432,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "Cannot be given to or taken from a Pokemon, except by Covet/Knock Off/Thief.",
-    "id": "mail"
+    "id": "mail",
+    "champions": false
   },
   {
     "name": {
@@ -5197,7 +5455,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "If held by a Malamar, this item allows it to Mega Evolve in battle.",
-    "id": "malamarite"
+    "id": "malamarite",
+    "champions": false
   },
   {
     "name": {
@@ -5215,7 +5474,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "Evolves Charcadet into Ceruledge when used.",
-    "id": "maliciousarmor"
+    "id": "maliciousarmor",
+    "champions": false
   },
   {
     "name": {
@@ -5237,7 +5497,8 @@
       "es": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Manectric en combate."
     },
     "shortDesc": "If held by a Manectric, this item allows it to Mega Evolve in battle.",
-    "id": "manectite"
+    "id": "manectite",
+    "champions": true
   },
   {
     "name": {
@@ -5257,7 +5518,8 @@
       "es": "Si la lleva un Pokémon, aumenta su Defensa Especial tras recibir un ataque especial."
     },
     "shortDesc": "Raises holder's Sp. Def by 1 stage after it is hit by a special attack. Single use.",
-    "id": "marangaberry"
+    "id": "marangaberry",
+    "champions": false
   },
   {
     "name": {
@@ -5279,7 +5541,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "If held by Marshadow with Spectral Thief, it can use Soul-Stealing 7-Star Strike.",
-    "id": "marshadiumz"
+    "id": "marshadiumz",
+    "champions": false
   },
   {
     "name": {
@@ -5295,7 +5558,8 @@
       "es": "La Poké Ball definitiva. Atrapa cualquier Pokémon salvaje y no falla nunca."
     },
     "shortDesc": "The best Ball with the ultimate performance. It will catch any wild Pokemon.",
-    "id": "masterball"
+    "id": "masterball",
+    "champions": false
   },
   {
     "name": {
@@ -5313,7 +5577,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "Evolves Poltchageist-Artisan into Sinistcha-Masterpiece when used.",
-    "id": "masterpieceteacup"
+    "id": "masterpieceteacup",
+    "champions": false
   },
   {
     "name": {
@@ -5335,7 +5600,8 @@
       "es": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Mawile en combate."
     },
     "shortDesc": "If held by a Mawile, this item allows it to Mega Evolve in battle.",
-    "id": "mawilite"
+    "id": "mawilite",
+    "champions": false
   },
   {
     "name": {
@@ -5353,7 +5619,8 @@
       "es": "Tabla de piedra que potencia los movimientos de tipo Planta. Debe llevarla un Pokémon."
     },
     "shortDesc": "Holder's Grass-type attacks have 1.2x power. Judgment is Grass type.",
-    "id": "meadowplate"
+    "id": "meadowplate",
+    "champions": false
   },
   {
     "name": {
@@ -5375,7 +5642,8 @@
       "es": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Medicham en combate."
     },
     "shortDesc": "If held by a Medicham, this item allows it to Mega Evolve in battle.",
-    "id": "medichamite"
+    "id": "medichamite",
+    "champions": true
   },
   {
     "name": {
@@ -5397,7 +5665,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "If held by a Meganium, this item allows it to Mega Evolve in battle.",
-    "id": "meganiumite"
+    "id": "meganiumite",
+    "champions": true
   },
   {
     "name": {
@@ -5415,7 +5684,8 @@
       "es": "El Pokémon que la lleva se libera del efecto de movimientos que restringen sus acciones. Solo puede usarse una vez."
     },
     "shortDesc": "Cures holder of Attract, Disable, Encore, Heal Block, Taunt, Torment. Single use.",
-    "id": "mentalherb"
+    "id": "mentalherb",
+    "champions": true
   },
   {
     "name": {
@@ -5439,7 +5709,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "If held by a Meowstic, this item allows it to Mega Evolve in battle.",
-    "id": "meowsticite"
+    "id": "meowsticite",
+    "champions": true
   },
   {
     "name": {
@@ -5461,7 +5732,8 @@
       "es": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Metagross en combate."
     },
     "shortDesc": "If held by a Metagross, this item allows it to Mega Evolve in battle.",
-    "id": "metagrossite"
+    "id": "metagrossite",
+    "champions": false
   },
   {
     "name": {
@@ -5476,7 +5748,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "Evolves Duraludon into Archaludon when used.",
-    "id": "metalalloy"
+    "id": "metalalloy",
+    "champions": false
   },
   {
     "name": {
@@ -5495,7 +5768,8 @@
       "es": "Película metálica que fortalece los ataques de tipo Acero. Debe llevarlo un Pokémon."
     },
     "shortDesc": "Holder's Steel-type attacks have 1.2x power.",
-    "id": "metalcoat"
+    "id": "metalcoat",
+    "champions": true
   },
   {
     "name": {
@@ -5518,7 +5792,8 @@
       "es": "Debe llevarlo Ditto. Es un polvo muy fino, pero a la vez poderoso, que aumenta su Defensa."
     },
     "shortDesc": "If held by a Ditto that hasn't Transformed, its Defense is doubled.",
-    "id": "metalpowder"
+    "id": "metalpowder",
+    "champions": false
   },
   {
     "name": {
@@ -5539,7 +5814,8 @@
       "es": "Potencia un movimiento que se use de forma consecutiva. Pero el efecto se pierde si se emplea otro movimiento."
     },
     "shortDesc": "Damage of moves used on consecutive turns is increased. Max 2x after 5 turns.",
-    "id": "metronome"
+    "id": "metronome",
+    "champions": false
   },
   {
     "name": {
@@ -5561,7 +5837,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "If held by a Mew with Psychic, it can use Genesis Supernova.",
-    "id": "mewniumz"
+    "id": "mewniumz",
+    "champions": false
   },
   {
     "name": {
@@ -5583,7 +5860,8 @@
       "es": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Mewtwo en combate."
     },
     "shortDesc": "If held by a Mewtwo, this item allows it to Mega Evolve into Mega Mewtwo X in battle.",
-    "id": "mewtwonitex"
+    "id": "mewtwonitex",
+    "champions": false
   },
   {
     "name": {
@@ -5605,7 +5883,8 @@
       "es": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Mewtwo en combate."
     },
     "shortDesc": "If held by a Mewtwo, this item allows it to Mega Evolve into Mega Mewtwo Y in battle.",
-    "id": "mewtwonitey"
+    "id": "mewtwonitey",
+    "champions": false
   },
   {
     "name": {
@@ -5628,7 +5907,8 @@
       "es": "Cuando la lleva un Pokémon, le sube la precisión de un movimiento en un momento de apuro."
     },
     "shortDesc": "Holder's next move has 1.2x accuracy when at 1/4 max HP or less. Single use.",
-    "id": "micleberry"
+    "id": "micleberry",
+    "champions": false
   },
   {
     "name": {
@@ -5653,7 +5933,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "If held by a Mimikyu with Play Rough, it can use Let's Snuggle Forever.",
-    "id": "mimikiumz"
+    "id": "mimikiumz",
+    "champions": false
   },
   {
     "name": {
@@ -5671,7 +5952,8 @@
       "es": "Tabla de piedra que potencia los movimientos de tipo Psíquico. Debe llevarla un Pokémon."
     },
     "shortDesc": "Holder's Psychic-type attacks have 1.2x power. Judgment is Psychic type.",
-    "id": "mindplate"
+    "id": "mindplate",
+    "champions": false
   },
   {
     "name": {
@@ -5690,7 +5972,8 @@
       "es": "Debe llevarla un Pokémon. La vitalidad de la semilla fortalece los movimientos de tipo Planta."
     },
     "shortDesc": "Holder's Grass-type attacks have 1.2x power.",
-    "id": "miracleseed"
+    "id": "miracleseed",
+    "champions": true
   },
   {
     "name": {
@@ -5710,7 +5993,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "When an opposing Pokemon raises a stat stage, the holder copies it. Single use.",
-    "id": "mirrorherb"
+    "id": "mirrorherb",
+    "champions": false
   },
   {
     "name": {
@@ -5732,7 +6016,8 @@
       "es": "Aumenta la Defensa Especial del portador si se usa cuando el terreno está cubierto por un campo de niebla."
     },
     "shortDesc": "If the terrain is Misty Terrain, raises holder's Sp. Def by 1 stage. Single use.",
-    "id": "mistyseed"
+    "id": "mistyseed",
+    "champions": false
   },
   {
     "name": {
@@ -5748,7 +6033,8 @@
       "es": "Poké Ball algo distinta que atrapa con más facilidad los Pokémon que evolucionan con la Piedra Lunar."
     },
     "shortDesc": "A Poke Ball for catching Pokemon that evolve using the Moon Stone.",
-    "id": "moonball"
+    "id": "moonball",
+    "champions": false
   },
   {
     "name": {
@@ -5766,7 +6052,8 @@
       "es": "Curiosa piedra que hace evolucionar a determinadas especies de Pokémon. Es oscura como la noche."
     },
     "shortDesc": "Evolves certain species of Pokemon when used.",
-    "id": "moonstone"
+    "id": "moonstone",
+    "champions": false
   },
   {
     "name": {
@@ -5785,7 +6072,8 @@
       "es": "Cinta del pelo que aumenta ligeramente la potencia de los ataques físicos. Debe llevarla un Pokémon."
     },
     "shortDesc": "Holder's physical attacks have 1.1x power.",
-    "id": "muscleband"
+    "id": "muscleband",
+    "champions": false
   },
   {
     "name": {
@@ -5804,7 +6092,8 @@
       "es": "Gema con forma de gota de agua que fortalece los movimientos de tipo Agua. Debe llevarla un Pokémon."
     },
     "shortDesc": "Holder's Water-type attacks have 1.2x power.",
-    "id": "mysticwater"
+    "id": "mysticwater",
+    "champions": true
   },
   {
     "name": {
@@ -5826,7 +6115,8 @@
       "es": "Se utiliza en la producción de Pokécubos que potencian la dulzura. Es de color rosa y sabor dulce."
     },
     "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
-    "id": "nanabberry"
+    "id": "nanabberry",
+    "champions": false
   },
   {
     "name": {
@@ -5842,7 +6132,8 @@
       "es": "Es algo distinta a las demás. Funciona especialmente bien con los Pokémon salvajes de nivel bajo."
     },
     "shortDesc": "A Poke Ball that works especially well on weaker Pokemon in the wild.",
-    "id": "nestball"
+    "id": "nestball",
+    "champions": false
   },
   {
     "name": {
@@ -5858,7 +6149,8 @@
       "es": "Es algo distinta a las demás. Funciona especialmente bien con los Pokémon de tipo Agua y Bicho."
     },
     "shortDesc": "A Poke Ball that works especially well on Water- and Bug-type Pokemon.",
-    "id": "netball"
+    "id": "netball",
+    "champions": false
   },
   {
     "name": {
@@ -5877,7 +6169,8 @@
       "es": "Fragmento de hielo que repele el calor y fortalece los movimientos de tipo Hielo. Debe llevarlo un Pokémon."
     },
     "shortDesc": "Holder's Ice-type attacks have 1.2x power.",
-    "id": "nevermeltice"
+    "id": "nevermeltice",
+    "champions": true
   },
   {
     "name": {
@@ -5899,7 +6192,8 @@
       "es": "Se utiliza en la producción de Pokécubos que potencian la dureza. Es una baya muy rara en otras regiones."
     },
     "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
-    "id": "nomelberry"
+    "id": "nomelberry",
+    "champions": false
   },
   {
     "name": {
@@ -5915,7 +6209,8 @@
       "es": "Joya de un solo uso que potencia los movimientos de tipo Normal. Debe llevarla un Pokémon."
     },
     "shortDesc": "Holder's first successful Normal-type attack will have 1.3x power. Single use.",
-    "id": "normalgem"
+    "id": "normalgem",
+    "champions": false
   },
   {
     "name": {
@@ -5934,7 +6229,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "If holder has a Normal move, this item allows it to use a Normal Z-Move.",
-    "id": "normaliumz"
+    "id": "normaliumz",
+    "champions": false
   },
   {
     "name": {
@@ -5954,7 +6250,8 @@
       "es": "Si la lleva un Pokémon, debilita un ataque supereficaz de tipo Fuego de un enemigo."
     },
     "shortDesc": "Halves damage taken from a supereffective Fire-type attack. Single use.",
-    "id": "occaberry"
+    "id": "occaberry",
+    "champions": true
   },
   {
     "name": {
@@ -5974,7 +6271,8 @@
       "es": "Incienso de exótico aroma que fortalece los movimientos de tipo Psíquico. Debe llevarlo un Pokémon."
     },
     "shortDesc": "Holder's Psychic-type attacks have 1.2x power.",
-    "id": "oddincense"
+    "id": "oddincense",
+    "champions": false
   },
   {
     "name": {
@@ -5993,7 +6291,8 @@
       "es": "Fragmento de ámbar que contiene información genética de un Pokémon prehistórico. Es de color amarillo."
     },
     "shortDesc": "Can be revived into Aerodactyl.",
-    "id": "oldamber"
+    "id": "oldamber",
+    "champions": false
   },
   {
     "name": {
@@ -6013,7 +6312,8 @@
       "es": "Los Pokémon pueden llevarla o usarla para restaurar 10 PS."
     },
     "shortDesc": "Restores 10 HP when at 1/2 max HP or less. Single use.",
-    "id": "oranberry"
+    "id": "oranberry",
+    "champions": true
   },
   {
     "name": {
@@ -6031,7 +6331,8 @@
       "es": "Una piedra peculiar que hace evolucionar a algunos Pokémon. Tiene forma de huevo."
     },
     "shortDesc": "Evolves Happiny into Chansey when held and leveled up during the day.",
-    "id": "ovalstone"
+    "id": "ovalstone",
+    "champions": false
   },
   {
     "name": {
@@ -6053,7 +6354,8 @@
       "es": "Se utiliza en la producción de Pokécubos que potencian la belleza. Es una baya muy rara en otras regiones."
     },
     "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
-    "id": "pamtreberry"
+    "id": "pamtreberry",
+    "champions": false
   },
   {
     "name": {
@@ -6070,7 +6372,8 @@
       "es": "Poké Ball que se utiliza dentro del Parque Compi."
     },
     "shortDesc": "A special Poke Ball for the Pal Park.",
-    "id": "parkball"
+    "id": "parkball",
+    "champions": false
   },
   {
     "name": {
@@ -6090,7 +6393,8 @@
       "es": "Si la lleva un Pokémon, debilita un ataque supereficaz de tipo Agua de un enemigo."
     },
     "shortDesc": "Halves damage taken from a supereffective Water-type attack. Single use.",
-    "id": "passhoberry"
+    "id": "passhoberry",
+    "champions": true
   },
   {
     "name": {
@@ -6110,7 +6414,8 @@
       "es": "Si la lleva un Pokémon, debilita un ataque supereficaz de tipo Psíquico de un enemigo."
     },
     "shortDesc": "Halves damage taken from a supereffective Psychic-type attack. Single use.",
-    "id": "payapaberry"
+    "id": "payapaberry",
+    "champions": true
   },
   {
     "name": {
@@ -6130,7 +6435,8 @@
       "es": "Los Pokémon pueden llevarla o usarla para curarse del envenenamiento."
     },
     "shortDesc": "Holder is cured if it is poisoned. Single use.",
-    "id": "pechaberry"
+    "id": "pechaberry",
+    "champions": true
   },
   {
     "name": {
@@ -6150,7 +6456,8 @@
       "es": "Los Pokémon pueden llevarla o usarla para librarse de la confusión."
     },
     "shortDesc": "Holder is cured if it is confused. Single use.",
-    "id": "persimberry"
+    "id": "persimberry",
+    "champions": true
   },
   {
     "name": {
@@ -6170,7 +6477,8 @@
       "es": "Si la lleva un Pokémon, le sube el Ataque Especial en un momento de apuro."
     },
     "shortDesc": "Raises holder's Sp. Atk by 1 stage when at 1/4 max HP or less. Single use.",
-    "id": "petayaberry"
+    "id": "petayaberry",
+    "champions": false
   },
   {
     "name": {
@@ -6192,7 +6500,8 @@
       "es": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Pidgeot en combate."
     },
     "shortDesc": "If held by a Pidgeot, this item allows it to Mega Evolve in battle.",
-    "id": "pidgeotite"
+    "id": "pidgeotite",
+    "champions": true
   },
   {
     "name": {
@@ -6214,7 +6523,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "If held by a Pikachu with Volt Tackle, it can use Catastropika.",
-    "id": "pikaniumz"
+    "id": "pikaniumz",
+    "champions": false
   },
   {
     "name": {
@@ -6242,7 +6552,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "If held by cap Pikachu with Thunderbolt, it can use 10,000,000 Volt Thunderbolt.",
-    "id": "pikashuniumz"
+    "id": "pikashuniumz",
+    "champions": false
   },
   {
     "name": {
@@ -6264,7 +6575,8 @@
       "es": "Se utiliza en la producción de Pokécubos que potencian la dureza. Es de color amarillo y sabor ácido."
     },
     "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
-    "id": "pinapberry"
+    "id": "pinapberry",
+    "champions": false
   },
   {
     "name": {
@@ -6286,7 +6598,8 @@
       "es": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Pinsir en combate."
     },
     "shortDesc": "If held by a Pinsir, this item allows it to Mega Evolve in battle.",
-    "id": "pinsirite"
+    "id": "pinsirite",
+    "champions": true
   },
   {
     "name": {
@@ -6304,7 +6617,8 @@
       "es": "Tabla de piedra que potencia los movimientos de tipo Hada. Debe llevarla un Pokémon."
     },
     "shortDesc": "Holder's Fairy-type attacks have 1.2x power. Judgment is Fairy type.",
-    "id": "pixieplate"
+    "id": "pixieplate",
+    "champions": false
   },
   {
     "name": {
@@ -6323,7 +6637,8 @@
       "es": "Fósil de un Pokémon prehistórico que surcaba los cielos. Parece ser parte de una de sus alas."
     },
     "shortDesc": "Can be revived into Archen.",
-    "id": "plumefossil"
+    "id": "plumefossil",
+    "champions": false
   },
   {
     "name": {
@@ -6343,7 +6658,8 @@
       "es": "Flecha venenosa que refuerza los movimientos de tipo Veneno. Debe llevarla un Pokémon."
     },
     "shortDesc": "Holder's Poison-type attacks have 1.2x power.",
-    "id": "poisonbarb"
+    "id": "poisonbarb",
+    "champions": true
   },
   {
     "name": {
@@ -6360,7 +6676,8 @@
       "es": "Joya de un solo uso que potencia los movimientos de tipo Veneno. Debe llevarla un Pokémon."
     },
     "shortDesc": "Holder's first successful Poison-type attack will have 1.3x power. Single use.",
-    "id": "poisongem"
+    "id": "poisongem",
+    "champions": false
   },
   {
     "name": {
@@ -6381,7 +6698,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "If holder has a Poison move, this item allows it to use a Poison Z-Move.",
-    "id": "poisoniumz"
+    "id": "poisoniumz",
+    "champions": false
   },
   {
     "name": {
@@ -6402,7 +6720,8 @@
       "es": "Disco de datos que contiene información relativa al tipo Veneno. Permite cambiar de tipo a cierto Pokémon."
     },
     "shortDesc": "Holder's Multi-Attack is Poison type.",
-    "id": "poisonmemory"
+    "id": "poisonmemory",
+    "champions": false
   },
   {
     "name": {
@@ -6418,7 +6737,8 @@
       "es": "Dispositivo con diseño capsular que atrapa Pokémon salvajes. Se lanza como una bola contra el blanco."
     },
     "shortDesc": "A device for catching wild Pokemon. It is designed as a capsule system.",
-    "id": "pokeball"
+    "id": "pokeball",
+    "champions": false
   },
   {
     "name": {
@@ -6439,7 +6759,8 @@
       "es": "Al usarla con un Pokémon, se gana su amistad, pero también reduce sus PS de base."
     },
     "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
-    "id": "pomegberry"
+    "id": "pomegberry",
+    "champions": false
   },
   {
     "name": {
@@ -6458,7 +6779,8 @@
       "es": "Potencia la Velocidad de base, pero reduce la Velocidad en combate. Debe llevarla un Pokémon."
     },
     "shortDesc": "Holder's Speed is halved. The Klutz Ability does not ignore this effect.",
-    "id": "poweranklet"
+    "id": "poweranklet",
+    "champions": false
   },
   {
     "name": {
@@ -6477,7 +6799,8 @@
       "es": "Potencia la Defensa Especial de base, pero reduce la Velocidad en combate. Debe llevarla un Pokémon."
     },
     "shortDesc": "Holder's Speed is halved. The Klutz Ability does not ignore this effect.",
-    "id": "powerband"
+    "id": "powerband",
+    "champions": false
   },
   {
     "name": {
@@ -6496,7 +6819,8 @@
       "es": "Potencia la Defensa de base, pero reduce la Velocidad en combate. Debe llevarlo un Pokémon."
     },
     "shortDesc": "Holder's Speed is halved. The Klutz Ability does not ignore this effect.",
-    "id": "powerbelt"
+    "id": "powerbelt",
+    "champions": false
   },
   {
     "name": {
@@ -6515,7 +6839,8 @@
       "es": "Potencia el Ataque de base, pero reduce la Velocidad en combate. Debe llevarlo un Pokémon."
     },
     "shortDesc": "Holder's Speed is halved. The Klutz Ability does not ignore this effect.",
-    "id": "powerbracer"
+    "id": "powerbracer",
+    "champions": false
   },
   {
     "name": {
@@ -6533,7 +6858,8 @@
       "es": "Permite el uso inmediato de cualquier movimiento en el primer turno. Es de un solo uso y debe llevarla un Pokémon."
     },
     "shortDesc": "Holder's two-turn moves complete in one turn (except Sky Drop). Single use.",
-    "id": "powerherb"
+    "id": "powerherb",
+    "champions": false
   },
   {
     "name": {
@@ -6552,7 +6878,8 @@
       "es": "Potencia el Ataque Especial de base, pero reduce la Velocidad en combate. Debe llevarla un Pokémon."
     },
     "shortDesc": "Holder's Speed is halved. The Klutz Ability does not ignore this effect.",
-    "id": "powerlens"
+    "id": "powerlens",
+    "champions": false
   },
   {
     "name": {
@@ -6571,7 +6898,8 @@
       "es": "Mejora los PS de base, pero reduce la Velocidad en combate. Debe llevarla un Pokémon."
     },
     "shortDesc": "Holder's Speed is halved. The Klutz Ability does not ignore this effect.",
-    "id": "powerweight"
+    "id": "powerweight",
+    "champions": false
   },
   {
     "name": {
@@ -6587,7 +6915,8 @@
       "es": "Es una Poké Ball algo singular que se creó para conmemorar algún acontecimiento."
     },
     "shortDesc": "A rare Poke Ball that has been crafted to commemorate an event.",
-    "id": "premierball"
+    "id": "premierball",
+    "champions": false
   },
   {
     "name": {
@@ -6605,7 +6934,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "Though this feather is beautiful, it's just a regular feather and has no effect.",
-    "id": "prettyfeather"
+    "id": "prettyfeather",
+    "champions": false
   },
   {
     "name": {
@@ -6627,7 +6957,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "If held by a Primarina with Sparkling Aria, it can use Oceanic Operetta.",
-    "id": "primariumz"
+    "id": "primariumz",
+    "champions": false
   },
   {
     "name": {
@@ -6645,7 +6976,8 @@
       "es": "Curiosa escama que hace evolucionar a cierto Pokémon. Brilla con los colores del arcoíris."
     },
     "shortDesc": "Evolves Feebas into Milotic when traded.",
-    "id": "prismscale"
+    "id": "prismscale",
+    "champions": false
   },
   {
     "name": {
@@ -6663,7 +6995,8 @@
       "es": "Protege al Pokémon de los efectos que le produciría el contacto directo en combate."
     },
     "shortDesc": "Holder's moves are protected from adverse contact effects, except Pickpocket.",
-    "id": "protectivepads"
+    "id": "protectivepads",
+    "champions": false
   },
   {
     "name": {
@@ -6681,7 +7014,8 @@
       "es": "Dispositivo de protección muy pesado. Cierto Pokémon lo adora."
     },
     "shortDesc": "Evolves Rhydon into Rhyperior when traded.",
-    "id": "protector"
+    "id": "protector",
+    "champions": false
   },
   {
     "name": {
@@ -6698,7 +7032,8 @@
       "es": "Joya de un solo uso que potencia los movimientos de tipo Psíquico. Debe llevarla un Pokémon."
     },
     "shortDesc": "Holder's first successful Psychic-type attack will have 1.3x power. Single use.",
-    "id": "psychicgem"
+    "id": "psychicgem",
+    "champions": false
   },
   {
     "name": {
@@ -6719,7 +7054,8 @@
       "es": "Disco de datos que contiene información relativa al tipo Psíquico. Permite cambiar de tipo a cierto Pokémon."
     },
     "shortDesc": "Holder's Multi-Attack is Psychic type.",
-    "id": "psychicmemory"
+    "id": "psychicmemory",
+    "champions": false
   },
   {
     "name": {
@@ -6741,7 +7077,8 @@
       "es": "Aumenta la Defensa Especial del portador si se usa cuando el terreno está cubierto por un campo psíquico."
     },
     "shortDesc": "If the terrain is Psychic Terrain, raises holder's Sp. Def by 1 stage. Single use.",
-    "id": "psychicseed"
+    "id": "psychicseed",
+    "champions": false
   },
   {
     "name": {
@@ -6762,7 +7099,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "If holder has a Psychic move, this item allows it to use a Psychic Z-Move.",
-    "id": "psychiumz"
+    "id": "psychiumz",
+    "champions": false
   },
   {
     "name": {
@@ -6782,7 +7120,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "Holder's punch-based attacks have 1.1x power and do not make contact.",
-    "id": "punchingglove"
+    "id": "punchingglove",
+    "champions": false
   },
   {
     "name": {
@@ -6804,7 +7143,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "If held by a Pyroar, this item allows it to Mega Evolve in battle.",
-    "id": "pyroarite"
+    "id": "pyroarite",
+    "champions": false
   },
   {
     "name": {
@@ -6825,7 +7165,8 @@
       "es": "Al usarla con un Pokémon, se gana su amistad, pero también reduce su Defensa de base."
     },
     "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
-    "id": "qualotberry"
+    "id": "qualotberry",
+    "champions": false
   },
   {
     "name": {
@@ -6841,7 +7182,8 @@
       "es": "Una Poké Ball algo distinta que potencia el índice de captura si se usa al inicio de un encuentro con Pokémon salvajes."
     },
     "shortDesc": "A Poke Ball that provides a better catch rate at the start of a wild encounter.",
-    "id": "quickball"
+    "id": "quickball",
+    "champions": false
   },
   {
     "onFractionalPriorityPriority": -2,
@@ -6860,7 +7202,8 @@
       "es": "Garra ligera y afilada que permite que el Pokémon que la lleve ataque a veces el primero."
     },
     "shortDesc": "Each turn, holder has a 20% chance to move first in its priority bracket.",
-    "id": "quickclaw"
+    "id": "quickclaw",
+    "champions": true
   },
   {
     "name": {
@@ -6882,7 +7225,8 @@
       "es": "Debe llevarlo Ditto. Es un polvo muy fino, pero a la vez poderoso, que aumenta su Velocidad."
     },
     "shortDesc": "If held by a Ditto that hasn't Transformed, its Speed is doubled.",
-    "id": "quickpowder"
+    "id": "quickpowder",
+    "champions": false
   },
   {
     "name": {
@@ -6904,7 +7248,8 @@
       "es": "Se utiliza en la producción de Pokécubos que potencian el ingenio. Es una baya muy rara en otras regiones."
     },
     "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
-    "id": "rabutaberry"
+    "id": "rabutaberry",
+    "champions": false
   },
   {
     "name": {
@@ -6926,7 +7271,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "If held by a Raichu, this item allows it to Mega Evolve into Mega Raichu X in battle.",
-    "id": "raichunitex"
+    "id": "raichunitex",
+    "champions": false
   },
   {
     "name": {
@@ -6948,7 +7294,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "If held by a Raichu, this item allows it to Mega Evolve into Mega Raichu Y in battle.",
-    "id": "raichunitey"
+    "id": "raichunitey",
+    "champions": false
   },
   {
     "name": {
@@ -6966,7 +7313,8 @@
       "es": "Un hueso de gran valor para la arqueología Pokémon. Puede alcanzar un alto precio en las tiendas."
     },
     "shortDesc": "No competitive use other than when used with Fling.",
-    "id": "rarebone"
+    "id": "rarebone",
+    "champions": false
   },
   {
     "name": {
@@ -6986,7 +7334,8 @@
       "es": "Los Pokémon pueden llevarla o usarla para curarse las quemaduras."
     },
     "shortDesc": "Holder is cured if it is burned. Single use.",
-    "id": "rawstberry"
+    "id": "rawstberry",
+    "champions": true
   },
   {
     "name": {
@@ -7004,7 +7353,8 @@
       "es": "Aumenta la probabilidad de que el Pokémon que la lleve consiga un golpe crítico."
     },
     "shortDesc": "Holder's critical hit ratio is raised by 1 stage.",
-    "id": "razorclaw"
+    "id": "razorclaw",
+    "champions": false
   },
   {
     "name": {
@@ -7024,7 +7374,8 @@
       "es": "Si lo lleva un Pokémon, puede amedrentar al objetivo al infligirle daño."
     },
     "shortDesc": "Holder's attacks without a chance to flinch gain a 10% chance to flinch.",
-    "id": "razorfang"
+    "id": "razorfang",
+    "champions": false
   },
   {
     "name": {
@@ -7046,7 +7397,8 @@
       "es": "Se utiliza en la producción de Pokécubos que potencian el carisma. Es de color rojizo y sabor picante."
     },
     "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
-    "id": "razzberry"
+    "id": "razzberry",
+    "champions": false
   },
   {
     "name": {
@@ -7064,7 +7416,8 @@
       "es": "Tela imbuida de una energía espiritual muy potente. Cierto Pokémon la adora."
     },
     "shortDesc": "Evolves Dusclops into Dusknoir when traded.",
-    "id": "reapercloth"
+    "id": "reapercloth",
+    "champions": false
   },
   {
     "name": {
@@ -7082,7 +7435,8 @@
       "es": "Misteriosa tarjeta que permite al Pokémon que la lleva expulsar al oponente cuando este le cause daño."
     },
     "shortDesc": "If holder survives a hit, attacker is forced to switch to a random ally. Single use.",
-    "id": "redcard"
+    "id": "redcard",
+    "champions": false
   },
   {
     "name": {
@@ -7103,7 +7457,8 @@
       "es": "Piedra carmesí de la que se dice que guarda una estrecha relación con las leyendas de Hoenn."
     },
     "shortDesc": "If held by a Groudon, this item triggers its Primal Reversion in battle.",
-    "id": "redorb"
+    "id": "redorb",
+    "champions": false
   },
   {
     "name": {
@@ -7119,7 +7474,8 @@
       "es": "Es algo distinta a las demás. Funciona especialmente bien con las especies de Pokémon ya capturadas."
     },
     "shortDesc": "A Poke Ball that works well on Pokemon species that were previously caught.",
-    "id": "repeatball"
+    "id": "repeatball",
+    "champions": false
   },
   {
     "name": {
@@ -7137,7 +7493,8 @@
       "es": "Figura de caramelo con forma de lazo. Al dárselo a Milcery, se pone a girar rebosante de alegría."
     },
     "shortDesc": "Evolves Milcery into Alcremie when held and spun around.",
-    "id": "ribbonsweet"
+    "id": "ribbonsweet",
+    "champions": false
   },
   {
     "name": {
@@ -7157,7 +7514,8 @@
       "es": "Si la lleva un Pokémon, debilita un ataque supereficaz de tipo Planta de un enemigo."
     },
     "shortDesc": "Halves damage taken from a supereffective Grass-type attack. Single use.",
-    "id": "rindoberry"
+    "id": "rindoberry",
+    "champions": true
   },
   {
     "name": {
@@ -7176,7 +7534,8 @@
       "es": "El Pokémon que lo lleva es vulnerable frente a movimientos que normalmente no afectan a su tipo."
     },
     "shortDesc": "The holder's type immunities granted solely by its typing are negated.",
-    "id": "ringtarget"
+    "id": "ringtarget",
+    "champions": false
   },
   {
     "name": {
@@ -7193,7 +7552,8 @@
       "es": "Joya de un solo uso que potencia los movimientos de tipo Roca. Debe llevarla un Pokémon."
     },
     "shortDesc": "Holder's first successful Rock-type attack will have 1.3x power. Single use.",
-    "id": "rockgem"
+    "id": "rockgem",
+    "champions": false
   },
   {
     "name": {
@@ -7213,7 +7573,8 @@
       "es": "Incienso de exótico aroma que fortalece los movimientos de tipo Roca. Debe llevarlo un Pokémon."
     },
     "shortDesc": "Holder's Rock-type attacks have 1.2x power.",
-    "id": "rockincense"
+    "id": "rockincense",
+    "champions": false
   },
   {
     "name": {
@@ -7234,7 +7595,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "If holder has a Rock move, this item allows it to use a Rock Z-Move.",
-    "id": "rockiumz"
+    "id": "rockiumz",
+    "champions": false
   },
   {
     "name": {
@@ -7255,7 +7617,8 @@
       "es": "Disco de datos que contiene información relativa al tipo Roca. Permite cambiar de tipo a cierto Pokémon."
     },
     "shortDesc": "Holder's Multi-Attack is Rock type.",
-    "id": "rockmemory"
+    "id": "rockmemory",
+    "champions": false
   },
   {
     "name": {
@@ -7274,7 +7637,8 @@
       "es": "Si el portador es alcanzado por un movimiento de contacto, el agresor también recibe daño."
     },
     "shortDesc": "If holder is hit by a contact move, the attacker loses 1/6 of its max HP.",
-    "id": "rockyhelmet"
+    "id": "rockyhelmet",
+    "champions": false
   },
   {
     "name": {
@@ -7296,7 +7660,8 @@
       "es": "Si lo lleva un Pokémon, reduce la Velocidad cuando se usa Espacio Raro."
     },
     "shortDesc": "If Trick Room is active, the holder's Speed is lowered by 1 stage. Single use.",
-    "id": "roomservice"
+    "id": "roomservice",
+    "champions": false
   },
   {
     "name": {
@@ -7315,7 +7680,8 @@
       "es": "Fósil de un Pokémon prehistórico que vivía en el fondo del mar. Parece ser parte de una raíz."
     },
     "shortDesc": "Can be revived into Lileep.",
-    "id": "rootfossil"
+    "id": "rootfossil",
+    "champions": false
   },
   {
     "name": {
@@ -7335,7 +7701,8 @@
       "es": "Incienso de exótico aroma que fortalece los movimientos de tipo Planta. Debe llevarlo un Pokémon."
     },
     "shortDesc": "Holder's Grass-type attacks have 1.2x power.",
-    "id": "roseincense"
+    "id": "roseincense",
+    "champions": false
   },
   {
     "name": {
@@ -7355,7 +7722,8 @@
       "es": "Si la lleva un Pokémon, debilita un ataque supereficaz de tipo Hada de un enemigo."
     },
     "shortDesc": "Halves damage taken from a supereffective Fairy-type attack. Single use.",
-    "id": "roseliberry"
+    "id": "roseliberry",
+    "champions": true
   },
   {
     "name": {
@@ -7375,7 +7743,8 @@
       "es": "Si la lleva un Pokémon cuando otro lanza un ataque especial, este último también recibe daño."
     },
     "shortDesc": "If holder is hit by a special move, attacker loses 1/8 of its max HP. Single use.",
-    "id": "rowapberry"
+    "id": "rowapberry",
+    "champions": false
   },
   {
     "name": {
@@ -7393,7 +7762,8 @@
       "es": "Cuenta una antigua leyenda que un valiente héroe asió este escudo para hacer frente a un cataclismo, pero ahora está oxidado y en un estado lamentable."
     },
     "shortDesc": "If held by a Zamazenta, this item changes its forme to Crowned Shield.",
-    "id": "rustedshield"
+    "id": "rustedshield",
+    "champions": false
   },
   {
     "name": {
@@ -7411,7 +7781,8 @@
       "es": "Cuenta una antigua leyenda que un valiente héroe blandió esta espada para hacer frente a un cataclismo, pero ahora está oxidada y en un estado lamentable."
     },
     "shortDesc": "If held by a Zacian, this item changes its forme to Crowned Sword.",
-    "id": "rustedsword"
+    "id": "rustedsword",
+    "champions": false
   },
   {
     "name": {
@@ -7433,7 +7804,8 @@
       "es": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Sableye en combate."
     },
     "shortDesc": "If held by a Sableye, this item allows it to Mega Evolve in battle.",
-    "id": "sablenite"
+    "id": "sablenite",
+    "champions": true
   },
   {
     "name": {
@@ -7452,7 +7824,8 @@
       "es": "Un saquito lleno de sustancias aromáticas cuyo perfume resulta abrumador, pero que a cierto Pokémon le encanta."
     },
     "shortDesc": "Evolves Spritzee into Aromatisse when traded.",
-    "id": "sachet"
+    "id": "sachet",
+    "champions": false
   },
   {
     "name": {
@@ -7468,7 +7841,8 @@
       "es": "Poké Ball especial que se utilizaba en lugares como la Zona Safari de Kanto y el Gran Pantano de Sinnoh."
     },
     "shortDesc": "A special Poke Ball that is used only in the Safari Zone and Great Marsh.",
-    "id": "safariball"
+    "id": "safariball",
+    "champions": false
   },
   {
     "name": {
@@ -7486,7 +7860,8 @@
       "es": "Gafa que protege de los efectos adversos del clima y del polvo lanzado por los rivales."
     },
     "shortDesc": "Holder is immune to powder moves and damage from Sandstorm or Hail.",
-    "id": "safetygoggles"
+    "id": "safetygoggles",
+    "champions": false
   },
   {
     "name": {
@@ -7505,7 +7880,8 @@
       "es": "Fósil de un Pokémon prehistórico terrestre. Parece la impresión de una aleta."
     },
     "shortDesc": "Can be revived into Amaura.",
-    "id": "sailfossil"
+    "id": "sailfossil",
+    "champions": false
   },
   {
     "name": {
@@ -7525,7 +7901,8 @@
       "es": "Si la lleva un Pokémon, le sube la Velocidad en un momento de apuro."
     },
     "shortDesc": "Raises holder's Speed by 1 stage when at 1/4 max HP or less. Single use.",
-    "id": "salacberry"
+    "id": "salacberry",
+    "champions": false
   },
   {
     "name": {
@@ -7547,7 +7924,8 @@
       "es": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Salamence en combate."
     },
     "shortDesc": "If held by a Salamence, this item allows it to Mega Evolve in battle.",
-    "id": "salamencite"
+    "id": "salamencite",
+    "champions": false
   },
   {
     "name": {
@@ -7569,7 +7947,8 @@
       "es": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Sceptile en combate."
     },
     "shortDesc": "If held by a Sceptile, this item allows it to Mega Evolve in battle.",
-    "id": "sceptilite"
+    "id": "sceptilite",
+    "champions": false
   },
   {
     "name": {
@@ -7591,7 +7970,8 @@
       "es": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Scizor en combate."
     },
     "shortDesc": "If held by a Scizor, this item allows it to Mega Evolve in battle.",
-    "id": "scizorite"
+    "id": "scizorite",
+    "champions": true
   },
   {
     "name": {
@@ -7613,7 +7993,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "If held by a Scolipede, this item allows it to Mega Evolve in battle.",
-    "id": "scolipite"
+    "id": "scolipite",
+    "champions": false
   },
   {
     "name": {
@@ -7631,7 +8012,8 @@
       "es": "Su lente aumenta la probabilidad que tiene el Pokémon que lo lleva de conseguir un golpe crítico."
     },
     "shortDesc": "Holder's critical hit ratio is raised by 1 stage.",
-    "id": "scopelens"
+    "id": "scopelens",
+    "champions": true
   },
   {
     "name": {
@@ -7653,7 +8035,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "If held by a Scovillain, this item allows it to Mega Evolve in battle.",
-    "id": "scovillainite"
+    "id": "scovillainite",
+    "champions": true
   },
   {
     "name": {
@@ -7675,7 +8058,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "If held by a Scrafty, this item allows it to Mega Evolve in battle.",
-    "id": "scraftinite"
+    "id": "scraftinite",
+    "champions": false
   },
   {
     "name": {
@@ -7695,7 +8079,8 @@
       "es": "Tiene un curioso aroma que potencia los movimientos de tipo Agua. Debe llevarlo un Pokémon."
     },
     "shortDesc": "Holder's Water-type attacks have 1.2x power.",
-    "id": "seaincense"
+    "id": "seaincense",
+    "champions": false
   },
   {
     "name": {
@@ -7714,7 +8099,8 @@
       "es": "Pico largo y afilado que aumenta la potencia de los movimientos de tipo Volador. Debe llevarlo un Pokémon."
     },
     "shortDesc": "Holder's Flying-type attacks have 1.2x power.",
-    "id": "sharpbeak"
+    "id": "sharpbeak",
+    "champions": true
   },
   {
     "name": {
@@ -7736,7 +8122,8 @@
       "es": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Sharpedo en combate."
     },
     "shortDesc": "If held by a Sharpedo, this item allows it to Mega Evolve in battle.",
-    "id": "sharpedonite"
+    "id": "sharpedonite",
+    "champions": true
   },
   {
     "name": {
@@ -7756,7 +8143,8 @@
       "es": "En combate, esta concha desechada permite que el portador siempre pueda cambiarse por otro Pokémon que no esté combatiendo."
     },
     "shortDesc": "Holder cannot be prevented from choosing to switch out by any effect.",
-    "id": "shedshell"
+    "id": "shedshell",
+    "champions": false
   },
   {
     "name": {
@@ -7775,7 +8163,8 @@
       "es": "Debe llevarlo un Pokémon. Cada vez que este inflige daño, recupera algunos PS."
     },
     "shortDesc": "After an attack, holder gains 1/8 of the damage in HP dealt to other Pokemon.",
-    "id": "shellbell"
+    "id": "shellbell",
+    "champions": true
   },
   {
     "name": {
@@ -7793,7 +8182,8 @@
       "es": "Una piedra peculiar que hace evolucionar a algunos Pokémon. Tiene un brillo espectacular."
     },
     "shortDesc": "Evolves certain species of Pokemon when used.",
-    "id": "shinystone"
+    "id": "shinystone",
+    "champions": false
   },
   {
     "name": {
@@ -7814,7 +8204,8 @@
       "es": "Cartucho que convierte Tecno Shock de Genesect en un movimiento de tipo Eléctrico."
     },
     "shortDesc": "Holder's Techno Blast is Electric type.",
-    "id": "shockdrive"
+    "id": "shockdrive",
+    "champions": false
   },
   {
     "name": {
@@ -7834,7 +8225,8 @@
       "es": "Si la lleva un Pokémon, debilita un ataque supereficaz de tipo Tierra de un enemigo."
     },
     "shortDesc": "Halves damage taken from a supereffective Ground-type attack. Single use.",
-    "id": "shucaberry"
+    "id": "shucaberry",
+    "champions": true
   },
   {
     "name": {
@@ -7853,7 +8245,8 @@
       "es": "La delicadeza del pañuelo fortalece los movimientos de tipo Normal. Debe llevarlo un Pokémon."
     },
     "shortDesc": "Holder's Normal-type attacks have 1.2x power.",
-    "id": "silkscarf"
+    "id": "silkscarf",
+    "champions": true
   },
   {
     "name": {
@@ -7872,7 +8265,8 @@
       "es": "Polvo de brillo argénteo que fortalece los ataques de tipo Bicho. Debe llevarlo un Pokémon."
     },
     "shortDesc": "Holder's Bug-type attacks have 1.2x power.",
-    "id": "silverpowder"
+    "id": "silverpowder",
+    "champions": true
   },
   {
     "name": {
@@ -7892,7 +8286,8 @@
       "es": "Los Pokémon pueden llevarla o usarla para restaurar algunos PS."
     },
     "shortDesc": "Restores 1/4 max HP when at 1/2 max HP or less. Single use.",
-    "id": "sitrusberry"
+    "id": "sitrusberry",
+    "champions": true
   },
   {
     "name": {
@@ -7914,7 +8309,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "If held by a Skarmory, this item allows it to Mega Evolve in battle.",
-    "id": "skarmorite"
+    "id": "skarmorite",
+    "champions": true
   },
   {
     "name": {
@@ -7933,7 +8329,8 @@
       "es": "Fósil de un Pokémon prehistórico terrestre. Parece ser parte de una cabeza."
     },
     "shortDesc": "Can be revived into Cranidos.",
-    "id": "skullfossil"
+    "id": "skullfossil",
+    "champions": false
   },
   {
     "name": {
@@ -7951,7 +8348,8 @@
       "es": "Tabla de piedra que potencia los movimientos de tipo Volador. Debe llevarla un Pokémon."
     },
     "shortDesc": "Holder's Flying-type attacks have 1.2x power. Judgment is Flying type.",
-    "id": "skyplate"
+    "id": "skyplate",
+    "champions": false
   },
   {
     "name": {
@@ -7973,7 +8371,8 @@
       "es": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Slowbro en combate."
     },
     "shortDesc": "If held by a Slowbro, this item allows it to Mega Evolve in battle.",
-    "id": "slowbronite"
+    "id": "slowbronite",
+    "champions": true
   },
   {
     "name": {
@@ -7991,7 +8390,8 @@
       "es": "Prolonga la duración del movimiento Tormenta de Arena que use el Pokémon que la lleva."
     },
     "shortDesc": "Holder's use of Sandstorm lasts 8 turns instead of 5.",
-    "id": "smoothrock"
+    "id": "smoothrock",
+    "champions": false
   },
   {
     "name": {
@@ -8013,7 +8413,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "If held by a Snorlax with Giga Impact, it can use Pulverizing Pancake.",
-    "id": "snorliumz"
+    "id": "snorliumz",
+    "champions": false
   },
   {
     "name": {
@@ -8034,7 +8435,8 @@
       "es": "Objeto de un solo uso. Aumenta el Ataque del Pokémon que lo lleva si este recibe un ataque de tipo Hielo."
     },
     "shortDesc": "Raises holder's Attack by 1 if hit by an Ice-type attack. Single use.",
-    "id": "snowball"
+    "id": "snowball",
+    "champions": false
   },
   {
     "name": {
@@ -8053,7 +8455,8 @@
       "es": "Debe llevarla un Pokémon. La suavidad de la arena fortalece los movimientos de tipo Tierra."
     },
     "shortDesc": "Holder's Ground-type attacks have 1.2x power.",
-    "id": "softsand"
+    "id": "softsand",
+    "champions": true
   },
   {
     "name": {
@@ -8076,7 +8479,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "Solgaleo or Dusk Mane Necrozma with Sunsteel Strike can use a special Z-Move.",
-    "id": "solganiumz"
+    "id": "solganiumz",
+    "champions": false
   },
   {
     "name": {
@@ -8099,7 +8503,8 @@
       "es": "Un orbe fantástico que debe llevar Latios o Latias. Potencia los movimientos de tipo Psíquico y Dragón."
     },
     "shortDesc": "If held by a Latias/Latios, its Dragon- and Psychic-type moves have 1.2x power.",
-    "id": "souldew"
+    "id": "souldew",
+    "champions": false
   },
   {
     "name": {
@@ -8118,7 +8523,8 @@
       "es": "Misterioso y siniestro objeto que potencia los movimientos de tipo Fantasma. Debe llevarlo un Pokémon."
     },
     "shortDesc": "Holder's Ghost-type attacks have 1.2x power.",
-    "id": "spelltag"
+    "id": "spelltag",
+    "champions": true
   },
   {
     "name": {
@@ -8140,7 +8546,8 @@
       "es": "Se utiliza en la producción de Pokécubos que potencian la dulzura. Es una baya muy rara en otras regiones."
     },
     "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
-    "id": "spelonberry"
+    "id": "spelonberry",
+    "champions": false
   },
   {
     "name": {
@@ -8158,7 +8565,8 @@
       "es": "Tabla de piedra que potencia los movimientos de tipo Agua. Debe llevarla un Pokémon."
     },
     "shortDesc": "Holder's Water-type attacks have 1.2x power. Judgment is Water type.",
-    "id": "splashplate"
+    "id": "splashplate",
+    "champions": false
   },
   {
     "name": {
@@ -8176,7 +8584,8 @@
       "es": "Tabla de piedra que potencia los movimientos de tipo Fantasma. Debe llevarla un Pokémon."
     },
     "shortDesc": "Holder's Ghost-type attacks have 1.2x power. Judgment is Ghost type.",
-    "id": "spookyplate"
+    "id": "spookyplate",
+    "champions": false
   },
   {
     "name": {
@@ -8192,7 +8601,8 @@
       "es": "Poké Ball especial que se utilizaba en el Concurso de Captura de Bichos de la región de Johto."
     },
     "shortDesc": "A special Poke Ball for the Bug-Catching Contest.",
-    "id": "sportball"
+    "id": "sportball",
+    "champions": false
   },
   {
     "name": {
@@ -8214,7 +8624,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "If held by a Staraptor, this item allows it to Mega Evolve in battle.",
-    "id": "staraptite"
+    "id": "staraptite",
+    "champions": false
   },
   {
     "name": {
@@ -8234,7 +8645,8 @@
       "es": "Si la lleva un Pokémon, aumenta mucho una característica en un momento de apuro."
     },
     "shortDesc": "Raises a random stat by 2 when at 1/4 max HP or less (not acc/eva). Single use.",
-    "id": "starfberry"
+    "id": "starfberry",
+    "champions": false
   },
   {
     "name": {
@@ -8256,7 +8668,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "If held by a Starmie, this item allows it to Mega Evolve in battle.",
-    "id": "starminite"
+    "id": "starminite",
+    "champions": true
   },
   {
     "name": {
@@ -8274,7 +8687,8 @@
       "es": "Figura de caramelo con forma de estrella. Al dárselo a Milcery, se pone a girar rebosante de alegría."
     },
     "shortDesc": "Evolves Milcery into Alcremie when held and spun around.",
-    "id": "starsweet"
+    "id": "starsweet",
+    "champions": false
   },
   {
     "name": {
@@ -8291,7 +8705,8 @@
       "es": "Joya de un solo uso que potencia los movimientos de tipo Acero. Debe llevarla un Pokémon."
     },
     "shortDesc": "Holder's first successful Steel-type attack will have 1.3x power. Single use.",
-    "id": "steelgem"
+    "id": "steelgem",
+    "champions": false
   },
   {
     "name": {
@@ -8312,7 +8727,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "If holder has a Steel move, this item allows it to use a Steel Z-Move.",
-    "id": "steeliumz"
+    "id": "steeliumz",
+    "champions": false
   },
   {
     "name": {
@@ -8334,7 +8750,8 @@
       "es": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Steelix en combate."
     },
     "shortDesc": "If held by a Steelix, this item allows it to Mega Evolve in battle.",
-    "id": "steelixite"
+    "id": "steelixite",
+    "champions": true
   },
   {
     "name": {
@@ -8355,7 +8772,8 @@
       "es": "Disco de datos que contiene información relativa al tipo Acero. Permite cambiar de tipo a cierto Pokémon."
     },
     "shortDesc": "Holder's Multi-Attack is Steel type.",
-    "id": "steelmemory"
+    "id": "steelmemory",
+    "champions": false
   },
   {
     "name": {
@@ -8377,7 +8795,8 @@
       "es": "Es un puerro muy largo que debe llevar Farfetch’d. Aumenta mucho la probabilidad de que logre un golpe crítico."
     },
     "shortDesc": "If held by a Farfetch’d, its critical hit ratio is raised by 2 stages.",
-    "id": "stick"
+    "id": "stick",
+    "champions": false
   },
   {
     "name": {
@@ -8397,7 +8816,8 @@
       "es": "Daña en cada turno al Pokémon que la lleva. Puede adherirse al Pokémon que alcance con su ataque al portador."
     },
     "shortDesc": "Each turn, holder loses 1/8 max HP. An attacker making contact can receive it.",
-    "id": "stickybarb"
+    "id": "stickybarb",
+    "champions": false
   },
   {
     "name": {
@@ -8415,7 +8835,8 @@
       "es": "Tabla de piedra que potencia los movimientos de tipo Roca. Debe llevarla un Pokémon."
     },
     "shortDesc": "Holder's Rock-type attacks have 1.2x power. Judgment is Rock type.",
-    "id": "stoneplate"
+    "id": "stoneplate",
+    "champions": false
   },
   {
     "name": {
@@ -8432,7 +8853,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "Placeholder if caught in Poke Ball not in current game.",
-    "id": "strangeball"
+    "id": "strangeball",
+    "champions": false
   },
   {
     "name": {
@@ -8450,7 +8872,8 @@
       "es": "Figura de caramelo con forma de fresa. Al dárselo a Milcery, se pone a girar rebosante de alegría."
     },
     "shortDesc": "Evolves Milcery into Alcremie when held and spun around.",
-    "id": "strawberrysweet"
+    "id": "strawberrysweet",
+    "champions": false
   },
   {
     "name": {
@@ -8468,7 +8891,8 @@
       "es": "Curiosa piedra que hace evolucionar a determinadas especies de Pokémon. Es roja como el núcleo del sol."
     },
     "shortDesc": "Evolves certain species of Pokemon when used.",
-    "id": "sunstone"
+    "id": "sunstone",
+    "champions": false
   },
   {
     "name": {
@@ -8490,7 +8914,8 @@
       "es": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Swampert en combate."
     },
     "shortDesc": "If held by a Swampert, this item allows it to Mega Evolve in battle.",
-    "id": "swampertite"
+    "id": "swampertite",
+    "champions": false
   },
   {
     "name": {
@@ -8508,7 +8933,8 @@
       "es": "Curiosa manzana, de sabor particularmente dulce, que hace evolucionar a determinadas especies de Pokémon."
     },
     "shortDesc": "Evolves Applin into Appletun when used.",
-    "id": "sweetapple"
+    "id": "sweetapple",
+    "champions": false
   },
   {
     "name": {
@@ -8526,7 +8952,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "Evolves Applin into Dipplin when used.",
-    "id": "syrupyapple"
+    "id": "syrupyapple",
+    "champions": false
   },
   {
     "name": {
@@ -8547,7 +8974,8 @@
       "es": "Al usarla con un Pokémon, se gana su amistad, pero también reduce su Velocidad de base."
     },
     "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
-    "id": "tamatoberry"
+    "id": "tamatoberry",
+    "champions": false
   },
   {
     "name": {
@@ -8567,7 +8995,8 @@
       "es": "Si la lleva un Pokémon, debilita un ataque supereficaz de tipo Bicho de un enemigo."
     },
     "shortDesc": "Halves damage taken from a supereffective Bug-type attack. Single use.",
-    "id": "tangaberry"
+    "id": "tangaberry",
+    "champions": true
   },
   {
     "name": {
@@ -8592,7 +9021,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "If held by a Tapu with Nature's Madness, it can use Guardian of Alola.",
-    "id": "tapuniumz"
+    "id": "tapuniumz",
+    "champions": false
   },
   {
     "name": {
@@ -8610,7 +9040,8 @@
       "es": "Curiosa manzana, de sabor particularmente ácido, que hace evolucionar a determinadas especies de Pokémon."
     },
     "shortDesc": "Evolves Applin into Flapple when used.",
-    "id": "tartapple"
+    "id": "tartapple",
+    "champions": false
   },
   {
     "name": {
@@ -8636,7 +9067,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "If held by a Tatsugiri, this item allows it to Mega Evolve in battle.",
-    "id": "tatsugirinite"
+    "id": "tatsugirinite",
+    "champions": false
   },
   {
     "name": {
@@ -8654,7 +9086,8 @@
       "es": "Al llevarlo, prolonga la duración de los campos creados por el Pokémon en el terreno de combate mediante movimientos o su habilidad."
     },
     "shortDesc": "Holder's use of Electric/Grassy/Misty/Psychic Terrain lasts 8 turns instead of 5.",
-    "id": "terrainextender"
+    "id": "terrainextender",
+    "champions": false
   },
   {
     "name": {
@@ -8680,7 +9113,8 @@
       "es": "Un extraño tipo de hueso que potencia los ataques físicos de Cubone y Marowak cuando lo llevan."
     },
     "shortDesc": "If held by a Cubone or a Marowak, its Attack is doubled.",
-    "id": "thickclub"
+    "id": "thickclub",
+    "champions": false
   },
   {
     "name": {
@@ -8701,7 +9135,8 @@
       "es": "Aumenta el Ataque Especial al emplear un movimiento que se sirva del sonido."
     },
     "shortDesc": "Raises holder's Special Attack by 1 stage after it uses a sound move. Single use.",
-    "id": "throatspray"
+    "id": "throatspray",
+    "champions": false
   },
   {
     "name": {
@@ -8719,7 +9154,8 @@
       "es": "Curiosa piedra que hace evolucionar a determinadas especies de Pokémon. Tiene grabado un rayo."
     },
     "shortDesc": "Evolves certain species of Pokemon when used.",
-    "id": "thunderstone"
+    "id": "thunderstone",
+    "champions": false
   },
   {
     "name": {
@@ -8735,7 +9171,8 @@
       "es": "Una Poké Ball algo distinta que va mejorando su rendimiento con cada turno de combate."
     },
     "shortDesc": "A Poke Ball that becomes better the more turns there are in a battle.",
-    "id": "timerball"
+    "id": "timerball",
+    "champions": false
   },
   {
     "name": {
@@ -8756,7 +9193,8 @@
       "es": "Extraña esfera que envenena gravemente al Pokémon que la lleva en combate."
     },
     "shortDesc": "At the end of every turn, this item attempts to badly poison the holder.",
-    "id": "toxicorb"
+    "id": "toxicorb",
+    "champions": false
   },
   {
     "name": {
@@ -8774,7 +9212,8 @@
       "es": "Tabla de piedra que potencia los movimientos de tipo Veneno. Debe llevarla un Pokémon."
     },
     "shortDesc": "Holder's Poison-type attacks have 1.2x power. Judgment is Poison type.",
-    "id": "toxicplate"
+    "id": "toxicplate",
+    "champions": false
   },
   {
     "name": {
@@ -8793,7 +9232,8 @@
       "es": "Baile frenético que aumenta mucho el Ataque."
     },
     "shortDesc": "Teaches certain Pokemon the move Swords Dance. One use.",
-    "id": "tr00"
+    "id": "tr00",
+    "champions": false
   },
   {
     "name": {
@@ -8812,7 +9252,8 @@
       "es": "Salta sobre el objetivo con todo su peso y puede llegar a paralizarlo."
     },
     "shortDesc": "Teaches certain Pokemon the move Body Slam. One use.",
-    "id": "tr01"
+    "id": "tr01",
+    "champions": false
   },
   {
     "name": {
@@ -8831,7 +9272,8 @@
       "es": "Ataca con una gran ráfaga de fuego que puede causar quemaduras."
     },
     "shortDesc": "Teaches certain Pokemon the move Flamethrower. One use.",
-    "id": "tr02"
+    "id": "tr02",
+    "champions": false
   },
   {
     "name": {
@@ -8850,7 +9292,8 @@
       "es": "Lanza una gran masa de agua a presión para atacar."
     },
     "shortDesc": "Teaches certain Pokemon the move Hydro Pump. One use.",
-    "id": "tr03"
+    "id": "tr03",
+    "champions": false
   },
   {
     "name": {
@@ -8869,7 +9312,8 @@
       "es": "Inunda el terreno de combate con una ola gigante."
     },
     "shortDesc": "Teaches certain Pokemon the move Surf. One use.",
-    "id": "tr04"
+    "id": "tr04",
+    "champions": false
   },
   {
     "name": {
@@ -8888,7 +9332,8 @@
       "es": "Rayo de hielo que puede llegar a congelar."
     },
     "shortDesc": "Teaches certain Pokemon the move Ice Beam. One use.",
-    "id": "tr05"
+    "id": "tr05",
+    "champions": false
   },
   {
     "name": {
@@ -8907,7 +9352,8 @@
       "es": "Tormenta de hielo que puede llegar a congelar."
     },
     "shortDesc": "Teaches certain Pokemon the move Blizzard. One use.",
-    "id": "tr06"
+    "id": "tr06",
+    "champions": false
   },
   {
     "name": {
@@ -8926,7 +9372,8 @@
       "es": "Patada baja que derriba al oponente. Cuanto más pesa el objetivo, más daño le causa."
     },
     "shortDesc": "Teaches certain Pokemon the move Low Kick. One use.",
-    "id": "tr07"
+    "id": "tr07",
+    "champions": false
   },
   {
     "name": {
@@ -8945,7 +9392,8 @@
       "es": "Potente ataque eléctrico que puede paralizar al objetivo."
     },
     "shortDesc": "Teaches certain Pokemon the move Thunderbolt. One use.",
-    "id": "tr08"
+    "id": "tr08",
+    "champions": false
   },
   {
     "name": {
@@ -8964,7 +9412,8 @@
       "es": "Un poderoso rayo que daña al objetivo y puede paralizarlo."
     },
     "shortDesc": "Teaches certain Pokemon the move Thunder. One use.",
-    "id": "tr09"
+    "id": "tr09",
+    "champions": false
   },
   {
     "name": {
@@ -8983,7 +9432,8 @@
       "es": "Un terremoto que afecta a todos los Pokémon que estén a su alrededor."
     },
     "shortDesc": "Teaches certain Pokemon the move Earthquake. One use.",
-    "id": "tr10"
+    "id": "tr10",
+    "champions": false
   },
   {
     "name": {
@@ -9002,7 +9452,8 @@
       "es": "Fuerte ataque telequinético que puede bajar la Defensa Especial del objetivo."
     },
     "shortDesc": "Teaches certain Pokemon the move Psychic. One use.",
-    "id": "tr11"
+    "id": "tr11",
+    "champions": false
   },
   {
     "name": {
@@ -9021,7 +9472,8 @@
       "es": "Relaja el cuerpo para ganar mucha Velocidad."
     },
     "shortDesc": "Teaches certain Pokemon the move Agility. One use.",
-    "id": "tr12"
+    "id": "tr12",
+    "champions": false
   },
   {
     "name": {
@@ -9040,7 +9492,8 @@
       "es": "Concentra energía para aumentar las posibilidades de asestar un golpe crítico."
     },
     "shortDesc": "Teaches certain Pokemon the move Focus Energy. One use.",
-    "id": "tr13"
+    "id": "tr13",
+    "champions": false
   },
   {
     "name": {
@@ -9059,7 +9512,8 @@
       "es": "Mueve un dedo y estimula su cerebro para usar al azar casi cualquier movimiento."
     },
     "shortDesc": "Teaches certain Pokemon the move Metronome. One use.",
-    "id": "tr14"
+    "id": "tr14",
+    "champions": false
   },
   {
     "name": {
@@ -9078,7 +9532,8 @@
       "es": "Llama intensa que chamusca y puede causar quemaduras."
     },
     "shortDesc": "Teaches certain Pokemon the move Fire Blast. One use.",
-    "id": "tr15"
+    "id": "tr15",
+    "champions": false
   },
   {
     "name": {
@@ -9097,7 +9552,8 @@
       "es": "Embiste con un gran impulso que puede llegar a amedrentar."
     },
     "shortDesc": "Teaches certain Pokemon the move Waterfall. One use.",
-    "id": "tr16"
+    "id": "tr16",
+    "champions": false
   },
   {
     "name": {
@@ -9116,7 +9572,8 @@
       "es": "El usuario olvida sus preocupaciones y aumenta mucho la Defensa Especial."
     },
     "shortDesc": "Teaches certain Pokemon the move Amnesia. One use.",
-    "id": "tr17"
+    "id": "tr17",
+    "champions": false
   },
   {
     "name": {
@@ -9135,7 +9592,8 @@
       "es": "Restaura al usuario la mitad del daño causado al objetivo."
     },
     "shortDesc": "Teaches certain Pokemon the move Leech Life. One use.",
-    "id": "tr18"
+    "id": "tr18",
+    "champions": false
   },
   {
     "name": {
@@ -9154,7 +9612,8 @@
       "es": "Ataque triple que puede paralizar, quemar o congelar al objetivo."
     },
     "shortDesc": "Teaches certain Pokemon the move Tri Attack. One use.",
-    "id": "tr19"
+    "id": "tr19",
+    "champions": false
   },
   {
     "name": {
@@ -9173,7 +9632,8 @@
       "es": "Utiliza parte de los PS propios para crear un sustituto que actúa como señuelo."
     },
     "shortDesc": "Teaches certain Pokemon the move Substitute. One use.",
-    "id": "tr20"
+    "id": "tr20",
+    "champions": false
   },
   {
     "name": {
@@ -9192,7 +9652,8 @@
       "es": "Ataque desesperado que causa más daño cuantos menos PS tenga el usuario."
     },
     "shortDesc": "Teaches certain Pokemon the move Reversal. One use.",
-    "id": "tr21"
+    "id": "tr21",
+    "champions": false
   },
   {
     "name": {
@@ -9211,7 +9672,8 @@
       "es": "Arroja residuos al objetivo. Puede llegar a envenenar."
     },
     "shortDesc": "Teaches certain Pokemon the move Sludge Bomb. One use.",
-    "id": "tr22"
+    "id": "tr22",
+    "champions": false
   },
   {
     "name": {
@@ -9230,7 +9692,8 @@
       "es": "Esparce púas alrededor del equipo rival que hieren a los Pokémon rivales que entran en combate."
     },
     "shortDesc": "Teaches certain Pokemon the move Spikes. One use.",
-    "id": "tr23"
+    "id": "tr23",
+    "champions": false
   },
   {
     "name": {
@@ -9249,7 +9712,8 @@
       "es": "Ataca de dos a tres turnos y acaba confundiendo al agresor."
     },
     "shortDesc": "Teaches certain Pokemon the move Outrage. One use.",
-    "id": "tr24"
+    "id": "tr24",
+    "champions": false
   },
   {
     "name": {
@@ -9268,7 +9732,8 @@
       "es": "Crea una onda psíquica que causa daño físico al  objetivo."
     },
     "shortDesc": "Teaches certain Pokemon the move Psyshock. One use.",
-    "id": "tr25"
+    "id": "tr25",
+    "champions": false
   },
   {
     "name": {
@@ -9287,7 +9752,8 @@
       "es": "Resiste cualquier ataque y deja al menos 1 PS. Puede fallar si se usa repetidamente."
     },
     "shortDesc": "Teaches certain Pokemon the move Endure. One use.",
-    "id": "tr26"
+    "id": "tr26",
+    "champions": false
   },
   {
     "name": {
@@ -9306,7 +9772,8 @@
       "es": "Mientras duerme, usa uno de sus movimientos elegido al azar."
     },
     "shortDesc": "Teaches certain Pokemon the move Sleep Talk. One use.",
-    "id": "tr27"
+    "id": "tr27",
+    "champions": false
   },
   {
     "name": {
@@ -9325,7 +9792,8 @@
       "es": "Violenta embestida con cuernos imponentes."
     },
     "shortDesc": "Teaches certain Pokemon the move Megahorn. One use.",
-    "id": "tr28"
+    "id": "tr28",
+    "champions": false
   },
   {
     "name": {
@@ -9344,7 +9812,8 @@
       "es": "Cambia el puesto con otro miembro del equipo y le pasa los cambios de características."
     },
     "shortDesc": "Teaches certain Pokemon the move Baton Pass. One use.",
-    "id": "tr29"
+    "id": "tr29",
+    "champions": false
   },
   {
     "name": {
@@ -9363,7 +9832,8 @@
       "es": "El objetivo repite su último movimiento durante tres turnos."
     },
     "shortDesc": "Teaches certain Pokemon the move Encore. One use.",
-    "id": "tr30"
+    "id": "tr30",
+    "champions": false
   },
   {
     "name": {
@@ -9382,7 +9852,8 @@
       "es": "Ataca con una cola férrea y puede bajar la Defensa  del objetivo."
     },
     "shortDesc": "Teaches certain Pokemon the move Iron Tail. One use.",
-    "id": "tr31"
+    "id": "tr31",
+    "champions": false
   },
   {
     "name": {
@@ -9401,7 +9872,8 @@
       "es": "Tritura con afilados colmillos y puede bajar la Defensa del objetivo."
     },
     "shortDesc": "Teaches certain Pokemon the move Crunch. One use.",
-    "id": "tr32"
+    "id": "tr32",
+    "champions": false
   },
   {
     "name": {
@@ -9420,7 +9892,8 @@
       "es": "Lanza una bola oscura que puede bajar la Defensa  Especial del objetivo."
     },
     "shortDesc": "Teaches certain Pokemon the move Shadow Ball. One use.",
-    "id": "tr33"
+    "id": "tr33",
+    "champions": false
   },
   {
     "name": {
@@ -9439,7 +9912,8 @@
       "es": "Concentra energía psíquica para golpear al objetivo dos turnos después."
     },
     "shortDesc": "Teaches certain Pokemon the move Future Sight. One use.",
-    "id": "tr34"
+    "id": "tr34",
+    "champions": false
   },
   {
     "name": {
@@ -9458,7 +9932,8 @@
       "es": "Ataca de forma alborotada durante tres turnos.  Mantiene despiertos a todos."
     },
     "shortDesc": "Teaches certain Pokemon the move Uproar. One use.",
-    "id": "tr35"
+    "id": "tr35",
+    "champions": false
   },
   {
     "name": {
@@ -9477,7 +9952,8 @@
       "es": "Provoca un viento abrasador que puede quemar al objetivo."
     },
     "shortDesc": "Teaches certain Pokemon the move Heat Wave. One use.",
-    "id": "tr36"
+    "id": "tr36",
+    "champions": false
   },
   {
     "name": {
@@ -9496,7 +9972,8 @@
       "es": "Enfurece al objetivo para que solo use movimientos de ataque durante tres turnos."
     },
     "shortDesc": "Teaches certain Pokemon the move Taunt. One use.",
-    "id": "tr37"
+    "id": "tr37",
+    "champions": false
   },
   {
     "name": {
@@ -9515,7 +9992,8 @@
       "es": "Engaña al objetivo desprevenido e intercambia objetos."
     },
     "shortDesc": "Teaches certain Pokemon the move Trick. One use.",
-    "id": "tr38"
+    "id": "tr38",
+    "champions": false
   },
   {
     "name": {
@@ -9534,7 +10012,8 @@
       "es": "Ataque de gran potencia, pero que reduce el Ataque y la Defensa del agresor."
     },
     "shortDesc": "Teaches certain Pokemon the move Superpower. One use.",
-    "id": "tr39"
+    "id": "tr39",
+    "champions": false
   },
   {
     "name": {
@@ -9553,7 +10032,8 @@
       "es": "Usa el poder psíquico para intercambiar habilidades con el objetivo."
     },
     "shortDesc": "Teaches certain Pokemon the move Skill Swap. One use.",
-    "id": "tr40"
+    "id": "tr40",
+    "champions": false
   },
   {
     "name": {
@@ -9572,7 +10052,8 @@
       "es": "Patada que suele ser un golpe crítico y puede causar quemaduras."
     },
     "shortDesc": "Teaches certain Pokemon the move Blaze Kick. One use.",
-    "id": "tr41"
+    "id": "tr41",
+    "champions": false
   },
   {
     "name": {
@@ -9591,7 +10072,8 @@
       "es": "Grito desgarrador que inflige daño al objetivo."
     },
     "shortDesc": "Teaches certain Pokemon the move Hyper Voice. One use.",
-    "id": "tr42"
+    "id": "tr42",
+    "champions": false
   },
   {
     "name": {
@@ -9610,7 +10092,8 @@
       "es": "Ataque en toda regla que baja mucho el Ataque Especial de quien lo usa."
     },
     "shortDesc": "Teaches certain Pokemon the move Overheat. One use.",
-    "id": "tr43"
+    "id": "tr43",
+    "champions": false
   },
   {
     "name": {
@@ -9629,7 +10112,8 @@
       "es": "Sube la Defensa y la Defensa Especial propias con  energía mística."
     },
     "shortDesc": "Teaches certain Pokemon the move Cosmic Power. One use.",
-    "id": "tr44"
+    "id": "tr44",
+    "champions": false
   },
   {
     "name": {
@@ -9648,7 +10132,8 @@
       "es": "Ataque con agua lodosa que puede bajar la Precisión del equipo rival."
     },
     "shortDesc": "Teaches certain Pokemon the move Muddy Water. One use.",
-    "id": "tr45"
+    "id": "tr45",
+    "champions": false
   },
   {
     "name": {
@@ -9667,7 +10152,8 @@
       "es": "Fortalece el cuerpo como si fuera de hierro y sube mucho la Defensa."
     },
     "shortDesc": "Teaches certain Pokemon the move Iron Defense. One use.",
-    "id": "tr46"
+    "id": "tr46",
+    "champions": false
   },
   {
     "name": {
@@ -9686,7 +10172,8 @@
       "es": "Araña al objetivo con garras afiladas."
     },
     "shortDesc": "Teaches certain Pokemon the move Dragon Claw. One use.",
-    "id": "tr47"
+    "id": "tr47",
+    "champions": false
   },
   {
     "name": {
@@ -9705,7 +10192,8 @@
       "es": "Robustece el cuerpo para subir el Ataque y la Defensa."
     },
     "shortDesc": "Teaches certain Pokemon the move Bulk Up. One use.",
-    "id": "tr48"
+    "id": "tr48",
+    "champions": false
   },
   {
     "name": {
@@ -9724,7 +10212,8 @@
       "es": "Aumenta la concentración y calma el espíritu para subir el Ataque Especial y la Defensa Especial."
     },
     "shortDesc": "Teaches certain Pokemon the move Calm Mind. One use.",
-    "id": "tr49"
+    "id": "tr49",
+    "champions": false
   },
   {
     "name": {
@@ -9743,7 +10232,8 @@
       "es": "Acuchilla con una hoja fina. Suele dar un golpe crítico."
     },
     "shortDesc": "Teaches certain Pokemon the move Leaf Blade. One use.",
-    "id": "tr50"
+    "id": "tr50",
+    "champions": false
   },
   {
     "name": {
@@ -9762,7 +10252,8 @@
       "es": "Danza mística que sube el Ataque y la Velocidad."
     },
     "shortDesc": "Teaches certain Pokemon the move Dragon Dance. One use.",
-    "id": "tr51"
+    "id": "tr51",
+    "champions": false
   },
   {
     "name": {
@@ -9781,7 +10272,8 @@
       "es": "Embiste al objetivo con un potente ataque giratorio. Cuanto más lento es el usuario, más daño causa."
     },
     "shortDesc": "Teaches certain Pokemon the move Gyro Ball. One use.",
-    "id": "tr52"
+    "id": "tr52",
+    "champions": false
   },
   {
     "name": {
@@ -9800,7 +10292,8 @@
       "es": "Lucha abiertamente contra el objetivo sin protegerse. También reduce la Defensa y la Defensa Especial del usuario."
     },
     "shortDesc": "Teaches certain Pokemon the move Close Combat. One use.",
-    "id": "tr53"
+    "id": "tr53",
+    "champions": false
   },
   {
     "name": {
@@ -9819,7 +10312,8 @@
       "es": "Lanza una trampa de púas tóxicas a los pies del objetivo. El veneno afecta a los Pokémon oponentes que entran en combate."
     },
     "shortDesc": "Teaches certain Pokemon the move Toxic Spikes. One use.",
-    "id": "tr54"
+    "id": "tr54",
+    "champions": false
   },
   {
     "name": {
@@ -9838,7 +10332,8 @@
       "es": "El Pokémon se cubre de llamas y carga contra el objetivo, aunque él también recibe daño. Puede quemar."
     },
     "shortDesc": "Teaches certain Pokemon the move Flare Blitz. One use.",
-    "id": "tr55"
+    "id": "tr55",
+    "champions": false
   },
   {
     "name": {
@@ -9857,7 +10352,8 @@
       "es": "Libera, desde su interior, una inmensa descarga de aura. Es infalible."
     },
     "shortDesc": "Teaches certain Pokemon the move Aura Sphere. One use.",
-    "id": "tr56"
+    "id": "tr56",
+    "champions": false
   },
   {
     "name": {
@@ -9876,7 +10372,8 @@
       "es": "Pincha al objetivo con un tentáculo o brazo envenenado. Puede llegar a envenenar al objetivo."
     },
     "shortDesc": "Teaches certain Pokemon the move Poison Jab. One use.",
-    "id": "tr57"
+    "id": "tr57",
+    "champions": false
   },
   {
     "name": {
@@ -9895,7 +10392,8 @@
       "es": "Libera una horrible aura llena de malos pensamientos que puede amedrentar al objetivo."
     },
     "shortDesc": "Teaches certain Pokemon the move Dark Pulse. One use.",
-    "id": "tr58"
+    "id": "tr58",
+    "champions": false
   },
   {
     "name": {
@@ -9914,7 +10412,8 @@
       "es": "Lanza al objetivo una descarga de semillas explosivas desde arriba."
     },
     "shortDesc": "Teaches certain Pokemon the move Seed Bomb. One use.",
-    "id": "tr59"
+    "id": "tr59",
+    "champions": false
   },
   {
     "name": {
@@ -9933,7 +10432,8 @@
       "es": "Cruza las guadañas o las garras para atacar al objetivo como si fueran unas tijeras."
     },
     "shortDesc": "Teaches certain Pokemon the move X-Scissor. One use.",
-    "id": "tr60"
+    "id": "tr60",
+    "champions": false
   },
   {
     "name": {
@@ -9952,7 +10452,8 @@
       "es": "El usuario crea una onda sónica dañina moviendo su cuerpo que también puede disminuir la Defensa Especial del objetivo."
     },
     "shortDesc": "Teaches certain Pokemon the move Bug Buzz. One use.",
-    "id": "tr61"
+    "id": "tr61",
+    "champions": false
   },
   {
     "name": {
@@ -9971,7 +10472,8 @@
       "es": "Abre mucho la boca y libera una onda de choque que ataca al objetivo."
     },
     "shortDesc": "Teaches certain Pokemon the move Dragon Pulse. One use.",
-    "id": "tr62"
+    "id": "tr62",
+    "champions": false
   },
   {
     "name": {
@@ -9990,7 +10492,8 @@
       "es": "Ataca con un rayo de luz que centellea como si lo  formaran miles de joyas."
     },
     "shortDesc": "Teaches certain Pokemon the move Power Gem. One use.",
-    "id": "tr63"
+    "id": "tr63",
+    "champions": false
   },
   {
     "name": {
@@ -10009,7 +10512,8 @@
       "es": "Agudiza la concentración mental y libera su poder.  Puede disminuir la Defensa Especial del objetivo."
     },
     "shortDesc": "Teaches certain Pokemon the move Focus Blast. One use.",
-    "id": "tr64"
+    "id": "tr64",
+    "champions": false
   },
   {
     "name": {
@@ -10028,7 +10532,8 @@
       "es": "Aúna fuerzas de la naturaleza y libera su ataque. Puede disminuir la Defensa Especial del objetivo."
     },
     "shortDesc": "Teaches certain Pokemon the move Energy Ball. One use.",
-    "id": "tr65"
+    "id": "tr65",
+    "champions": false
   },
   {
     "name": {
@@ -10047,7 +10552,8 @@
       "es": "Pliega sus alas y ataca con un vuelo rasante. El Pokémon que lo usa también resulta seriamente dañado."
     },
     "shortDesc": "Teaches certain Pokemon the move Brave Bird. One use.",
-    "id": "tr66"
+    "id": "tr66",
+    "champions": false
   },
   {
     "name": {
@@ -10066,7 +10572,8 @@
       "es": "La tierra a los pies del objetivo erupciona violentamente. Puede disminuir la Defensa Especial del objetivo."
     },
     "shortDesc": "Teaches certain Pokemon the move Earth Power. One use.",
-    "id": "tr67"
+    "id": "tr67",
+    "champions": false
   },
   {
     "name": {
@@ -10085,7 +10592,8 @@
       "es": "Estimula su cerebro pensando en cosas malas. Aumenta mucho el Ataque Especial."
     },
     "shortDesc": "Teaches certain Pokemon the move Nasty Plot. One use.",
-    "id": "tr68"
+    "id": "tr68",
+    "champions": false
   },
   {
     "name": {
@@ -10104,7 +10612,8 @@
       "es": "Concentra su energía psíquica en la cabeza para golpear. Puede hacer que el objetivo se amedrente."
     },
     "shortDesc": "Teaches certain Pokemon the move Zen Headbutt. One use.",
-    "id": "tr69"
+    "id": "tr69",
+    "champions": false
   },
   {
     "name": {
@@ -10123,7 +10632,8 @@
       "es": "El usuario concentra toda la luz del cuerpo y la libera. Puede bajar la Defensa Especial del objetivo."
     },
     "shortDesc": "Teaches certain Pokemon the move Flash Cannon. One use.",
-    "id": "tr70"
+    "id": "tr70",
+    "champions": false
   },
   {
     "name": {
@@ -10142,7 +10652,8 @@
       "es": "Envuelve al objetivo con una lluvia de hojas afiladas, pero reduce mucho su Ataque Especial."
     },
     "shortDesc": "Teaches certain Pokemon the move Leaf Storm. One use.",
-    "id": "tr71"
+    "id": "tr71",
+    "champions": false
   },
   {
     "name": {
@@ -10161,7 +10672,8 @@
       "es": "El usuario agita violentamente sus lianas o tentáculos para golpear al objetivo."
     },
     "shortDesc": "Teaches certain Pokemon the move Power Whip. One use.",
-    "id": "tr72"
+    "id": "tr72",
+    "champions": false
   },
   {
     "name": {
@@ -10180,7 +10692,8 @@
       "es": "Lanza contra el objetivo basura asquerosa y puede envenenarlo."
     },
     "shortDesc": "Teaches certain Pokemon the move Gunk Shot. One use.",
-    "id": "tr73"
+    "id": "tr73",
+    "champions": false
   },
   {
     "name": {
@@ -10199,7 +10712,8 @@
       "es": "Ataca con su dura cabeza de hierro. Puede hacer que el objetivo se amedrente."
     },
     "shortDesc": "Teaches certain Pokemon the move Iron Head. One use.",
-    "id": "tr74"
+    "id": "tr74",
+    "champions": false
   },
   {
     "name": {
@@ -10218,7 +10732,8 @@
       "es": "Clava piedras muy afiladas al objetivo. Suele ser crítico."
     },
     "shortDesc": "Teaches certain Pokemon the move Stone Edge. One use.",
-    "id": "tr75"
+    "id": "tr75",
+    "champions": false
   },
   {
     "name": {
@@ -10237,7 +10752,8 @@
       "es": "Una trampa de rocas que flota en el aire y daña a los objetivos que entran en combate."
     },
     "shortDesc": "Teaches certain Pokemon the move Stealth Rock. One use.",
-    "id": "tr76"
+    "id": "tr76",
+    "champions": false
   },
   {
     "name": {
@@ -10256,7 +10772,8 @@
       "es": "Enreda al objetivo con hierba y lo derriba. Cuanto más pesado es el objetivo, más daño inflige."
     },
     "shortDesc": "Teaches certain Pokemon the move Grass Knot. One use.",
-    "id": "tr77"
+    "id": "tr77",
+    "champions": false
   },
   {
     "name": {
@@ -10275,7 +10792,8 @@
       "es": "Una onda tóxica que daña a los Pokémon de alrededor. Puede envenenar."
     },
     "shortDesc": "Teaches certain Pokemon the move Sludge Wave. One use.",
-    "id": "tr78"
+    "id": "tr78",
+    "champions": false
   },
   {
     "name": {
@@ -10294,7 +10812,8 @@
       "es": "El usuario golpea con todo su cuerpo. Cuanto mayor sea su peso comparado con el del objetivo, más daño causará."
     },
     "shortDesc": "Teaches certain Pokemon the move Heavy Slam. One use.",
-    "id": "tr79"
+    "id": "tr79",
+    "champions": false
   },
   {
     "name": {
@@ -10313,7 +10832,8 @@
       "es": "Lanza una bola eléctrica. Cuanto mayor sea la Velocidad del usuario en comparación con la del objetivo, mayor será el daño causado."
     },
     "shortDesc": "Teaches certain Pokemon the move Electro Ball. One use.",
-    "id": "tr80"
+    "id": "tr80",
+    "champions": false
   },
   {
     "name": {
@@ -10332,7 +10852,8 @@
       "es": "El usuario emplea la fuerza del objetivo para atacarlo. Cuanto mayor es el Ataque del objetivo, más daño provoca."
     },
     "shortDesc": "Teaches certain Pokemon the move Foul Play. One use.",
-    "id": "tr81"
+    "id": "tr81",
+    "champions": false
   },
   {
     "name": {
@@ -10351,7 +10872,8 @@
       "es": "Acumula poder para golpear. Cuanto más suban las características del usuario, mayor será el daño."
     },
     "shortDesc": "Teaches certain Pokemon the move Stored Power. One use.",
-    "id": "tr82"
+    "id": "tr82",
+    "champions": false
   },
   {
     "name": {
@@ -10370,7 +10892,8 @@
       "es": "Extraño poder que intercambia la posición del usuario con la de un aliado sobre el terreno de combate."
     },
     "shortDesc": "Teaches certain Pokemon the move Ally Switch. One use.",
-    "id": "tr83"
+    "id": "tr83",
+    "champions": false
   },
   {
     "name": {
@@ -10389,7 +10912,8 @@
       "es": "Ataca arrojando agua hirviendo al objetivo. Puede causar quemaduras."
     },
     "shortDesc": "Teaches certain Pokemon the move Scald. One use.",
-    "id": "tr84"
+    "id": "tr84",
+    "champions": false
   },
   {
     "name": {
@@ -10408,7 +10932,8 @@
       "es": "Quien lo usa se concentra y potencia su Ataque y su Ataque Especial."
     },
     "shortDesc": "Teaches certain Pokemon the move Work Up. One use.",
-    "id": "tr85"
+    "id": "tr85",
+    "champions": false
   },
   {
     "name": {
@@ -10427,7 +10952,8 @@
       "es": "Carga eléctrica muy potente que también hiere ligeramente a quien la usa."
     },
     "shortDesc": "Teaches certain Pokemon the move Wild Charge. One use.",
-    "id": "tr86"
+    "id": "tr86",
+    "champions": false
   },
   {
     "name": {
@@ -10446,7 +10972,8 @@
       "es": "El usuario golpea usando su cuerpo como un taladro. Suele ser crítico."
     },
     "shortDesc": "Teaches certain Pokemon the move Drill Run. One use.",
-    "id": "tr87"
+    "id": "tr87",
+    "champions": false
   },
   {
     "name": {
@@ -10465,7 +10992,8 @@
       "es": "El usuario ataca con su cuerpo ardiente. Cuanto mayor sea su peso comparado con el del objetivo, más daño causará."
     },
     "shortDesc": "Teaches certain Pokemon the move Heat Crash. One use.",
-    "id": "tr88"
+    "id": "tr88",
+    "champions": false
   },
   {
     "name": {
@@ -10484,7 +11012,8 @@
       "es": "Golpea al objetivo con un fuerte torbellino que envuelve al rival y puede confundirlo."
     },
     "shortDesc": "Teaches certain Pokemon the move Hurricane. One use.",
-    "id": "tr89"
+    "id": "tr89",
+    "champions": false
   },
   {
     "name": {
@@ -10503,7 +11032,8 @@
       "es": "El Pokémon que lo usa le hace cucamonas al objetivo y lo ataca. Puede disminuir el Ataque del objetivo."
     },
     "shortDesc": "Teaches certain Pokemon the move Play Rough. One use.",
-    "id": "tr90"
+    "id": "tr90",
+    "champions": false
   },
   {
     "name": {
@@ -10522,7 +11052,8 @@
       "es": "Impregna a su objetivo con un líquido venenoso que disminuye el Ataque, el Ataque Especial y la Velocidad. Solo afecta a Pokémon ya envenenados."
     },
     "shortDesc": "Teaches certain Pokemon the move Venom Drench. One use.",
-    "id": "tr91"
+    "id": "tr91",
+    "champions": false
   },
   {
     "name": {
@@ -10541,7 +11072,8 @@
       "es": "Inflige daño a los oponentes con una potente luz."
     },
     "shortDesc": "Teaches certain Pokemon the move Dazzling Gleam. One use.",
-    "id": "tr92"
+    "id": "tr92",
+    "champions": false
   },
   {
     "name": {
@@ -10560,7 +11092,8 @@
       "es": "Gira sobre sí mismo y golpea al oponente con ambos brazos. Ignora los cambios en las características del objetivo."
     },
     "shortDesc": "Teaches certain Pokemon the move Darkest Lariat. One use.",
-    "id": "tr93"
+    "id": "tr93",
+    "champions": false
   },
   {
     "name": {
@@ -10579,7 +11112,8 @@
       "es": "Asesta un golpe devastador usando todo su cuerpo."
     },
     "shortDesc": "Teaches certain Pokemon the move High Horsepower. One use.",
-    "id": "tr94"
+    "id": "tr94",
+    "champions": false
   },
   {
     "name": {
@@ -10598,7 +11132,8 @@
       "es": "Inflige al rival un dolor tan abrumador que le impide utilizar durante dos turnos ataques que se sirven del sonido."
     },
     "shortDesc": "Teaches certain Pokemon the move Throat Chop. One use.",
-    "id": "tr95"
+    "id": "tr95",
+    "champions": false
   },
   {
     "name": {
@@ -10617,7 +11152,8 @@
       "es": "Ataca al oponente con una bola explosiva. Si esta alcanza a un aliado, le hará recuperar PS."
     },
     "shortDesc": "Teaches certain Pokemon the move Pollen Puff. One use.",
-    "id": "tr96"
+    "id": "tr96",
+    "champions": false
   },
   {
     "name": {
@@ -10636,7 +11172,8 @@
       "es": "Ataca a sus rivales con poderes psíquicos que además destruyen barreras como Pantalla de Luz y Reflejo."
     },
     "shortDesc": "Teaches certain Pokemon the move Psychic Fangs. One use.",
-    "id": "tr97"
+    "id": "tr97",
+    "champions": false
   },
   {
     "name": {
@@ -10655,7 +11192,8 @@
       "es": "Ataca golpeando gracias a la fuerza del agua. También puede reducir la Defensa del objetivo."
     },
     "shortDesc": "Teaches certain Pokemon the move Liquidation. One use.",
-    "id": "tr98"
+    "id": "tr98",
+    "champions": false
   },
   {
     "name": {
@@ -10674,7 +11212,8 @@
       "es": "El usuario usa el cuerpo para lanzar su ataque e infligir un daño directamente proporcional a su Defensa."
     },
     "shortDesc": "Teaches certain Pokemon the move Body Press. One use.",
-    "id": "tr99"
+    "id": "tr99",
+    "champions": false
   },
   {
     "name": {
@@ -10693,7 +11232,8 @@
       "es": "Cuchara imbuida de energía telequinética que potencia los movimientos de tipo Psíquico. Debe llevarla un Pokémon."
     },
     "shortDesc": "Holder's Psychic-type attacks have 1.2x power.",
-    "id": "twistedspoon"
+    "id": "twistedspoon",
+    "champions": true
   },
   {
     "name": {
@@ -10715,7 +11255,8 @@
       "es": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Tyranitar en combate."
     },
     "shortDesc": "If held by a Tyranitar, this item allows it to Mega Evolve in battle.",
-    "id": "tyranitarite"
+    "id": "tyranitarite",
+    "champions": true
   },
   {
     "name": {
@@ -10731,7 +11272,8 @@
       "es": "Poké Ball de rendimiento superior. Tiene un índice de éxito mayor al de la Super Ball."
     },
     "shortDesc": "An ultra-performance Ball that provides a higher catch rate than a Great Ball.",
-    "id": "ultraball"
+    "id": "ultraball",
+    "champions": false
   },
   {
     "name": {
@@ -10753,7 +11295,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "Dusk Mane/Dawn Wings Necrozma: Ultra Burst, then Z-Move w/ Photon Geyser.",
-    "id": "ultranecroziumz"
+    "id": "ultranecroziumz",
+    "champions": false
   },
   {
     "name": {
@@ -10771,7 +11314,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "Evolves Poltchageist into Sinistcha when used.",
-    "id": "unremarkableteacup"
+    "id": "unremarkableteacup",
+    "champions": false
   },
   {
     "name": {
@@ -10789,7 +11333,8 @@
       "es": "Peculiar dispositivo fabricado en Silph S. A. que contiene todo tipo de datos."
     },
     "shortDesc": "Evolves Porygon into Porygon2 when traded.",
-    "id": "upgrade"
+    "id": "upgrade",
+    "champions": false
   },
   {
     "name": {
@@ -10807,7 +11352,8 @@
       "es": "El portador se vuelve invulnerable a los efectos de la lluvia y del sol."
     },
     "shortDesc": "The holder ignores rain- and sun-based effects.",
-    "id": "utilityumbrella"
+    "id": "utilityumbrella",
+    "champions": false
   },
   {
     "name": {
@@ -10829,7 +11375,8 @@
       "es": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Venusaur en combate."
     },
     "shortDesc": "If held by a Venusaur, this item allows it to Mega Evolve in battle.",
-    "id": "venusaurite"
+    "id": "venusaurite",
+    "champions": true
   },
   {
     "name": {
@@ -10851,7 +11398,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "If held by a Victreebel, this item allows it to Mega Evolve in battle.",
-    "id": "victreebelite"
+    "id": "victreebelite",
+    "champions": true
   },
   {
     "name": {
@@ -10871,7 +11419,8 @@
       "es": "Si la lleva un Pokémon, debilita un ataque supereficaz de tipo Eléctrico de un enemigo."
     },
     "shortDesc": "Halves damage taken from a supereffective Electric-type attack. Single use.",
-    "id": "wacanberry"
+    "id": "wacanberry",
+    "champions": true
   },
   {
     "name": {
@@ -10888,7 +11437,8 @@
       "es": "Joya de un solo uso que potencia los movimientos de tipo Agua. Debe llevarla un Pokémon."
     },
     "shortDesc": "Holder's first successful Water-type attack will have 1.3x power. Single use.",
-    "id": "watergem"
+    "id": "watergem",
+    "champions": false
   },
   {
     "name": {
@@ -10909,7 +11459,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "If holder has a Water move, this item allows it to use a Water Z-Move.",
-    "id": "wateriumz"
+    "id": "wateriumz",
+    "champions": false
   },
   {
     "name": {
@@ -10930,7 +11481,8 @@
       "es": "Disco de datos que contiene información relativa al tipo Agua. Permite cambiar de tipo a cierto Pokémon."
     },
     "shortDesc": "Holder's Multi-Attack is Water type.",
-    "id": "watermemory"
+    "id": "watermemory",
+    "champions": false
   },
   {
     "name": {
@@ -10948,7 +11500,8 @@
       "es": "Curiosa piedra que hace evolucionar a determinadas especies de Pokémon. Es de color azul."
     },
     "shortDesc": "Evolves certain species of Pokemon when used.",
-    "id": "waterstone"
+    "id": "waterstone",
+    "champions": false
   },
   {
     "name": {
@@ -10970,7 +11523,8 @@
       "es": "Se utiliza en la producción de Pokécubos que potencian el ingenio. Es una baya muy rara en otras regiones."
     },
     "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
-    "id": "watmelberry"
+    "id": "watmelberry",
+    "champions": false
   },
   {
     "name": {
@@ -10990,7 +11544,8 @@
       "es": "Tiene un curioso aroma que potencia los movimientos de tipo Agua. Debe llevarlo un Pokémon."
     },
     "shortDesc": "Holder's Water-type attacks have 1.2x power.",
-    "id": "waveincense"
+    "id": "waveincense",
+    "champions": false
   },
   {
     "name": {
@@ -11012,7 +11567,8 @@
       "es": "Aumenta mucho el Ataque y el Ataque Especial cuando el Pokémon que lo lleva recibe un ataque frente al cual es débil."
     },
     "shortDesc": "If holder is hit super effectively, raises Attack, Sp. Atk by 2 stages. Single use.",
-    "id": "weaknesspolicy"
+    "id": "weaknesspolicy",
+    "champions": false
   },
   {
     "name": {
@@ -11035,7 +11591,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "Ogerpon-Wellspring: 1.2x power attacks; Terastallize to gain Embody Aspect.",
-    "id": "wellspringmask"
+    "id": "wellspringmask",
+    "champions": false
   },
   {
     "name": {
@@ -11057,7 +11614,8 @@
       "es": "Se utiliza en la producción de Pokécubos que potencian el ingenio. Es de color verde y sabor amargo."
     },
     "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
-    "id": "wepearberry"
+    "id": "wepearberry",
+    "champions": false
   },
   {
     "name": {
@@ -11076,7 +11634,8 @@
       "es": "Un dulce a base de suave y esponjosa nata montada. A cierto Pokémon le encanta."
     },
     "shortDesc": "Evolves Swirlix into Slurpuff when traded.",
-    "id": "whippeddream"
+    "id": "whippeddream",
+    "champions": false
   },
   {
     "name": {
@@ -11096,7 +11655,8 @@
       "es": "Restaura cualquier característica reducida en combate. Solo se puede usar una vez. Debe llevarla un Pokémon."
     },
     "shortDesc": "Restores all lowered stat stages to 0 when one is less than 0. Single use.",
-    "id": "whiteherb"
+    "id": "whiteherb",
+    "champions": true
   },
   {
     "name": {
@@ -11115,7 +11675,8 @@
       "es": "Debe llevarla un Pokémon. Aumenta ligeramente la precisión de los movimientos."
     },
     "shortDesc": "The accuracy of attacks by the holder is 1.1x.",
-    "id": "widelens"
+    "id": "widelens",
+    "champions": false
   },
   {
     "name": {
@@ -11135,7 +11696,8 @@
       "es": "Los Pokémon pueden llevarla o usarla para restaurar algunos PS. Su sabor puede causar confusión si no les gusta."
     },
     "shortDesc": "Restores 1/3 max HP at 1/4 max HP or less; confuses if -SpA Nature. Single use.",
-    "id": "wikiberry"
+    "id": "wikiberry",
+    "champions": false
   },
   {
     "name": {
@@ -11154,7 +11716,8 @@
       "es": "Potencian ligeramente los ataques especiales. Debe llevarlas un Pokémon."
     },
     "shortDesc": "Holder's special attacks have 1.1x power.",
-    "id": "wiseglasses"
+    "id": "wiseglasses",
+    "champions": false
   },
   {
     "name": {
@@ -11174,7 +11737,8 @@
       "es": "Si la lleva un Pokémon, debilita un ataque supereficaz de tipo Hielo de un enemigo."
     },
     "shortDesc": "Halves damage taken from a supereffective Ice-type attack. Single use.",
-    "id": "yacheberry"
+    "id": "yacheberry",
+    "champions": true
   },
   {
     "name": {
@@ -11192,7 +11756,8 @@
       "es": "Tabla de piedra que potencia los movimientos de tipo Eléctrico. Debe llevarla un Pokémon."
     },
     "shortDesc": "Holder's Electric-type attacks have 1.2x power. Judgment is Electric type.",
-    "id": "zapplate"
+    "id": "zapplate",
+    "champions": false
   },
   {
     "name": {
@@ -11214,7 +11779,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "If held by a Zeraora, this item allows it to Mega Evolve in battle.",
-    "id": "zeraorite"
+    "id": "zeraorite",
+    "champions": false
   },
   {
     "name": {
@@ -11233,7 +11799,8 @@
       "es": "Debe llevarlo un Pokémon. Si se mueve después del enemigo, aumenta la Precisión del Pokémon."
     },
     "shortDesc": "The accuracy of attacks by the holder is 1.2x if it moves after its target.",
-    "id": "zoomlens"
+    "id": "zoomlens",
+    "champions": false
   },
   {
     "name": {
@@ -11255,7 +11822,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "If held by a Zygarde in Complete Forme, this item allows it to Mega Evolve in battle.",
-    "id": "zygardite"
+    "id": "zygardite",
+    "champions": false
   },
   {
     "name": {
@@ -11277,7 +11845,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "(Gen 2) Restores 10 HP when at 1/2 max HP or less. Single use.",
-    "id": "berry"
+    "id": "berry",
+    "champions": false
   },
   {
     "name": {
@@ -11296,7 +11865,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "(Gen 2) On switch-in, raises holder's Attack by 2 and confuses it. Single use.",
-    "id": "berserkgene"
+    "id": "berserkgene",
+    "champions": false
   },
   {
     "name": {
@@ -11317,7 +11887,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "(Gen 2) Holder is cured if it is confused. Single use.",
-    "id": "bitterberry"
+    "id": "bitterberry",
+    "champions": false
   },
   {
     "name": {
@@ -11338,7 +11909,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "(Gen 2) Holder is cured if it is frozen. Single use.",
-    "id": "burntberry"
+    "id": "burntberry",
+    "champions": false
   },
   {
     "name": {
@@ -11360,7 +11932,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "(Gen 2) Restores 30 HP when at 1/2 max HP or less. Single use.",
-    "id": "goldberry"
+    "id": "goldberry",
+    "champions": false
   },
   {
     "name": {
@@ -11381,7 +11954,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "(Gen 2) Holder is cured if it is burned. Single use.",
-    "id": "iceberry"
+    "id": "iceberry",
+    "champions": false
   },
   {
     "name": {
@@ -11402,7 +11976,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "(Gen 2) Holder wakes up if it is asleep. Single use.",
-    "id": "mintberry"
+    "id": "mintberry",
+    "champions": false
   },
   {
     "name": {
@@ -11423,7 +11998,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "(Gen 2) Holder cures itself if it is confused or has a status condition. Single use.",
-    "id": "miracleberry"
+    "id": "miracleberry",
+    "champions": false
   },
   {
     "name": {
@@ -11444,7 +12020,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "(Gen 2) Restores 5 PP to the first of the holder's moves to reach 0 PP. Single use.",
-    "id": "mysteryberry"
+    "id": "mysteryberry",
+    "champions": false
   },
   {
     "name": {
@@ -11460,7 +12037,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "(Gen 2) Holder's Normal-type attacks have 1.1x power.",
-    "id": "pinkbow"
+    "id": "pinkbow",
+    "champions": false
   },
   {
     "name": {
@@ -11476,7 +12054,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "(Gen 2) Holder's Normal-type attacks have 1.1x power.",
-    "id": "polkadotbow"
+    "id": "polkadotbow",
+    "champions": false
   },
   {
     "name": {
@@ -11497,7 +12076,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "(Gen 2) Holder cures itself if it is paralyzed. Single use.",
-    "id": "przcureberry"
+    "id": "przcureberry",
+    "champions": false
   },
   {
     "name": {
@@ -11518,7 +12098,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "(Gen 2) Holder is cured if it is poisoned. Single use.",
-    "id": "psncureberry"
+    "id": "psncureberry",
+    "champions": false
   },
   {
     "name": {
@@ -11540,7 +12121,8 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "If held by a Crucibelle, this item allows it to Mega Evolve in battle.",
-    "id": "crucibellite"
+    "id": "crucibellite",
+    "champions": false
   },
   {
     "name": {
@@ -11564,6 +12146,7 @@
       "es": "Sin descripción oficial."
     },
     "shortDesc": "If held by a Venomicon, its Poison- and Flying-type attacks have 1.2x power.",
-    "id": "vilevial"
+    "id": "vilevial",
+    "champions": false
   }
 ]
