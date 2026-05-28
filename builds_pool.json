@@ -7657,5 +7657,101 @@
             "Protect",
             "Wide Guard"
         ]
+    },
+    {
+        "id": "TSAREENA-0d11e891",
+        "pokemon": "Tsareena",
+        "ability": "Queenly Majesty",
+        "item": "Choice Scarf",
+        "moves": [
+            "Trop Kick",
+            "Triple Axel",
+            "Zen Headbutt",
+            "U-turn"
+        ]
+    },
+    {
+        "id": "WHIMSICOTT-0c17001a",
+        "pokemon": "Whimsicott",
+        "ability": "Prankster",
+        "item": "Focus Sash",
+        "moves": [
+            "Moonblast",
+            "Tailwind",
+            "Trick Room",
+            "Encore"
+        ]
+    },
+    {
+        "id": "TSAREENA-29e9bff3",
+        "pokemon": "Tsareena",
+        "ability": "Queenly Majesty",
+        "item": "Choice Scarf",
+        "moves": [
+            "Trop Kick",
+            "Low Kick",
+            "Zen Headbutt",
+            "Triple Axel"
+        ]
+    },
+    {
+        "id": "BLASTOISE-17be2f59",
+        "pokemon": "Blastoise",
+        "ability": "Rain Dish",
+        "item": "Blastoisinite",
+        "moves": [
+            "Water Spout",
+            "Dark Pulse",
+            "Water Pulse",
+            "Protect"
+        ]
+    },
+    {
+        "id": "GARCHOMP-abd20228",
+        "pokemon": "Garchomp",
+        "ability": "Rough Skin",
+        "item": "Choice Scarf",
+        "moves": [
+            "Dragon Claw",
+            "Earthquake",
+            "Rock Slide",
+            "Breaking Swipe"
+        ]
+    },
+    {
+        "id": "TSAREENA-424d3611",
+        "pokemon": "Tsareena",
+        "ability": "Queenly Majesty",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Triple Axel",
+            "Protect",
+            "Trop Kick",
+            "Low Kick"
+        ]
+    },
+    {
+        "id": "TSAREENA-767f1c5b",
+        "pokemon": "Tsareena",
+        "ability": "Queenly Majesty",
+        "item": "Sitrus Berry",
+        "moves": [
+            "Trop Kick",
+            "Triple Axel",
+            "Low Kick",
+            "Sunny Day"
+        ]
+    },
+    {
+        "id": "TSAREENA-07924b6c",
+        "pokemon": "Tsareena",
+        "ability": "Queenly Majesty",
+        "item": "Miracle Seed",
+        "moves": [
+            "Trop Kick",
+            "Low Kick",
+            "Triple Axel",
+            "Protect"
+        ]
     }
 ]
