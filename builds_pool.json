@@ -60,8 +60,8 @@
         ]
     },
     {
-        "id": "FLOETTE-8f1d6bfd",
-        "pokemon": "Floette",
+        "id": "FLOETTE_ETERNAL-8f1d6bfd",
+        "pokemon": "FLOETTE_ETERNAL",
         "ability": "Flower Veil",
         "item": "Floettite",
         "moves": [
@@ -1163,8 +1163,8 @@
         ]
     },
     {
-        "id": "FLOETTE-51eaaad4",
-        "pokemon": "Floette",
+        "id": "FLOETTE_ETERNAL-51eaaad4",
+        "pokemon": "FLOETTE_ETERNAL",
         "ability": "Fairy Aura",
         "item": "Floettite",
         "moves": [
