@@ -1,0 +1,234 @@
+{
+  "high_friendship": {
+    "en": "high Friendship",
+    "es": "Amistad alta"
+  },
+  "trade": {
+    "en": "Trade",
+    "es": "Intercambio"
+  },
+  "level_20_attack__defense": {
+    "en": "Level 20, Attack = Defense",
+    "es": "Nivel 20, Ataque = Defensa"
+  },
+  "hold_oval_stone_daytime": {
+    "en": "hold Oval Stone, Daytime",
+    "es": "Equipando Piedra Oval, de día"
+  },
+  "after_mimic_learned": {
+    "en": "after Mimic learned",
+    "es": "Conociendo Mimético"
+  },
+  "trade_holding_kings_rock": {
+    "en": "trade holding Kings Rock",
+    "es": "Intercambio equipando Roca del Rey"
+  },
+  "high_friendship_daytime": {
+    "en": "high Friendship, Daytime",
+    "es": "Amistad alta, de día"
+  },
+  "high_friendship_nighttime": {
+    "en": "high Friendship, Nighttime",
+    "es": "Amistad alta, de noche"
+  },
+  "trade_holding_metal_coat": {
+    "en": "trade holding Metal Coat",
+    "es": "Intercambio equipando Revestimiento Metálico"
+  },
+  "with_remoraid_in_party": {
+    "en": "with Remoraid in party",
+    "es": "Con Remoraid en el equipo"
+  },
+  "trade_holding_dragon_scale": {
+    "en": "trade holding Dragon Scale",
+    "es": "Intercambio equipando Escama Dragón"
+  },
+  "trade_holding_upgrade": {
+    "en": "trade holding Upgrade",
+    "es": "Intercambio equipando Mejora"
+  },
+  "level_7_random_based_on_personality": {
+    "en": "Level 7, random based on personality",
+    "es": "Nivel 7, aleatorio según personalidad"
+  },
+  "level_20_empty_spot_in_party_pokball_in_bag": {
+    "en": "Level 20, empty spot in party, Pokéball in bag",
+    "es": "Nivel 20, con un espacio en el equipo y una Poké Ball en la mochila"
+  },
+  "trade_holding_prism_scale_or_level_up_with_max_beauty": {
+    "en": "trade holding Prism Scale, or level up with max Beauty",
+    "es": "Intercambio equipando Escama Bella, o subir de nivel con Belleza al máximo"
+  },
+  "trade_holding_deep_sea_tooth": {
+    "en": "trade holding Deep Sea Tooth",
+    "es": "Intercambio equipando Diente Marino"
+  },
+  "trade_holding_deep_sea_scale": {
+    "en": "trade holding Deep Sea Scale",
+    "es": "Intercambio equipando Escama Marina"
+  },
+  "level_20_female": {
+    "en": "Level 20, Female",
+    "es": "Nivel 20, Hembra"
+  },
+  "level_20_male": {
+    "en": "Level 20, Male",
+    "es": "Nivel 20, Macho"
+  },
+  "level_21_female": {
+    "en": "Level 21, Female",
+    "es": "Nivel 21, Hembra"
+  },
+  "after_double_hit_learned": {
+    "en": "after Double Hit learned",
+    "es": "Conociendo Doble Golpe"
+  },
+  "hold_razor_claw_nighttime": {
+    "en": "hold Razor Claw, Nighttime",
+    "es": "Equipando Garra Afilada, de noche"
+  },
+  "level_up_in_a_magnetic_field_area": {
+    "en": "level up in a Magnetic Field area",
+    "es": "Subir de nivel en un Campo Magnético"
+  },
+  "after_rollout_learned": {
+    "en": "after Rollout learned",
+    "es": "Conociendo Desenrollar"
+  },
+  "trade_holding_protector": {
+    "en": "trade holding Protector",
+    "es": "Intercambio equipando Protector"
+  },
+  "after_ancient_power_learned": {
+    "en": "after Ancient Power learned",
+    "es": "Conociendo Poder Pasado"
+  },
+  "trade_holding_electirizer": {
+    "en": "trade holding Electirizer",
+    "es": "Intercambio equipando Electrizador"
+  },
+  "trade_holding_magmarizer": {
+    "en": "trade holding Magmarizer",
+    "es": "Intercambio equipando Magmatizador"
+  },
+  "level_up_near_a_mossy_rock": {
+    "en": "level up near a Mossy Rock",
+    "es": "Subir de nivel cerca de una Roca Musgo"
+  },
+  "level_up_near_an_icy_rock": {
+    "en": "level up near an Icy Rock",
+    "es": "Subir de nivel cerca de una Roca Hielo"
+  },
+  "hold_razor_fang_nighttime": {
+    "en": "hold Razor Fang, Nighttime",
+    "es": "Equipando Colmillo Agudo, de noche"
+  },
+  "trade_holding_dubious_disc": {
+    "en": "trade holding Dubious Disc",
+    "es": "Intercambio equipando Disco Extraño"
+  },
+  "trade_holding_reaper_cloth": {
+    "en": "trade holding Reaper Cloth",
+    "es": "Intercambio equipando Tela Terrible"
+  },
+  "trade_with_shelmet": {
+    "en": "Trade with Shelmet",
+    "es": "Intercambio por Shelmet"
+  },
+  "trade_with_karrablast": {
+    "en": "Trade with Karrablast",
+    "es": "Intercambio por Karrablast"
+  },
+  "level_32_dark_type_pokmon_in_party": {
+    "en": "Level 32, Dark type Pokémon in party",
+    "es": "Nivel 32, con Pokémon tipo Siniestro en el equipo"
+  },
+  "trade_holding_sachet": {
+    "en": "trade holding Sachet",
+    "es": "Intercambio equipando Saquito Fragante"
+  },
+  "trade_holding_whipped_dream": {
+    "en": "trade holding Whipped Dream",
+    "es": "Intercambio equipando Dulce de Nata"
+  },
+  "level_30_holding_console_upside_down": {
+    "en": "Level 30, holding console upside down",
+    "es": "Nivel 30, sosteniendo la consola al revés"
+  },
+  "level_39_daytime": {
+    "en": "Level 39, Daytime",
+    "es": "Nivel 39, de día"
+  },
+  "level_39_nighttime": {
+    "en": "Level 39, Nighttime",
+    "es": "Nivel 39, de noche"
+  },
+  "high_affection_knowing_fairy_move": {
+    "en": "High Affection, knowing Fairy move",
+    "es": "Afecto alto, conociendo movimiento tipo Hada"
+  },
+  "level_50_during_rain": {
+    "en": "Level 50, during rain",
+    "es": "Nivel 50, durante lluvia"
+  },
+  "level_20_daytime": {
+    "en": "Level 20, Daytime",
+    "es": "Nivel 20, de día"
+  },
+  "at_mount_lanakila": {
+    "en": "at Mount Lanakila",
+    "es": "En el Monte Lanakila"
+  },
+  "level_34_daytime": {
+    "en": "Level 34, Daytime",
+    "es": "Nivel 34, de día"
+  },
+  "level_33_female": {
+    "en": "Level 33, Female",
+    "es": "Nivel 33, Hembra"
+  },
+  "after_stomp_learned": {
+    "en": "after Stomp learned",
+    "es": "Conociendo Pisotón"
+  },
+  "level_53_in_pokmon_sun_or_ultra_sun": {
+    "en": "Level 53, in Pokémon Sun or Ultra Sun",
+    "es": "Nivel 53, en Pokémon Sol o Ultrasol"
+  },
+  "level_53_in_pokmon_moon_or_ultra_moon": {
+    "en": "Level 53, in Pokémon Moon or Ultra Moon",
+    "es": "Nivel 53, en Pokémon Luna o Ultraluna"
+  },
+  "after_dragon_pulse_learned": {
+    "en": "after Dragon Pulse learned",
+    "es": "Conociendo Pulso Dragón"
+  },
+  "pokmon_go_only_400_meltan_candies": {
+    "en": "Pokémon GO only, 400 Meltan Candies",
+    "es": "Solo en Pokémon GO, 400 Caramelos Meltan"
+  },
+  "after_": {
+    "en": "after Taunt Pulse learned ",
+    "es": "Tras aprender Provocación" 
+  },
+  "level_35_nighttime": {
+    "en": "Level 35, Nighttime",
+    "es": "Nivel 35, de noche"
+  },
+  "achieve_3_critical_hits_in_one_battle": {
+    "en": "achieve 3 critical hits in one battle",
+    "es": "Asestar 3 golpes críticos en un combate"
+  },
+  "spin_around_holding_sweet": {
+    "en": "spin around holding Sweet",
+    "es": "Dar vueltas equipando un Confite"
+  },
+  "high_": {
+    "en": "high Friendship, Nighttime",
+    "es": "Amistad alta, de noche"
+  },
+  "scroll_of_darkness": {
+    "en": "Scroll of Darkness",
+    "es": "Manuscrito Sombra"
+  }
+}
