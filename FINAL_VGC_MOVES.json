@@ -13750,7 +13750,10 @@
               "atk": 1
             }
           }
-        }
+        },
+        {"chance": 20,
+      "volatileStatus": "flinch"}
+        
       ]
     },
     "zMove": null,
@@ -35741,7 +35744,16 @@
       "self": null,
       "secondaries": [
         {
-          "chance": 50
+          "chance": 50,
+          "status": "psn"
+        },
+        {
+          "chance": 50,
+          "status": "par"
+        },
+        {
+          "chance": 50,
+          "status": "slp"
         }
       ]
     },
@@ -37607,7 +37619,7 @@
     "id": "flowertrick",
     "pokeapi_id": 870,
     "name": {
-      "es": "",
+      "es": "Truco Floral",
       "en": "Flower Trick"
     },
     "desc": {
