@@ -37584,11 +37584,11 @@
     "id": "kowtowcleave",
     "pokeapi_id": 869,
     "name": {
-      "es": "",
+      "es": "Genufendiente",
       "en": "Kowtow Cleave"
     },
     "desc": {
-      "es": "",
+      "es": "El usuario ataca al objetivo despues de postrarse para que este baje la guardia . Nunca falla.",
       "en": "The user slashes at the target after kowtowing to make the target let down its guard. This attack never misses."
     },
     "type": "Dark",
