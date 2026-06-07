@@ -151,7 +151,7 @@
     "num": 3,
     "name": {
       "en": "Venusaur-Gmax",
-      "es": "Venusaur"
+      "es": "Venusaur Gigamax"
     },
     "desc": {
       "es": "La flor que tiene en el lomo libera un delicado aroma, que tiene un efecto relajante en combate.",
@@ -297,7 +297,7 @@
     "num": 6,
     "name": {
       "en": "Charizard-Mega-X",
-      "es": "Mega Charizard"
+      "es": "Mega Charizard X"
     },
     "desc": {
       "es": "Sus potentes alas le permiten volar a una altura de 1400 m. Escupe llamaradas que llegan a alcanzar temperaturas elevadísimas.",
@@ -332,7 +332,7 @@
     "num": 6,
     "name": {
       "en": "Charizard-Mega-Y",
-      "es": "Mega Charizard"
+      "es": "Mega Charizard Y"
     },
     "desc": {
       "es": "Sus potentes alas le permiten volar a una altura de 1400 m. Escupe llamaradas que llegan a alcanzar temperaturas elevadísimas.",
@@ -367,7 +367,7 @@
     "num": 6,
     "name": {
       "en": "Charizard-Gmax",
-      "es": "Charizard"
+      "es": "Charizard Gigamax"
     },
     "desc": {
       "es": "Sus potentes alas le permiten volar a una altura de 1400 m. Escupe llamaradas que llegan a alcanzar temperaturas elevadísimas.",
@@ -546,7 +546,7 @@
     "num": 9,
     "name": {
       "en": "Blastoise-Gmax",
-      "es": "Blastoise"
+      "es": "Blastoise Gigamax"
     },
     "desc": {
       "es": "Dispara chorros de agua a través de los cañones de su caparazón, capaces de agujerear incluso el acero.",
@@ -690,7 +690,7 @@
     "num": 12,
     "name": {
       "en": "Butterfree-Gmax",
-      "es": "Butterfree"
+      "es": "Butterfree Gigamax"
     },
     "desc": {
       "es": "Recoge néctar a diario y se lo adhiere al pelo de las patas para llevarlo a su nido.",
@@ -1892,7 +1892,7 @@
     "num": 25,
     "name": {
       "en": "Pikachu-Gmax",
-      "es": "Pikachu"
+      "es": "Pikachu Gigamax"
     },
     "desc": {
       "es": "Los miembros de esta especie se saludan entre sí uniendo sus colas y transmitiéndose corriente eléctrica.",
@@ -2036,7 +2036,7 @@
     "num": 26,
     "name": {
       "en": "Raichu-Mega-X",
-      "es": "Mega Raichu"
+      "es": "Mega Raichu X"
     },
     "desc": {
       "es": "Cuando ha descargado las bolsas de las mejillas, levanta la cola y absorbe la carga eléctrica que hay en el ambiente.",
@@ -2071,7 +2071,7 @@
     "num": 26,
     "name": {
       "en": "Raichu-Mega-Y",
-      "es": "Mega Raichu"
+      "es": "Mega Raichu Y"
     },
     "desc": {
       "es": "Cuando ha descargado las bolsas de las mejillas, levanta la cola y absorbe la carga eléctrica que hay en el ambiente.",
@@ -3423,7 +3423,7 @@
     "num": 52,
     "name": {
       "en": "Meowth-Gmax",
-      "es": "Meowth"
+      "es": "Meowth Gigamax"
     },
     "desc": {
       "es": "Se lava cuidadosamente la cara para que no se le ensucie la moneda de oro que tiene en la frente. No se lleva nada bien con los Meowth de Galar.",
@@ -4209,7 +4209,7 @@
     "num": 68,
     "name": {
       "en": "Machamp-Gmax",
-      "es": "Machamp"
+      "es": "Machamp Gigamax"
     },
     "desc": {
       "es": "Puede dar varios puñetazos de una sola vez gracias a sus cuatro brazos. Golpea más rápido de lo que piensa.",
@@ -5715,7 +5715,7 @@
     "num": 94,
     "name": {
       "en": "Gengar-Gmax",
-      "es": "Gengar"
+      "es": "Gengar Gigamax"
     },
     "desc": {
       "es": "Dicen que sale de la oscuridad para robarles el alma a los que se pierden por las montañas.",
@@ -5938,7 +5938,7 @@
     "num": 99,
     "name": {
       "en": "Kingler-Gmax",
-      "es": "Kingler"
+      "es": "Kingler Gigamax"
     },
     "desc": {
       "es": "Su gran pinza posee una potencia devastadora, pero su peso excesivo la convierte en un estorbo fuera del terreno de combate.",
@@ -7686,7 +7686,7 @@
     "num": 131,
     "name": {
       "en": "Lapras-Gmax",
-      "es": "Lapras"
+      "es": "Lapras Gigamax"
     },
     "desc": {
       "es": "Nada sin problema en aguas heladas gracias a la soberbia resistencia al frío que posee. Su tersa piel es ligeramente fría al tacto.",
@@ -7839,7 +7839,7 @@
     "num": 133,
     "name": {
       "en": "Eevee-Gmax",
-      "es": "Eevee"
+      "es": "Eevee Gigamax"
     },
     "desc": {
       "es": "Su irregular estructura genética alberga el secreto de la capacidad que posee este Pokémon tan especial para adoptar evoluciones muy variadas.",
@@ -8282,7 +8282,7 @@
     "num": 143,
     "name": {
       "en": "Snorlax-Gmax",
-      "es": "Snorlax"
+      "es": "Snorlax Gigamax"
     },
     "desc": {
       "es": "Este Pokémon tiene un estómago a prueba de bomba, por lo que es capaz de ingerir incluso comida podrida o mohosa.",
@@ -8712,7 +8712,7 @@
     "num": 150,
     "name": {
       "en": "Mewtwo-Mega-X",
-      "es": "Mega Mewtwo"
+      "es": "Mega Mewtwo X"
     },
     "desc": {
       "es": "Su ADN es casi el mismo que el de Mew. Sin embargo, su tamaño y carácter son muy diferentes.",
@@ -8747,7 +8747,7 @@
     "num": 150,
     "name": {
       "en": "Mewtwo-Mega-Y",
-      "es": "Mega Mewtwo"
+      "es": "Mega Mewtwo Y"
     },
     "desc": {
       "es": "Su ADN es casi el mismo que el de Mew. Sin embargo, su tamaño y carácter son muy diferentes.",
@@ -17819,7 +17819,7 @@
     "num": 359,
     "name": {
       "en": "Absol-Mega-Z",
-      "es": "Mega Absol"
+      "es": "Mega Absol Z"
     },
     "desc": {
       "es": "Debido a su capacidad para predecir desastres, se lo ha considerado desacertadamente un Pokémon portador de desgracias.",
@@ -21618,7 +21618,7 @@
     "num": 445,
     "name": {
       "en": "Garchomp-Mega-Z",
-      "es": "Mega Garchomp"
+      "es": "Mega Garchomp Z"
     },
     "desc": {
       "es": "Se mueve a gran velocidad incluso por tierra. Es capaz de cazar una presa en una montaña nevada y volver a su guarida sin llegar a pasar frío.",
@@ -21802,7 +21802,7 @@
     "num": 448,
     "name": {
       "en": "Lucario-Mega-Z",
-      "es": "Mega Lucario"
+      "es": "Mega Lucario Z"
     },
     "desc": {
       "es": "Puede leer los pensamientos de la gente, por lo que establece lazos afectivos únicamente con Entrenadores de corazón noble.",
@@ -27886,7 +27886,7 @@
     "num": 569,
     "name": {
       "en": "Garbodor-Gmax",
-      "es": "Garbodor"
+      "es": "Garbodor Gigamax"
     },
     "desc": {
       "es": "El veneno líquido que brota de su brazo derecho es tan nocivo que puede acabar con una criatura ya débil al menor contacto.",
@@ -32575,7 +32575,7 @@
     "num": 670,
     "name": {
       "en": "Floette-Eternal",
-      "es": "Floette"
+      "es": "Floette Flor Eterna"
     },
     "desc": {
       "es": "Confiere su poder a las flores y cuida de ellas con mucho esmero; no perdona que destruyan los campos donde estas crecen.",
@@ -40227,7 +40227,7 @@
     "num": 809,
     "name": {
       "en": "Melmetal-Gmax",
-      "es": "Melmetal"
+      "es": "Melmetal Gigamax"
     },
     "desc": {
       "es": "Gracias a la inercia y la fuerza centrífuga, los puñetazos que propina con sus pesadas tuercas son los más potentes del mundo Pokémon.",
@@ -40371,7 +40371,7 @@
     "num": 812,
     "name": {
       "en": "Rillaboom-Gmax",
-      "es": "Rillaboom"
+      "es": "Rillaboom Gigamax"
     },
     "desc": {
       "es": "El percusionista con la técnica más depurada se convierte en líder. Son de carácter tranquilo y dan mucha importancia a la armonía del grupo.",
@@ -40515,7 +40515,7 @@
     "num": 815,
     "name": {
       "en": "Cinderace-Gmax",
-      "es": "Cinderace"
+      "es": "Cinderace Gigamax"
     },
     "desc": {
       "es": "Destaca tanto en ataque como en defensa. Se crece cuando recibe una ovación, pero a veces se luce tanto que termina viéndose en apuros.",
@@ -40659,7 +40659,7 @@
     "num": 818,
     "name": {
       "en": "Inteleon-Gmax",
-      "es": "Inteleon"
+      "es": "Inteleon Gigamax"
     },
     "desc": {
       "es": "Dispara chorros de agua por la punta de los dedos a 3 mach de velocidad. Con su membrana nictitante puede ver los puntos débiles del rival.",
@@ -40879,7 +40879,7 @@
     "num": 823,
     "name": {
       "en": "Corviknight-Gmax",
-      "es": "Corviknight"
+      "es": "Corviknight Gigamax"
     },
     "desc": {
       "es": "Debido a su excelente capacidad de vuelo y a su gran inteligencia, ejerce de taxi volador en Galar.",
@@ -41030,7 +41030,7 @@
     "num": 826,
     "name": {
       "en": "Orbeetle-Gmax",
-      "es": "Orbeetle"
+      "es": "Orbeetle Gigamax"
     },
     "desc": {
       "es": "Se sirve de sus poderes psíquicos, con los que es capaz de percibir lo que ocurre en un radio de 10 km, para examinar sus alrededores.",
@@ -41364,7 +41364,7 @@
     "num": 834,
     "name": {
       "en": "Drednaw-Gmax",
-      "es": "Drednaw"
+      "es": "Drednaw Gigamax"
     },
     "desc": {
       "es": "Su cuello extensible le permite alcanzar a los rivales a distancia. Hundiendo sus afilados dientes, les da el golpe de gracia.",
@@ -41587,7 +41587,7 @@
     "num": 839,
     "name": {
       "en": "Coalossal-Gmax",
-      "es": "Coalossal"
+      "es": "Coalossal Gigamax"
     },
     "desc": {
       "es": "Cuando se enzarza en un combate, la montaña de carbón arde al rojo vivo y esparce chispas que calcinan todo lo que le rodea.",
@@ -41703,7 +41703,7 @@
     "num": 841,
     "name": {
       "en": "Flapple-Gmax",
-      "es": "Flapple"
+      "es": "Flapple Gigamax"
     },
     "desc": {
       "es": "Escupe una saliva sumamente ácida y vuela con sus alas compuestas por piel de manzana, cuyo aspecto es capaz de adoptar.",
@@ -41779,7 +41779,7 @@
     "num": 842,
     "name": {
       "en": "Appletun-Gmax",
-      "es": "Appletun"
+      "es": "Appletun Gigamax"
     },
     "desc": {
       "es": "Su cuerpo está recubierto de néctar. La piel de la espalda es tan dulce que los niños de antaño solían tomarla como merienda.",
@@ -41891,7 +41891,7 @@
     "num": 844,
     "name": {
       "en": "Sandaconda-Gmax",
-      "es": "Sandaconda"
+      "es": "Sandaconda Gigamax"
     },
     "desc": {
       "es": "La manera tan particular que tiene de enrollarse sobre sí mismo le permite expulsar con mayor eficacia la arena que almacena en la bolsa.",
@@ -42218,7 +42218,7 @@
     "num": 849,
     "name": {
       "en": "Toxtricity-Gmax",
-      "es": "Toxtricity"
+      "es": "Toxtricity Gigamax"
     },
     "desc": {
       "es": "Posee un carácter belicoso e irascible. Bebe una gran cantidad de agua estancada para absorber sus toxinas.",
@@ -42255,7 +42255,7 @@
     "num": 849,
     "name": {
       "en": "Toxtricity-Low-Key-Gmax",
-      "es": "Toxtricity"
+      "es": "Toxtricity Bajo Gigamax"
     },
     "desc": {
       "es": "Posee un carácter belicoso e irascible. Bebe una gran cantidad de agua estancada para absorber sus toxinas.",
@@ -42368,7 +42368,7 @@
     "num": 851,
     "name": {
       "en": "Centiskorch-Gmax",
-      "es": "Centiskorch"
+      "es": "Centiskorch Gigamax"
     },
     "desc": {
       "es": "Posee una naturaleza agresiva. El peligro que entraña su cuerpo candente es considerable, aunque sus afilados colmillos no le van a la zaga.",
@@ -42737,7 +42737,7 @@
     "num": 858,
     "name": {
       "en": "Hatterene-Gmax",
-      "es": "Hatterene"
+      "es": "Hatterene Gigamax"
     },
     "desc": {
       "es": "Recibe el apodo de Hechicera del Bosque. Quienes arman demasiado barullo se exponen a ser despedazados por las garras de su tentáculo.",
@@ -42889,7 +42889,7 @@
     "num": 861,
     "name": {
       "en": "Grimmsnarl-Gmax",
-      "es": "Grimmsnarl"
+      "es": "Grimmsnarl Gigamax"
     },
     "desc": {
       "es": "Su cabello desempeña una función similar a la de fibras musculares. Al soltárselo, su movimiento tentacular le permite reducir a su objetivo.",
@@ -43216,7 +43216,7 @@
     "num": 869,
     "name": {
       "en": "Alcremie-Gmax",
-      "es": "Alcremie"
+      "es": "Alcremie Gigamax"
     },
     "desc": {
       "es": "La nata que le brota de las manos es más dulce y sustanciosa cuando está feliz.",
@@ -43750,7 +43750,7 @@
     "num": 879,
     "name": {
       "en": "Copperajah-Gmax",
-      "es": "Copperajah"
+      "es": "Copperajah Gigamax"
     },
     "desc": {
       "es": "Viven en manadas. La fuerza prensil de su trompa es tan extraordinaria que le permite hacer añicos incluso grandes rocas.",
@@ -43972,7 +43972,7 @@
     "num": 884,
     "name": {
       "en": "Duraludon-Gmax",
-      "es": "Duraludon"
+      "es": "Duraludon Gigamax"
     },
     "desc": {
       "es": "Hace gala de una agilidad extraordinaria, ya que su cuerpo está compuesto de un metal especial. Detesta la lluvia, por lo que habita en cuevas.",
@@ -44441,7 +44441,7 @@
     "num": 892,
     "name": {
       "en": "Urshifu-Gmax",
-      "es": "Urshifu"
+      "es": "Urshifu Gigamax"
     },
     "desc": {
       "es": "Vive en zonas montañosas en áreas recónditas, donde entrena corriendo por escarpados riscos para fortalecer sus piernas y refinar su técnica.",
@@ -44477,7 +44477,7 @@
     "num": 892,
     "name": {
       "en": "Urshifu-Rapid-Strike-Gmax",
-      "es": "Urshifu"
+      "es": "Urshifu Gigamax"
     },
     "desc": {
       "es": "Vive en zonas montañosas en áreas recónditas, donde entrena corriendo por escarpados riscos para fortalecer sus piernas y refinar su técnica.",
