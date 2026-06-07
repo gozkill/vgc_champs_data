@@ -1172,7 +1172,7 @@
     "num": 20,
     "name": {
       "en": "Raticate-Alola-Totem",
-      "es": "Raticate de Alola"
+      "es": "Raticate de Alola Totem"
     },
     "desc": {
       "es": "Gracias a las pequeñas membranas de las patas traseras, puede nadar por los ríos para capturar presas.",
@@ -1604,7 +1604,7 @@
     "num": 25,
     "name": {
       "en": "Pikachu-Original",
-      "es": "Pikachu"
+      "es": "Pikachu Original"
     },
     "desc": {
       "es": "Los miembros de esta especie se saludan entre sí uniendo sus colas y transmitiéndose corriente eléctrica.",
@@ -6349,7 +6349,7 @@
     "num": 105,
     "name": {
       "en": "Marowak-Alola-Totem",
-      "es": "Marowak de Alola"
+      "es": "Marowak de Alola Totem"
     },
     "desc": {
       "es": "Al evolucionar, se ha fusionado con el cráneo de su madre y, además, ha adquirido un carácter agresivo.",
@@ -7431,7 +7431,7 @@
     "num": 128,
     "name": {
       "en": "Tauros-Paldea-Combat",
-      "es": "Tauros de Paldea"
+      "es": "Tauros de Paldea Combate"
     },
     "desc": {
       "es": "Los Tauros que habitan en la región de Galar son de temperamento irascible y no permiten que los humanos monten en su lomo.",
@@ -7467,7 +7467,7 @@
     "num": 128,
     "name": {
       "en": "Tauros-Paldea-Blaze",
-      "es": "Tauros de Paldea"
+      "es": "Tauros de Paldea Fuego"
     },
     "desc": {
       "es": "Los Tauros que habitan en la región de Galar son de temperamento irascible y no permiten que los humanos monten en su lomo.",
@@ -7504,7 +7504,7 @@
     "num": 128,
     "name": {
       "en": "Tauros-Paldea-Aqua",
-      "es": "Tauros de Paldea"
+      "es": "Tauros de Paldea Agua"
     },
     "desc": {
       "es": "Los Tauros que habitan en la región de Galar son de temperamento irascible y no permiten que los humanos monten en su lomo.",
@@ -23407,7 +23407,7 @@
     "num": 483,
     "name": {
       "en": "Dialga-Origin",
-      "es": "Dialga"
+      "es": "Dialga Origen"
     },
     "desc": {
       "es": "Tiene el poder de controlar el tiempo. Aparece en los mitos de Sinnoh como una vieja deidad.",
@@ -23479,7 +23479,7 @@
     "num": 484,
     "name": {
       "en": "Palkia-Origin",
-      "es": "Palkia"
+      "es": "Palkia Origen"
     },
     "desc": {
       "es": "Tiene la habilidad de distorsionar el espacio. La mitología de Sinnoh lo describe como una deidad.",
@@ -23657,7 +23657,7 @@
     "num": 487,
     "name": {
       "en": "Giratina-Origin",
-      "es": "Giratina"
+      "es": "Giratina Origen"
     },
     "desc": {
       "es": "Fue desterrado por su violencia. Observa el mundo en silencio desde el Mundo Distorsión.",
@@ -23896,7 +23896,7 @@
     "num": 492,
     "name": {
       "en": "Shaymin-Sky",
-      "es": "Shaymin"
+      "es": "Shaymin Cielo"
     },
     "desc": {
       "es": "Se dice que, cuando florecen las Gracídeas, Shaymin alza el vuelo para mostrar su gratitud.",
@@ -23965,7 +23965,7 @@
     "num": 493,
     "name": {
       "en": "Arceus-Bug",
-      "es": "Arceus"
+      "es": "Arceus Bicho"
     },
     "desc": {
       "es": "La mitología cuenta que este Pokémon nació antes de que el Universo existiera.",
@@ -23999,7 +23999,7 @@
     "num": 493,
     "name": {
       "en": "Arceus-Dark",
-      "es": "Arceus"
+      "es": "Arceus Siniestro"
     },
     "desc": {
       "es": "La mitología cuenta que este Pokémon nació antes de que el Universo existiera.",
@@ -24033,7 +24033,7 @@
     "num": 493,
     "name": {
       "en": "Arceus-Dragon",
-      "es": "Arceus"
+      "es": "Arceus Dragón"
     },
     "desc": {
       "es": "La mitología cuenta que este Pokémon nació antes de que el Universo existiera.",
@@ -24067,7 +24067,7 @@
     "num": 493,
     "name": {
       "en": "Arceus-Electric",
-      "es": "Arceus"
+      "es": "Arceus Eléctrico"
     },
     "desc": {
       "es": "La mitología cuenta que este Pokémon nació antes de que el Universo existiera.",
@@ -24101,7 +24101,7 @@
     "num": 493,
     "name": {
       "en": "Arceus-Fairy",
-      "es": "Arceus"
+      "es": "Arceus Hada"
     },
     "desc": {
       "es": "La mitología cuenta que este Pokémon nació antes de que el Universo existiera.",
@@ -24135,7 +24135,7 @@
     "num": 493,
     "name": {
       "en": "Arceus-Fighting",
-      "es": "Arceus"
+      "es": "Arceus Lucha"
     },
     "desc": {
       "es": "La mitología cuenta que este Pokémon nació antes de que el Universo existiera.",
@@ -24169,7 +24169,7 @@
     "num": 493,
     "name": {
       "en": "Arceus-Fire",
-      "es": "Arceus"
+      "es": "Arceus Fuego"
     },
     "desc": {
       "es": "La mitología cuenta que este Pokémon nació antes de que el Universo existiera.",
@@ -24203,7 +24203,7 @@
     "num": 493,
     "name": {
       "en": "Arceus-Flying",
-      "es": "Arceus"
+      "es": "Arceus Volador"
     },
     "desc": {
       "es": "La mitología cuenta que este Pokémon nació antes de que el Universo existiera.",
@@ -24237,7 +24237,7 @@
     "num": 493,
     "name": {
       "en": "Arceus-Ghost",
-      "es": "Arceus"
+      "es": "Arceus Fantasma"
     },
     "desc": {
       "es": "La mitología cuenta que este Pokémon nació antes de que el Universo existiera.",
@@ -24271,7 +24271,7 @@
     "num": 493,
     "name": {
       "en": "Arceus-Grass",
-      "es": "Arceus"
+      "es": "Arceus Planta"
     },
     "desc": {
       "es": "La mitología cuenta que este Pokémon nació antes de que el Universo existiera.",
@@ -24305,7 +24305,7 @@
     "num": 493,
     "name": {
       "en": "Arceus-Ground",
-      "es": "Arceus"
+      "es": "Arceus Tierra"
     },
     "desc": {
       "es": "La mitología cuenta que este Pokémon nació antes de que el Universo existiera.",
@@ -24339,7 +24339,7 @@
     "num": 493,
     "name": {
       "en": "Arceus-Ice",
-      "es": "Arceus"
+      "es": "Arceus Hielo"
     },
     "desc": {
       "es": "La mitología cuenta que este Pokémon nació antes de que el Universo existiera.",
@@ -24373,7 +24373,7 @@
     "num": 493,
     "name": {
       "en": "Arceus-Poison",
-      "es": "Arceus"
+      "es": "Arceus Veneno"
     },
     "desc": {
       "es": "La mitología cuenta que este Pokémon nació antes de que el Universo existiera.",
@@ -24407,7 +24407,7 @@
     "num": 493,
     "name": {
       "en": "Arceus-Psychic",
-      "es": "Arceus"
+      "es": "Arceus Psíquico"
     },
     "desc": {
       "es": "La mitología cuenta que este Pokémon nació antes de que el Universo existiera.",
@@ -24441,7 +24441,7 @@
     "num": 493,
     "name": {
       "en": "Arceus-Rock",
-      "es": "Arceus"
+      "es": "Arceus Roca"
     },
     "desc": {
       "es": "La mitología cuenta que este Pokémon nació antes de que el Universo existiera.",
@@ -24475,7 +24475,7 @@
     "num": 493,
     "name": {
       "en": "Arceus-Steel",
-      "es": "Arceus"
+      "es": "Arceus Acero"
     },
     "desc": {
       "es": "La mitología cuenta que este Pokémon nació antes de que el Universo existiera.",
@@ -24509,7 +24509,7 @@
     "num": 493,
     "name": {
       "en": "Arceus-Water",
-      "es": "Arceus"
+      "es": "Arceus Agua"
     },
     "desc": {
       "es": "La mitología cuenta que este Pokémon nació antes de que el Universo existiera.",
@@ -26887,7 +26887,7 @@
     "num": 550,
     "name": {
       "en": "Basculin-Blue-Striped",
-      "es": "Basculin"
+      "es": "Basculin de raya azul"
     },
     "desc": {
       "es": "Un alimento básico de la dieta de antaño. A los jóvenes se les daba Basculin de raya roja por su alto contenido en ácidos grasos.",
@@ -26923,7 +26923,7 @@
     "num": 550,
     "name": {
       "en": "Basculin-White-Striped",
-      "es": "Basculin"
+      "es": "Basculin de raya blanca"
     },
     "desc": {
       "es": "Un alimento básico de la dieta de antaño. A los jóvenes se les daba Basculin de raya roja por su alto contenido en ácidos grasos.",
@@ -27187,7 +27187,7 @@
     "num": 555,
     "name": {
       "en": "Darmanitan-Zen",
-      "es": "Darmanitan"
+      "es": "Darmanitan Zen"
     },
     "desc": {
       "es": "Su fuerza aumenta cuanto más se aviva su fuego interior, que puede alcanzar temperaturas superiores a los 1400 °C.",
@@ -27259,7 +27259,7 @@
     "num": 555,
     "name": {
       "en": "Darmanitan-Galar-Zen",
-      "es": "Darmanitan de Galar"
+      "es": "Darmanitan de Galar Zen"
     },
     "desc": {
       "es": "Su fuerza aumenta cuanto más se aviva su fuego interior, que puede alcanzar temperaturas superiores a los 1400 °C.",
@@ -30842,7 +30842,7 @@
     "num": 641,
     "name": {
       "en": "Tornadus-Therian",
-      "es": "Tornadus"
+      "es": "Tornadus Tótem"
     },
     "desc": {
       "es": "La energía que desprende de su cola genera violentas tempestades capaces de echar abajo casas.",
@@ -30912,7 +30912,7 @@
     "num": 642,
     "name": {
       "en": "Thundurus-Therian",
-      "es": "Thundurus"
+      "es": "Thundurus Tótem"
     },
     "desc": {
       "es": "Su gusto por surcar el cielo lanzando rayos y provocando incendios forestales le ha granjeado pocas simpatías.",
@@ -31053,7 +31053,7 @@
     "num": 645,
     "name": {
       "en": "Landorus-Therian",
-      "es": "Landorus"
+      "es": "Landorus Tótem"
     },
     "desc": {
       "es": "Utiliza energía que obtiene del viento y del relámpago para nutrir el suelo y generar abundantes cosechas.",
@@ -31123,7 +31123,7 @@
     "num": 646,
     "name": {
       "en": "Kyurem-Black",
-      "es": "Kyurem"
+      "es": "Kyurem Negro"
     },
     "desc": {
       "es": "Mantiene su cuerpo congelado con la intensa energía gélida que él mismo produce para estabilizar su estructura celular.",
@@ -31158,7 +31158,7 @@
     "num": 646,
     "name": {
       "en": "Kyurem-White",
-      "es": "Kyurem"
+      "es": "Kyurem Blanco"
     },
     "desc": {
       "es": "Mantiene su cuerpo congelado con la intensa energía gélida que él mismo produce para estabilizar su estructura celular.",
@@ -31228,7 +31228,7 @@
     "num": 647,
     "name": {
       "en": "Keldeo-Resolute",
-      "es": "Keldeo"
+      "es": "Keldeo Brio"
     },
     "desc": {
       "es": "A base de superar encarnizados combates, su cuerno se fortalece y, entonces, despierta su verdadero poder.",
@@ -31298,7 +31298,7 @@
     "num": 648,
     "name": {
       "en": "Meloetta-Pirouette",
-      "es": "Meloetta"
+      "es": "Meloetta Danza"
     },
     "desc": {
       "es": "Controla los sentimientos de los que escuchan las melodías que emite con su singular vocalización.",
@@ -31368,7 +31368,7 @@
     "num": 649,
     "name": {
       "en": "Genesect-Douse",
-      "es": "Genesect"
+      "es": "Genesect Agua"
     },
     "desc": {
       "es": "Un Pokémon de hace 300 millones de años y alterado por el Equipo Plasma, quienes le han equipado con un cañón en el lomo.",
@@ -31403,7 +31403,7 @@
     "num": 649,
     "name": {
       "en": "Genesect-Shock",
-      "es": "Genesect"
+      "es": "Genesect Electrico"
     },
     "desc": {
       "es": "Un Pokémon de hace 300 millones de años y alterado por el Equipo Plasma, quienes le han equipado con un cañón en el lomo.",
@@ -31438,7 +31438,7 @@
     "num": 649,
     "name": {
       "en": "Genesect-Burn",
-      "es": "Genesect"
+      "es": "Genesect Fuego"
     },
     "desc": {
       "es": "Un Pokémon de hace 300 millones de años y alterado por el Equipo Plasma, quienes le han equipado con un cañón en el lomo.",
@@ -31473,7 +31473,7 @@
     "num": 649,
     "name": {
       "en": "Genesect-Chill",
-      "es": "Genesect"
+      "es": "Genesect Hielo"
     },
     "desc": {
       "es": "Un Pokémon de hace 300 millones de años y alterado por el Equipo Plasma, quienes le han equipado con un cañón en el lomo.",
@@ -31909,7 +31909,7 @@
     "num": 658,
     "name": {
       "en": "Greninja-Bond",
-      "es": "Greninja"
+      "es": "Greninja Fuerte afecto"
     },
     "desc": {
       "es": "Aparece y desaparece de improvisto, cual ninja. Marea al oponente con su soberbia agilidad y lo hace trizas con sus Shuriken de Agua.",
@@ -31944,7 +31944,7 @@
     "num": 658,
     "name": {
       "en": "Greninja-Ash",
-      "es": "Greninja"
+      "es": "Greninja Ash"
     },
     "desc": {
       "es": "Aparece y desaparece de improvisto, cual ninja. Marea al oponente con su soberbia agilidad y lo hace trizas con sus Shuriken de Agua.",
@@ -32314,7 +32314,7 @@
     "num": 666,
     "name": {
       "en": "Vivillon-Fancy",
-      "es": "Vivillon"
+      "es": "Vivillon Fantasia"
     },
     "desc": {
       "es": "Las alas cambian de motivo según el clima y las características naturales del terreno que habite. Esparce escamas de lo más coloridas.",
@@ -32351,7 +32351,7 @@
     "num": 666,
     "name": {
       "en": "Vivillon-Pokeball",
-      "es": "Vivillon"
+      "es": "Vivillon Pokeball"
     },
     "desc": {
       "es": "Las alas cambian de motivo según el clima y las características naturales del terreno que habite. Esparce escamas de lo más coloridas.",
@@ -32937,7 +32937,7 @@
     "num": 678,
     "name": {
       "en": "Meowstic-F",
-      "es": "Meowstic"
+      "es": "Meowstic Hembra"
     },
     "desc": {
       "es": "El fuerte instinto protector de los machos los lleva a liberar todo su poder cuando se trata de defenderse a sí mismos o a su Entrenador.",
@@ -33151,7 +33151,7 @@
     "num": 681,
     "name": {
       "en": "Aegislash-Blade",
-      "es": "Aegislash"
+      "es": "Aegislash Espada"
     },
     "desc": {
       "es": "Mediante el control ejercido con su inmenso poder espectral, logró que humanos y Pokémon le forjaran un país a medida de sus necesidades.",
@@ -34495,7 +34495,7 @@
     "num": 710,
     "name": {
       "en": "Pumpkaboo-Small",
-      "es": "Pumpkaboo"
+      "es": "Pumpkaboo pequeño"
     },
     "desc": {
       "es": "La luz que emite por los orificios de la calabaza hipnotiza a humanos y Pokémon y los deja bajo su control.",
@@ -34534,7 +34534,7 @@
     "num": 710,
     "name": {
       "en": "Pumpkaboo-Large",
-      "es": "Pumpkaboo"
+      "es": "Pumpkaboo Grande"
     },
     "desc": {
       "es": "La luz que emite por los orificios de la calabaza hipnotiza a humanos y Pokémon y los deja bajo su control.",
@@ -34573,7 +34573,7 @@
     "num": 710,
     "name": {
       "en": "Pumpkaboo-Super",
-      "es": "Pumpkaboo"
+      "es": "Pumpkaboo Super"
     },
     "desc": {
       "es": "La luz que emite por los orificios de la calabaza hipnotiza a humanos y Pokémon y los deja bajo su control.",
@@ -34650,7 +34650,7 @@
     "num": 711,
     "name": {
       "en": "Gourgeist-Small",
-      "es": "Gourgeist"
+      "es": "Gourgeist Pequeño"
     },
     "desc": {
       "es": "Las noches de luna nueva llama a la puerta de las casas y se lleva al otro mundo a quien abra.",
@@ -34688,7 +34688,7 @@
     "num": 711,
     "name": {
       "en": "Gourgeist-Large",
-      "es": "Gourgeist"
+      "es": "Gourgeist Grande"
     },
     "desc": {
       "es": "Las noches de luna nueva llama a la puerta de las casas y se lleva al otro mundo a quien abra.",
@@ -34726,7 +34726,7 @@
     "num": 711,
     "name": {
       "en": "Gourgeist-Super",
-      "es": "Gourgeist"
+      "es": "Gourgeist Super"
     },
     "desc": {
       "es": "Las noches de luna nueva llama a la puerta de las casas y se lleva al otro mundo a quien abra.",
@@ -34986,7 +34986,7 @@
     "num": 716,
     "name": {
       "en": "Xerneas-Neutral",
-      "es": "Xerneas"
+      "es": "Xerneas Neutral"
     },
     "desc": {
       "es": "Cuando los cuernos de su cabeza brillan en siete colores, se dice que comparte el don de la vida eterna.",
@@ -35091,7 +35091,7 @@
     "num": 718,
     "name": {
       "en": "Zygarde-10%",
-      "es": "Zygarde"
+      "es": "Zygarde 10%"
     },
     "desc": {
       "es": "Según los rumores, puede adoptar una forma aún más poderosa cuando se enfrenta a quienquiera que amenace el ecosistema.",
@@ -35127,7 +35127,7 @@
     "num": 718,
     "name": {
       "en": "Zygarde-Complete",
-      "es": "Zygarde"
+      "es": "Zygarde Completado"
     },
     "desc": {
       "es": "Según los rumores, puede adoptar una forma aún más poderosa cuando se enfrenta a quienquiera que amenace el ecosistema.",
@@ -35302,7 +35302,7 @@
     "num": 720,
     "name": {
       "en": "Hoopa-Unbound",
-      "es": "Hoopa"
+      "es": "Hoopa Desatado"
     },
     "desc": {
       "es": "Dicen que gracias a sus seis anillos y seis enormes brazos puede robar todo lo que se le antoja. Adquirió una forma reducida cuando alguien selló su poder.",
@@ -35931,7 +35931,7 @@
     "num": 735,
     "name": {
       "en": "Gumshoos-Totem",
-      "es": "Gumshoos"
+      "es": "Gumshoos Totem"
     },
     "desc": {
       "es": "Tiene un carácter muy paciente, pero en cuanto avista un Rattata, su manjar predilecto, pierde el control y se lanza sobre él como un poseso.",
@@ -36075,7 +36075,7 @@
     "num": 738,
     "name": {
       "en": "Vikavolt-Totem",
-      "es": "Vikavolt"
+      "es": "Vikavolt Totem"
     },
     "desc": {
       "es": "Cuando vuela llevando consigo un Charjabug a modo de batería adicional, puede liberar potentes descargas electromagnéticas.",
@@ -36258,7 +36258,7 @@
     "num": 741,
     "name": {
       "en": "Oricorio-Pom-Pom",
-      "es": "Oricorio"
+      "es": "Oricorio Animado"
     },
     "desc": {
       "es": "Forma que toma Oricorio al libar Néctar Rojo. Su vehemencia le lleva a ponerse hecho una furia si el Entrenador le imparte la orden equivocada.",
@@ -36293,7 +36293,7 @@
     "num": 741,
     "name": {
       "en": "Oricorio-Pa'u",
-      "es": "Oricorio"
+      "es": "Oricorio Placido"
     },
     "desc": {
       "es": "Forma que toma Oricorio al libar Néctar Rojo. Su vehemencia le lleva a ponerse hecho una furia si el Entrenador le imparte la orden equivocada.",
@@ -36328,7 +36328,7 @@
     "num": 741,
     "name": {
       "en": "Oricorio-Sensu",
-      "es": "Oricorio"
+      "es": "Oricorio Refinado"
     },
     "desc": {
       "es": "Forma que toma Oricorio al libar Néctar Rojo. Su vehemencia le lleva a ponerse hecho una furia si el Entrenador le imparte la orden equivocada.",
@@ -36439,7 +36439,7 @@
     "num": 743,
     "name": {
       "en": "Ribombee-Totem",
-      "es": "Ribombee"
+      "es": "Ribombee Totem"
     },
     "desc": {
       "es": "Detesta verse empapado por la lluvia, por lo que rara vez se deja ver en la nubosa región de Galar.",
@@ -36514,7 +36514,7 @@
     "num": 744,
     "name": {
       "en": "Rockruff-Dusk",
-      "es": "Rockruff"
+      "es": "Rockruff crepúsculo"
     },
     "desc": {
       "es": "Intimida a los rivales golpeando contra el suelo las rocas que tiene en el cuello y, tan pronto como retroceden, se abalanza sobre ellos.",
@@ -36586,7 +36586,7 @@
     "num": 745,
     "name": {
       "en": "Lycanroc-Midnight",
-      "es": "Lycanroc"
+      "es": "Lycanroc Nocturno"
     },
     "desc": {
       "es": "Va acorralando pacientemente a su presa con movimientos raudos para finalmente clavarle los colmillos en sus puntos vitales.",
@@ -36622,7 +36622,7 @@
     "num": 745,
     "name": {
       "en": "Lycanroc-Dusk",
-      "es": "Lycanroc"
+      "es": "Lycanroc Crepúsculo"
     },
     "desc": {
       "es": "Va acorralando pacientemente a su presa con movimientos raudos para finalmente clavarle los colmillos en sus puntos vitales.",
@@ -36690,7 +36690,7 @@
     "num": 746,
     "name": {
       "en": "Wishiwashi-School",
-      "es": "Wishiwashi"
+      "es": "Wishiwashi Banco"
     },
     "desc": {
       "es": "Al sentirse amenazado, le lloran los ojos. La luz que se refleja en sus lágrimas sirve de señal a sus congéneres para agruparse en gran número.",
@@ -36948,7 +36948,7 @@
     "num": 752,
     "name": {
       "en": "Araquanid-Totem",
-      "es": "Araquanid"
+      "es": "Araquanid Totem"
     },
     "desc": {
       "es": "Cuida de pequeños Dewpider acogiéndolos en su burbuja de agua y dejando que se alimenten de los restos de las presas que ha ingerido.",
@@ -37056,7 +37056,7 @@
     "num": 754,
     "name": {
       "en": "Lurantis-Totem",
-      "es": "Lurantis"
+      "es": "Lurantis Totem"
     },
     "desc": {
       "es": "Los pétalos de sus brazos son finos y afilados. Absorbe la luz solar y la concentra para lanzar poderosos rayos.",
@@ -37242,7 +37242,7 @@
     "num": 758,
     "name": {
       "en": "Salazzle-Totem",
-      "es": "Salazzle"
+      "es": "Salazzle Totem"
     },
     "desc": {
       "es": "Libran disputas con sus congéneres cuyo resultado, al parecer, se inclina por quien tenga un séquito de Salandit machos más numeroso.",
@@ -37862,7 +37862,7 @@
     "num": 773,
     "name": {
       "en": "Silvally-Bug",
-      "es": "Silvally"
+      "es": "Silvally Bicho"
     },
     "desc": {
       "es": "El factor decisivo que le ha permitido liberar toda su fuerza ha sido el estrecho vínculo y la confianza que profesa a su Entrenador.",
@@ -37897,7 +37897,7 @@
     "num": 773,
     "name": {
       "en": "Silvally-Dark",
-      "es": "Silvally"
+      "es": "Silvally Siniestro"
     },
     "desc": {
       "es": "El factor decisivo que le ha permitido liberar toda su fuerza ha sido el estrecho vínculo y la confianza que profesa a su Entrenador.",
@@ -37932,7 +37932,7 @@
     "num": 773,
     "name": {
       "en": "Silvally-Dragon",
-      "es": "Silvally"
+      "es": "Silvally Dragón"
     },
     "desc": {
       "es": "El factor decisivo que le ha permitido liberar toda su fuerza ha sido el estrecho vínculo y la confianza que profesa a su Entrenador.",
@@ -37967,7 +37967,7 @@
     "num": 773,
     "name": {
       "en": "Silvally-Electric",
-      "es": "Silvally"
+      "es": "Silvally Eléctrico"
     },
     "desc": {
       "es": "El factor decisivo que le ha permitido liberar toda su fuerza ha sido el estrecho vínculo y la confianza que profesa a su Entrenador.",
@@ -38002,7 +38002,7 @@
     "num": 773,
     "name": {
       "en": "Silvally-Fairy",
-      "es": "Silvally"
+      "es": "Silvally Hada"
     },
     "desc": {
       "es": "El factor decisivo que le ha permitido liberar toda su fuerza ha sido el estrecho vínculo y la confianza que profesa a su Entrenador.",
@@ -38037,7 +38037,7 @@
     "num": 773,
     "name": {
       "en": "Silvally-Fighting",
-      "es": "Silvally"
+      "es": "Silvally Lucha"
     },
     "desc": {
       "es": "El factor decisivo que le ha permitido liberar toda su fuerza ha sido el estrecho vínculo y la confianza que profesa a su Entrenador.",
@@ -38072,7 +38072,7 @@
     "num": 773,
     "name": {
       "en": "Silvally-Fire",
-      "es": "Silvally"
+      "es": "Silvally Fuego"
     },
     "desc": {
       "es": "El factor decisivo que le ha permitido liberar toda su fuerza ha sido el estrecho vínculo y la confianza que profesa a su Entrenador.",
@@ -38107,7 +38107,7 @@
     "num": 773,
     "name": {
       "en": "Silvally-Flying",
-      "es": "Silvally"
+      "es": "Silvally Volador"
     },
     "desc": {
       "es": "El factor decisivo que le ha permitido liberar toda su fuerza ha sido el estrecho vínculo y la confianza que profesa a su Entrenador.",
@@ -38142,7 +38142,7 @@
     "num": 773,
     "name": {
       "en": "Silvally-Ghost",
-      "es": "Silvally"
+      "es": "Silvally Fantasma"
     },
     "desc": {
       "es": "El factor decisivo que le ha permitido liberar toda su fuerza ha sido el estrecho vínculo y la confianza que profesa a su Entrenador.",
@@ -38177,7 +38177,7 @@
     "num": 773,
     "name": {
       "en": "Silvally-Grass",
-      "es": "Silvally"
+      "es": "Silvally Planta"
     },
     "desc": {
       "es": "El factor decisivo que le ha permitido liberar toda su fuerza ha sido el estrecho vínculo y la confianza que profesa a su Entrenador.",
@@ -38212,7 +38212,7 @@
     "num": 773,
     "name": {
       "en": "Silvally-Ground",
-      "es": "Silvally"
+      "es": "Silvally Tierra"
     },
     "desc": {
       "es": "El factor decisivo que le ha permitido liberar toda su fuerza ha sido el estrecho vínculo y la confianza que profesa a su Entrenador.",
@@ -38247,7 +38247,7 @@
     "num": 773,
     "name": {
       "en": "Silvally-Ice",
-      "es": "Silvally"
+      "es": "Silvally Hielo"
     },
     "desc": {
       "es": "El factor decisivo que le ha permitido liberar toda su fuerza ha sido el estrecho vínculo y la confianza que profesa a su Entrenador.",
@@ -38282,7 +38282,7 @@
     "num": 773,
     "name": {
       "en": "Silvally-Poison",
-      "es": "Silvally"
+      "es": "Silvally Veneno"
     },
     "desc": {
       "es": "El factor decisivo que le ha permitido liberar toda su fuerza ha sido el estrecho vínculo y la confianza que profesa a su Entrenador.",
@@ -38317,7 +38317,7 @@
     "num": 773,
     "name": {
       "en": "Silvally-Psychic",
-      "es": "Silvally"
+      "es": "Silvally Psíquico"
     },
     "desc": {
       "es": "El factor decisivo que le ha permitido liberar toda su fuerza ha sido el estrecho vínculo y la confianza que profesa a su Entrenador.",
@@ -38352,7 +38352,7 @@
     "num": 773,
     "name": {
       "en": "Silvally-Rock",
-      "es": "Silvally"
+      "es": "Silvally Roca"
     },
     "desc": {
       "es": "El factor decisivo que le ha permitido liberar toda su fuerza ha sido el estrecho vínculo y la confianza que profesa a su Entrenador.",
@@ -38387,7 +38387,7 @@
     "num": 773,
     "name": {
       "en": "Silvally-Steel",
-      "es": "Silvally"
+      "es": "Silvally Acero"
     },
     "desc": {
       "es": "El factor decisivo que le ha permitido liberar toda su fuerza ha sido el estrecho vínculo y la confianza que profesa a su Entrenador.",
@@ -38422,7 +38422,7 @@
     "num": 773,
     "name": {
       "en": "Silvally-Water",
-      "es": "Silvally"
+      "es": "Silvally Agua"
     },
     "desc": {
       "es": "El factor decisivo que le ha permitido liberar toda su fuerza ha sido el estrecho vínculo y la confianza que profesa a su Entrenador.",
@@ -38492,7 +38492,7 @@
     "num": 774,
     "name": {
       "en": "Minior-Meteor",
-      "es": "Minior"
+      "es": "Minior Meteoro"
     },
     "desc": {
       "es": "Lo recubre un duro caparazón que se quiebra en pedazos al impactar con la superficie de la tierra.",
@@ -38633,7 +38633,7 @@
     "num": 777,
     "name": {
       "en": "Togedemaru-Totem",
-      "es": "Togedemaru"
+      "es": "Togedemaru Totem"
     },
     "desc": {
       "es": "Cuando se encuentra en peligro, se hace una bola, eriza las púas del lomo y propina descargas eléctricas a diestro y siniestro.",
@@ -38703,7 +38703,7 @@
     "num": 778,
     "name": {
       "en": "Mimikyu-Busted",
-      "es": "Mimikyu"
+      "es": "Mimikyu Desgarrado"
     },
     "desc": {
       "es": "Un investigador que miró dentro del saco para estudiar a este Pokémon perdió la vida a causa de una misteriosa enfermedad.",
@@ -38738,7 +38738,7 @@
     "num": 778,
     "name": {
       "en": "Mimikyu-Totem",
-      "es": "Mimikyu"
+      "es": "Mimikyu Totem"
     },
     "desc": {
       "es": "Un investigador que miró dentro del saco para estudiar a este Pokémon perdió la vida a causa de una misteriosa enfermedad.",
@@ -38773,7 +38773,7 @@
     "num": 778,
     "name": {
       "en": "Mimikyu-Busted-Totem",
-      "es": "Mimikyu"
+      "es": "Mimikyu Desgarrado Totem"
     },
     "desc": {
       "es": "Un investigador que miró dentro del saco para estudiar a este Pokémon perdió la vida a causa de una misteriosa enfermedad.",
@@ -39066,7 +39066,7 @@
     "num": 784,
     "name": {
       "en": "Kommo-o-Totem",
-      "es": "Kommo-o"
+      "es": "Kommo-o Totem"
     },
     "desc": {
       "es": "Se han descubierto antiguas representaciones pictóricas de guerreros que lucían armaduras confeccionadas con escamas de Kommo-o.",
@@ -39668,7 +39668,7 @@
     "num": 800,
     "name": {
       "en": "Necrozma-Dusk-Mane",
-      "es": "Necrozma"
+      "es": "Necrozma Melena Crepuscular"
     },
     "desc": {
       "es": "Con sus rayos láser destruye todo a su paso en busca de luz para sustentarse.",
@@ -39703,7 +39703,7 @@
     "num": 800,
     "name": {
       "en": "Necrozma-Dawn-Wings",
-      "es": "Necrozma"
+      "es": "Necrozma Alas del Alba"
     },
     "desc": {
       "es": "Con sus rayos láser destruye todo a su paso en busca de luz para sustentarse.",
@@ -39738,7 +39738,7 @@
     "num": 800,
     "name": {
       "en": "Necrozma-Ultra",
-      "es": "Necrozma"
+      "es": "Ultra Necrozma"
     },
     "desc": {
       "es": "Con sus rayos láser destruye todo a su paso en busca de luz para sustentarse.",
@@ -39808,7 +39808,7 @@
     "num": 801,
     "name": {
       "en": "Magearna-Original",
-      "es": "Magearna"
+      "es": "Magearna Original"
     },
     "desc": {
       "es": "Pokémon artificial creado por científicos hace unos 500 años. Su verdadera esencia es una pieza llamada Coránima.",
@@ -39878,7 +39878,7 @@
     "num": 801,
     "name": {
       "en": "Magearna-Original-Mega",
-      "es": "Mega Magearna"
+      "es": "Mega Magearna Original"
     },
     "desc": {
       "es": "Pokémon artificial creado por científicos hace unos 500 años. Su verdadera esencia es una pieza llamada Coránima.",
@@ -41962,7 +41962,7 @@
     "num": 845,
     "name": {
       "en": "Cramorant-Gulping",
-      "es": "Cramorant"
+      "es": "Cramorant Tragatodo"
     },
     "desc": {
       "es": "Traga Arrokuda enteros debido a su glotonería, tan notable que en ocasiones ingiere hasta otros Pokémon sin querer.",
@@ -41997,7 +41997,7 @@
     "num": 845,
     "name": {
       "en": "Cramorant-Gorging",
-      "es": "Cramorant"
+      "es": "Cramorant Engulletodo"
     },
     "desc": {
       "es": "Traga Arrokuda enteros debido a su glotonería, tan notable que en ocasiones ingiere hasta otros Pokémon sin querer.",
@@ -42181,7 +42181,7 @@
     "num": 849,
     "name": {
       "en": "Toxtricity-Low-Key",
-      "es": "Toxtricity"
+      "es": "Toxtricity Grave"
     },
     "desc": {
       "es": "Posee un carácter belicoso e irascible. Bebe una gran cantidad de agua estancada para absorber sus toxinas.",
@@ -42255,7 +42255,7 @@
     "num": 849,
     "name": {
       "en": "Toxtricity-Low-Key-Gmax",
-      "es": "Toxtricity Bajo Gigamax"
+      "es": "Toxtricity Grave Gigamax"
     },
     "desc": {
       "es": "Posee un carácter belicoso e irascible. Bebe una gran cantidad de agua estancada para absorber sus toxinas.",
@@ -42515,7 +42515,7 @@
     "num": 854,
     "name": {
       "en": "Sinistea-Antique",
-      "es": "Sinistea"
+      "es": "Sinistea Antiguo"
     },
     "desc": {
       "es": "La taza de té donde se hospeda forma parte de una antigua y valiosa vajilla, de la que circulan numerosas falsificaciones.",
@@ -42588,7 +42588,7 @@
     "num": 855,
     "name": {
       "en": "Polteageist-Antique",
-      "es": "Polteageist"
+      "es": "Polteageist Antiguo"
     },
     "desc": {
       "es": "Si avista una taza de té abandonada a su suerte, la rellena vertiendo parte de su propio cuerpo para generar otro Polteageist.",
@@ -43500,7 +43500,7 @@
     "num": 875,
     "name": {
       "en": "Eiscue-Noice",
-      "es": "Eiscue"
+      "es": "Eiscue Sin Hielo"
     },
     "desc": {
       "es": "Se enfría constantemente la cara con hielo por su escasa resistencia al calor. Utiliza el pelo de la cabeza para pescar en el mar.",
@@ -43571,7 +43571,7 @@
     "num": 876,
     "name": {
       "en": "Indeedee-F",
-      "es": "Indeedee"
+      "es": "Indeedee Hembra"
     },
     "desc": {
       "es": "Con sus cuernos percibe las emociones de los seres vivos que se hallen cerca. Los sentimientos positivos constituyen su fuente de energía.",
@@ -43643,7 +43643,7 @@
     "num": 877,
     "name": {
       "en": "Morpeko-Hangry",
-      "es": "Morpeko"
+      "es": "Morpeko Hambriento"
     },
     "desc": {
       "es": "Siempre tiene apetito, sin importar lo mucho que coma. Lleva con sumo cuidado las semillas que ha tostado con su propia electricidad.",
@@ -44158,7 +44158,7 @@
     "num": 888,
     "name": {
       "en": "Zacian-Crowned",
-      "es": "Zacian"
+      "es": "Zacian Espada Suprema"
     },
     "desc": {
       "es": "Hay quien lo considera una suerte de figura fraterna a la par que rival de Zamazenta, un Pokémon sumido en un profundo letargo.",
@@ -44227,7 +44227,7 @@
     "num": 889,
     "name": {
       "en": "Zamazenta-Crowned",
-      "es": "Zamazenta"
+      "es": "Zamazenta Escudo Supremo"
     },
     "desc": {
       "es": "Con la apariencia de una estatua de piedra, este Pokémon se sumió en un letargo tan profundo que acabó cayendo en el olvido.",
@@ -44297,7 +44297,7 @@
     "num": 890,
     "name": {
       "en": "Eternatus-Eternamax",
-      "es": "Eternatus"
+      "es": "Eternatus Eternamax"
     },
     "desc": {
       "es": "Fue hallado en el interior de un meteorito caído hace 20 000 años. Por lo visto, está relacionado con el misterio que rodea al fenómeno Dinamax.",
@@ -44405,7 +44405,7 @@
     "num": 892,
     "name": {
       "en": "Urshifu-Rapid-Strike",
-      "es": "Urshifu"
+      "es": "Urshifu Estilo Fluido"
     },
     "desc": {
       "es": "Vive en zonas montañosas en áreas recónditas, donde entrena corriendo por escarpados riscos para fortalecer sus piernas y refinar su técnica.",
@@ -44477,7 +44477,7 @@
     "num": 892,
     "name": {
       "en": "Urshifu-Rapid-Strike-Gmax",
-      "es": "Urshifu Gigamax"
+      "es": "Urshifu Estilo Fluido Gigamax"
     },
     "desc": {
       "es": "Vive en zonas montañosas en áreas recónditas, donde entrena corriendo por escarpados riscos para fortalecer sus piernas y refinar su técnica.",
@@ -44548,7 +44548,7 @@
     "num": 893,
     "name": {
       "en": "Zarude-Dada",
-      "es": "Zarude"
+      "es": "Zarude Papá"
     },
     "desc": {
       "es": "Las lianas que le brotan del cuerpo nutren y fertilizan el mantillo del bosque cuando se le desprenden.",
@@ -44754,7 +44754,7 @@
     "num": 898,
     "name": {
       "en": "Calyrex-Ice",
-      "es": "Calyrex"
+      "es": "Calyrex Hielo"
     },
     "desc": {
       "es": "Legendario monarca del antiguo Galar. Posee el poder de sanar el espíritu y de hacer brotar la vegetación.",
@@ -44789,7 +44789,7 @@
     "num": 898,
     "name": {
       "en": "Calyrex-Shadow",
-      "es": "Calyrex"
+      "es": "Calyrex Sombra"
     },
     "desc": {
       "es": "Legendario monarca del antiguo Galar. Posee el poder de sanar el espíritu y de hacer brotar la vegetación.",
@@ -44935,7 +44935,7 @@
     "num": 901,
     "name": {
       "en": "Ursaluna-Bloodmoon",
-      "es": "Ursaluna"
+      "es": "Ursaluna Luna Carmesí"
     },
     "desc": {
       "es": "Creo que fue el terreno pantanoso de Hisui lo que le dio a Ursaluna su físico robusto y su nueva capacidad para manipular la turba a voluntad.",
@@ -45007,7 +45007,7 @@
     "num": 902,
     "name": {
       "en": "Basculegion-F",
-      "es": "Basculegion"
+      "es": "Basculegion Femenino"
     },
     "desc": {
       "es": "Debido al veneno virulento y la formidable fuerza física del Sneasler, ninguna otra especie podría vencerlo en las gélidas tierras altas. Esta especie prefiere la soledad y no forma manadas.",
@@ -45154,7 +45154,7 @@
     "num": 905,
     "name": {
       "en": "Enamorus-Therian",
-      "es": "Enamorus"
+      "es": "Enamorus Tótem"
     },
     "desc": {
       "es": "Con una apariencia distinta a su forma humanoide femenina, desciende de las nubes sobre aquellos que tratan con falta de respeto a cualquier forma de vida, infligiendo un castigo implacable y vengativo.",
@@ -45594,7 +45594,7 @@
     "num": 916,
     "name": {
       "en": "Oinkologne-F",
-      "es": "Oinkologne"
+      "es": "Oinkologne Hembra"
     },
     "desc": {
       "es": " Un Pokémon meticuloso que adora la pulcritud. Se envuelve de una fragancia floral que calma a los Pokémon de su alrededor",
@@ -45964,7 +45964,7 @@
     "num": 925,
     "name": {
       "en": "Maushold-Four",
-      "es": "Maushold"
+      "es": "Maushold Familia de Cuatro"
     },
     "desc": {
       "es": "",
@@ -46221,7 +46221,7 @@
     "num": 931,
     "name": {
       "en": "Squawkabilly-Blue",
-      "es": "Squawkabilly"
+      "es": "Squawkabilly Azul"
     },
     "desc": {
       "es": "",
@@ -46258,7 +46258,7 @@
     "num": 931,
     "name": {
       "en": "Squawkabilly-Yellow",
-      "es": "Squawkabilly"
+      "es": "Squawkabilly Amarillo"
     },
     "desc": {
       "es": "",
@@ -46295,7 +46295,7 @@
     "num": 931,
     "name": {
       "en": "Squawkabilly-White",
-      "es": "Squawkabilly"
+      "es": "Squawkabilly Blanco"
     },
     "desc": {
       "es": "",
@@ -47589,7 +47589,7 @@
     "num": 964,
     "name": {
       "en": "Palafin-Hero",
-      "es": "Palafin"
+      "es": "Palafin Héroe"
     },
     "desc": {
       "es": "",
@@ -48168,7 +48168,7 @@
     "num": 978,
     "name": {
       "en": "Tatsugiri-Droopy",
-      "es": "Tatsugiri"
+      "es": "Tatsugiri Languida"
     },
     "desc": {
       "es": "",
@@ -48204,7 +48204,7 @@
     "num": 978,
     "name": {
       "en": "Tatsugiri-Stretchy",
-      "es": "Tatsugiri"
+      "es": "Tatsugiri Recto"
     },
     "desc": {
       "es": "",
@@ -48240,7 +48240,7 @@
     "num": 978,
     "name": {
       "en": "Tatsugiri-Curly-Mega",
-      "es": "Mega Tatsugiri"
+      "es": "Mega Tatsugiri curvado"
     },
     "desc": {
       "es": "",
@@ -48276,7 +48276,7 @@
     "num": 978,
     "name": {
       "en": "Tatsugiri-Droopy-Mega",
-      "es": "Mega Tatsugiri"
+      "es": "Mega Tatsugiri Languida"
     },
     "desc": {
       "es": "",
@@ -48312,7 +48312,7 @@
     "num": 978,
     "name": {
       "en": "Tatsugiri-Stretchy-Mega",
-      "es": "Mega Tatsugiri"
+      "es": "Mega Tatsugiri Recto"
     },
     "desc": {
       "es": "",
@@ -48495,7 +48495,7 @@
     "num": 982,
     "name": {
       "en": "Dudunsparce-Three-Segment",
-      "es": "Dudunsparce"
+      "es": "Dudunsparce Tres Segmentos"
     },
     "desc": {
       "es": "",
@@ -49172,7 +49172,7 @@
     "num": 999,
     "name": {
       "en": "Gimmighoul-Roaming",
-      "es": "Gimmighoul"
+      "es": "Gimmighoul andante"
     },
     "desc": {
       "es": "",
@@ -49670,7 +49670,7 @@
     "num": 1012,
     "name": {
       "en": "Poltchageist-Artisan",
-      "es": "Poltchageist"
+      "es": "Poltchageist artesano"
     },
     "desc": {
       "es": "",
@@ -49744,7 +49744,7 @@
     "num": 1013,
     "name": {
       "en": "Sinistcha-Masterpiece",
-      "es": "Sinistcha"
+      "es": "Sinistcha Obra de Arte"
     },
     "desc": {
       "es": "",
@@ -49922,7 +49922,7 @@
     "num": 1017,
     "name": {
       "en": "Ogerpon-Wellspring",
-      "es": "Ogerpon"
+      "es": "Ogerpon Mascara Fuente"
     },
     "desc": {
       "es": "",
@@ -49957,7 +49957,7 @@
     "num": 1017,
     "name": {
       "en": "Ogerpon-Hearthflame",
-      "es": "Ogerpon"
+      "es": "Ogerpon Mascara Horno"
     },
     "desc": {
       "es": "",
@@ -49992,7 +49992,7 @@
     "num": 1017,
     "name": {
       "en": "Ogerpon-Cornerstone",
-      "es": "Ogerpon"
+      "es": "Ogerpon Mascara Cimiento"
     },
     "desc": {
       "es": "",
@@ -50027,7 +50027,7 @@
     "num": 1017,
     "name": {
       "en": "Ogerpon-Teal-Tera",
-      "es": "Ogerpon"
+      "es": "Ogerpon Mascara Turquesa"
     },
     "desc": {
       "es": "",
@@ -50061,7 +50061,7 @@
     "num": 1017,
     "name": {
       "en": "Ogerpon-Wellspring-Tera",
-      "es": "Ogerpon"
+      "es": "Ogerpon Mascara Fuente Teracristalizado"
     },
     "desc": {
       "es": "",
@@ -50096,7 +50096,7 @@
     "num": 1017,
     "name": {
       "en": "Ogerpon-Hearthflame-Tera",
-      "es": "Ogerpon"
+      "es": "Ogerpon Mascara Horno Teracristalizado"
     },
     "desc": {
       "es": "",
@@ -50131,7 +50131,7 @@
     "num": 1017,
     "name": {
       "en": "Ogerpon-Cornerstone-Tera",
-      "es": "Ogerpon"
+      "es": "Ogerpon Mascara Cimiento Teracristalizado"
     },
     "desc": {
       "es": "",
@@ -50414,7 +50414,7 @@
     "num": 1024,
     "name": {
       "en": "Terapagos-Terastal",
-      "es": "Terapagos"
+      "es": "Terapagos Teracristal"
     },
     "desc": {
       "es": "",
@@ -50448,7 +50448,7 @@
     "num": 1024,
     "name": {
       "en": "Terapagos-Stellar",
-      "es": "Terapagos"
+      "es": "Terapagos Astral"
     },
     "desc": {
       "es": "",
