@@ -228,7 +228,7 @@
       "es": "Baya Guaya"
     },
     "spritenum": 5,
-    "isBerry": "true",
+    "isBerry": true,
     "naturalGift": {
       "basePower": 80,
       "type": "Dragon"
@@ -291,7 +291,6 @@
       "es": "Aloraichium Z"
     },
     "spritenum": 655,
-    "onTakeItem": "false",
     "zMove": "Stoked Sparksurfer",
     "zMoveFrom": "Thunderbolt",
     "itemUser": [
@@ -306,7 +305,8 @@
     },
     "shortDesc": "If held by an Alolan Raichu with Thunderbolt, it can use Stoked Sparksurfer.",
     "id": "aloraichiumz",
-    "champions": false
+    "champions": false,
+    "isZCrystal": true
   },
   {
     "name": {
@@ -360,7 +360,7 @@
       "es": "Baya Aricoc"
     },
     "spritenum": 10,
-    "isBerry": "true",
+    "isBerry": true,
     "naturalGift": {
       "basePower": 100,
       "type": "Ground"
@@ -401,7 +401,7 @@
       "es": "Baya Perasi"
     },
     "spritenum": 13,
-    "isBerry": "true",
+    "isBerry": true,
     "naturalGift": {
       "basePower": 80,
       "type": "Ice"
@@ -484,7 +484,7 @@
       "es": "Baya Baribá"
     },
     "spritenum": 17,
-    "isBerry": "true",
+    "isBerry": true,
     "naturalGift": {
       "basePower": 80,
       "type": "Steel"
@@ -576,7 +576,7 @@
     "spritenum": 661,
     "num": 851,
     "gen": 7,
-    "isPokeball": "true",
+    "isPokeball": true,
     "desc": {
       "en": "A somewhat different Poké Ball that has a low success rate for catching a Pokémon.",
       "es": "Un tipo especial de Poké Ball con la que resulta difícil atrapar Pokémon."
@@ -614,7 +614,7 @@
       "es": "Baya Andano"
     },
     "spritenum": 21,
-    "isBerry": "true",
+    "isBerry": true,
     "naturalGift": {
       "basePower": 100,
       "type": "Electric"
@@ -863,7 +863,7 @@
       "es": "Baya Oram"
     },
     "spritenum": 44,
-    "isBerry": "true",
+    "isBerry": true,
     "naturalGift": {
       "basePower": 90,
       "type": "Fire"
@@ -964,7 +964,7 @@
       "es": "Gema Bicho"
     },
     "spritenum": 53,
-    "isGem": "true",
+    "isGem": true,
     "num": 558,
     "gen": 5,
     "isNonstandard": "Past",
@@ -983,8 +983,6 @@
     },
     "spritenum": 642,
     "onPlate": "Bug",
-    "onTakeItem": "false",
-    "zMove": "true",
     "zMoveType": "Bug",
     "forcedForme": "Arceus-Bug",
     "num": 787,
@@ -996,7 +994,8 @@
     },
     "shortDesc": "If holder has a Bug move, this item allows it to use a Bug Z-Move.",
     "id": "buginiumz",
-    "champions": false
+    "champions": false,
+    "isZCrystal": true
   },
   {
     "name": {
@@ -1182,7 +1181,7 @@
       "es": "Baya Alcho"
     },
     "spritenum": 62,
-    "isBerry": "true",
+    "isBerry": true,
     "naturalGift": {
       "basePower": 80,
       "type": "Rock"
@@ -1203,7 +1202,7 @@
       "es": "Baya Zreza"
     },
     "spritenum": 63,
-    "isBerry": "true",
+    "isBerry": true,
     "naturalGift": {
       "basePower": 80,
       "type": "Fire"
@@ -1226,7 +1225,7 @@
     "spritenum": 64,
     "num": 16,
     "gen": 4,
-    "isPokeball": "true",
+    "isPokeball": true,
     "isNonstandard": "Unobtainable",
     "desc": {
       "en": "A quite rare Poké Ball that has been crafted in order to commemorate a special occasion of some sort.",
@@ -1265,7 +1264,7 @@
       "es": "Baya Atania"
     },
     "spritenum": 65,
-    "isBerry": "true",
+    "isBerry": true,
     "naturalGift": {
       "basePower": 80,
       "type": "Water"
@@ -1286,7 +1285,7 @@
       "es": "Baya Chilan"
     },
     "spritenum": 66,
-    "isBerry": "true",
+    "isBerry": true,
     "naturalGift": {
       "basePower": 80,
       "type": "Normal"
@@ -1375,7 +1374,7 @@
       "basePower": 10
     },
     "onModifyAtkPriority": 1,
-    "isChoice": "true",
+    "isChoice": true,
     "num": 220,
     "gen": 3,
     "desc": {
@@ -1395,7 +1394,7 @@
     "fling": {
       "basePower": 10
     },
-    "isChoice": "true",
+    "isChoice": true,
     "num": 287,
     "gen": 4,
     "desc": {
@@ -1416,7 +1415,7 @@
       "basePower": 10
     },
     "onModifySpAPriority": 1,
-    "isChoice": "true",
+    "isChoice": true,
     "num": 297,
     "gen": 4,
     "desc": {
@@ -1433,7 +1432,7 @@
       "es": "Baya Pomaro"
     },
     "spritenum": 71,
-    "isBerry": "true",
+    "isBerry": true,
     "naturalGift": {
       "basePower": 80,
       "type": "Fighting"
@@ -1536,7 +1535,7 @@
       "es": "Baya Kouba"
     },
     "spritenum": 76,
-    "isBerry": "true",
+    "isBerry": true,
     "naturalGift": {
       "basePower": 80,
       "type": "Flying"
@@ -1557,7 +1556,7 @@
       "es": "Baya Dillo"
     },
     "spritenum": 78,
-    "isBerry": "true",
+    "isBerry": true,
     "naturalGift": {
       "basePower": 80,
       "type": "Dark"
@@ -1602,7 +1601,7 @@
       "es": "Baya Mais"
     },
     "spritenum": 81,
-    "isBerry": "true",
+    "isBerry": true,
     "naturalGift": {
       "basePower": 90,
       "type": "Bug"
@@ -1706,7 +1705,7 @@
       "es": "Baya Chiri"
     },
     "spritenum": 86,
-    "isBerry": "true",
+    "isBerry": true,
     "naturalGift": {
       "basePower": 100,
       "type": "Ghost"
@@ -1747,7 +1746,7 @@
       "es": "Gema Siniestra"
     },
     "spritenum": 89,
-    "isGem": "true",
+    "isGem": true,
     "num": 562,
     "gen": 5,
     "isNonstandard": "Past",
@@ -1766,8 +1765,6 @@
     },
     "spritenum": 646,
     "onPlate": "Dark",
-    "onTakeItem": "false",
-    "zMove": "true",
     "zMoveType": "Dark",
     "forcedForme": "Arceus-Dark",
     "num": 791,
@@ -1779,7 +1776,8 @@
     },
     "shortDesc": "If holder has a Dark move, this item allows it to use a Dark Z-Move.",
     "id": "darkiniumz",
-    "champions": false
+    "champions": false,
+    "isZCrystal": true
   },
   {
     "name": {
@@ -1851,7 +1849,6 @@
       "es": "Decidium Z"
     },
     "spritenum": 650,
-    "onTakeItem": "false",
     "zMove": "Sinister Arrow Raid",
     "zMoveFrom": "Spirit Shackle",
     "itemUser": [
@@ -1866,7 +1863,8 @@
     },
     "shortDesc": "If held by a Decidueye with Spirit Shackle, it can use Sinister Arrow Raid.",
     "id": "decidiumz",
-    "champions": false
+    "champions": false,
+    "isZCrystal": true
   },
   {
     "name": {
@@ -1990,7 +1988,7 @@
     "spritenum": 101,
     "num": 7,
     "gen": 3,
-    "isPokeball": "true",
+    "isPokeball": true,
     "desc": {
       "en": "A somewhat different Poké Ball that works especially well when catching Pokémon that live underwater.",
       "es": "Es algo distinta a las demás. Funciona especialmente bien con los Pokémon que viven bajo el agua."
@@ -2109,7 +2107,7 @@
       "es": "Gema Dragón"
     },
     "spritenum": 107,
-    "isGem": "true",
+    "isGem": true,
     "num": 561,
     "gen": 5,
     "isNonstandard": "Past",
@@ -2151,8 +2149,6 @@
     },
     "spritenum": 645,
     "onPlate": "Dragon",
-    "onTakeItem": "false",
-    "zMove": "true",
     "zMoveType": "Dragon",
     "forcedForme": "Arceus-Dragon",
     "num": 790,
@@ -2164,7 +2160,8 @@
     },
     "shortDesc": "If holder has a Dragon move, this item allows it to use a Dragon Z-Move.",
     "id": "dragoniumz",
-    "champions": false
+    "champions": false,
+    "isZCrystal": true
   },
   {
     "name": {
@@ -2257,7 +2254,7 @@
     "spritenum": 111,
     "num": 576,
     "gen": 5,
-    "isPokeball": "true",
+    "isPokeball": true,
     "desc": {
       "en": "A somewhat different Poké Ball that makes it easier to catch wild Pokémon while they’re asleep.",
       "es": "Es algo distinta a las demás. Funciona especialmente bien con los Pokémon dormidos."
@@ -2291,7 +2288,7 @@
       "es": "Baya Rudion"
     },
     "spritenum": 114,
-    "isBerry": "true",
+    "isBerry": true,
     "naturalGift": {
       "basePower": 100,
       "type": "Water"
@@ -2316,7 +2313,7 @@
     "spritenum": 115,
     "num": 13,
     "gen": 4,
-    "isPokeball": "true",
+    "isPokeball": true,
     "desc": {
       "en": "A somewhat different Poké Ball that makes it easier to catch wild Pokémon at night or in dark places such as caves.",
       "es": "Es algo particular. Hace que sea más fácil capturar a los Pokémon salvajes por la noche o en lugares oscuros."
@@ -2392,7 +2389,6 @@
       "es": "Eevium Z"
     },
     "spritenum": 657,
-    "onTakeItem": "false",
     "zMove": "Extreme Evoboost",
     "zMoveFrom": "Last Resort",
     "itemUser": [
@@ -2407,7 +2403,8 @@
     },
     "shortDesc": "If held by an Eevee with Last Resort, it can use Extreme Evoboost.",
     "id": "eeviumz",
-    "champions": false
+    "champions": false,
+    "isZCrystal": true
   },
   {
     "name": {
@@ -2475,7 +2472,7 @@
       "es": "Gema Eléctrica"
     },
     "spritenum": 120,
-    "isGem": "true",
+    "isGem": true,
     "num": 550,
     "gen": 5,
     "isNonstandard": "Past",
@@ -2539,8 +2536,6 @@
     },
     "spritenum": 634,
     "onPlate": "Electric",
-    "onTakeItem": "false",
-    "zMove": "true",
     "zMoveType": "Electric",
     "forcedForme": "Arceus-Electric",
     "num": 779,
@@ -2552,7 +2547,8 @@
     },
     "shortDesc": "If holder has an Electric move, this item allows it to use an Electric Z-Move.",
     "id": "electriumz",
-    "champions": false
+    "champions": false,
+    "isZCrystal": true
   },
   {
     "name": {
@@ -2583,7 +2579,7 @@
       "es": "Baya Enigma"
     },
     "spritenum": 124,
-    "isBerry": "true",
+    "isBerry": true,
     "naturalGift": {
       "basePower": 100,
       "type": "Bug"
@@ -2668,8 +2664,6 @@
     },
     "spritenum": 648,
     "onPlate": "Fairy",
-    "onTakeItem": "false",
-    "zMove": "true",
     "zMoveType": "Fairy",
     "forcedForme": "Arceus-Fairy",
     "num": 793,
@@ -2681,7 +2675,8 @@
     },
     "shortDesc": "If holder has a Fairy move, this item allows it to use a Fairy Z-Move.",
     "id": "fairiumz",
-    "champions": false
+    "champions": false,
+    "isZCrystal": true
   },
   {
     "name": {
@@ -2709,7 +2704,7 @@
       "es": "Gema Hada"
     },
     "spritenum": 611,
-    "isGem": "true",
+    "isGem": true,
     "num": 715,
     "gen": 6,
     "isNonstandard": "Past",
@@ -2774,7 +2769,7 @@
     "spritenum": 137,
     "num": 492,
     "gen": 2,
-    "isPokeball": "true",
+    "isPokeball": true,
     "desc": {
       "en": "A Poké Ball that makes it easier to catch Pokémon that are usually very quick to run away.",
       "es": "Poké Ball algo distinta, especialmente indicada para capturar Pokémon evasivos."
@@ -2812,7 +2807,7 @@
       "es": "Gema Lucha"
     },
     "spritenum": 139,
-    "isGem": "true",
+    "isGem": true,
     "num": 553,
     "gen": 5,
     "isNonstandard": "Past",
@@ -2853,8 +2848,6 @@
     },
     "spritenum": 637,
     "onPlate": "Fighting",
-    "onTakeItem": "false",
-    "zMove": "true",
     "zMoveType": "Fighting",
     "forcedForme": "Arceus-Fighting",
     "num": 782,
@@ -2866,7 +2859,8 @@
     },
     "shortDesc": "If holder has a Fighting move, this item allows it to use a Fighting Z-Move.",
     "id": "fightiniumz",
-    "champions": false
+    "champions": false,
+    "isZCrystal": true
   },
   {
     "name": {
@@ -2874,7 +2868,7 @@
       "es": "Baya Higog"
     },
     "spritenum": 140,
-    "isBerry": "true",
+    "isBerry": true,
     "naturalGift": {
       "basePower": 80,
       "type": "Bug"
@@ -2895,7 +2889,7 @@
       "es": "Gema Fuego"
     },
     "spritenum": 141,
-    "isGem": "true",
+    "isGem": true,
     "num": 548,
     "gen": 5,
     "isNonstandard": "Past",
@@ -2955,8 +2949,6 @@
     },
     "spritenum": 632,
     "onPlate": "Fire",
-    "onTakeItem": "false",
-    "zMove": "true",
     "zMoveType": "Fire",
     "forcedForme": "Arceus-Fire",
     "num": 777,
@@ -2968,7 +2960,8 @@
     },
     "shortDesc": "If holder has a Fire move, this item allows it to use a Fire Z-Move.",
     "id": "firiumz",
-    "champions": false
+    "champions": false,
+    "isZCrystal": true
   },
   {
     "name": {
@@ -3097,7 +3090,7 @@
       "es": "Gema Voladora"
     },
     "spritenum": 149,
-    "isGem": "true",
+    "isGem": true,
     "num": 556,
     "gen": 5,
     "isNonstandard": "Past",
@@ -3138,8 +3131,6 @@
     },
     "spritenum": 640,
     "onPlate": "Flying",
-    "onTakeItem": "false",
-    "zMove": "true",
     "zMoveType": "Flying",
     "forcedForme": "Arceus-Flying",
     "num": 785,
@@ -3151,7 +3142,8 @@
     },
     "shortDesc": "If holder has a Flying move, this item allows it to use a Flying Z-Move.",
     "id": "flyiniumz",
-    "champions": false
+    "champions": false,
+    "isZCrystal": true
   },
   {
     "name": {
@@ -3281,7 +3273,7 @@
     "spritenum": 153,
     "num": 497,
     "gen": 2,
-    "isPokeball": "true",
+    "isPokeball": true,
     "desc": {
       "en": "A strange Poké Ball that will make the wild Pokémon caught with it more friendly toward you immediately.",
       "es": "Poké Ball algo distinta que hace más amistosos a los Pokémon salvajes que se capturan con ella."
@@ -3293,7 +3285,7 @@
   {
     "name": {
       "en": "Froslassite",
-      "es": "Froslassite"
+      "es": "Froslassita"
     },
     "spritenum": 551,
     "megaStone": {
@@ -3401,7 +3393,7 @@
       "es": "Baya Gonlan"
     },
     "spritenum": 158,
-    "isBerry": "true",
+    "isBerry": true,
     "naturalGift": {
       "basePower": 100,
       "type": "Ice"
@@ -3514,7 +3506,7 @@
       "es": "Gema Fantasma"
     },
     "spritenum": 161,
-    "isGem": "true",
+    "isGem": true,
     "num": 560,
     "gen": 5,
     "isNonstandard": "Past",
@@ -3533,8 +3525,6 @@
     },
     "spritenum": 644,
     "onPlate": "Ghost",
-    "onTakeItem": "false",
-    "zMove": "true",
     "zMoveType": "Ghost",
     "forcedForme": "Arceus-Ghost",
     "num": 789,
@@ -3546,7 +3536,8 @@
     },
     "shortDesc": "If holder has a Ghost move, this item allows it to use a Ghost Z-Move.",
     "id": "ghostiumz",
-    "champions": false
+    "champions": false,
+    "isZCrystal": true
   },
   {
     "name": {
@@ -3687,7 +3678,7 @@
       "es": "Gema Planta"
     },
     "spritenum": 172,
-    "isGem": "true",
+    "isGem": true,
     "num": 551,
     "gen": 5,
     "isNonstandard": "Past",
@@ -3706,8 +3697,6 @@
     },
     "spritenum": 635,
     "onPlate": "Grass",
-    "onTakeItem": "false",
-    "zMove": "true",
     "zMoveType": "Grass",
     "forcedForme": "Arceus-Grass",
     "num": 780,
@@ -3719,7 +3708,8 @@
     },
     "shortDesc": "If holder has a Grass move, this item allows it to use a Grass Z-Move.",
     "id": "grassiumz",
-    "champions": false
+    "champions": false,
+    "isZCrystal": true
   },
   {
     "name": {
@@ -3774,7 +3764,7 @@
     "spritenum": 174,
     "num": 3,
     "gen": 1,
-    "isPokeball": "true",
+    "isPokeball": true,
     "desc": {
       "en": "A good, high-performance Poké Ball that provides a higher success rate for catching Pokémon than a standard Poké Ball.",
       "es": "Poké Ball de alto rendimiento. Tiene un índice de éxito superior al de la Poké Ball."
@@ -3812,7 +3802,7 @@
       "es": "Baya Uvav"
     },
     "spritenum": 178,
-    "isBerry": "true",
+    "isBerry": true,
     "naturalGift": {
       "basePower": 90,
       "type": "Flying"
@@ -3897,7 +3887,7 @@
       "es": "Gema Tierra"
     },
     "spritenum": 182,
-    "isGem": "true",
+    "isGem": true,
     "num": 555,
     "gen": 5,
     "isNonstandard": "Past",
@@ -3916,8 +3906,6 @@
     },
     "spritenum": 639,
     "onPlate": "Ground",
-    "onTakeItem": "false",
-    "zMove": "true",
     "zMoveType": "Ground",
     "forcedForme": "Arceus-Ground",
     "num": 784,
@@ -3929,7 +3917,8 @@
     },
     "shortDesc": "If holder has a Ground move, this item allows it to use a Ground Z-Move.",
     "id": "groundiumz",
-    "champions": false
+    "champions": false,
+    "isZCrystal": true
   },
   {
     "name": {
@@ -3982,7 +3971,7 @@
       "es": "Baya Anjiro"
     },
     "spritenum": 185,
-    "isBerry": "true",
+    "isBerry": true,
     "naturalGift": {
       "basePower": 80,
       "type": "Dragon"
@@ -4048,7 +4037,7 @@
     "spritenum": 188,
     "num": 14,
     "gen": 4,
-    "isPokeball": "true",
+    "isPokeball": true,
     "desc": {
       "en": "A remedial Poké Ball that restores the HP of a Pokémon caught with it and eliminates any status conditions.",
       "es": "Poké Ball curativa que restaura los PS y cura todos los problemas de estado de un Pokémon después de capturarlo."
@@ -4131,7 +4120,7 @@
     "spritenum": 194,
     "num": 495,
     "gen": 2,
-    "isPokeball": "true",
+    "isPokeball": true,
     "desc": {
       "en": "A Poké Ball that is better than usual at catching very heavy Pokémon.",
       "es": "Poké Ball algo distinta que funciona especialmente bien a la hora de atrapar Pokémon de mucho peso."
@@ -4208,7 +4197,7 @@
       "es": "Baya Meluce"
     },
     "spritenum": 213,
-    "isBerry": "true",
+    "isBerry": true,
     "naturalGift": {
       "basePower": 90,
       "type": "Ground"
@@ -4253,7 +4242,7 @@
       "es": "Baya Pabaya"
     },
     "spritenum": 217,
-    "isBerry": "true",
+    "isBerry": true,
     "naturalGift": {
       "basePower": 80,
       "type": "Dark"
@@ -4274,7 +4263,7 @@
       "es": "Gema Hielo"
     },
     "spritenum": 218,
-    "isGem": "true",
+    "isGem": true,
     "num": 552,
     "gen": 5,
     "isNonstandard": "Past",
@@ -4353,8 +4342,6 @@
     },
     "spritenum": 636,
     "onPlate": "Ice",
-    "onTakeItem": "false",
-    "zMove": "true",
     "zMoveType": "Ice",
     "forcedForme": "Arceus-Ice",
     "num": 781,
@@ -4366,7 +4353,8 @@
     },
     "shortDesc": "If holder has an Ice move, this item allows it to use an Ice Z-Move.",
     "id": "iciumz",
-    "champions": false
+    "champions": false,
+    "isZCrystal": true
   },
   {
     "name": {
@@ -4393,7 +4381,6 @@
       "es": "Incinium Z"
     },
     "spritenum": 651,
-    "onTakeItem": "false",
     "zMove": "Malicious Moonsault",
     "zMoveFrom": "Darkest Lariat",
     "itemUser": [
@@ -4408,7 +4395,8 @@
     },
     "shortDesc": "If held by an Incineroar with Darkest Lariat, it can use Malicious Moonsault.",
     "id": "inciniumz",
-    "champions": false
+    "champions": false,
+    "isZCrystal": true
   },
   {
     "name": {
@@ -4473,7 +4461,7 @@
       "es": "Baya Jaboca"
     },
     "spritenum": 230,
-    "isBerry": "true",
+    "isBerry": true,
     "naturalGift": {
       "basePower": 100,
       "type": "Dragon"
@@ -4537,7 +4525,7 @@
       "es": "Baya Drasi"
     },
     "spritenum": 233,
-    "isBerry": "true",
+    "isBerry": true,
     "naturalGift": {
       "basePower": 80,
       "type": "Ghost"
@@ -4558,7 +4546,7 @@
       "es": "Baya Kebia"
     },
     "spritenum": 234,
-    "isBerry": "true",
+    "isBerry": true,
     "naturalGift": {
       "basePower": 80,
       "type": "Poison"
@@ -4579,7 +4567,7 @@
       "es": "Baya Biglia"
     },
     "spritenum": 593,
-    "isBerry": "true",
+    "isBerry": true,
     "naturalGift": {
       "basePower": 100,
       "type": "Fairy"
@@ -4600,7 +4588,7 @@
       "es": "Baya Algama"
     },
     "spritenum": 235,
-    "isBerry": "true",
+    "isBerry": true,
     "naturalGift": {
       "basePower": 90,
       "type": "Fighting"
@@ -4643,7 +4631,6 @@
       "es": "Kommonium Z"
     },
     "spritenum": 690,
-    "onTakeItem": "false",
     "zMove": "Clangorous Soulblaze",
     "zMoveFrom": "Clanging Scales",
     "itemUser": [
@@ -4659,7 +4646,8 @@
     },
     "shortDesc": "If held by a Kommo-o with Clanging Scales, it can use Clangorous Soulblaze.",
     "id": "kommoniumz",
-    "champions": false
+    "champions": false,
+    "isZCrystal": true
   },
   {
     "name": {
@@ -4687,7 +4675,7 @@
       "es": "Baya Zonlan"
     },
     "spritenum": 238,
-    "isBerry": "true",
+    "isBerry": true,
     "naturalGift": {
       "basePower": 100,
       "type": "Flying"
@@ -4840,7 +4828,7 @@
       "es": "Baya Zanama"
     },
     "spritenum": 244,
-    "isBerry": "true",
+    "isBerry": true,
     "naturalGift": {
       "basePower": 80,
       "type": "Fighting"
@@ -4863,7 +4851,7 @@
     "spritenum": 246,
     "num": 493,
     "gen": 2,
-    "isPokeball": "true",
+    "isPokeball": true,
     "desc": {
       "en": "A Poké Ball that makes it easier to catch Pokémon that are at a lower level than your own Pokémon.",
       "es": "Poké Ball algo distinta que funciona especialmente bien con Pokémon de nivel inferior a los que se posee."
@@ -4878,7 +4866,7 @@
       "es": "Baya Lichi"
     },
     "spritenum": 248,
-    "isBerry": "true",
+    "isBerry": true,
     "naturalGift": {
       "basePower": 100,
       "type": "Grass"
@@ -5021,7 +5009,7 @@
     "spritenum": 258,
     "num": 496,
     "gen": 2,
-    "isPokeball": "true",
+    "isPokeball": true,
     "desc": {
       "en": "A Poké Ball that works best when catching a Pokémon that is of the opposite gender of your Pokémon.",
       "es": "Poké Ball algo distinta que atrapa mejor Pokémon de la misma especie que los que se posee, pero de sexo diferente."
@@ -5124,7 +5112,7 @@
       "es": "Baya Ziuela"
     },
     "spritenum": 262,
-    "isBerry": "true",
+    "isBerry": true,
     "naturalGift": {
       "basePower": 80,
       "type": "Flying"
@@ -5168,7 +5156,6 @@
       "es": "Lunalium Z"
     },
     "spritenum": 686,
-    "onTakeItem": "false",
     "zMove": "Menacing Moonraze Maelstrom",
     "zMoveFrom": "Moongeist Beam",
     "itemUser": [
@@ -5184,7 +5171,8 @@
     },
     "shortDesc": "Lunala or Dawn Wings Necrozma with Moongeist Beam can use a special Z-Move.",
     "id": "lunaliumz",
-    "champions": false
+    "champions": false,
+    "isZCrystal": true
   },
   {
     "name": {
@@ -5194,7 +5182,7 @@
     "spritenum": 264,
     "num": 494,
     "gen": 2,
-    "isPokeball": "true",
+    "isPokeball": true,
     "desc": {
       "en": "A Poké Ball that is good for catching Pokémon that you reel in with a rod while out fishing.",
       "es": "Poké Ball algo distinta, especialmente indicada para capturar los Pokémon que se han pescado con una caña."
@@ -5255,7 +5243,7 @@
     "spritenum": 266,
     "num": 11,
     "gen": 3,
-    "isPokeball": "true",
+    "isPokeball": true,
     "desc": {
       "en": "A particularly comfortable Poké Ball that makes a wild Pokémon quickly grow friendlier after being caught.",
       "es": "Acogedora Poké Ball que hace más amistosos a los Pokémon salvajes capturados."
@@ -5270,7 +5258,6 @@
       "es": "Lycanium Z"
     },
     "spritenum": 689,
-    "onTakeItem": "false",
     "zMove": "Splintered Stormshards",
     "zMoveFrom": "Stone Edge",
     "itemUser": [
@@ -5287,7 +5274,8 @@
     },
     "shortDesc": "If held by a Lycanroc forme with Stone Edge, it can use Splintered Stormshards.",
     "id": "lycaniumz",
-    "champions": false
+    "champions": false,
+    "isZCrystal": true
   },
   {
     "name": {
@@ -5380,7 +5368,7 @@
       "es": "Baya Ango"
     },
     "spritenum": 274,
-    "isBerry": "true",
+    "isBerry": true,
     "naturalGift": {
       "basePower": 80,
       "type": "Ghost"
@@ -5401,7 +5389,7 @@
       "es": "Baya Aostan"
     },
     "spritenum": 275,
-    "isBerry": "true",
+    "isBerry": true,
     "naturalGift": {
       "basePower": 90,
       "type": "Rock"
@@ -5506,7 +5494,7 @@
       "es": "Baya Maranga"
     },
     "spritenum": 597,
-    "isBerry": "true",
+    "isBerry": true,
     "naturalGift": {
       "basePower": 100,
       "type": "Dark"
@@ -5527,7 +5515,6 @@
       "es": "Marshadium Z"
     },
     "spritenum": 654,
-    "onTakeItem": "false",
     "zMove": "Soul-Stealing 7-Star Strike",
     "zMoveFrom": "Spectral Thief",
     "itemUser": [
@@ -5542,7 +5529,8 @@
     },
     "shortDesc": "If held by Marshadow with Spectral Thief, it can use Soul-Stealing 7-Star Strike.",
     "id": "marshadiumz",
-    "champions": false
+    "champions": false,
+    "isZCrystal": true
   },
   {
     "name": {
@@ -5552,7 +5540,7 @@
     "spritenum": 276,
     "num": 1,
     "gen": 1,
-    "isPokeball": "true",
+    "isPokeball": true,
     "desc": {
       "en": "The best Poké Ball with the ultimate level of performance. With it, you will catch any wild Pokémon without fail.",
       "es": "La Poké Ball definitiva. Atrapa cualquier Pokémon salvaje y no falla nunca."
@@ -5823,7 +5811,6 @@
       "es": "Mewnium Z"
     },
     "spritenum": 658,
-    "onTakeItem": "false",
     "zMove": "Genesis Supernova",
     "zMoveFrom": "Psychic",
     "itemUser": [
@@ -5838,7 +5825,8 @@
     },
     "shortDesc": "If held by a Mew with Psychic, it can use Genesis Supernova.",
     "id": "mewniumz",
-    "champions": false
+    "champions": false,
+    "isZCrystal": true
   },
   {
     "name": {
@@ -5892,7 +5880,7 @@
       "es": "Baya Lagro"
     },
     "spritenum": 290,
-    "isBerry": "true",
+    "isBerry": true,
     "naturalGift": {
       "basePower": 100,
       "type": "Rock"
@@ -5916,7 +5904,6 @@
       "es": "Mimikium Z"
     },
     "spritenum": 688,
-    "onTakeItem": "false",
     "zMove": "Let's Snuggle Forever",
     "zMoveFrom": "Play Rough",
     "itemUser": [
@@ -5934,7 +5921,8 @@
     },
     "shortDesc": "If held by a Mimikyu with Play Rough, it can use Let's Snuggle Forever.",
     "id": "mimikiumz",
-    "champions": false
+    "champions": false,
+    "isZCrystal": true
   },
   {
     "name": {
@@ -6027,7 +6015,7 @@
     "spritenum": 294,
     "num": 498,
     "gen": 2,
-    "isPokeball": "true",
+    "isPokeball": true,
     "desc": {
       "en": "A Poké Ball that will make it easier to catch Pokémon that can evolve using a Moon Stone.",
       "es": "Poké Ball algo distinta que atrapa con más facilidad los Pokémon que evolucionan con la Piedra Lunar."
@@ -6101,7 +6089,7 @@
       "es": "Baya Latano"
     },
     "spritenum": 302,
-    "isBerry": "true",
+    "isBerry": true,
     "naturalGift": {
       "basePower": 90,
       "type": "Water"
@@ -6126,7 +6114,7 @@
     "spritenum": 303,
     "num": 8,
     "gen": 3,
-    "isPokeball": "true",
+    "isPokeball": true,
     "desc": {
       "en": "A somewhat different Poké Ball that becomes more effective the lower the level of the wild Pokémon.",
       "es": "Es algo distinta a las demás. Funciona especialmente bien con los Pokémon salvajes de nivel bajo."
@@ -6143,7 +6131,7 @@
     "spritenum": 304,
     "num": 6,
     "gen": 3,
-    "isPokeball": "true",
+    "isPokeball": true,
     "desc": {
       "en": "A somewhat different Poké Ball that is more effective when attempting to catch Water- or Bug-type Pokémon.",
       "es": "Es algo distinta a las demás. Funciona especialmente bien con los Pokémon de tipo Agua y Bicho."
@@ -6178,7 +6166,7 @@
       "es": "Baya Monli"
     },
     "spritenum": 306,
-    "isBerry": "true",
+    "isBerry": true,
     "naturalGift": {
       "basePower": 90,
       "type": "Dragon"
@@ -6201,7 +6189,7 @@
       "es": "Gema Normal"
     },
     "spritenum": 307,
-    "isGem": "true",
+    "isGem": true,
     "num": 564,
     "gen": 5,
     "desc": {
@@ -6218,8 +6206,6 @@
       "es": "Normalium Z"
     },
     "spritenum": 631,
-    "onTakeItem": "false",
-    "zMove": "true",
     "zMoveType": "Normal",
     "num": 776,
     "gen": 7,
@@ -6230,7 +6216,8 @@
     },
     "shortDesc": "If holder has a Normal move, this item allows it to use a Normal Z-Move.",
     "id": "normaliumz",
-    "champions": false
+    "champions": false,
+    "isZCrystal": true
   },
   {
     "name": {
@@ -6238,7 +6225,7 @@
       "es": "Baya Caoca"
     },
     "spritenum": 311,
-    "isBerry": "true",
+    "isBerry": true,
     "naturalGift": {
       "basePower": 80,
       "type": "Fire"
@@ -6300,7 +6287,7 @@
       "es": "Baya Aranja"
     },
     "spritenum": 319,
-    "isBerry": "true",
+    "isBerry": true,
     "naturalGift": {
       "basePower": 80,
       "type": "Poison"
@@ -6340,7 +6327,7 @@
       "es": "Baya Plama"
     },
     "spritenum": 323,
-    "isBerry": "true",
+    "isBerry": true,
     "naturalGift": {
       "basePower": 90,
       "type": "Steel"
@@ -6365,7 +6352,7 @@
     "spritenum": 325,
     "num": 500,
     "gen": 4,
-    "isPokeball": "true",
+    "isPokeball": true,
     "isNonstandard": "Unobtainable",
     "desc": {
       "en": "A special Poké Ball for the Pal Park.",
@@ -6381,7 +6368,7 @@
       "es": "Baya Pasio"
     },
     "spritenum": 329,
-    "isBerry": "true",
+    "isBerry": true,
     "naturalGift": {
       "basePower": 80,
       "type": "Water"
@@ -6402,7 +6389,7 @@
       "es": "Baya Payapa"
     },
     "spritenum": 330,
-    "isBerry": "true",
+    "isBerry": true,
     "naturalGift": {
       "basePower": 80,
       "type": "Psychic"
@@ -6423,7 +6410,7 @@
       "es": "Baya Meloc"
     },
     "spritenum": 333,
-    "isBerry": "true",
+    "isBerry": true,
     "naturalGift": {
       "basePower": 80,
       "type": "Electric"
@@ -6444,7 +6431,7 @@
       "es": "Baya Caquic"
     },
     "spritenum": 334,
-    "isBerry": "true",
+    "isBerry": true,
     "naturalGift": {
       "basePower": 80,
       "type": "Ground"
@@ -6465,7 +6452,7 @@
       "es": "Baya Yapati"
     },
     "spritenum": 335,
-    "isBerry": "true",
+    "isBerry": true,
     "naturalGift": {
       "basePower": 100,
       "type": "Poison"
@@ -6509,7 +6496,6 @@
       "es": "Pikanium Z"
     },
     "spritenum": 649,
-    "onTakeItem": "false",
     "zMove": "Catastropika",
     "zMoveFrom": "Volt Tackle",
     "itemUser": [
@@ -6524,7 +6510,8 @@
     },
     "shortDesc": "If held by a Pikachu with Volt Tackle, it can use Catastropika.",
     "id": "pikaniumz",
-    "champions": false
+    "champions": false,
+    "isZCrystal": true
   },
   {
     "name": {
@@ -6532,7 +6519,6 @@
       "es": "Pikashunium Z"
     },
     "spritenum": 659,
-    "onTakeItem": "false",
     "zMove": "10,000,000 Volt Thunderbolt",
     "zMoveFrom": "Thunderbolt",
     "itemUser": [
@@ -6553,7 +6539,8 @@
     },
     "shortDesc": "If held by cap Pikachu with Thunderbolt, it can use 10,000,000 Volt Thunderbolt.",
     "id": "pikashuniumz",
-    "champions": false
+    "champions": false,
+    "isZCrystal": true
   },
   {
     "name": {
@@ -6561,7 +6548,7 @@
       "es": "Baya Pinia"
     },
     "spritenum": 337,
-    "isBerry": "true",
+    "isBerry": true,
     "naturalGift": {
       "basePower": 90,
       "type": "Grass"
@@ -6667,7 +6654,7 @@
       "es": "Gema Veneno"
     },
     "spritenum": 344,
-    "isGem": "true",
+    "isGem": true,
     "num": 554,
     "gen": 5,
     "isNonstandard": "Past",
@@ -6686,8 +6673,6 @@
     },
     "spritenum": 638,
     "onPlate": "Poison",
-    "onTakeItem": "false",
-    "zMove": "true",
     "zMoveType": "Poison",
     "forcedForme": "Arceus-Poison",
     "num": 783,
@@ -6699,7 +6684,8 @@
     },
     "shortDesc": "If holder has a Poison move, this item allows it to use a Poison Z-Move.",
     "id": "poisoniumz",
-    "champions": false
+    "champions": false,
+    "isZCrystal": true
   },
   {
     "name": {
@@ -6731,7 +6717,7 @@
     "spritenum": 345,
     "num": 4,
     "gen": 1,
-    "isPokeball": "true",
+    "isPokeball": true,
     "desc": {
       "en": "A device for catching wild Pokémon. It’s thrown like a ball at a Pokémon, comfortably encapsulating its target.",
       "es": "Dispositivo con diseño capsular que atrapa Pokémon salvajes. Se lanza como una bola contra el blanco."
@@ -6746,7 +6732,7 @@
       "es": "Baya Grana"
     },
     "spritenum": 351,
-    "isBerry": "true",
+    "isBerry": true,
     "naturalGift": {
       "basePower": 90,
       "type": "Ice"
@@ -6909,7 +6895,7 @@
     "spritenum": 363,
     "num": 12,
     "gen": 3,
-    "isPokeball": "true",
+    "isPokeball": true,
     "desc": {
       "en": "A somewhat rare Poké Ball that was made as a commemorative item used to celebrate an event of some sort.",
       "es": "Es una Poké Ball algo singular que se creó para conmemorar algún acontecimiento."
@@ -6943,7 +6929,6 @@
       "es": "Primarium Z"
     },
     "spritenum": 652,
-    "onTakeItem": "false",
     "zMove": "Oceanic Operetta",
     "zMoveFrom": "Sparkling Aria",
     "itemUser": [
@@ -6958,7 +6943,8 @@
     },
     "shortDesc": "If held by a Primarina with Sparkling Aria, it can use Oceanic Operetta.",
     "id": "primariumz",
-    "champions": false
+    "champions": false,
+    "isZCrystal": true
   },
   {
     "name": {
@@ -7023,7 +7009,7 @@
       "es": "Gema Psíquica"
     },
     "spritenum": 369,
-    "isGem": "true",
+    "isGem": true,
     "num": 557,
     "gen": 5,
     "isNonstandard": "Past",
@@ -7087,8 +7073,6 @@
     },
     "spritenum": 641,
     "onPlate": "Psychic",
-    "onTakeItem": "false",
-    "zMove": "true",
     "zMoveType": "Psychic",
     "forcedForme": "Arceus-Psychic",
     "num": 786,
@@ -7100,7 +7084,8 @@
     },
     "shortDesc": "If holder has a Psychic move, this item allows it to use a Psychic Z-Move.",
     "id": "psychiumz",
-    "champions": false
+    "champions": false,
+    "isZCrystal": true
   },
   {
     "name": {
@@ -7152,7 +7137,7 @@
       "es": "Baya Ispero"
     },
     "spritenum": 371,
-    "isBerry": "true",
+    "isBerry": true,
     "naturalGift": {
       "basePower": 90,
       "type": "Poison"
@@ -7176,7 +7161,7 @@
     "spritenum": 372,
     "num": 15,
     "gen": 4,
-    "isPokeball": "true",
+    "isPokeball": true,
     "desc": {
       "en": "A somewhat different Poké Ball that has a more successful catch rate if used at the start of a wild encounter.",
       "es": "Una Poké Ball algo distinta que potencia el índice de captura si se usa al inicio de un encuentro con Pokémon salvajes."
@@ -7234,7 +7219,7 @@
       "es": "Baya Rautan"
     },
     "spritenum": 375,
-    "isBerry": "true",
+    "isBerry": true,
     "naturalGift": {
       "basePower": 90,
       "type": "Ghost"
@@ -7322,7 +7307,7 @@
       "es": "Baya Safre"
     },
     "spritenum": 381,
-    "isBerry": "true",
+    "isBerry": true,
     "naturalGift": {
       "basePower": 80,
       "type": "Grass"
@@ -7383,7 +7368,7 @@
       "es": "Baya Frambu"
     },
     "spritenum": 384,
-    "isBerry": "true",
+    "isBerry": true,
     "naturalGift": {
       "basePower": 80,
       "type": "Steel"
@@ -7468,7 +7453,7 @@
     "spritenum": 401,
     "num": 9,
     "gen": 3,
-    "isPokeball": "true",
+    "isPokeball": true,
     "desc": {
       "en": "A somewhat different Poké Ball that works especially well on a Pokémon species that has been caught before.",
       "es": "Es algo distinta a las demás. Funciona especialmente bien con las especies de Pokémon ya capturadas."
@@ -7502,7 +7487,7 @@
       "es": "Baya Tamar"
     },
     "spritenum": 409,
-    "isBerry": "true",
+    "isBerry": true,
     "naturalGift": {
       "basePower": 80,
       "type": "Grass"
@@ -7526,7 +7511,6 @@
     "fling": {
       "basePower": 10
     },
-    "onNegateImmunity": "false",
     "num": 543,
     "gen": 5,
     "desc": {
@@ -7543,7 +7527,7 @@
       "es": "Gema Roca"
     },
     "spritenum": 415,
-    "isGem": "true",
+    "isGem": true,
     "num": 559,
     "gen": 5,
     "isNonstandard": "Past",
@@ -7583,8 +7567,6 @@
     },
     "spritenum": 643,
     "onPlate": "Rock",
-    "onTakeItem": "false",
-    "zMove": "true",
     "zMoveType": "Rock",
     "forcedForme": "Arceus-Rock",
     "num": 788,
@@ -7596,7 +7578,8 @@
     },
     "shortDesc": "If holder has a Rock move, this item allows it to use a Rock Z-Move.",
     "id": "rockiumz",
-    "champions": false
+    "champions": false,
+    "isZCrystal": true
   },
   {
     "name": {
@@ -7710,7 +7693,7 @@
       "es": "Baya Hibis"
     },
     "spritenum": 603,
-    "isBerry": "true",
+    "isBerry": true,
     "naturalGift": {
       "basePower": 80,
       "type": "Fairy"
@@ -7731,7 +7714,7 @@
       "es": "Baya Magua"
     },
     "spritenum": 420,
-    "isBerry": "true",
+    "isBerry": true,
     "naturalGift": {
       "basePower": 100,
       "type": "Dark"
@@ -7835,7 +7818,7 @@
     "spritenum": 425,
     "num": 5,
     "gen": 1,
-    "isPokeball": "true",
+    "isPokeball": true,
     "desc": {
       "en": "A special Poké Ball that was used in the Safari Zone in the Kanto region and in the Great Marsh in the Sinnoh region.",
       "es": "Poké Ball especial que se utilizaba en lugares como la Zona Safari de Kanto y el Gran Pantano de Sinnoh."
@@ -7889,7 +7872,7 @@
       "es": "Baya Aslac"
     },
     "spritenum": 426,
-    "isBerry": "true",
+    "isBerry": true,
     "naturalGift": {
       "basePower": 100,
       "type": "Fighting"
@@ -8213,7 +8196,7 @@
       "es": "Baya Acardo"
     },
     "spritenum": 443,
-    "isBerry": "true",
+    "isBerry": true,
     "naturalGift": {
       "basePower": 80,
       "type": "Ground"
@@ -8274,7 +8257,7 @@
       "es": "Baya Zidra"
     },
     "spritenum": 448,
-    "isBerry": "true",
+    "isBerry": true,
     "naturalGift": {
       "basePower": 80,
       "type": "Psychic"
@@ -8399,7 +8382,6 @@
       "es": "Snorlium Z"
     },
     "spritenum": 656,
-    "onTakeItem": "false",
     "zMove": "Pulverizing Pancake",
     "zMoveFrom": "Giga Impact",
     "itemUser": [
@@ -8414,7 +8396,8 @@
     },
     "shortDesc": "If held by a Snorlax with Giga Impact, it can use Pulverizing Pancake.",
     "id": "snorliumz",
-    "champions": false
+    "champions": false,
+    "isZCrystal": true
   },
   {
     "name": {
@@ -8464,7 +8447,6 @@
       "es": "Solganium Z"
     },
     "spritenum": 685,
-    "onTakeItem": "false",
     "zMove": "Searing Sunraze Smash",
     "zMoveFrom": "Sunsteel Strike",
     "itemUser": [
@@ -8480,7 +8462,8 @@
     },
     "shortDesc": "Solgaleo or Dusk Mane Necrozma with Sunsteel Strike can use a special Z-Move.",
     "id": "solganiumz",
-    "champions": false
+    "champions": false,
+    "isZCrystal": true
   },
   {
     "name": {
@@ -8532,7 +8515,7 @@
       "es": "Baya Wikano"
     },
     "spritenum": 462,
-    "isBerry": "true",
+    "isBerry": true,
     "naturalGift": {
       "basePower": 90,
       "type": "Dark"
@@ -8595,7 +8578,7 @@
     "spritenum": 465,
     "num": 499,
     "gen": 2,
-    "isPokeball": "true",
+    "isPokeball": true,
     "desc": {
       "en": "A special Poké Ball that was used during the Bug-Catching Contest in the Johto region.",
       "es": "Poké Ball especial que se utilizaba en el Concurso de Captura de Bichos de la región de Johto."
@@ -8633,7 +8616,7 @@
       "es": "Baya Arabol"
     },
     "spritenum": 472,
-    "isBerry": "true",
+    "isBerry": true,
     "naturalGift": {
       "basePower": 100,
       "type": "Psychic"
@@ -8696,7 +8679,7 @@
       "es": "Gema Acero"
     },
     "spritenum": 473,
-    "isGem": "true",
+    "isGem": true,
     "num": 563,
     "gen": 5,
     "isNonstandard": "Past",
@@ -8715,8 +8698,6 @@
     },
     "spritenum": 647,
     "onPlate": "Steel",
-    "onTakeItem": "false",
-    "zMove": "true",
     "zMoveType": "Steel",
     "forcedForme": "Arceus-Steel",
     "num": 792,
@@ -8728,7 +8709,8 @@
     },
     "shortDesc": "If holder has a Steel move, this item allows it to use a Steel Z-Move.",
     "id": "steeliumz",
-    "champions": false
+    "champions": false,
+    "isZCrystal": true
   },
   {
     "name": {
@@ -8846,7 +8828,7 @@
     "spritenum": 308,
     "num": 1785,
     "gen": 8,
-    "isPokeball": "true",
+    "isPokeball": true,
     "isNonstandard": "Unobtainable",
     "desc": {
       "en": "Placeholder if caught in Poke Ball not in current game.",
@@ -8961,7 +8943,7 @@
       "es": "Baya Tamate"
     },
     "spritenum": 486,
-    "isBerry": "true",
+    "isBerry": true,
     "naturalGift": {
       "basePower": 90,
       "type": "Psychic"
@@ -8983,7 +8965,7 @@
       "es": "Baya Yecana"
     },
     "spritenum": 487,
-    "isBerry": "true",
+    "isBerry": true,
     "naturalGift": {
       "basePower": 80,
       "type": "Bug"
@@ -9004,7 +8986,6 @@
       "es": "Tapunium Z"
     },
     "spritenum": 653,
-    "onTakeItem": "false",
     "zMove": "Guardian of Alola",
     "zMoveFrom": "Nature's Madness",
     "itemUser": [
@@ -9022,7 +9003,8 @@
     },
     "shortDesc": "If held by a Tapu with Nature's Madness, it can use Guardian of Alola.",
     "id": "tapuniumz",
-    "champions": false
+    "champions": false,
+    "isZCrystal": true
   },
   {
     "name": {
@@ -9165,7 +9147,7 @@
     "spritenum": 494,
     "num": 10,
     "gen": 3,
-    "isPokeball": "true",
+    "isPokeball": true,
     "desc": {
       "en": "A somewhat different Poké Ball that becomes progressively more effective at catching Pokémon the more turns that are taken in battle.",
       "es": "Una Poké Ball algo distinta que va mejorando su rendimiento con cada turno de combate."
@@ -11266,7 +11248,7 @@
     "spritenum": 521,
     "num": 2,
     "gen": 1,
-    "isPokeball": "true",
+    "isPokeball": true,
     "desc": {
       "en": "An ultra-high-performance Poké Ball that provides a higher success rate for catching Pokémon than a Great Ball.",
       "es": "Poké Ball de rendimiento superior. Tiene un índice de éxito mayor al de la Super Ball."
@@ -11281,7 +11263,6 @@
       "es": "Ultranecrozium Z"
     },
     "spritenum": 687,
-    "onTakeItem": "false",
     "zMove": "Light That Burns the Sky",
     "zMoveFrom": "Photon Geyser",
     "itemUser": [
@@ -11296,7 +11277,8 @@
     },
     "shortDesc": "Dusk Mane/Dawn Wings Necrozma: Ultra Burst, then Z-Move w/ Photon Geyser.",
     "id": "ultranecroziumz",
-    "champions": false
+    "champions": false,
+    "isZCrystal": true
   },
   {
     "name": {
@@ -11407,7 +11389,7 @@
       "es": "Baya Gualot"
     },
     "spritenum": 526,
-    "isBerry": "true",
+    "isBerry": true,
     "naturalGift": {
       "basePower": 80,
       "type": "Electric"
@@ -11428,7 +11410,7 @@
       "es": "Gema Agua"
     },
     "spritenum": 528,
-    "isGem": "true",
+    "isGem": true,
     "num": 549,
     "gen": 5,
     "isNonstandard": "Past",
@@ -11447,8 +11429,6 @@
     },
     "spritenum": 633,
     "onPlate": "Water",
-    "onTakeItem": "false",
-    "zMove": "true",
     "zMoveType": "Water",
     "forcedForme": "Arceus-Water",
     "num": 778,
@@ -11460,7 +11440,8 @@
     },
     "shortDesc": "If holder has a Water move, this item allows it to use a Water Z-Move.",
     "id": "wateriumz",
-    "champions": false
+    "champions": false,
+    "isZCrystal": true
   },
   {
     "name": {
@@ -11509,7 +11490,7 @@
       "es": "Baya Sambia"
     },
     "spritenum": 530,
-    "isBerry": "true",
+    "isBerry": true,
     "naturalGift": {
       "basePower": 100,
       "type": "Fire"
@@ -11600,7 +11581,7 @@
       "es": "Baya Peragu"
     },
     "spritenum": 533,
-    "isBerry": "true",
+    "isBerry": true,
     "naturalGift": {
       "basePower": 90,
       "type": "Electric"
@@ -11684,7 +11665,7 @@
       "es": "Baya Wiki"
     },
     "spritenum": 538,
-    "isBerry": "true",
+    "isBerry": true,
     "naturalGift": {
       "basePower": 80,
       "type": "Rock"
@@ -11725,7 +11706,7 @@
       "es": "Baya Rimoya"
     },
     "spritenum": 567,
-    "isBerry": "true",
+    "isBerry": true,
     "naturalGift": {
       "basePower": 80,
       "type": "Ice"
@@ -11831,7 +11812,7 @@
       "es": "Berry"
     },
     "spritenum": 319,
-    "isBerry": "true",
+    "isBerry": true,
     "naturalGift": {
       "basePower": 80,
       "type": "Poison"
@@ -11874,7 +11855,7 @@
       "es": "Bitter Berry"
     },
     "spritenum": 334,
-    "isBerry": "true",
+    "isBerry": true,
     "naturalGift": {
       "basePower": 80,
       "type": "Ground"
@@ -11896,7 +11877,7 @@
       "es": "Burnt Berry"
     },
     "spritenum": 13,
-    "isBerry": "true",
+    "isBerry": true,
     "naturalGift": {
       "basePower": 80,
       "type": "Ice"
@@ -11918,7 +11899,7 @@
       "es": "Gold Berry"
     },
     "spritenum": 448,
-    "isBerry": "true",
+    "isBerry": true,
     "naturalGift": {
       "basePower": 80,
       "type": "Psychic"
@@ -11941,7 +11922,7 @@
       "es": "Ice Berry"
     },
     "spritenum": 381,
-    "isBerry": "true",
+    "isBerry": true,
     "naturalGift": {
       "basePower": 80,
       "type": "Grass"
@@ -11963,7 +11944,7 @@
       "es": "Mint Berry"
     },
     "spritenum": 65,
-    "isBerry": "true",
+    "isBerry": true,
     "naturalGift": {
       "basePower": 80,
       "type": "Water"
@@ -11985,7 +11966,7 @@
       "es": "Miracle Berry"
     },
     "spritenum": 262,
-    "isBerry": "true",
+    "isBerry": true,
     "naturalGift": {
       "basePower": 80,
       "type": "Flying"
@@ -12007,7 +11988,7 @@
       "es": "Mystery Berry"
     },
     "spritenum": 244,
-    "isBerry": "true",
+    "isBerry": true,
     "naturalGift": {
       "basePower": 80,
       "type": "Fighting"
@@ -12063,7 +12044,7 @@
       "es": "PRZ Cure Berry"
     },
     "spritenum": 63,
-    "isBerry": "true",
+    "isBerry": true,
     "naturalGift": {
       "basePower": 80,
       "type": "Fire"
@@ -12085,7 +12066,7 @@
       "es": "PSN Cure Berry"
     },
     "spritenum": 333,
-    "isBerry": "true",
+    "isBerry": true,
     "naturalGift": {
       "basePower": 80,
       "type": "Electric"
