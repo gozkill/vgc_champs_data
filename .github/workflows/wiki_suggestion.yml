@@ -23,8 +23,14 @@ jobs:
             const payload = context.payload.client_payload;
             const category = payload.category;
             const itemId = payload.itemId;
-            const field = payload.fieldToModify;
+            let field = payload.fieldToModify;
             const suggestion = payload.suggestion.trim();
+            const lang = payload.lang || 'es'; // Idioma desde el que se envió
+
+            // Mapear 'description' al nombre real 'desc' en el JSON
+            if (field === 'description') {
+              field = 'desc';
+            }
 
             let fileName = '';
             switch(category) {
@@ -55,16 +61,28 @@ jobs:
                   const originalValue = foundItem[field];
                   let newValue = suggestion;
 
-                  // Parseador inteligente de tipos básicos
-                  if (typeof originalValue === 'number') {
+                  // 1. Si es un objeto de traducción (ej: desc o name)
+                  if (originalValue && typeof originalValue === 'object' && !Array.isArray(originalValue)) {
+                    const updatedObj = { ...originalValue };
+                    updatedObj[lang] = suggestion; // Actualiza solo 'es' o 'en'
+                    newValue = updatedObj;
+                  }
+                  // 2. Si es un número
+                  else if (typeof originalValue === 'number') {
                     const parsedNum = parseFloat(suggestion.replace(/[^\d.-]/g, ''));
                     if (!isNaN(parsedNum)) newValue = parsedNum;
-                  } else if (typeof originalValue === 'boolean') {
+                  } 
+                  // 3. Si es un booleano
+                  else if (typeof originalValue === 'boolean') {
                     newValue = (suggestion.toLowerCase() === 'true' || suggestion.toLowerCase() === 'champions' || suggestion === '1');
-                  } else if (originalValue && typeof originalValue === 'object') {
+                  }
+                  // 4. Si es un arreglo (ej: types)
+                  else if (originalValue && Array.isArray(originalValue)) {
                     try {
                       newValue = JSON.parse(suggestion);
-                    } catch(e) {}
+                    } catch(e) {
+                      newValue = suggestion.split(',').map(s => s.trim());
+                    }
                   }
 
                   foundItem[field] = newValue;
@@ -126,4 +144,3 @@ jobs:
             
             ---
             _Puedes revisar los archivos cambiados en este Pull Request, hacer correcciones manuales si el parseo no fue perfecto, y luego fusionar (Merge) para desplegar el cambio OTA._
-
