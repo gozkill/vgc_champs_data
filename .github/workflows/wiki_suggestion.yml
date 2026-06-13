@@ -5,15 +5,68 @@ on:
     types: [wiki_suggestion]
 
 jobs:
-  create_issue:
+  process_suggestion:
     runs-on: ubuntu-latest
     permissions:
       issues: write
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch Current Value from JSON
+        id: fetch_current
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const payload = context.payload.client_payload;
+            const category = payload.category;
+            const itemId = payload.itemId;
+            const field = payload.fieldToModify;
+
+            // Determinar archivo JSON correspondiente
+            let fileName = '';
+            switch(category) {
+              case 'Pokemon': fileName = 'FINAL_VGC_POKEDEX.json'; break;
+              case 'Moves': fileName = 'FINAL_VGC_MOVES.json'; break;
+              case 'Abilities': fileName = 'FINAL_VGC_ABILITIES.json'; break;
+              case 'Items': fileName = 'FINAL_VGC_ITEMS.json'; break;
+              case 'Natures': fileName = 'FINAL_VGC_NATURES.json'; break;
+              case 'Types': fileName = 'FINAL_VGC_TYPES.json'; break;
+              case 'Mechanics': fileName = 'FINAL_VGC_MECHANICS.json'; break;
+            }
+
+            let currentValueStr = 'No encontrado/General';
+            
+            if (fileName && fs.existsSync(fileName)) {
+              try {
+                const data = JSON.parse(fs.readFileSync(fileName, 'utf8'));
+                let foundItem;
+                
+                if (Array.isArray(data)) {
+                  foundItem = data.find(x => String(x.id).toLowerCase() === String(itemId).toLowerCase());
+                } else if (data && typeof data === 'object') {
+                  foundItem = data[itemId];
+                }
+
+                if (foundItem && foundItem[field] !== undefined) {
+                  const val = foundItem[field];
+                  currentValueStr = typeof val === 'object' ? JSON.stringify(val) : String(val);
+                } else if (foundItem) {
+                  // Si no encuentra el campo exacto, mostramos el objeto entero para referencia
+                  currentValueStr = JSON.stringify(foundItem);
+                }
+              } catch (e) {
+                currentValueStr = 'Error al leer el archivo: ' + e.message;
+              }
+            }
+
+            core.setOutput('current_value', currentValueStr);
+
       - name: Create Issue for Suggestion
         uses: imjohnbo/issue-bot@v3
         with:
-          title: "Sugerencia Wiki: ${{ github.event.client_payload.category }} - ${{ github.event.client_payload.itemName }}"
+          title: "🧪 Propuesta de Balance VGC: ${{ github.event.client_payload.itemName }} [${{ github.event.client_payload.fieldToModify }}]"
           body: |
             ### Nueva Propuesta de Balance VGC 🧪
             
@@ -22,10 +75,21 @@ jobs:
             * **Campo a Modificar:** `${{ github.event.client_payload.fieldToModify }}`
             * **Fecha de Envío:** `${{ github.event.client_payload.submittedAt }}`
             
-            #### 📝 Cambios Propuestos:
+            ---
+            
+            #### 🔍 Comparación de Cambios:
+            
+            * **Valor Actual en la Base de Datos:**
+            ```json
+            ${{ steps.fetch_current.outputs.current_value }}
+            ```
+            
+            * **Valor/Cambios Propuestos:**
             ```text
             ${{ github.event.client_payload.suggestion }}
             ```
+            
+            ---
             
             #### 💡 Motivo Competitivo:
             ```text
