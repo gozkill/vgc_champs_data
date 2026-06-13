@@ -1,20 +1,21 @@
-name: VGC Wiki Suggestion Receiver
+name: VGC Wiki Suggestion PR Creator
 
 on:
   repository_dispatch:
     types: [wiki_suggestion]
 
 jobs:
-  process_suggestion:
+  create_pr:
     runs-on: ubuntu-latest
     permissions:
-      issues: write
+      contents: write
+      pull-requests: write
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Fetch Current Value from JSON
-        id: fetch_current
+      - name: Apply Suggestion and Increment Version
+        id: apply_changes
         uses: actions/github-script@v7
         with:
           script: |
@@ -23,8 +24,8 @@ jobs:
             const category = payload.category;
             const itemId = payload.itemId;
             const field = payload.fieldToModify;
+            const suggestion = payload.suggestion.trim();
 
-            // Determinar archivo JSON correspondiente
             let fileName = '';
             switch(category) {
               case 'Pokemon': fileName = 'FINAL_VGC_POKEDEX.json'; break;
@@ -36,8 +37,9 @@ jobs:
               case 'Mechanics': fileName = 'FINAL_VGC_MECHANICS.json'; break;
             }
 
-            let currentValueStr = 'No encontrado/General';
-            
+            let changeSummary = 'No se pudo aplicar automáticamente.';
+            let applied = false;
+
             if (fileName && fs.existsSync(fileName)) {
               try {
                 const data = JSON.parse(fs.readFileSync(fileName, 'utf8'));
@@ -49,50 +51,79 @@ jobs:
                   foundItem = data[itemId];
                 }
 
-                if (foundItem && foundItem[field] !== undefined) {
-                  const val = foundItem[field];
-                  currentValueStr = typeof val === 'object' ? JSON.stringify(val) : String(val);
-                } else if (foundItem) {
-                  // Si no encuentra el campo exacto, mostramos el objeto entero para referencia
-                  currentValueStr = JSON.stringify(foundItem);
+                if (foundItem) {
+                  const originalValue = foundItem[field];
+                  let newValue = suggestion;
+
+                  // Parseador inteligente de tipos básicos
+                  if (typeof originalValue === 'number') {
+                    const parsedNum = parseFloat(suggestion.replace(/[^\d.-]/g, ''));
+                    if (!isNaN(parsedNum)) newValue = parsedNum;
+                  } else if (typeof originalValue === 'boolean') {
+                    newValue = (suggestion.toLowerCase() === 'true' || suggestion.toLowerCase() === 'champions' || suggestion === '1');
+                  } else if (originalValue && typeof originalValue === 'object') {
+                    try {
+                      newValue = JSON.parse(suggestion);
+                    } catch(e) {}
+                  }
+
+                  foundItem[field] = newValue;
+                  fs.writeFileSync(fileName, JSON.stringify(data, null, 2), 'utf8');
+                  changeSummary = `Modificado el campo \`${field}\` de \`${JSON.stringify(originalValue)}\` a \`${JSON.stringify(newValue)}\` en \`${fileName}\`.`;
+                  applied = true;
+                } else {
+                  changeSummary = `No se encontró el elemento con ID \`${itemId}\` en \`${fileName}\`.`;
                 }
               } catch (e) {
-                currentValueStr = 'Error al leer el archivo: ' + e.message;
+                changeSummary = `Error al modificar JSON: ${e.message}`;
               }
             }
 
-            core.setOutput('current_value', currentValueStr);
+            if (applied && fs.existsSync('version.json')) {
+              try {
+                const verData = JSON.parse(fs.readFileSync('version.json', 'utf8'));
+                const oldVersion = verData.version || 0;
+                verData.version = oldVersion + 1;
+                fs.writeFileSync('version.json', JSON.stringify(verData, null, 2), 'utf8');
+                changeSummary += `\nIncrementada versión de base de datos a \`${verData.version}\` en \`version.json\`.`;
+              } catch (e) {
+                changeSummary += `\nError al incrementar version.json: ${e.message}`;
+              }
+            }
 
-      - name: Create Issue for Suggestion
-        uses: imjohnbo/issue-bot@v3
+            core.setOutput('summary', changeSummary);
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v6
         with:
-          title: "🧪 Propuesta de Balance VGC: ${{ github.event.client_payload.itemName }} [${{ github.event.client_payload.fieldToModify }}]"
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "wiki: aplicar cambio propuesto para ${{ github.event.client_payload.itemName }}"
+          committer: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+          author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+          branch: wiki-suggestion/${{ github.event.client_payload.itemId }}-${{ github.event.client_payload.fieldToModify }}
+          delete-branch: true
+          title: "🧪 Sugerencia Wiki: Modificar ${{ github.event.client_payload.itemName }} [${{ github.event.client_payload.fieldToModify }}]"
           body: |
-            ### Nueva Propuesta de Balance VGC 🧪
+            ### Propuesta de Balance Recibida 🧪
+            
+            Un usuario ha enviado una propuesta de cambio desde la aplicación.
             
             * **Categoría:** `${{ github.event.client_payload.category }}`
             * **Elemento:** `${{ github.event.client_payload.itemId }}` (${{ github.event.client_payload.itemName }})
             * **Campo a Modificar:** `${{ github.event.client_payload.fieldToModify }}`
+            * **Cambios Propuestos (Entrada del usuario):** `${{ github.event.client_payload.suggestion }}`
             * **Fecha de Envío:** `${{ github.event.client_payload.submittedAt }}`
             
             ---
             
-            #### 🔍 Comparación de Cambios:
-            
-            * **Valor Actual en la Base de Datos:**
-            ```json
-            ${{ steps.fetch_current.outputs.current_value }}
-            ```
-            
-            * **Valor/Cambios Propuestos:**
-            ```text
-            ${{ github.event.client_payload.suggestion }}
-            ```
-            
-            ---
+            #### ⚙️ Resultado del Autocambio:
+            ${{ steps.apply_changes.outputs.summary }}
             
             #### 💡 Motivo Competitivo:
             ```text
             ${{ github.event.client_payload.reason }}
             ```
-          token: ${{ secrets.GITHUB_TOKEN }}
+            
+            ---
+            _Puedes revisar los archivos cambiados en este Pull Request, hacer correcciones manuales si el parseo no fue perfecto, y luego fusionar (Merge) para desplegar el cambio OTA._
+
