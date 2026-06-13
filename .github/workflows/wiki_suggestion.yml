@@ -1,0 +1,34 @@
+name: VGC Wiki Suggestion Receiver
+
+on:
+  repository_dispatch:
+    types: [wiki_suggestion]
+
+jobs:
+  create_issue:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+    steps:
+      - name: Create Issue for Suggestion
+        uses: imjohnbo/issue-bot@v3
+        with:
+          title: "Sugerencia Wiki: ${{ github.event.client_payload.category }} - ${{ github.event.client_payload.itemName }}"
+          body: |
+            ### Nueva Propuesta de Balance VGC 🧪
+            
+            * **Categoría:** `${{ github.event.client_payload.category }}`
+            * **Elemento:** `${{ github.event.client_payload.itemId }}` (${{ github.event.client_payload.itemName }})
+            * **Campo a Modificar:** `${{ github.event.client_payload.fieldToModify }}`
+            * **Fecha de Envío:** `${{ github.event.client_payload.submittedAt }}`
+            
+            #### 📝 Cambios Propuestos:
+            ```text
+            ${{ github.event.client_payload.suggestion }}
+            ```
+            
+            #### 💡 Motivo Competitivo:
+            ```text
+            ${{ github.event.client_payload.reason }}
+            ```
+          token: ${{ secrets.GITHUB_TOKEN }}
