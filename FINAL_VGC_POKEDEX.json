@@ -23094,7 +23094,7 @@
     "num": 479,
     "name": {
       "en": "Rotom-Heat",
-      "es": "Rotom"
+      "es": "Rotom Horno"
     },
     "desc": {
       "es": "Su cuerpo de plasma le permite infiltrarse en toda clase de dispositivos electrónicos. Adora sobresaltar a la gente.",
@@ -23129,7 +23129,7 @@
     "num": 479,
     "name": {
       "en": "Rotom-Wash",
-      "es": "Rotom"
+      "es": "Rotom lavadora"
     },
     "desc": {
       "es": "Su cuerpo de plasma le permite infiltrarse en toda clase de dispositivos electrónicos. Adora sobresaltar a la gente.",
@@ -23164,7 +23164,7 @@
     "num": 479,
     "name": {
       "en": "Rotom-Frost",
-      "es": "Rotom"
+      "es": "Rotom Nevera"
     },
     "desc": {
       "es": "Su cuerpo de plasma le permite infiltrarse en toda clase de dispositivos electrónicos. Adora sobresaltar a la gente.",
@@ -23199,7 +23199,7 @@
     "num": 479,
     "name": {
       "en": "Rotom-Fan",
-      "es": "Rotom"
+      "es": "Rotom Ventilador"
     },
     "desc": {
       "es": "Su cuerpo de plasma le permite infiltrarse en toda clase de dispositivos electrónicos. Adora sobresaltar a la gente.",
@@ -23234,7 +23234,7 @@
     "num": 479,
     "name": {
       "en": "Rotom-Mow",
-      "es": "Rotom"
+      "es": "Rotom Cortacesped"
     },
     "desc": {
       "es": "Su cuerpo de plasma le permite infiltrarse en toda clase de dispositivos electrónicos. Adora sobresaltar a la gente.",
@@ -44754,7 +44754,7 @@
     "num": 898,
     "name": {
       "en": "Calyrex-Ice",
-      "es": "Calyrex Hielo"
+      "es": "Calyrex Jinete Glacial"
     },
     "desc": {
       "es": "Legendario monarca del antiguo Galar. Posee el poder de sanar el espíritu y de hacer brotar la vegetación.",
@@ -44789,7 +44789,7 @@
     "num": 898,
     "name": {
       "en": "Calyrex-Shadow",
-      "es": "Calyrex Sombra"
+      "es": "Calyrex JInete ESpectral"
     },
     "desc": {
       "es": "Legendario monarca del antiguo Galar. Posee el poder de sanar el espíritu y de hacer brotar la vegetación.",
@@ -45705,7 +45705,7 @@
       "es": "Nymble"
     },
     "desc": {
-      "es": "",
+      "es": "Es muy hábil en un estilo de lucha en el que utiliza su capacidad de salto para esquivar los ataques enemigos mientras inflige daño.",
       "en": "It’s highly skilled at a fighting style in which it uses its jumping capabilities to dodge incoming attacks while also dealing damage to opponents."
     },
     "types": [
@@ -45742,7 +45742,7 @@
       "es": "Lokix"
     },
     "desc": {
-      "es": "",
+      "es": "En el modo Showdown, utiliza su tercer par de patas, que normalmente mantiene plegado. Esto supone una gran carga para su cuerpo, por lo que no puede permanecer en este modo durante mucho tiempo.",
       "en": "It uses its normally folded third set of legs when in Showdown Mode. This places a huge burden on its body, so it can’t stay in this mode for long."
     },
     "types": [
@@ -45778,7 +45778,7 @@
       "es": "Pawmi"
     },
     "desc": {
-      "es": "",
+      "es": "Las almohadillas de sus patas son órganos que descargan electricidad. Pawmi dispara electricidad de sus patas delanteras mientras se sostiene inestable sobre sus patas traseras.",
       "en": "The pads of its paws are electricity-discharging organs. Pawmi fires electricity from its forepaws while standing unsteadily on its hind legs."
     },
     "types": [
@@ -45816,7 +45816,7 @@
       "es": "Pawmo"
     },
     "desc": {
-      "es": "",
+      "es": "Pawmo utiliza una técnica de lucha única en la que usa sus patas delanteras para golpear a los enemigos y electrocutarlos al mismo tiempo con las almohadillas de sus patas.",
       "en": "Pawmo uses a unique fighting technique in which it uses its forepaws to strike foes and zap them with electricity from its paw pads simultaneously."
     },
     "types": [
@@ -45855,7 +45855,7 @@
       "es": "Pawmot"
     },
     "desc": {
-      "es": "",
+      "es": "El pelaje esponjoso de Pawmot actúa como una batería. Puede almacenar la misma cantidad de electricidad que un coche eléctrico.",
       "en": "Pawmot’s fluffy fur acts as a battery. It can store the same amount of electricity as an electric car."
     },
     "types": [
@@ -45892,7 +45892,7 @@
       "es": "Tandemaus"
     },
     "desc": {
-      "es": "",
+      "es": "La pareja permanece unida pase lo que pase. Dividen cualquier comida que encuentran exactamente a la mitad y luego se la comen juntos.",
       "en": "The pair sticks together no matter what. They split any food they find exactly in half and then eat it together."
     },
     "types": [
@@ -45931,7 +45931,7 @@
       "es": "Maushold"
     },
     "desc": {
-      "es": "",
+      "es": "La pareja más grande protege a los pequeños durante los combates. Al enfrentarse a oponentes fuertes, todo el grupo se unirá a la lucha.",
       "en": "The larger pair protects the little ones during battles. When facing strong opponents, the whole group will join the fight."
     },
     "types": [
@@ -45967,7 +45967,7 @@
       "es": "Maushold Familia de Cuatro"
     },
     "desc": {
-      "es": "",
+      "es": "La pareja más grande protege a los pequeños durante los combates. Al enfrentarse a oponentes fuertes, todo el grupo se unirá a la lucha.",
       "en": "The larger pair protects the little ones during battles. When facing strong opponents, the whole group will join the fight."
     },
     "types": [
@@ -46003,7 +46003,7 @@
       "es": "Fidough"
     },
     "desc": {
-      "es": "",
+      "es": "La levadura en el aliento de Fidough es útil para cocinar, por lo que este Pokémon ha sido protegido por la gente desde hace mucho tiempo.",
       "en": "The yeast in Fidough’s breath is useful for cooking, so this Pokémon has been protected by people since long ago."
     },
     "types": [
@@ -46040,7 +46040,7 @@
       "es": "Dachsbun"
     },
     "desc": {
-      "es": "",
+      "es": "La superficie de la piel de este Pokémon se endurece cuando se expone a un calor intenso, y su cuerpo tiene un aroma apetecible.",
       "en": "The surface of this Pokémon’s skin hardens when exposed to intense heat, and its body has an appetizing aroma."
     },
     "types": [
@@ -46075,7 +46075,7 @@
       "es": "Smoliv"
     },
     "desc": {
-      "es": "",
+      "es": "Este Pokémon convierte los nutrientes en aceite, que almacena en el fruto de su cabeza. Puede pasar fácilmente una semana entera sin comer ni beber.",
       "en": "This Pokémon converts nutrients into oil, which it stores in the fruit on its head. It can easily go a whole week without eating or drinking."
     },
     "types": [
@@ -46113,7 +46113,7 @@
       "es": "Dolliv"
     },
     "desc": {
-      "es": "",
+      "es": "Se baña al sol a su gusto hasta que maduran los frutos de su cabeza. Después de eso, Dolliv abandona los asentamientos humanos y emprende un viaje.",
       "en": "It basks in the sun to its heart’s content until the fruits on its head ripen. After that, Dolliv departs from human settlements and goes on a journey."
     },
     "types": [
@@ -46151,7 +46151,7 @@
       "es": "Arboliva"
     },
     "desc": {
-      "es": "",
+      "es": "Este Pokémon ahuyenta a los enemigos lanzándoles su aceite rico y aromático con la fuerza suficiente para destrozar una roca.",
       "en": "This Pokémon drives back enemies by launching its rich, aromatic oil at them with enough force to smash a boulder."
     },
     "types": [
@@ -46187,7 +46187,7 @@
       "es": "Squawkabilly"
     },
     "desc": {
-      "es": "",
+      "es": "Las bandadas de plumas verdes son las que más influyen. Cuando buscan comida por las mañanas y por las tardes, se vuelve muy ruidoso.",
       "en": "Green-feathered flocks hold the most sway. When they’re out searching for food in the mornings and evenings, it gets very noisy."
     },
     "types": [
@@ -46224,7 +46224,7 @@
       "es": "Squawkabilly Azul"
     },
     "desc": {
-      "es": "",
+      "es": "Las bandadas de plumas verdes son las que más influyen. Cuando buscan comida por las mañanas y por las tardes, se vuelve muy ruidoso.",
       "en": "Green-feathered flocks hold the most sway. When they’re out searching for food in the mornings and evenings, it gets very noisy."
     },
     "types": [
@@ -46261,7 +46261,7 @@
       "es": "Squawkabilly Amarillo"
     },
     "desc": {
-      "es": "",
+      "es": "Las bandadas de plumas verdes son las que más influyen. Cuando buscan comida por las mañanas y por las tardes, se vuelve muy ruidoso.",
       "en": "Green-feathered flocks hold the most sway. When they’re out searching for food in the mornings and evenings, it gets very noisy."
     },
     "types": [
@@ -46298,7 +46298,7 @@
       "es": "Squawkabilly Blanco"
     },
     "desc": {
-      "es": "",
+      "es": "Las bandadas de plumas verdes son las que más influyen. Cuando buscan comida por las mañanas y por las tardes, se vuelve muy ruidoso.",
       "en": "Green-feathered flocks hold the most sway. When they’re out searching for food in the mornings and evenings, it gets very noisy."
     },
     "types": [
@@ -46335,7 +46335,7 @@
       "es": "Nacli"
     },
     "desc": {
-      "es": "",
+      "es": "El suelo raspa su cuerpo mientras viaja, lo que hace que deje sal a su paso. La sal se crea y repone constantemente dentro del cuerpo de Nacli.",
       "en": "The ground scrapes its body as it travels, causing it to leave salt behind. Salt is constantly being created and replenished inside Nacli’s body."
     },
     "types": [
@@ -46373,7 +46373,7 @@
       "es": "Naclstack"
     },
     "desc": {
-      "es": "",
+      "es": "Comprime la sal gema dentro de su cuerpo y dispara perdigones de sal endurecida con la fuerza suficiente para perforar una plancha de hierro.",
       "en": "It compresses rock salt inside its body and shoots out hardened salt pellets with enough force to perforate an iron sheet."
     },
     "types": [
@@ -46411,7 +46411,7 @@
       "es": "Garganacl"
     },
     "desc": {
-      "es": "",
+      "es": "Muchos Pokémon se reúnen alrededor de Garganacl con la esperanza de lamer su sal rica en minerales.",
       "en": "Many Pokémon gather around Garganacl, hoping to lick at its mineral-rich salt."
     },
     "types": [
@@ -46447,7 +46447,7 @@
       "es": "Charcadet"
     },
     "desc": {
-      "es": "",
+      "es": "Su potencia de fuego aumenta cuando lucha, alcanzando más de 1000 grados Celsius. Le encantan las bayas ricas en grasas.",
       "en": "Its firepower increases when it fights, reaching over 1,800 degrees Fahrenheit. It likes berries that are rich in fat."
     },
     "types": [
@@ -46485,7 +46485,7 @@
       "es": "Armarouge"
     },
     "desc": {
-      "es": "",
+      "es": "Este Pokémon se viste con una armadura que ha sido fortalecida por energía psíquica y de fuego, y dispara bolas de fuego ardientes.",
       "en": "This Pokémon clads itself in armor that has been fortified by psychic and fire energy, and it shoots blazing fireballs."
     },
     "types": [
@@ -46521,7 +46521,7 @@
       "es": "Ceruledge"
     },
     "desc": {
-      "es": "",
+      "es": "Una vieja armadura impregnada de rencores causó la evolución de este Pokémon. Ceruledge corta a sus enemigos en pedazos sin piedad.",
       "en": "An old set of armor steeped in grudges caused this Pokémon’s evolution. Ceruledge cuts its enemies to pieces without mercy."
     },
     "types": [
@@ -46557,7 +46557,7 @@
       "es": "Tadbulb"
     },
     "desc": {
-      "es": "",
+      "es": "Flota utilizando la electricidad almacenada en su cuerpo. Cuando hay nubes de tormenta alrededor, Tadbulb flota más alto del suelo.",
       "en": "It floats using the electricity stored in its body. When thunderclouds are around, Tadbulb will float higher off the ground."
     },
     "types": [
@@ -46595,7 +46595,7 @@
       "es": "Bellibolt"
     },
     "desc": {
-      "es": "",
+      "es": "Lo que parecen globos oculares son en realidad órganos para descargar la electricidad generada por la dinamo de su ombligo.",
       "en": "What appear to be eyeballs are actually organs for discharging the electricity generated by Bellibolt’s belly-button dynamo."
     },
     "types": [
@@ -46631,7 +46631,7 @@
       "es": "Wattrel"
     },
     "desc": {
-      "es": "",
+      "es": "Estos Pokémon hacen sus nidos en acantilados costeros. Los nidos tienen una textura extraña y crujiente, y son un manjar popular.",
       "en": "These Pokémon make their nests on coastal cliffs. The nests have a strange, crackling texture, and they’re a popular delicacy."
     },
     "types": [
@@ -46670,7 +46670,7 @@
       "es": "Kilowattrel"
     },
     "desc": {
-      "es": "",
+      "es": "Utiliza su saco gular para almacenar la electricidad generada por sus alas. Casi no hay aceite en sus plumas, por lo que es un mal nadador.",
       "en": "It uses its throat sac to store electricity generated by its wings. There’s hardly any oil in its feathers, so it is a poor swimmer."
     },
     "types": [
@@ -46707,7 +46707,7 @@
       "es": "Maschiff"
     },
     "desc": {
-      "es": "",
+      "es": "Su mandíbula y colmillos bien desarrollados son lo suficientemente fuertes como para triturar rocas, y su grasa gruesa le sirve de excelente defensa.",
       "en": "Its well-developed jaw and fangs are strong enough to crunch through boulders, and its thick fat makes for an excellent defense."
     },
     "types": [
@@ -46745,7 +46745,7 @@
       "es": "Mabosstiff"
     },
     "desc": {
-      "es": "",
+      "es": "A Mabosstiff le encanta jugar con los niños. Aunque suele ser dócil, adopta un aspecto intimidante cuando protege a su familia.",
       "en": "Mabosstiff loves playing with children. Though usually gentle, it takes on an intimidating look when protecting its family."
     },
     "types": [
@@ -46781,7 +46781,7 @@
       "es": "Shroodle"
     },
     "desc": {
-      "es": "",
+      "es": "Para mantener a los enemigos alejados de su territorio, pinta marcas alrededor de su nido utilizando un líquido venenoso de olor acre.",
       "en": "To keep enemies away from its territory, it paints markings around its nest using a poisonous liquid that has an acrid odor."
     },
     "types": [
@@ -46820,7 +46820,7 @@
       "es": "Grafaiai"
     },
     "desc": {
-      "es": "",
+      "es": "Cada Grafaiai pinta su propio patrón individual, y pintará ese mismo patrón una y otra vez a lo largo de su vida.",
       "en": "Each Grafaiai paints its own individual pattern, and it will paint that same pattern over and over again throughout its life."
     },
     "types": [
@@ -46857,7 +46857,7 @@
       "es": "Bramblin"
     },
     "desc": {
-      "es": "",
+      "es": "Ni siquiera Bramblin sabe hacia dónde se dirige mientras rueda por el desierto, empujado por el viento. Detesta mojarse.",
       "en": "Not even Bramblin knows where it is headed as it tumbles across the wilderness, blown by the wind. It loathes getting wet."
     },
     "types": [
@@ -46895,7 +46895,7 @@
       "es": "Brambleghast"
     },
     "desc": {
-      "es": "",
+      "es": "Brambleghast deambula por regiones áridas. En raras ocasiones, las apariciones masivas de estos Pokémon sepultan una ciudad entera.",
       "en": "Brambleghast wanders around arid regions. On rare occasions, mass outbreaks of these Pokémon will bury an entire town."
     },
     "types": [
@@ -46931,7 +46931,7 @@
       "es": "Toedscool"
     },
     "desc": {
-      "es": "",
+      "es": "Aunque se parece a Tentacool, Toedscool es una especie completamente diferente. Sus patas pueden ser delgadas, pero puede correr a 50 km/h.",
       "en": "Though it looks like Tentacool, Toedscool is a completely different species. Its legs may be thin, but it can run at a speed of 30 mph."
     },
     "types": [
@@ -46968,7 +46968,7 @@
       "es": "Toedscruel"
     },
     "desc": {
-      "es": "",
+      "es": "Enrosca sus 10 tentáculos alrededor de la presa y absorbe sus nutrientes, causándole dolor. Los pliegues del borde de su cabeza son un manjar popular.",
       "en": "It coils its 10 tentacles around prey and sucks out their nutrients, causing the prey pain. The folds along the rim of its head are a popular delicacy."
     },
     "types": [
@@ -47003,7 +47003,7 @@
       "es": "Klawf"
     },
     "desc": {
-      "es": "",
+      "es": "Este Pokémon vive en acantilados escarpados. Esquiva los ataques de los oponentes y luego se lanza hacia sus puntos débiles con sus pinzas.",
       "en": "This Pokémon lives on sheer cliffs. It sidesteps opponents’ attacks, then lunges for their weak spots with its claws."
     },
     "types": [
@@ -47039,7 +47039,7 @@
       "es": "Capsakid"
     },
     "desc": {
-      "es": "",
+      "es": "Los platos tradicionales de Paldea pueden ser extremadamente picantes porque incluyen los dientes delanteros mudados de Capsakid entre sus ingredientes.",
       "en": "Traditional Paldean dishes can be extremely spicy because they include the shed front teeth of Capsakid among their ingredients."
     },
     "types": [
@@ -47077,7 +47077,7 @@
       "es": "Scovillain"
     },
     "desc": {
-      "es": "",
+      "es": "La cabeza verde se ha vuelto viciosa debido a las sustancias picantes que estimulan su cerebro. Una vez que se desata, no hay forma de detenerlo.",
       "en": "The green head has turned vicious due to the spicy chemicals stimulating its brain. Once it goes on a rampage, there is no stopping it."
     },
     "types": [
@@ -47114,7 +47114,7 @@
       "es": "Mega Scovillain"
     },
     "desc": {
-      "es": "",
+      "es": "La cabeza verde se ha vuelto viciosa debido a las sustancias picantes que estimulan su cerebro. Una vez que se desata, no hay forma de detenerlo.",
       "en": "The green head has turned vicious due to the spicy chemicals stimulating its brain. Once it goes on a rampage, there is no stopping it."
     },
     "types": [
@@ -47149,7 +47149,7 @@
       "es": "Rellor"
     },
     "desc": {
-      "es": "",
+      "es": "Rueda su bola de barro mientras madura la energía que necesita para evolucionar. Finalmente llega el momento de su evolución.",
       "en": "It rolls its mud ball around while the energy it needs for evolution matures. Eventually the time comes for it to evolve."
     },
     "types": [
@@ -47186,7 +47186,7 @@
       "es": "Rabsca"
     },
     "desc": {
-      "es": "",
+      "es": "Un bebé duerme dentro de la bola. Rabsca hace rodar la bola suavemente con sus patas para asegurar que el bebé duerma cómodamente.",
       "en": "An infant sleeps inside the ball. Rabsca rolls the ball soothingly with its legs to ensure the infant sleeps comfortably."
     },
     "types": [
@@ -47222,7 +47222,7 @@
       "es": "Flittle"
     },
     "desc": {
-      "es": "",
+      "es": "Pasa el tiempo corriendo por páramos. Si alguien le roba sus queridas bayas, lo perseguirá y se vengará.",
       "en": "It spends its time running around wastelands. If anyone steals its beloved berries, it will chase them down and exact its revenge."
     },
     "types": [
@@ -47260,7 +47260,7 @@
       "es": "Espathra"
     },
     "desc": {
-      "es": "",
+      "es": "Emite poder psíquico por los huecos entre sus volantes multicolores y corre a velocidades superiores a 190 km/h.",
       "en": "It emits psychic power from the gaps between its multicolored frills and sprints at speeds greater than 120 mph."
     },
     "types": [
@@ -47296,7 +47296,7 @@
       "es": "Tinkatink"
     },
     "desc": {
-      "es": "",
+      "es": "Este Pokémon machaca trozos de hierro para hacer un martillo. Rehará el martillo una y otra vez hasta que esté satisfecho con el resultado.",
       "en": "This Pokémon pounds iron scraps together to make a hammer. It will remake the hammer again and again until it’s satisfied with the result."
     },
     "types": [
@@ -47335,7 +47335,7 @@
       "es": "Tinkatuff"
     },
     "desc": {
-      "es": "",
+      "es": "Estos Pokémon se alojan en montones de chatarra. Prueban la fuerza de los martillos de los demás golpeándolos entre sí.",
       "en": "These Pokémon make their homes in piles of scrap metal. They test the strength of each other’s hammers by smashing them together."
     },
     "types": [
@@ -47374,7 +47374,7 @@
       "es": "Tinkaton"
     },
     "desc": {
-      "es": "",
+      "es": "El martillo supera los 100 kg, pero Tinkaton lo maneja fácilmente mientras roba lo que quiere y se lleva el botín a casa.",
       "en": "The hammer tops 220 pounds, yet it gets swung around easily by Tinkaton as it steals whatever it pleases and carries its plunder back home."
     },
     "types": [
@@ -47411,7 +47411,7 @@
       "es": "Wiglett"
     },
     "desc": {
-      "es": "",
+      "es": "Aunque se parece a Diglett, Wiglett es una especie completamente diferente. El parecido parece ser un resultado coincidente de la adaptación ambiental.",
       "en": "Though it looks like Diglett, Wiglett is an entirely different species. The resemblance seems to be a coincidental result of environmental adaptation."
     },
     "types": [
@@ -47449,7 +47449,7 @@
       "es": "Wugtrio"
     },
     "desc": {
-      "es": "",
+      "es": "Una variedad de Pokémon pez, Wugtrio fue considerado una vez como una forma regional de Dugtrio.",
       "en": "A variety of fish Pokémon, Wugtrio was once considered to be a regional form of Dugtrio."
     },
     "types": [
@@ -47485,7 +47485,7 @@
       "es": "Bombirdier"
     },
     "desc": {
-      "es": "",
+      "es": "Bombirdier utiliza el delantal de su pecho para agrupar comida, que lleva de vuelta a su nido. Le gusta dejar caer cosas que hacen ruidos fuertes.",
       "en": "Bombirdier uses the apron on its chest to bundle up food, which it carries back to its nest. It enjoys dropping things that make loud noises."
     },
     "types": [
@@ -47522,7 +47522,7 @@
       "es": "Finizen"
     },
     "desc": {
-      "es": "",
+      "es": "Su anillo de agua está hecho de agua de mar mezclada con un fluido viscoso que Finizen secreta por su espiráculo.",
       "en": "Its water ring is made from seawater mixed with a sticky fluid that Finizen secretes from its blowhole."
     },
     "types": [
@@ -47558,7 +47558,7 @@
       "es": "Palafin"
     },
     "desc": {
-      "es": "",
+      "es": "Sus capacidades físicas no son diferentes a las de Finizen, pero cuando sus aliados están en peligro, se transforma y se potencia.",
       "en": "Its physical capabilities are no different than a Finizen’s, but when its allies are in danger, it transforms and powers itself up."
     },
     "types": [
@@ -47592,7 +47592,7 @@
       "es": "Palafin Héroe"
     },
     "desc": {
-      "es": "",
+      "es": "Sus capacidades físicas no son diferentes a las de Finizen, pero cuando sus aliados están en peligro, se transforma y se potencia.",
       "en": "Its physical capabilities are no different than a Finizen’s, but when its allies are in danger, it transforms and powers itself up."
     },
     "types": [
@@ -47626,7 +47626,7 @@
       "es": "Varoom"
     },
     "desc": {
-      "es": "",
+      "es": "La sección de acero es el cuerpo real de Varoom. Este Pokémon se aferra a las rocas y convierte los minerales de su interior en energía.",
       "en": "The steel section is Varoom’s actual body. This Pokémon clings to rocks and converts the minerals within into energy to fuel its activities."
     },
     "types": [
@@ -47664,7 +47664,7 @@
       "es": "Revavroom"
     },
     "desc": {
-      "es": "",
+      "es": "Revavroom amenaza con saña a los demás con el sonido de su escape. Saca la lengua por su boca cilíndrica y rocía fluidos tóxicos.",
       "en": "Revavroom viciously threatens others with the sound of its exhaust. It sticks its tongue out from its cylindrical mouth and sprays toxic fluids."
     },
     "types": [
@@ -47700,7 +47700,7 @@
       "es": "Cyclizar"
     },
     "desc": {
-      "es": "",
+      "es": "Puede correr a más de 110 km/h mientras lleva a un humano. El calor corporal del jinete calienta la espalda de Cyclizar y lo anima.",
       "en": "It can sprint at over 70 mph while carrying a human. The rider’s body heat warms Cyclizar’s back and lifts the Pokémon’s spirit."
     },
     "types": [
@@ -47736,7 +47736,7 @@
       "es": "Orthworm"
     },
     "desc": {
-      "es": "",
+      "es": "Este Pokémon vive en desiertos áridos. Mantiene su cuerpo metálico consumiendo el hierro del suelo.",
       "en": "This Pokémon lives in arid deserts. It maintains its metal body by consuming iron from the soil."
     },
     "types": [
@@ -47771,7 +47771,7 @@
       "es": "Glimmet"
     },
     "desc": {
-      "es": "",
+      "es": "Los cristales minerales tóxicos de Glimmet parecen pétalos de flores. Este Pokémon esparce polvo venenoso como polen para protegerse.",
       "en": "Glimmet’s toxic mineral crystals look just like flower petals. This Pokémon scatters poisonous powder like pollen to protect itself."
     },
     "types": [
@@ -47809,7 +47809,7 @@
       "es": "Glimmora"
     },
     "desc": {
-      "es": "",
+      "es": "Los pétalos de Glimmora están hechos de energía de veneno cristalizada. Recientemente se ha evidenciado que estos pétalos se asemejan a las Joyas Tera.",
       "en": "Glimmora’s petals are made of crystallized poison energy. It has recently become evident that these petals resemble Tera Jewels."
     },
     "types": [
@@ -47845,7 +47845,7 @@
       "es": "Mega Glimmora"
     },
     "desc": {
-      "es": "",
+      "es": "Los pétalos de Glimmora están hechos de energía de veneno cristalizada. Recientemente se ha evidenciado que estos pétalos se asemejan a las Joyas Tera.",
       "en": "Glimmora’s petals are made of crystallized poison energy. It has recently become evident that these petals resemble Tera Jewels."
     },
     "types": [
@@ -47880,7 +47880,7 @@
       "es": "Greavard"
     },
     "desc": {
-      "es": "",
+      "es": "A este simpático Pokémon no le gusta estar solo. Si le prestas la más mínima atención, te seguirá para siempre.",
       "en": "This friendly Pokémon doesn’t like being alone. Pay it even the slightest bit of attention, and it will follow you forever."
     },
     "types": [
@@ -47917,7 +47917,7 @@
       "es": "Houndstone"
     },
     "desc": {
-      "es": "",
+      "es": "Un Pokémon cariñosamente recordado renació como Houndstone. No le gusta que nadie le toque la protuberancia de la cabeza.",
       "en": "A lovingly mourned Pokémon was reborn as Houndstone. It doesn’t like anyone touching the protuberance atop its head."
     },
     "types": [
@@ -47952,7 +47952,7 @@
       "es": "Flamigo"
     },
     "desc": {
-      "es": "",
+      "es": "Gracias a un comportamiento suyo conocido como 'sincronización', toda una bandada de estos Pokémon puede atacar simultáneamente en perfecta armonía.",
       "en": "Thanks to a behavior of theirs known as “synchronizing,” an entire flock of these Pokémon can attack simultaneously in perfect harmony."
     },
     "types": [
@@ -47989,7 +47989,7 @@
       "es": "Cetoddle"
     },
     "desc": {
-      "es": "",
+      "es": "Vive en regiones gélidas en manadas de unos cinco individuos. Le encantan los minerales que se encuentran en la nieve y el hielo.",
       "en": "It lives in frigid regions in pods of five or so individuals. It loves the minerals found in snow and ice."
     },
     "types": [
@@ -48027,7 +48027,7 @@
       "es": "Cetitan"
     },
     "desc": {
-      "es": "",
+      "es": "La energía de hielo se acumula en el cuerno de su mandíbula superior, haciendo que el cuerno alcance temperaturas criogénicas que congelan su entorno.",
       "en": "Ice energy builds up in the horn on its upper jaw, causing the horn to reach cryogenic temperatures that freeze its surroundings."
     },
     "types": [
@@ -48063,7 +48063,7 @@
       "es": "Veluza"
     },
     "desc": {
-      "es": "",
+      "es": "Veluza tiene excelentes capacidades de regeneración. Desprende carne sobrante de su cuerpo para aumentar su agilidad y luego embiste a su presa.",
       "en": "Veluza has excellent regenerative capabilities. It sheds spare flesh from its body to boost its agility, then charges at its prey."
     },
     "types": [
@@ -48099,7 +48099,7 @@
       "es": "Dondozo"
     },
     "desc": {
-      "es": "",
+      "es": "Trata a Tatsugiri como a su jefe y lo sigue lealmente. Aunque es poderoso, Dondozo aparentemente no es muy inteligente.",
       "en": "It treats Tatsugiri like its boss and follows it loyally. Though powerful, Dondozo is apparently not very smart."
     },
     "types": [
@@ -48135,7 +48135,7 @@
       "es": "Tatsugiri"
     },
     "desc": {
-      "es": "",
+      "es": "Tatsugiri es un Pokémon extremadamente astuto. Finge debilidad para atraer a sus presas y luego ordena a su compañero que ataque.",
       "en": "Tatsugiri is an extremely cunning Pokémon. It feigns weakness to lure in prey, then orders its partner to attack."
     },
     "types": [
@@ -48171,7 +48171,7 @@
       "es": "Tatsugiri Languida"
     },
     "desc": {
-      "es": "",
+      "es": "Tatsugiri es un Pokémon extremadamente astuto. Finge debilidad para atraer a sus presas y luego ordena a su compañero que ataque.",
       "en": "Tatsugiri is an extremely cunning Pokémon. It feigns weakness to lure in prey, then orders its partner to attack."
     },
     "types": [
@@ -48207,7 +48207,7 @@
       "es": "Tatsugiri Recto"
     },
     "desc": {
-      "es": "",
+      "es": "Tatsugiri es un Pokémon extremadamente astuto. Finge debilidad para atraer a sus presas y luego ordena a su compañero que ataque.",
       "en": "Tatsugiri is an extremely cunning Pokémon. It feigns weakness to lure in prey, then orders its partner to attack."
     },
     "types": [
@@ -48243,7 +48243,7 @@
       "es": "Mega Tatsugiri curvado"
     },
     "desc": {
-      "es": "",
+      "es": "Tatsugiri es un Pokémon extremadamente astuto. Finge debilidad para atraer a sus presas y luego ordena a su compañero que ataque.",
       "en": "Tatsugiri is an extremely cunning Pokémon. It feigns weakness to lure in prey, then orders its partner to attack."
     },
     "types": [
@@ -48279,7 +48279,7 @@
       "es": "Mega Tatsugiri Languida"
     },
     "desc": {
-      "es": "",
+      "es": "Tatsugiri es un Pokémon extremadamente astuto. Finge debilidad para atraer a sus presas y luego ordena a su compañero que ataque.",
       "en": "Tatsugiri is an extremely cunning Pokémon. It feigns weakness to lure in prey, then orders its partner to attack."
     },
     "types": [
@@ -48315,7 +48315,7 @@
       "es": "Mega Tatsugiri Recto"
     },
     "desc": {
-      "es": "",
+      "es": "Tatsugiri es un Pokémon extremadamente astuto. Finge debilidad para atraer a sus presas y luego ordena a su compañero que ataque.",
       "en": "Tatsugiri is an extremely cunning Pokémon. It feigns weakness to lure in prey, then orders its partner to attack."
     },
     "types": [
@@ -48351,7 +48351,7 @@
       "es": "Annihilape"
     },
     "desc": {
-      "es": "",
+      "es": "Imbuye sus puños con el poder de la ira que guardaba oculta en su corazón. Los oponentes golpeados por estos puños quedarán destrozados hasta la médula.",
       "en": "It imbues its fists with the power of the rage that it kept hidden in its heart. Opponents struck by these imbued fists will be shattered to their core."
     },
     "types": [
@@ -48388,7 +48388,7 @@
       "es": "Clodsire"
     },
     "desc": {
-      "es": "",
+      "es": "Vive en el fondo de estanques y pantanos. Lleva a Wooper a cuestas y lo transporta por el agua de una orilla a otra.",
       "en": "It lives at the bottom of ponds and swamps. It will carry Wooper on its back and ferry them across water from one shore to the other."
     },
     "types": [
@@ -48425,7 +48425,7 @@
       "es": "Farigiraf"
     },
     "desc": {
-      "es": "",
+      "es": "La cabeza endurecida de su cola protege la cabeza del cuerpo principal mientras Farigiraf sacude su largo cuello para cabecear a los enemigos.",
       "en": "The hardened head from the tail protects the head of the main body as Farigiraf whips its long neck around to headbutt enemies."
     },
     "types": [
@@ -48462,7 +48462,7 @@
       "es": "Dudunsparce"
     },
     "desc": {
-      "es": "",
+      "es": "Expulsa a los enemigos de su nido aspirando suficiente aire para llenar sus largos y estrechos pulmones, y luego liberando el aire en una intensa ráfaga.",
       "en": "It drives enemies out of its nest by sucking in enough air to fill its long, narrow lungs, then releasing the air in an intense blast."
     },
     "types": [
@@ -48498,7 +48498,7 @@
       "es": "Dudunsparce Tres Segmentos"
     },
     "desc": {
-      "es": "",
+      "es": "Expulsa a los enemigos de su nido aspirando suficiente aire para llenar sus largos y estrechos pulmones, y luego liberando el aire en una intensa ráfaga.",
       "en": "It drives enemies out of its nest by sucking in enough air to fill its long, narrow lungs, then releasing the air in an intense blast."
     },
     "types": [
@@ -48534,7 +48534,7 @@
       "es": "Kingambit"
     },
     "desc": {
-      "es": "",
+      "es": "Aunque lidera un ejército enorme en combate, no es hábil ideando estrategias complejas. Solo utiliza la fuerza bruta para seguir avanzando.",
       "en": "Though it commands a massive army in battle, it’s not skilled at devising complex strategies. It just uses brute strength to keep pushing."
     },
     "types": [
@@ -48571,7 +48571,7 @@
       "es": "Colmilargo"
     },
     "desc": {
-      "es": "",
+      "es": "Esta criatura se asemeja a un misterioso Pokémon que, según una revista paranormal, ha vivido desde tiempos antiguos.",
       "en": "This creature resembles a mysterious Pokémon that, according to a paranormal magazine, has lived since ancient times."
     },
     "types": [
@@ -48606,7 +48606,7 @@
       "es": "Colagrito"
     },
     "desc": {
-      "es": "",
+      "es": "Se asemeja a un misterioso Pokémon descrito en una revista paranormal como un Jigglypuff de hace mil millones de años.",
       "en": "It resembles a mysterious Pokémon described in a paranormal magazine as a Jigglypuff from one billion years ago."
     },
     "types": [
@@ -48641,7 +48641,7 @@
       "es": "Furioseta"
     },
     "desc": {
-      "es": "",
+      "es": "Tiene un ligero parecido con un Pokémon descrito en una revista dudosa como un cruce entre un dinosaurio y un hongo.",
       "en": "It bears a slight resemblance to a Pokémon described in a dubious magazine as a cross between a dinosaur and a mushroom."
     },
     "types": [
@@ -48676,7 +48676,7 @@
       "es": "Melenaleteo"
     },
     "desc": {
-      "es": "",
+      "es": "Tiene características similares a un pterosaurio fantasmal que apareció en una revista paranormal, pero tienen poco más en común.",
       "en": "It has similar features to a ghostly pterosaur that was covered in a paranormal magazine, but the two have little else in common."
     },
     "types": [
@@ -48711,7 +48711,7 @@
       "es": "Reptalada"
     },
     "desc": {
-      "es": "",
+      "es": "Este Pokémon se asemeja un poco a una forma antigua de Volcarona que apareció en una revista dudosa.",
       "en": "This Pokémon somewhat resembles an ancient form of Volcarona that was introduced in a dubious magazine."
     },
     "types": [
@@ -48746,7 +48746,7 @@
       "es": "Pelarena"
     },
     "desc": {
-      "es": "",
+      "es": "Se parece ligeramente a un Magneton que vivió durante 10 000 años y apareció en un artículo de una revista paranormal.",
       "en": "It slightly resembles a Magneton that lived for 10,000 years and was featured in an article in a paranormal magazine."
     },
     "types": [
@@ -48781,7 +48781,7 @@
       "es": "Ferrodada"
     },
     "desc": {
-      "es": "",
+      "es": "Se han producido avistamientos de este Pokémon en años recientes. Se asemeja a un objeto misterioso descrito en un viejo diario de expedición.",
       "en": "Sightings of this Pokémon have occurred in recent years. It resembles a mysterious object described in an old expedition journal."
     },
     "types": [
@@ -48816,7 +48816,7 @@
       "es": "Ferrosaco"
     },
     "desc": {
-      "es": "",
+      "es": "Se asemeja a un objeto misterioso mencionado en un libro antiguo. Solo hay dos avistamientos reportados de este Pokémon.",
       "en": "It resembles a mysterious object mentioned in an old book. There are only two reported sightings of this Pokémon."
     },
     "types": [
@@ -48851,7 +48851,7 @@
       "es": "Ferropalmas"
     },
     "desc": {
-      "es": "",
+      "es": "Este Pokémon comparte muchas similitudes con Iron Hands, un objeto mencionado en cierto diario de expedición.",
       "en": "This Pokémon shares many similarities with Iron Hands, an object mentioned in a certain expedition journal."
     },
     "types": [
@@ -48886,7 +48886,7 @@
       "es": "Ferrocuello"
     },
     "desc": {
-      "es": "",
+      "es": "Es posible que Iron Jugulis, un objeto descrito en un libro antiguo, sea en realidad este Pokémon.",
       "en": "It’s possible that Iron Jugulis, an object described in an old book, may actually be this Pokémon."
     },
     "types": [
@@ -48921,7 +48921,7 @@
       "es": "Ferropolilla"
     },
     "desc": {
-      "es": "",
+      "es": "No existen registros de que esta especie haya sido capturada. Faltan datos, pero sus rasgos coinciden con un objeto descrito en un libro antiguo.",
       "en": "No records exist of this species being caught. Data is lacking, but the Pokémon’s traits match up with an object described in an old book."
     },
     "types": [
@@ -48956,7 +48956,7 @@
       "es": "Ferropúas"
     },
     "desc": {
-      "es": "",
+      "es": "Algunas de sus características notables coinciden con las de un objeto llamado en cierto diario de expedición como Iron Thorns.",
       "en": "Some of its notable features match those of an object named within a certain expedition journal as Iron Thorns."
     },
     "types": [
@@ -48991,7 +48991,7 @@
       "es": "Frigibax"
     },
     "desc": {
-      "es": "",
+      "es": "Este Pokémon vive en bosques y zonas escarpadas. Utilizando el poder de su aleta dorsal, enfría el interior de su nido como una nevera.",
       "en": "This Pokémon lives in forests and craggy areas. Using the power of its dorsal fin, it cools the inside of its nest like a refrigerator."
     },
     "types": [
@@ -49029,7 +49029,7 @@
       "es": "Arctibax"
     },
     "desc": {
-      "es": "",
+      "es": "Ataca con la hoja de su aleta dorsal congelada haciendo una voltereta frontal en el aire. Sus fuertes patas traseras le permiten realizar esta técnica.",
       "en": "It attacks with the blade of its frozen dorsal fin by doing a front flip in the air. Arctibax’s strong back and legs allow it to pull off this technique."
     },
     "types": [
@@ -49067,7 +49067,7 @@
       "es": "Baxcalibur"
     },
     "desc": {
-      "es": "",
+      "es": "Se lanza al combate poniéndose boca abajo y arrojando aire gélido por la boca. Remata a sus oponentes con su aleta dorsal afilada.",
       "en": "It launches itself into battle by flipping upside down and spewing frigid air from its mouth. It finishes opponents off with its dorsal blade."
     },
     "types": [
@@ -49103,7 +49103,7 @@
       "es": "Mega Baxcalibur"
     },
     "desc": {
-      "es": "",
+      "es": "Se lanza al combate poniéndose boca abajo y arrojando aire gélido por la boca. Remata a sus oponentes con su aleta dorsal afilada.",
       "en": "It launches itself into battle by flipping upside down and spewing frigid air from its mouth. It finishes opponents off with its dorsal blade."
     },
     "types": [
@@ -49139,7 +49139,7 @@
       "es": "Gimmighoul"
     },
     "desc": {
-      "es": "",
+      "es": "Vive dentro de un viejo cofre del tesoro. A veces lo dejan en esquinas de tiendas porque nadie se da cuenta de que es en realidad un Pokémon.",
       "en": "It lives inside an old treasure chest. Sometimes it gets left in shop corners since no one realizes it’s actually a Pokémon."
     },
     "types": [
@@ -49175,7 +49175,7 @@
       "es": "Gimmighoul andante"
     },
     "desc": {
-      "es": "",
+      "es": "Vive dentro de un viejo cofre del tesoro. A veces lo dejan en esquinas de tiendas porque nadie se da cuenta de que es en realidad un Pokémon.",
       "en": "It lives inside an old treasure chest. Sometimes it gets left in shop corners since no one realizes it’s actually a Pokémon."
     },
     "types": [
@@ -49211,7 +49211,7 @@
       "es": "Gholdengo"
     },
     "desc": {
-      "es": "",
+      "es": "Tiene un cuerpo robusto hecho de monedas apiladas. Gholdengo abruma a sus enemigos disparándoles moneda tras moneda en rápida sucesión.",
       "en": "It has a sturdy body made up of stacked coins. Gholdengo overwhelms its enemies by firing coin after coin at them in quick succession."
     },
     "types": [
@@ -49246,7 +49246,7 @@
       "es": "Wo-Chien"
     },
     "desc": {
-      "es": "",
+      "es": "Drena la fuerza vital de la vegetación, haciendo que los bosques cercanos se marchiten instantáneamente y los campos se vuelvan estériles.",
       "en": "It drains the life-force from vegetation, causing nearby forests to instantly wither and fields to turn barren."
     },
     "types": [
@@ -49281,7 +49281,7 @@
       "es": "Chien-Pao"
     },
     "desc": {
-      "es": "",
+      "es": "El odio de quienes perecieron por la espada hace mucho tiempo se ha revestido de nieve y se ha convertido en un Pokémon.",
       "en": "The hatred of those who perished by the sword long ago has clad itself in snow and become a Pokémon."
     },
     "types": [
@@ -49316,7 +49316,7 @@
       "es": "Ting-Lu"
     },
     "desc": {
-      "es": "",
+      "es": "Baja lentamente su pesadísima cabeza contra el suelo, abriendo la tierra con enormes grietas de más de 50 metros de profundidad.",
       "en": "It slowly brings its exceedingly heavy head down upon the ground, splitting the earth open with huge fissures that run over 160 feet deep."
     },
     "types": [
@@ -49351,7 +49351,7 @@
       "es": "Chi-Yu"
     },
     "desc": {
-      "es": "",
+      "es": "La envidia acumulada en los abalorios curvos que desencadenaron múltiples conflictos se ha revestido de fuego y se ha convertido en un Pokémon.",
       "en": "The envy accumulated within curved beads that sparked multiple conflicts has clad itself in fire and become a Pokémon."
     },
     "types": [
@@ -49386,7 +49386,7 @@
       "es": "Bramaluna"
     },
     "desc": {
-      "es": "",
+      "es": "Según un artículo en una revista dudosa, este Pokémon tiene cierta conexión con un fenómeno que ocurre en cierta región.",
       "en": "According to an article in a dubious magazine, this Pokémon has some connection to a phenomenon that occurs in a certain region."
     },
     "types": [
@@ -49421,7 +49421,7 @@
       "es": "Ferropaladín"
     },
     "desc": {
-      "es": "",
+      "es": "Es posible que este sea el objeto catalogado como Iron Valiant en cierto diario de expedición.",
       "en": "It’s possible that this is the object listed as Iron Valiant in a certain expedition journal."
     },
     "types": [
@@ -49456,7 +49456,7 @@
       "es": "Koraidon"
     },
     "desc": {
-      "es": "",
+      "es": "Este Pokémon se asemeja a Cyclizar, pero es mucho más corpulento y feroz. No se sabe nada sobre su ecología u otras características.",
       "en": "This Pokémon resembles Cyclizar, but it is far burlier and more ferocious. Nothing is known about its ecology or other features."
     },
     "types": [
@@ -49491,7 +49491,7 @@
       "es": "Miraidon"
     },
     "desc": {
-      "es": "",
+      "es": "Este parece ser el Iron Serpent mencionado en un libro antiguo. Se dice que Iron Serpent convirtió la tierra en cenizas con sus rayos.",
       "en": "This seems to be the Iron Serpent mentioned in an old book. The Iron Serpent is said to have turned the land to ash with its lightning."
     },
     "types": [
@@ -49526,7 +49526,7 @@
       "es": "Ondulagua"
     },
     "desc": {
-      "es": "",
+      "es": "Se asemeja a una ilustración publicada en una revista paranormal, que se dice que es una representación de un Suicune superantiguo.",
       "en": "It resembles an illustration published in a paranormal magazine, said to be a depiction of a super-ancient Suicune."
     },
     "types": [
@@ -49561,7 +49561,7 @@
       "es": "Ferroverdor"
     },
     "desc": {
-      "es": "",
+      "es": "Según los pocos relatos de testigos presenciales que existen, utilizaba sus hojas brillantes para cortar en tiras grandes árboles y rocas.",
       "en": "According to the few eyewitness accounts that exist, it used its shining blades to julienne large trees and boulders."
     },
     "types": [
@@ -49596,7 +49596,7 @@
       "es": "Dipplin"
     },
     "desc": {
-      "es": "",
+      "es": "La cabeza que sobresale pertenece al dragón delantero, mientras que la cola pertenece al dragón central. Comparten una manzana y se ayudan mutuamente.",
       "en": "The head sticking out belongs to the fore-wyrm, while the tail belongs to the core-wyrm. The two share one apple and help each other out."
     },
     "types": [
@@ -49635,7 +49635,7 @@
       "es": "Poltchageist"
     },
     "desc": {
-      "es": "",
+      "es": "Poltchageist parece una forma regional de Sinistea, pero recientemente se descubrió que los dos Pokémon no están relacionados en absoluto.",
       "en": "Poltchageist looks like a regional form of Sinistea, but it was recently discovered that the two Pokémon are entirely unrelated."
     },
     "types": [
@@ -49673,7 +49673,7 @@
       "es": "Poltchageist artesano"
     },
     "desc": {
-      "es": "",
+      "es": "Poltchageist parece una forma regional de Sinistea, pero recientemente se descubrió que los dos Pokémon no están relacionados en absoluto.",
       "en": "Poltchageist looks like a regional form of Sinistea, but it was recently discovered that the two Pokémon are entirely unrelated."
     },
     "types": [
@@ -49711,7 +49711,7 @@
       "es": "Sinistcha"
     },
     "desc": {
-      "es": "",
+      "es": "Prefiere lugares frescos y oscuros, como la parte trasera de un estante o el espacio debajo del suelo. Deambula en busca de presas tras el atardecer.",
       "en": "It prefers cool, dark places, such as the back of a shelf or the space beneath a home's floorboards. It wanders in search of prey after sunset."
     },
     "types": [
@@ -49747,7 +49747,7 @@
       "es": "Sinistcha Obra de Arte"
     },
     "desc": {
-      "es": "",
+      "es": "Prefiere lugares frescos y oscuros, como la parte trasera de un estante o el espacio debajo del suelo. Deambula en busca de presas tras el atardecer.",
       "en": "It prefers cool, dark places, such as the back of a shelf or the space beneath a home's floorboards. It wanders in search of prey after sunset."
     },
     "types": [
@@ -49783,7 +49783,7 @@
       "es": "Okidogi"
     },
     "desc": {
-      "es": "",
+      "es": "Okidogi es un matón de mal genio. Puede pulverizar cualquier cosa balanceando la cadena que lleva en el cuello.",
       "en": "Okidogi is a ruffian with a short temper. It can pulverize anything by swinging around the chain on its neck."
     },
     "types": [
@@ -49819,7 +49819,7 @@
       "es": "Munkidori"
     },
     "desc": {
-      "es": "",
+      "es": "Munkidori se mantiene a salvo mientras juega con sus enemigos, utilizando la psicoquinesis para indicarles un intenso mareo.",
       "en": "Munkidori keeps itself somewhere safe while it toys with its foes, using psychokinesis to induce intense dizziness."
     },
     "types": [
@@ -49855,7 +49855,7 @@
       "es": "Fezandipiti"
     },
     "desc": {
-      "es": "",
+      "es": "Fezandipiti bate sus brillantes alas para esparcir feromonas que cautivan a humanos y Pokémon.",
       "en": "Fezandipiti beats its glossy wings to scatter pheromones that captivate people and Pokémon."
     },
     "types": [
@@ -49891,7 +49891,7 @@
       "es": "Ogerpon"
     },
     "desc": {
-      "es": "",
+      "es": "A este Pokémon travieso le encanta la curiosidad. Lucha extrayendo la energía elemental contenida en sus máscaras.",
       "en": "This mischief-loving Pokémon is full of curiosity. It battles by drawing out the type-based energy contained within its masks."
     },
     "types": [
@@ -49925,7 +49925,7 @@
       "es": "Ogerpon Mascara Fuente"
     },
     "desc": {
-      "es": "",
+      "es": "A este Pokémon travieso le encanta la curiosidad. Lucha extrayendo la energía elemental contenida en sus máscaras.",
       "en": "This mischief-loving Pokémon is full of curiosity. It battles by drawing out the type-based energy contained within its masks."
     },
     "types": [
@@ -49960,7 +49960,7 @@
       "es": "Ogerpon Mascara Horno"
     },
     "desc": {
-      "es": "",
+      "es": "A este Pokémon travieso le encanta la curiosidad. Lucha extrayendo la energía elemental contenida en sus máscaras.",
       "en": "This mischief-loving Pokémon is full of curiosity. It battles by drawing out the type-based energy contained within its masks."
     },
     "types": [
@@ -49995,7 +49995,7 @@
       "es": "Ogerpon Mascara Cimiento"
     },
     "desc": {
-      "es": "",
+      "es": "A este Pokémon travieso le encanta la curiosidad. Lucha extrayendo la energía elemental contenida en sus máscaras.",
       "en": "This mischief-loving Pokémon is full of curiosity. It battles by drawing out the type-based energy contained within its masks."
     },
     "types": [
@@ -50030,7 +50030,7 @@
       "es": "Ogerpon Mascara Turquesa"
     },
     "desc": {
-      "es": "",
+      "es": "A este Pokémon travieso le encanta la curiosidad. Lucha extrayendo la energía elemental contenida en sus máscaras.",
       "en": "This mischief-loving Pokémon is full of curiosity. It battles by drawing out the type-based energy contained within its masks."
     },
     "types": [
@@ -50064,7 +50064,7 @@
       "es": "Ogerpon Mascara Fuente Teracristalizado"
     },
     "desc": {
-      "es": "",
+      "es": "A este Pokémon travieso le encanta la curiosidad. Lucha extrayendo la energía elemental contenida en sus máscaras.",
       "en": "This mischief-loving Pokémon is full of curiosity. It battles by drawing out the type-based energy contained within its masks."
     },
     "types": [
@@ -50099,7 +50099,7 @@
       "es": "Ogerpon Mascara Horno Teracristalizado"
     },
     "desc": {
-      "es": "",
+      "es": "A este Pokémon travieso le encanta la curiosidad. Lucha extrayendo la energía elemental contenida en sus máscaras.",
       "en": "This mischief-loving Pokémon is full of curiosity. It battles by drawing out the type-based energy contained within its masks."
     },
     "types": [
@@ -50134,7 +50134,7 @@
       "es": "Ogerpon Mascara Cimiento Teracristalizado"
     },
     "desc": {
-      "es": "",
+      "es": "A este Pokémon travieso le encanta la curiosidad. Lucha extrayendo la energía elemental contenida en sus máscaras.",
       "en": "This mischief-loving Pokémon is full of curiosity. It battles by drawing out the type-based energy contained within its masks."
     },
     "types": [
@@ -50169,7 +50169,7 @@
       "es": "Archaludon"
     },
     "desc": {
-      "es": "",
+      "es": "Excava agujeros en las montañas en busca de comida. Es tan resistente que quedar atrapado en un derrumbe no le afecta en absoluto.",
       "en": "It digs holes on mountains, searching for food. It’s so durable that being caught in a cave-in won’t faze it."
     },
     "types": [
@@ -50206,7 +50206,7 @@
       "es": "Hydrapple"
     },
     "desc": {
-      "es": "",
+      "es": "Estos dragones caprichosos se han unido. En las raras ocasiones en que sus estados de ánimo se alinean, se desata su verdadero poder.",
       "en": "These capricious syrpents have banded together. On the rare occasion that their moods align, their true power is unleashed."
     },
     "types": [
@@ -50243,7 +50243,7 @@
       "es": "Flamariete"
     },
     "desc": {
-      "es": "",
+      "es": "Se asemeja a un Pokémon misterioso que apareció en una revista paranormal. Se decía que ese Pokémon era un Entei regenerado a partir de un fósil.",
       "en": "It resembles an eerie Pokémon once shown in a paranormal magazine. That Pokémon was said to be an Entei regenerated from a fossil."
     },
     "types": [
@@ -50278,7 +50278,7 @@
       "es": "Electrofuria"
     },
     "desc": {
-      "es": "",
+      "es": "Tiene parecido con un Pokémon que se convirtió en tema de debate después de que una revista paranormal lo presentara como el ancestro de Raikou.",
       "en": "It bears resemblance to a Pokémon that became a hot topic for a short while after a paranormal magazine touted it as Raikou's ancestor."
     },
     "types": [
@@ -50313,7 +50313,7 @@
       "es": "Ferromole"
     },
     "desc": {
-      "es": "",
+      "es": "Lleva el nombre de un objeto misterioso registrado en un libro antiguo. Su cuerpo parece ser metálico.",
       "en": "It was named after a mysterious object recorded in an old book. Its body seems to be metallic."
     },
     "types": [
@@ -50348,7 +50348,7 @@
       "es": "Ferrotesta"
     },
     "desc": {
-      "es": "",
+      "es": "Supuestamente hubo un incidente en el que lanzó cuchillas brillantes para cortar en pedazos todo lo que le rodeaba. Se sabe poco más sobre él.",
       "en": "There was supposedly an incident in which it launched shining blades to cut everything around it to pieces. Little else is known about it."
     },
     "types": [
@@ -50383,7 +50383,7 @@
       "es": "Terapagos"
     },
     "desc": {
-      "es": "",
+      "es": "Se cree que este Pokémon vivió en la antigua Paldea hasta que quedó atrapado en movimientos sísmicos y se extinguió.",
       "en": "It’s thought that this Pokémon lived in ancient Paldea until it got caught in seismic shifts and went extinct."
     },
     "types": [
@@ -50417,7 +50417,7 @@
       "es": "Terapagos Teracristal"
     },
     "desc": {
-      "es": "",
+      "es": "Se cree que este Pokémon vivió en la antigua Paldea hasta que quedó atrapado en movimientos sísmicos y se extinguió.",
       "en": "It’s thought that this Pokémon lived in ancient Paldea until it got caught in seismic shifts and went extinct."
     },
     "types": [
@@ -50451,7 +50451,7 @@
       "es": "Terapagos Astral"
     },
     "desc": {
-      "es": "",
+      "es": "Se cree que este Pokémon vivió en la antigua Paldea hasta que quedó atrapado en movimientos sísmicos y se extinguió.",
       "en": "It’s thought that this Pokémon lived in ancient Paldea until it got caught in seismic shifts and went extinct."
     },
     "types": [
@@ -50485,7 +50485,7 @@
       "es": "Pecharunt"
     },
     "desc": {
-      "es": "",
+      "es": "Su caparazón en forma de melocotón sirve de almacenamiento para un potente veneno. Hace mochis venenosos y se los sirve a personas y Pokémon.",
       "en": "Its peach-shaped shell serves as storage for a potent poison. It makes poisonous mochi and serves them to people and Pokémon."
     },
     "types": [
