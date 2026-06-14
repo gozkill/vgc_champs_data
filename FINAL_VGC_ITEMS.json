@@ -68,7 +68,7 @@
   {
     "name": {
       "en": "Absolite Z",
-      "es": "Absolite Z"
+      "es": "Absolita Z"
     },
     "spritenum": 499,
     "megaStone": {
@@ -82,7 +82,7 @@
     "isNonstandard": "Future",
     "desc": {
       "en": "If held by an Absol, this item allows it to Mega Evolve into Mega Absol Z in battle.",
-      "es": "Sin descripción oficial."
+      "es": "Si lo lleva un Absol, este objeto le permite megaevolucionar a Mega-Absol Z en combate."
     },
     "shortDesc": "If held by an Absol, this item allows it to Mega Evolve into Mega Absol Z in battle.",
     "id": "absolitez",
@@ -288,7 +288,7 @@
   {
     "name": {
       "en": "Aloraichium Z",
-      "es": "Aloraichium Z"
+      "es": "Alorolaichustal Z"
     },
     "spritenum": 655,
     "zMove": "Stoked Sparksurfer",
@@ -301,7 +301,7 @@
     "isNonstandard": "Past",
     "desc": {
       "en": "If held by an Alolan Raichu with Thunderbolt, it can use Stoked Sparksurfer.",
-      "es": "Sin descripción oficial."
+      "es": "Si lo lleva un Raichu de Alola con Rayo, le permite usar el movimiento Z Surfeo de Voltios."
     },
     "shortDesc": "If held by an Alolan Raichu with Thunderbolt, it can use Stoked Sparksurfer.",
     "id": "aloraichiumz",
@@ -525,7 +525,7 @@
   {
     "name": {
       "en": "Barbaracite",
-      "es": "Barbaracite"
+      "es": "Barbaracita"
     },
     "spritenum": 564,
     "megaStone": {
@@ -539,7 +539,7 @@
     "isNonstandard": "Future",
     "desc": {
       "en": "If held by a Barbaracle, this item allows it to Mega Evolve in battle.",
-      "es": "Sin descripción oficial."
+      "es": "Si lo lleva un Barbaracle, este objeto le permite megaevolucionar en combate."
     },
     "shortDesc": "If held by a Barbaracle, this item allows it to Mega Evolve in battle.",
     "id": "barbaracite",
@@ -548,7 +548,7 @@
   {
     "name": {
       "en": "Baxcalibrite",
-      "es": "Baxcalibrite"
+      "es": "Baxcalibrita"
     },
     "spritenum": 514,
     "megaStone": {
@@ -562,7 +562,7 @@
     "isNonstandard": "Future",
     "desc": {
       "en": "If held by a Baxcalibur, this item allows it to Mega Evolve in battle.",
-      "es": "Sin descripción oficial."
+      "es": "Si lo lleva un Baxcalibur, este objeto le permite megaevolucionar en combate."
     },
     "shortDesc": "If held by a Baxcalibur, this item allows it to Mega Evolve in battle.",
     "id": "baxcalibrite",
@@ -979,7 +979,7 @@
   {
     "name": {
       "en": "Buginium Z",
-      "es": "Buginium Z"
+      "es": "Insectostal Z"
     },
     "spritenum": 642,
     "onPlate": "Bug",
@@ -990,7 +990,7 @@
     "isNonstandard": "Past",
     "desc": {
       "en": "If holder has a Bug move, this item allows it to use a Bug Z-Move.",
-      "es": "Sin descripción oficial."
+      "es": "Si el portador lleva un movimiento de tipo Bicho, este objeto le permite usar un movimiento Z de tipo Bicho."
     },
     "shortDesc": "If holder has a Bug move, this item allows it to use a Bug Z-Move.",
     "id": "buginiumz",
@@ -1089,7 +1089,7 @@
   {
     "name": {
       "en": "Chandelurite",
-      "es": "Chandelurite"
+      "es": "Chandelurita"
     },
     "spritenum": 557,
     "megaStone": {
@@ -1103,7 +1103,7 @@
     "isNonstandard": "Future",
     "desc": {
       "en": "If held by a Chandelure, this item allows it to Mega Evolve in battle.",
-      "es": "Sin descripción oficial."
+      "es": "Si lo lleva un Chandelure, este objeto le permite megaevolucionar en combate."
     },
     "shortDesc": "If held by a Chandelure, this item allows it to Mega Evolve in battle.",
     "id": "chandelurite",
@@ -1238,7 +1238,7 @@
   {
     "name": {
       "en": "Chesnaughtite",
-      "es": "Chesnaughtite"
+      "es": "Chesnaughtita"
     },
     "spritenum": 558,
     "megaStone": {
@@ -1252,7 +1252,7 @@
     "isNonstandard": "Future",
     "desc": {
       "en": "If held by a Chesnaught, this item allows it to Mega Evolve in battle.",
-      "es": "Sin descripción oficial."
+      "es": "Si lo lleva un Chesnaught, este objeto le permite megaevolucionar en combate."
     },
     "shortDesc": "If held by a Chesnaught, this item allows it to Mega Evolve in battle.",
     "id": "chesnaughtite",
@@ -1325,7 +1325,7 @@
   {
     "name": {
       "en": "Chimechite",
-      "es": "Chimechite"
+      "es": "Chimechita"
     },
     "spritenum": 498,
     "megaStone": {
@@ -1339,7 +1339,7 @@
     "isNonstandard": "Future",
     "desc": {
       "en": "If held by a Chimecho, this item allows it to Mega Evolve in battle.",
-      "es": "Sin descripción oficial."
+      "es": "Si lo lleva un Chimecho, este objeto le permite megaevolucionar en combate."
     },
     "shortDesc": "If held by a Chimecho, this item allows it to Mega Evolve in battle.",
     "id": "chimechite",
@@ -1490,7 +1490,7 @@
   {
     "name": {
       "en": "Clefablite",
-      "es": "Clefablite"
+      "es": "Clefablita"
     },
     "spritenum": 544,
     "megaStone": {
@@ -1504,7 +1504,7 @@
     "isNonstandard": "Future",
     "desc": {
       "en": "If held by a Clefable, this item allows it to Mega Evolve in battle.",
-      "es": "Sin descripción oficial."
+      "es": "Si lo lleva un Clefable, este objeto le permite megaevolucionar en combate."
     },
     "shortDesc": "If held by a Clefable, this item allows it to Mega Evolve in battle.",
     "id": "clefablite",
@@ -1660,7 +1660,7 @@
   {
     "name": {
       "en": "Crabominite",
-      "es": "Crabominite"
+      "es": "Crabominita"
     },
     "spritenum": 507,
     "megaStone": {
@@ -1674,7 +1674,7 @@
     "isNonstandard": "Future",
     "desc": {
       "en": "If held by a Crabominable, this item allows it to Mega Evolve in battle.",
-      "es": "Sin descripción oficial."
+      "es": "Si lo lleva un Crabominable, este objeto le permite megaevolucionar en combate."
     },
     "shortDesc": "If held by a Crabominable, this item allows it to Mega Evolve in battle.",
     "id": "crabominite",
@@ -1761,7 +1761,7 @@
   {
     "name": {
       "en": "Darkinium Z",
-      "es": "Darkinium Z"
+      "es": "Nictostal Z"
     },
     "spritenum": 646,
     "onPlate": "Dark",
@@ -1772,7 +1772,7 @@
     "isNonstandard": "Past",
     "desc": {
       "en": "If holder has a Dark move, this item allows it to use a Dark Z-Move.",
-      "es": "Sin descripción oficial."
+      "es": "Si el portador lleva un movimiento de tipo Siniestro, este objeto le permite usar un movimiento Z de tipo Siniestro."
     },
     "shortDesc": "If holder has a Dark move, this item allows it to use a Dark Z-Move.",
     "id": "darkiniumz",
@@ -1804,7 +1804,7 @@
   {
     "name": {
       "en": "Darkranite",
-      "es": "Darkranite"
+      "es": "Darkraita"
     },
     "spritenum": 504,
     "megaStone": {
@@ -1818,7 +1818,7 @@
     "isNonstandard": "Future",
     "desc": {
       "en": "If held by a Darkrai, this item allows it to Mega Evolve in battle.",
-      "es": "Sin descripción oficial."
+      "es": "Si lo lleva un Darkrai, este objeto le permite megaevolucionar en combate."
     },
     "shortDesc": "If held by a Darkrai, this item allows it to Mega Evolve in battle.",
     "id": "darkranite",
@@ -1846,7 +1846,7 @@
   {
     "name": {
       "en": "Decidium Z",
-      "es": "Decidium Z"
+      "es": "Dueyestal Z"
     },
     "spritenum": 650,
     "zMove": "Sinister Arrow Raid",
@@ -1859,7 +1859,7 @@
     "isNonstandard": "Past",
     "desc": {
       "en": "If held by a Decidueye with Spirit Shackle, it can use Sinister Arrow Raid.",
-      "es": "Sin descripción oficial."
+      "es": "Si lo lleva un Decidueye con Puntada Sombría, le permite usar el movimiento Z Aluvión de Flechas Sombrías."
     },
     "shortDesc": "If held by a Decidueye with Spirit Shackle, it can use Sinister Arrow Raid.",
     "id": "decidiumz",
@@ -1917,7 +1917,7 @@
   {
     "name": {
       "en": "Delphoxite",
-      "es": "Delphoxite"
+      "es": "Delphoxita"
     },
     "spritenum": 559,
     "megaStone": {
@@ -1931,7 +1931,7 @@
     "isNonstandard": "Future",
     "desc": {
       "en": "If held by a Delphox, this item allows it to Mega Evolve in battle.",
-      "es": "Sin descripción oficial."
+      "es": "Si lo lleva un Delphox, este objeto le permite megaevolucionar en combate."
     },
     "shortDesc": "If held by a Delphox, this item allows it to Mega Evolve in battle.",
     "id": "delphoxite",
@@ -2061,7 +2061,7 @@
   {
     "name": {
       "en": "Dragalgite",
-      "es": "Dragalgite"
+      "es": "Dragalgita"
     },
     "spritenum": 565,
     "megaStone": {
@@ -2075,7 +2075,7 @@
     "isNonstandard": "Future",
     "desc": {
       "en": "If held by a Dragalge, this item allows it to Mega Evolve in battle.",
-      "es": "Sin descripción oficial."
+      "es": "Si lo lleva un Dragalge, este objeto le permite megaevolucionar en combate."
     },
     "shortDesc": "If held by a Dragalge, this item allows it to Mega Evolve in battle.",
     "id": "dragalgite",
@@ -2122,7 +2122,7 @@
   {
     "name": {
       "en": "Dragoninite",
-      "es": "Dragoninite"
+      "es": "Dragonitita"
     },
     "spritenum": 547,
     "megaStone": {
@@ -2136,7 +2136,7 @@
     "isNonstandard": "Future",
     "desc": {
       "en": "If held by a Dragonite, this item allows it to Mega Evolve in battle.",
-      "es": "Sin descripción oficial."
+      "es": "Si lo lleva un Dragonite, este objeto le permite megaevolucionar en combate."
     },
     "shortDesc": "If held by a Dragonite, this item allows it to Mega Evolve in battle.",
     "id": "dragoninite",
@@ -2145,7 +2145,7 @@
   {
     "name": {
       "en": "Dragonium Z",
-      "es": "Dragonium Z"
+      "es": "Dracostal Z"
     },
     "spritenum": 645,
     "onPlate": "Dragon",
@@ -2156,7 +2156,7 @@
     "isNonstandard": "Past",
     "desc": {
       "en": "If holder has a Dragon move, this item allows it to use a Dragon Z-Move.",
-      "es": "Sin descripción oficial."
+      "es": "Si el portador lleva un movimiento de tipo Dragón, este objeto le permite usar un movimiento Z de tipo Dragón."
     },
     "shortDesc": "If holder has a Dragon move, this item allows it to use a Dragon Z-Move.",
     "id": "dragoniumz",
@@ -2207,7 +2207,7 @@
   {
     "name": {
       "en": "Drampanite",
-      "es": "Drampanite"
+      "es": "Drampainita"
     },
     "spritenum": 569,
     "megaStone": {
@@ -2221,7 +2221,7 @@
     "isNonstandard": "Future",
     "desc": {
       "en": "If held by a Drampa, this item allows it to Mega Evolve in battle.",
-      "es": "Sin descripción oficial."
+      "es": "Si lo lleva un Drampa, este objeto le permite megaevolucionar en combate."
     },
     "shortDesc": "If held by a Drampa, this item allows it to Mega Evolve in battle.",
     "id": "drampanite",
@@ -2363,7 +2363,7 @@
   {
     "name": {
       "en": "Eelektrossite",
-      "es": "Eelektrossite"
+      "es": "Eelektrossita"
     },
     "spritenum": 556,
     "megaStone": {
@@ -2377,7 +2377,7 @@
     "isNonstandard": "Future",
     "desc": {
       "en": "If held by an Eelektross, this item allows it to Mega Evolve in battle.",
-      "es": "Sin descripción oficial."
+      "es": "Si lo lleva un Eelektross, este objeto le permite megaevolucionar en combate."
     },
     "shortDesc": "If held by an Eelektross, this item allows it to Mega Evolve in battle.",
     "id": "eelektrossite",
@@ -2386,7 +2386,7 @@
   {
     "name": {
       "en": "Eevium Z",
-      "es": "Eevium Z"
+      "es": "Eevastal Z"
     },
     "spritenum": 657,
     "zMove": "Extreme Evoboost",
@@ -2399,7 +2399,7 @@
     "isNonstandard": "Past",
     "desc": {
       "en": "If held by an Eevee with Last Resort, it can use Extreme Evoboost.",
-      "es": "Sin descripción oficial."
+      "es": "Si lo lleva un Eevee con Última Baza, le permite usar el movimiento Z Novena Potencia."
     },
     "shortDesc": "If held by an Eevee with Last Resort, it can use Extreme Evoboost.",
     "id": "eeviumz",
@@ -2532,7 +2532,7 @@
   {
     "name": {
       "en": "Electrium Z",
-      "es": "Electrium Z"
+      "es": "Voltastal Z"
     },
     "spritenum": 634,
     "onPlate": "Electric",
@@ -2543,7 +2543,7 @@
     "isNonstandard": "Past",
     "desc": {
       "en": "If holder has an Electric move, this item allows it to use an Electric Z-Move.",
-      "es": "Sin descripción oficial."
+      "es": "Si el portador lleva un movimiento de tipo Eléctrico, este objeto le permite usar un movimiento Z de tipo Eléctrico."
     },
     "shortDesc": "If holder has an Electric move, this item allows it to use an Electric Z-Move.",
     "id": "electriumz",
@@ -2553,7 +2553,7 @@
   {
     "name": {
       "en": "Emboarite",
-      "es": "Emboarite"
+      "es": "Emboarita"
     },
     "spritenum": 552,
     "megaStone": {
@@ -2567,7 +2567,7 @@
     "isNonstandard": "Future",
     "desc": {
       "en": "If held by an Emboar, this item allows it to Mega Evolve in battle.",
-      "es": "Sin descripción oficial."
+      "es": "Si lo lleva un Emboar, este objeto le permite megaevolucionar en combate."
     },
     "shortDesc": "If held by an Emboar, this item allows it to Mega Evolve in battle.",
     "id": "emboarite",
@@ -2618,7 +2618,7 @@
   {
     "name": {
       "en": "Excadrite",
-      "es": "Excadrite"
+      "es": "Excadrillita"
     },
     "spritenum": 553,
     "megaStone": {
@@ -2632,7 +2632,7 @@
     "isNonstandard": "Future",
     "desc": {
       "en": "If held by an Excadrill, this item allows it to Mega Evolve in battle.",
-      "es": "Sin descripción oficial."
+      "es": "Si lo lleva un Excadrill, este objeto le permite megaevolucionar en combate."
     },
     "shortDesc": "If held by an Excadrill, this item allows it to Mega Evolve in battle.",
     "id": "excadrite",
@@ -2660,7 +2660,7 @@
   {
     "name": {
       "en": "Fairium Z",
-      "es": "Fairium Z"
+      "es": "Taerostal Z"
     },
     "spritenum": 648,
     "onPlate": "Fairy",
@@ -2671,7 +2671,7 @@
     "isNonstandard": "Past",
     "desc": {
       "en": "If holder has a Fairy move, this item allows it to use a Fairy Z-Move.",
-      "es": "Sin descripción oficial."
+      "es": "Si el portador lleva un movimiento de tipo Hada, este objeto le permite usar un movimiento Z de tipo Hada."
     },
     "shortDesc": "If holder has a Fairy move, this item allows it to use a Fairy Z-Move.",
     "id": "fairiumz",
@@ -2741,7 +2741,7 @@
   {
     "name": {
       "en": "Falinksite",
-      "es": "Falinksite"
+      "es": "Falinksita"
     },
     "spritenum": 570,
     "megaStone": {
@@ -2755,7 +2755,7 @@
     "isNonstandard": "Future",
     "desc": {
       "en": "If held by a Falinks, this item allows it to Mega Evolve in battle.",
-      "es": "Sin descripción oficial."
+      "es": "Si lo lleva un Falinks, este objeto le permite megaevolucionar en combate."
     },
     "shortDesc": "If held by a Falinks, this item allows it to Mega Evolve in battle.",
     "id": "falinksite",
@@ -2781,7 +2781,7 @@
   {
     "name": {
       "en": "Feraligite",
-      "es": "Feraligite"
+      "es": "Feraligatrita"
     },
     "spritenum": 549,
     "megaStone": {
@@ -2795,7 +2795,7 @@
     "isNonstandard": "Future",
     "desc": {
       "en": "If held by a Feraligatr, this item allows it to Mega Evolve in battle.",
-      "es": "Sin descripción oficial."
+      "es": "Si lo lleva un Feraligatr, este objeto le permite megaevolucionar en combate."
     },
     "shortDesc": "If held by a Feraligatr, this item allows it to Mega Evolve in battle.",
     "id": "feraligite",
@@ -2844,7 +2844,7 @@
   {
     "name": {
       "en": "Fightinium Z",
-      "es": "Fightinium Z"
+      "es": "Lizastal Z"
     },
     "spritenum": 637,
     "onPlate": "Fighting",
@@ -2855,7 +2855,7 @@
     "isNonstandard": "Past",
     "desc": {
       "en": "If holder has a Fighting move, this item allows it to use a Fighting Z-Move.",
-      "es": "Sin descripción oficial."
+      "es": "Si el portador lleva un movimiento de tipo Lucha, este objeto le permite usar un movimiento Z de tipo Lucha."
     },
     "shortDesc": "If holder has a Fighting move, this item allows it to use a Fighting Z-Move.",
     "id": "fightiniumz",
@@ -2945,7 +2945,7 @@
   {
     "name": {
       "en": "Firium Z",
-      "es": "Firium Z"
+      "es": "Pirostal Z"
     },
     "spritenum": 632,
     "onPlate": "Fire",
@@ -2956,7 +2956,7 @@
     "isNonstandard": "Past",
     "desc": {
       "en": "If holder has a Fire move, this item allows it to use a Fire Z-Move.",
-      "es": "Sin descripción oficial."
+      "es": "Si el portador lleva un movimiento de tipo Fuego, este objeto le permite usar un movimiento Z de tipo Fuego."
     },
     "shortDesc": "If holder has a Fire move, this item allows it to use a Fire Z-Move.",
     "id": "firiumz",
@@ -3045,7 +3045,7 @@
   {
     "name": {
       "en": "Floettite",
-      "es": "Floettite"
+      "es": "Floettita"
     },
     "spritenum": 562,
     "megaStone": {
@@ -3059,7 +3059,7 @@
     "isNonstandard": "Future",
     "desc": {
       "en": "If held by an Eternal Flower Floette, this item allows it to Mega Evolve in battle.",
-      "es": "Sin descripción oficial."
+      "es": "Si lo lleva un Floette Flor Eterna, este objeto le permite megaevolucionar en combate."
     },
     "shortDesc": "If held by an Eternal Flower Floette, this item allows it to Mega Evolve in battle.",
     "id": "floettite",
@@ -3127,7 +3127,7 @@
   {
     "name": {
       "en": "Flyinium Z",
-      "es": "Flyinium Z"
+      "es": "Aerostal Z"
     },
     "spritenum": 640,
     "onPlate": "Flying",
@@ -3138,7 +3138,7 @@
     "isNonstandard": "Past",
     "desc": {
       "en": "If holder has a Flying move, this item allows it to use a Flying Z-Move.",
-      "es": "Sin descripción oficial."
+      "es": "Si el portador lleva un movimiento de tipo Volador, este objeto le permite usar un movimiento Z de tipo Volador."
     },
     "shortDesc": "If holder has a Flying move, this item allows it to use a Flying Z-Move.",
     "id": "flyiniumz",
@@ -3299,7 +3299,7 @@
     "isNonstandard": "Future",
     "desc": {
       "en": "If held by a Froslass, this item allows it to Mega Evolve in battle.",
-      "es": "Sin descripción oficial."
+      "es": "Si lo lleva un Froslass, este objeto le permite megaevolucionar en combate."
     },
     "shortDesc": "If held by a Froslass, this item allows it to Mega Evolve in battle.",
     "id": "froslassite",
@@ -3434,7 +3434,7 @@
   {
     "name": {
       "en": "Garchompite Z",
-      "es": "Garchompite Z"
+      "es": "Garchompita Z"
     },
     "spritenum": 501,
     "megaStone": {
@@ -3448,7 +3448,7 @@
     "isNonstandard": "Future",
     "desc": {
       "en": "If held by a Garchomp, this item allows it to Mega Evolve into Mega Garchomp Z.",
-      "es": "Sin descripción oficial."
+      "es": "Si lo lleva un Garchomp, este objeto le permite megaevolucionar a Mega-Garchomp Z en combate."
     },
     "shortDesc": "If held by a Garchomp, this item allows it to Mega Evolve into Mega Garchomp Z.",
     "id": "garchompitez",
@@ -3521,7 +3521,7 @@
   {
     "name": {
       "en": "Ghostium Z",
-      "es": "Ghostium Z"
+      "es": "Espectrostal Z"
     },
     "spritenum": 644,
     "onPlate": "Ghost",
@@ -3532,7 +3532,7 @@
     "isNonstandard": "Past",
     "desc": {
       "en": "If holder has a Ghost move, this item allows it to use a Ghost Z-Move.",
-      "es": "Sin descripción oficial."
+      "es": "Si el portador lleva un movimiento de tipo Fantasma, este objeto le permite usar un movimiento Z de tipo Fantasma."
     },
     "shortDesc": "If holder has a Ghost move, this item allows it to use a Ghost Z-Move.",
     "id": "ghostiumz",
@@ -3587,7 +3587,7 @@
   {
     "name": {
       "en": "Glimmoranite",
-      "es": "Glimmoranite"
+      "es": "Glimmoranita"
     },
     "spritenum": 512,
     "megaStone": {
@@ -3601,7 +3601,7 @@
     "isNonstandard": "Future",
     "desc": {
       "en": "If held by a Glimmora, this item allows it to Mega Evolve in battle.",
-      "es": "Sin descripción oficial."
+      "es": "Si lo lleva un Glimmora, este objeto le permite megaevolucionar en combate."
     },
     "shortDesc": "If held by a Glimmora, this item allows it to Mega Evolve in battle.",
     "id": "glimmoranite",
@@ -3629,7 +3629,7 @@
   {
     "name": {
       "en": "Golisopite",
-      "es": "Golisopite"
+      "es": "Golisopita"
     },
     "spritenum": 508,
     "megaStone": {
@@ -3643,7 +3643,7 @@
     "isNonstandard": "Future",
     "desc": {
       "en": "If held by a Golisopod, this item allows it to Mega Evolve in battle.",
-      "es": "Sin descripción oficial."
+      "es": "Si lo lleva un Golisopod, este objeto le permite megaevolucionar en combate."
     },
     "shortDesc": "If held by a Golisopod, this item allows it to Mega Evolve in battle.",
     "id": "golisopite",
@@ -3652,7 +3652,7 @@
   {
     "name": {
       "en": "Golurkite",
-      "es": "Golurkite"
+      "es": "Golurkita"
     },
     "spritenum": 505,
     "megaStone": {
@@ -3666,7 +3666,7 @@
     "isNonstandard": "Future",
     "desc": {
       "en": "If held by a Golurk, this item allows it to Mega Evolve in battle.",
-      "es": "Sin descripción oficial."
+      "es": "Si lo lleva un Golurk, este objeto le permite megaevolucionar en combate."
     },
     "shortDesc": "If held by a Golurk, this item allows it to Mega Evolve in battle.",
     "id": "golurkite",
@@ -3693,7 +3693,7 @@
   {
     "name": {
       "en": "Grassium Z",
-      "es": "Grassium Z"
+      "es": "Fitostal Z"
     },
     "spritenum": 635,
     "onPlate": "Grass",
@@ -3704,7 +3704,7 @@
     "isNonstandard": "Past",
     "desc": {
       "en": "If holder has a Grass move, this item allows it to use a Grass Z-Move.",
-      "es": "Sin descripción oficial."
+      "es": "Si el portador lleva un movimiento de tipo Planta, este objeto le permite usar un movimiento Z de tipo Planta."
     },
     "shortDesc": "If holder has a Grass move, this item allows it to use a Grass Z-Move.",
     "id": "grassiumz",
@@ -3776,7 +3776,7 @@
   {
     "name": {
       "en": "Greninjite",
-      "es": "Greninjite"
+      "es": "Greninjita"
     },
     "spritenum": 560,
     "megaStone": {
@@ -3790,7 +3790,7 @@
     "isNonstandard": "Future",
     "desc": {
       "en": "If held by a Greninja, this item allows it to Mega Evolve in battle.",
-      "es": "Sin descripción oficial."
+      "es": "Si lo lleva un Greninja, este objeto le permite megaevolucionar en combate."
     },
     "shortDesc": "If held by a Greninja, this item allows it to Mega Evolve in battle.",
     "id": "greninjite",
@@ -3902,7 +3902,7 @@
   {
     "name": {
       "en": "Groundium Z",
-      "es": "Groundium Z"
+      "es": "Geostal Z"
     },
     "spritenum": 639,
     "onPlate": "Ground",
@@ -3913,7 +3913,7 @@
     "isNonstandard": "Past",
     "desc": {
       "en": "If holder has a Ground move, this item allows it to use a Ground Z-Move.",
-      "es": "Sin descripción oficial."
+      "es": "Si el portador lleva un movimiento de tipo Tierra, este objeto le permite usar un movimiento Z de tipo Tierra."
     },
     "shortDesc": "If holder has a Ground move, this item allows it to use a Ground Z-Move.",
     "id": "groundiumz",
@@ -4009,7 +4009,7 @@
   {
     "name": {
       "en": "Hawluchanite",
-      "es": "Hawluchanite"
+      "es": "Hawluchanita"
     },
     "spritenum": 566,
     "megaStone": {
@@ -4023,7 +4023,7 @@
     "isNonstandard": "Future",
     "desc": {
       "en": "If held by a Hawlucha, this item allows it to Mega Evolve in battle.",
-      "es": "Sin descripción oficial."
+      "es": "Si lo lleva un Hawlucha, este objeto le permite megaevolucionar en combate."
     },
     "shortDesc": "If held by a Hawlucha, this item allows it to Mega Evolve in battle.",
     "id": "hawluchanite",
@@ -4073,7 +4073,7 @@
   {
     "name": {
       "en": "Heatranite",
-      "es": "Heatranite"
+      "es": "Heatranita"
     },
     "spritenum": 503,
     "megaStone": {
@@ -4087,7 +4087,7 @@
     "isNonstandard": "Future",
     "desc": {
       "en": "If held by a Heatran, this item allows it to Mega Evolve in battle.",
-      "es": "Sin descripción oficial."
+      "es": "Si lo lleva un Heatran, este objeto le permite megaevolucionar en combate."
     },
     "shortDesc": "If held by a Heatran, this item allows it to Mega Evolve in battle.",
     "id": "heatranite",
@@ -4338,7 +4338,7 @@
   {
     "name": {
       "en": "Icium Z",
-      "es": "Icium Z"
+      "es": "Criostal Z"
     },
     "spritenum": 636,
     "onPlate": "Ice",
@@ -4349,7 +4349,7 @@
     "isNonstandard": "Past",
     "desc": {
       "en": "If holder has an Ice move, this item allows it to use an Ice Z-Move.",
-      "es": "Sin descripción oficial."
+      "es": "Si el portador lleva un movimiento de tipo Hielo, este objeto le permite usar un movimiento Z de tipo Hielo."
     },
     "shortDesc": "If holder has an Ice move, this item allows it to use an Ice Z-Move.",
     "id": "iciumz",
@@ -4378,7 +4378,7 @@
   {
     "name": {
       "en": "Incinium Z",
-      "es": "Incinium Z"
+      "es": "Incinostal Z"
     },
     "spritenum": 651,
     "zMove": "Malicious Moonsault",
@@ -4391,7 +4391,7 @@
     "isNonstandard": "Past",
     "desc": {
       "en": "If held by an Incineroar with Darkest Lariat, it can use Malicious Moonsault.",
-      "es": "Sin descripción oficial."
+      "es": "Si lo lleva un Incineroar con Lariat Oscuro, le permite usar el movimiento Z Hiperplancha Oscura."
     },
     "shortDesc": "If held by an Incineroar with Darkest Lariat, it can use Malicious Moonsault.",
     "id": "inciniumz",
@@ -4628,7 +4628,7 @@
   {
     "name": {
       "en": "Kommonium Z",
-      "es": "Kommonium Z"
+      "es": "Komostal Z"
     },
     "spritenum": 690,
     "zMove": "Clangorous Soulblaze",
@@ -4642,7 +4642,7 @@
     "isNonstandard": "Past",
     "desc": {
       "en": "If held by a Kommo-o with Clanging Scales, it can use Clangorous Soulblaze.",
-      "es": "Sin descripción oficial."
+      "es": "Si lo lleva un Kommo-o con Fragor Escamas, le permite usar el movimiento Z Estruendo Implacable."
     },
     "shortDesc": "If held by a Kommo-o with Clanging Scales, it can use Clangorous Soulblaze.",
     "id": "kommoniumz",
@@ -4779,7 +4779,7 @@
   {
     "name": {
       "en": "Leek",
-      "es": "Leek"
+      "es": "Puerro"
     },
     "fling": {
       "basePower": 60
@@ -4795,7 +4795,7 @@
     "isNonstandard": "Past",
     "desc": {
       "en": "If held by a Farfetch’d or Sirfetch’d, its critical hit ratio is raised by 2 stages.",
-      "es": "Sin descripción oficial."
+      "es": "Si lo lleva un Farfetch’d o Sirfetch’d, aumenta la probabilidad de asestar golpes críticos en 2 niveles."
     },
     "shortDesc": "If held by a Farfetch’d or Sirfetch’d, its critical hit ratio is raised by 2 stages.",
     "id": "leek",
@@ -5063,7 +5063,7 @@
   {
     "name": {
       "en": "Lucarionite Z",
-      "es": "Lucarionite Z"
+      "es": "Lucarionita Z"
     },
     "spritenum": 502,
     "megaStone": {
@@ -5077,7 +5077,7 @@
     "isNonstandard": "Future",
     "desc": {
       "en": "If held by a Lucario, this item allows it to Mega Evolve into Mega Lucario Z in battle.",
-      "es": "Sin descripción oficial."
+      "es": "Si lo lleva un Lucario, este objeto le permite megaevolucionar a Mega-Lucario Z en combate."
     },
     "shortDesc": "If held by a Lucario, this item allows it to Mega Evolve into Mega Lucario Z in battle.",
     "id": "lucarionitez",
@@ -5153,7 +5153,7 @@
   {
     "name": {
       "en": "Lunalium Z",
-      "es": "Lunalium Z"
+      "es": "Lunalastal Z"
     },
     "spritenum": 686,
     "zMove": "Menacing Moonraze Maelstrom",
@@ -5167,7 +5167,7 @@
     "isNonstandard": "Past",
     "desc": {
       "en": "Lunala or Dawn Wings Necrozma with Moongeist Beam can use a special Z-Move.",
-      "es": "Sin descripción oficial."
+      "es": "Si lo lleva una Lunala o un Necrozma Alas del Alba con Rayo Umbrío, le permite usar el movimiento Z Constelación Multipolar."
     },
     "shortDesc": "Lunala or Dawn Wings Necrozma with Moongeist Beam can use a special Z-Move.",
     "id": "lunaliumz",
@@ -5255,7 +5255,7 @@
   {
     "name": {
       "en": "Lycanium Z",
-      "es": "Lycanium Z"
+      "es": "Lycanrostal Z"
     },
     "spritenum": 689,
     "zMove": "Splintered Stormshards",
@@ -5270,7 +5270,7 @@
     "isNonstandard": "Past",
     "desc": {
       "en": "If held by a Lycanroc forme with Stone Edge, it can use Splintered Stormshards.",
-      "es": "Sin descripción oficial."
+      "es": "Si lo lleva un Lycanroc con Roca Afilada, le permite usar el movimiento Z Tempestad Rocosa."
     },
     "shortDesc": "If held by a Lycanroc forme with Stone Edge, it can use Splintered Stormshards.",
     "id": "lycaniumz",
@@ -5301,7 +5301,7 @@
   {
     "name": {
       "en": "Magearnite",
-      "es": "Magearnite"
+      "es": "Magearnita"
     },
     "spritenum": 509,
     "megaStone": {
@@ -5317,7 +5317,7 @@
     "isNonstandard": "Future",
     "desc": {
       "en": "If held by a Magearna, this item allows it to Mega Evolve in battle.",
-      "es": "Sin descripción oficial."
+      "es": "Si lo lleva un Magearna, este objeto le permite megaevolucionar en combate."
     },
     "shortDesc": "If held by a Magearna, this item allows it to Mega Evolve in battle.",
     "id": "magearnite",
@@ -5409,7 +5409,7 @@
   {
     "name": {
       "en": "Mail",
-      "es": "Mail"
+      "es": "Carta"
     },
     "spritenum": 403,
     "num": 137,
@@ -5417,7 +5417,7 @@
     "isNonstandard": "Past",
     "desc": {
       "en": "Cannot be given to or taken from a Pokemon, except by Covet/Knock Off/Thief.",
-      "es": "Sin descripción oficial."
+      "es": "No se puede dar ni quitar a un Pokémon, excepto con Antojo, Desarme o Ladrón."
     },
     "shortDesc": "Cannot be given to or taken from a Pokemon, except by Covet/Knock Off/Thief.",
     "id": "mail",
@@ -5426,7 +5426,7 @@
   {
     "name": {
       "en": "Malamarite",
-      "es": "Malamarite"
+      "es": "Malamarita"
     },
     "spritenum": 563,
     "megaStone": {
@@ -5440,7 +5440,7 @@
     "isNonstandard": "Future",
     "desc": {
       "en": "If held by a Malamar, this item allows it to Mega Evolve in battle.",
-      "es": "Sin descripción oficial."
+      "es": "Si lo lleva un Malamar, este objeto le permite megaevolucionar en combate."
     },
     "shortDesc": "If held by a Malamar, this item allows it to Mega Evolve in battle.",
     "id": "malamarite",
@@ -5512,7 +5512,7 @@
   {
     "name": {
       "en": "Marshadium Z",
-      "es": "Marshadium Z"
+      "es": "Marshadowstal Z"
     },
     "spritenum": 654,
     "zMove": "Soul-Stealing 7-Star Strike",
@@ -5525,7 +5525,7 @@
     "isNonstandard": "Past",
     "desc": {
       "en": "If held by Marshadow with Spectral Thief, it can use Soul-Stealing 7-Star Strike.",
-      "es": "Sin descripción oficial."
+      "es": "Si lo lleva un Marshadow con Puños Espectrales, le permite usar el movimiento Z Constelación de Puños Sombríos."
     },
     "shortDesc": "If held by Marshadow with Spectral Thief, it can use Soul-Stealing 7-Star Strike.",
     "id": "marshadiumz",
@@ -5636,7 +5636,7 @@
   {
     "name": {
       "en": "Meganiumite",
-      "es": "Meganiumite"
+      "es": "Meganiumita"
     },
     "spritenum": 548,
     "megaStone": {
@@ -5650,7 +5650,7 @@
     "isNonstandard": "Future",
     "desc": {
       "en": "If held by a Meganium, this item allows it to Mega Evolve in battle.",
-      "es": "Sin descripción oficial."
+      "es": "Si lo lleva un Meganium, este objeto le permite megaevolucionar en combate."
     },
     "shortDesc": "If held by a Meganium, this item allows it to Mega Evolve in battle.",
     "id": "meganiumite",
@@ -5678,7 +5678,7 @@
   {
     "name": {
       "en": "Meowsticite",
-      "es": "Meowsticite"
+      "es": "Meowsticita"
     },
     "spritenum": 506,
     "megaStone": {
@@ -5694,7 +5694,7 @@
     "isNonstandard": "Future",
     "desc": {
       "en": "If held by a Meowstic, this item allows it to Mega Evolve in battle.",
-      "es": "Sin descripción oficial."
+      "es": "Si lo lleva un Meowstic, este objeto le permite megaevolucionar en combate."
     },
     "shortDesc": "If held by a Meowstic, this item allows it to Mega Evolve in battle.",
     "id": "meowsticite",
@@ -5808,7 +5808,7 @@
   {
     "name": {
       "en": "Mewnium Z",
-      "es": "Mewnium Z"
+      "es": "Mewstal Z"
     },
     "spritenum": 658,
     "zMove": "Genesis Supernova",
@@ -5821,7 +5821,7 @@
     "isNonstandard": "Past",
     "desc": {
       "en": "If held by a Mew with Psychic, it can use Genesis Supernova.",
-      "es": "Sin descripción oficial."
+      "es": "Si lo lleva un Mew con Psíquico, le permite usar el movimiento Z Supernova Original."
     },
     "shortDesc": "If held by a Mew with Psychic, it can use Genesis Supernova.",
     "id": "mewniumz",
@@ -5901,7 +5901,7 @@
   {
     "name": {
       "en": "Mimikium Z",
-      "es": "Mimikium Z"
+      "es": "Mimikystal Z"
     },
     "spritenum": 688,
     "zMove": "Let's Snuggle Forever",
@@ -5917,7 +5917,7 @@
     "gen": 7,
     "desc": {
       "en": "If held by a Mimikyu with Play Rough, it can use Let's Snuggle Forever.",
-      "es": "Sin descripción oficial."
+      "es": "Si lo lleva un Mimikyu con Carantoña, le permite usar el movimiento Z Letargo sin Fin."
     },
     "shortDesc": "If held by a Mimikyu with Play Rough, it can use Let's Snuggle Forever.",
     "id": "mimikiumz",
@@ -6203,7 +6203,7 @@
   {
     "name": {
       "en": "Normalium Z",
-      "es": "Normalium Z"
+      "es": "Normastal Z"
     },
     "spritenum": 631,
     "zMoveType": "Normal",
@@ -6212,7 +6212,7 @@
     "isNonstandard": "Past",
     "desc": {
       "en": "If holder has a Normal move, this item allows it to use a Normal Z-Move.",
-      "es": "Sin descripción oficial."
+      "es": "Si el portador lleva un movimiento de tipo Normal, este objeto le permite usar un movimiento Z de tipo Normal."
     },
     "shortDesc": "If holder has a Normal move, this item allows it to use a Normal Z-Move.",
     "id": "normaliumz",
@@ -6493,7 +6493,7 @@
   {
     "name": {
       "en": "Pikanium Z",
-      "es": "Pikanium Z"
+      "es": "Pikastal Z"
     },
     "spritenum": 649,
     "zMove": "Catastropika",
@@ -6506,7 +6506,7 @@
     "isNonstandard": "Past",
     "desc": {
       "en": "If held by a Pikachu with Volt Tackle, it can use Catastropika.",
-      "es": "Sin descripción oficial."
+      "es": "Si lo lleva un Pikachu con Voltiotacleo, le permite usar el movimiento Z Picavoltio Letal."
     },
     "shortDesc": "If held by a Pikachu with Volt Tackle, it can use Catastropika.",
     "id": "pikaniumz",
@@ -6516,7 +6516,7 @@
   {
     "name": {
       "en": "Pikashunium Z",
-      "es": "Pikashunium Z"
+      "es": "Pikashustal Z"
     },
     "spritenum": 659,
     "zMove": "10,000,000 Volt Thunderbolt",
@@ -6535,7 +6535,7 @@
     "gen": 7,
     "desc": {
       "en": "If held by cap Pikachu with Thunderbolt, it can use 10,000,000 Volt Thunderbolt.",
-      "es": "Sin descripción oficial."
+      "es": "Si lo lleva un Pikachu con gorra con Rayo, le permite usar el movimiento Z Gigarrayo Fulminante."
     },
     "shortDesc": "If held by cap Pikachu with Thunderbolt, it can use 10,000,000 Volt Thunderbolt.",
     "id": "pikashuniumz",
@@ -6669,7 +6669,7 @@
   {
     "name": {
       "en": "Poisonium Z",
-      "es": "Poisonium Z"
+      "es": "Toxistal Z"
     },
     "spritenum": 638,
     "onPlate": "Poison",
@@ -6680,7 +6680,7 @@
     "isNonstandard": "Past",
     "desc": {
       "en": "If holder has a Poison move, this item allows it to use a Poison Z-Move.",
-      "es": "Sin descripción oficial."
+      "es": "Si el portador lleva un movimiento de tipo Veneno, este objeto le permite usar un movimiento Z de tipo Veneno."
     },
     "shortDesc": "If holder has a Poison move, this item allows it to use a Poison Z-Move.",
     "id": "poisoniumz",
@@ -6907,7 +6907,7 @@
   {
     "name": {
       "en": "Pretty Feather",
-      "es": "Pretty Feather"
+      "es": "Pluma Bella"
     },
     "spritenum": 1,
     "fling": {
@@ -6917,7 +6917,7 @@
     "gen": 5,
     "desc": {
       "en": "Though this feather is beautiful, it's just a regular feather and has no effect.",
-      "es": "Sin descripción oficial."
+      "es": "Una pluma muy bonita pero que no tiene ningún efecto."
     },
     "shortDesc": "Though this feather is beautiful, it's just a regular feather and has no effect.",
     "id": "prettyfeather",
@@ -6926,7 +6926,7 @@
   {
     "name": {
       "en": "Primarium Z",
-      "es": "Primarium Z"
+      "es": "Primarstal Z"
     },
     "spritenum": 652,
     "zMove": "Oceanic Operetta",
@@ -6939,7 +6939,7 @@
     "isNonstandard": "Past",
     "desc": {
       "en": "If held by a Primarina with Sparkling Aria, it can use Oceanic Operetta.",
-      "es": "Sin descripción oficial."
+      "es": "Si lo lleva una Primarina con Aria Burbuja, le permite usar el movimiento Z Sinfonía de la Diva Marina."
     },
     "shortDesc": "If held by a Primarina with Sparkling Aria, it can use Oceanic Operetta.",
     "id": "primariumz",
@@ -7069,7 +7069,7 @@
   {
     "name": {
       "en": "Psychium Z",
-      "es": "Psychium Z"
+      "es": "Psicoztal Z"
     },
     "spritenum": 641,
     "onPlate": "Psychic",
@@ -7080,7 +7080,7 @@
     "isNonstandard": "Past",
     "desc": {
       "en": "If holder has a Psychic move, this item allows it to use a Psychic Z-Move.",
-      "es": "Sin descripción oficial."
+      "es": "Si el portador lleva un movimiento de tipo Psíquico, este objeto le permite usar un movimiento Z de tipo Psíquico."
     },
     "shortDesc": "If holder has a Psychic move, this item allows it to use a Psychic Z-Move.",
     "id": "psychiumz",
@@ -7111,7 +7111,7 @@
   {
     "name": {
       "en": "Pyroarite",
-      "es": "Pyroarite"
+      "es": "Pyroarita"
     },
     "spritenum": 561,
     "megaStone": {
@@ -7125,7 +7125,7 @@
     "isNonstandard": "Future",
     "desc": {
       "en": "If held by a Pyroar, this item allows it to Mega Evolve in battle.",
-      "es": "Sin descripción oficial."
+      "es": "Si lo lleva un Pyroar, este objeto le permite megaevolucionar en combate."
     },
     "shortDesc": "If held by a Pyroar, this item allows it to Mega Evolve in battle.",
     "id": "pyroarite",
@@ -7239,7 +7239,7 @@
   {
     "name": {
       "en": "Raichunite X",
-      "es": "Raichunite X"
+      "es": "Raichunita X"
     },
     "spritenum": 496,
     "megaStone": {
@@ -7253,7 +7253,7 @@
     "isNonstandard": "Future",
     "desc": {
       "en": "If held by a Raichu, this item allows it to Mega Evolve into Mega Raichu X in battle.",
-      "es": "Sin descripción oficial."
+      "es": "Si lo lleva un Raichu, este objeto le permite megaevolucionar a Mega-Raichu X en combate."
     },
     "shortDesc": "If held by a Raichu, this item allows it to Mega Evolve into Mega Raichu X in battle.",
     "id": "raichunitex",
@@ -7262,7 +7262,7 @@
   {
     "name": {
       "en": "Raichunite Y",
-      "es": "Raichunite Y"
+      "es": "Raichunita Y"
     },
     "spritenum": 497,
     "megaStone": {
@@ -7276,7 +7276,7 @@
     "isNonstandard": "Future",
     "desc": {
       "en": "If held by a Raichu, this item allows it to Mega Evolve into Mega Raichu Y in battle.",
-      "es": "Sin descripción oficial."
+      "es": "Si lo lleva un Raichu, este objeto le permite megaevolucionar a Mega-Raichu Y en combate."
     },
     "shortDesc": "If held by a Raichu, this item allows it to Mega Evolve into Mega Raichu Y in battle.",
     "id": "raichunitey",
@@ -7563,7 +7563,7 @@
   {
     "name": {
       "en": "Rockium Z",
-      "es": "Rockium Z"
+      "es": "Litostal Z"
     },
     "spritenum": 643,
     "onPlate": "Rock",
@@ -7574,7 +7574,7 @@
     "isNonstandard": "Past",
     "desc": {
       "en": "If holder has a Rock move, this item allows it to use a Rock Z-Move.",
-      "es": "Sin descripción oficial."
+      "es": "Si el portador lleva un movimiento de tipo Roca, este objeto le permite usar un movimiento Z de tipo Roca."
     },
     "shortDesc": "If holder has a Rock move, this item allows it to use a Rock Z-Move.",
     "id": "rockiumz",
@@ -7959,7 +7959,7 @@
   {
     "name": {
       "en": "Scolipite",
-      "es": "Scolipite"
+      "es": "Scolipedita"
     },
     "spritenum": 554,
     "megaStone": {
@@ -7973,7 +7973,7 @@
     "isNonstandard": "Future",
     "desc": {
       "en": "If held by a Scolipede, this item allows it to Mega Evolve in battle.",
-      "es": "Sin descripción oficial."
+      "es": "Si lo lleva un Scolipede, este objeto le permite megaevolucionar en combate."
     },
     "shortDesc": "If held by a Scolipede, this item allows it to Mega Evolve in battle.",
     "id": "scolipite",
@@ -8001,7 +8001,7 @@
   {
     "name": {
       "en": "Scovillainite",
-      "es": "Scovillainite"
+      "es": "Scovillainita"
     },
     "spritenum": 511,
     "megaStone": {
@@ -8015,7 +8015,7 @@
     "isNonstandard": "Future",
     "desc": {
       "en": "If held by a Scovillain, this item allows it to Mega Evolve in battle.",
-      "es": "Sin descripción oficial."
+      "es": "Si lo lleva un Scovillain, este objeto le permite megaevolucionar en combate."
     },
     "shortDesc": "If held by a Scovillain, this item allows it to Mega Evolve in battle.",
     "id": "scovillainite",
@@ -8024,7 +8024,7 @@
   {
     "name": {
       "en": "Scraftinite",
-      "es": "Scraftinite"
+      "es": "Scraftynita"
     },
     "spritenum": 555,
     "megaStone": {
@@ -8038,7 +8038,7 @@
     "isNonstandard": "Future",
     "desc": {
       "en": "If held by a Scrafty, this item allows it to Mega Evolve in battle.",
-      "es": "Sin descripción oficial."
+      "es": "Si lo lleva un Scrafty, este objeto le permite megaevolucionar en combate."
     },
     "shortDesc": "If held by a Scrafty, this item allows it to Mega Evolve in battle.",
     "id": "scraftinite",
@@ -8275,7 +8275,7 @@
   {
     "name": {
       "en": "Skarmorite",
-      "es": "Skarmorite"
+      "es": "Skarmorita"
     },
     "spritenum": 550,
     "megaStone": {
@@ -8289,7 +8289,7 @@
     "isNonstandard": "Future",
     "desc": {
       "en": "If held by a Skarmory, this item allows it to Mega Evolve in battle.",
-      "es": "Sin descripción oficial."
+      "es": "Si lo lleva un Skarmory, este objeto le permite megaevolucionar en combate."
     },
     "shortDesc": "If held by a Skarmory, this item allows it to Mega Evolve in battle.",
     "id": "skarmorite",
@@ -8379,7 +8379,7 @@
   {
     "name": {
       "en": "Snorlium Z",
-      "es": "Snorlium Z"
+      "es": "Snorlastal Z"
     },
     "spritenum": 656,
     "zMove": "Pulverizing Pancake",
@@ -8392,7 +8392,7 @@
     "isNonstandard": "Past",
     "desc": {
       "en": "If held by a Snorlax with Giga Impact, it can use Pulverizing Pancake.",
-      "es": "Sin descripción oficial."
+      "es": "Si lo lleva un Snorlax con Giga Impacto, le permite usar el movimiento Z Megatón Demoledor."
     },
     "shortDesc": "If held by a Snorlax with Giga Impact, it can use Pulverizing Pancake.",
     "id": "snorliumz",
@@ -8444,7 +8444,7 @@
   {
     "name": {
       "en": "Solganium Z",
-      "es": "Solganium Z"
+      "es": "Solgalestal Z"
     },
     "spritenum": 685,
     "zMove": "Searing Sunraze Smash",
@@ -8458,7 +8458,7 @@
     "isNonstandard": "Past",
     "desc": {
       "en": "Solgaleo or Dusk Mane Necrozma with Sunsteel Strike can use a special Z-Move.",
-      "es": "Sin descripción oficial."
+      "es": "Si lo lleva un Solgaleo o un Necrozma Melena de Crepúsculo con Meteoimpacto, le permite usar el movimiento Z Embestida Solar."
     },
     "shortDesc": "Solgaleo or Dusk Mane Necrozma with Sunsteel Strike can use a special Z-Move.",
     "id": "solganiumz",
@@ -8590,7 +8590,7 @@
   {
     "name": {
       "en": "Staraptite",
-      "es": "Staraptite"
+      "es": "Staraptorita"
     },
     "spritenum": 500,
     "megaStone": {
@@ -8604,7 +8604,7 @@
     "isNonstandard": "Future",
     "desc": {
       "en": "If held by a Staraptor, this item allows it to Mega Evolve in battle.",
-      "es": "Sin descripción oficial."
+      "es": "Si lo lleva un Staraptor, este objeto le permite megaevolucionar en combate."
     },
     "shortDesc": "If held by a Staraptor, this item allows it to Mega Evolve in battle.",
     "id": "staraptite",
@@ -8634,7 +8634,7 @@
   {
     "name": {
       "en": "Starminite",
-      "es": "Starminite"
+      "es": "Starminita"
     },
     "spritenum": 546,
     "megaStone": {
@@ -8648,7 +8648,7 @@
     "isNonstandard": "Future",
     "desc": {
       "en": "If held by a Starmie, this item allows it to Mega Evolve in battle.",
-      "es": "Sin descripción oficial."
+      "es": "Si lo lleva un Starmie, este objeto le permite megaevolucionar en combate."
     },
     "shortDesc": "If held by a Starmie, this item allows it to Mega Evolve in battle.",
     "id": "starminite",
@@ -8694,7 +8694,7 @@
   {
     "name": {
       "en": "Steelium Z",
-      "es": "Steelium Z"
+      "es": "Metalostal Z"
     },
     "spritenum": 647,
     "onPlate": "Steel",
@@ -8705,7 +8705,7 @@
     "isNonstandard": "Past",
     "desc": {
       "en": "If holder has a Steel move, this item allows it to use a Steel Z-Move.",
-      "es": "Sin descripción oficial."
+      "es": "Si el portador lleva un movimiento de tipo Acero, este objeto le permite usar un movimiento Z de tipo Acero."
     },
     "shortDesc": "If holder has a Steel move, this item allows it to use a Steel Z-Move.",
     "id": "steeliumz",
@@ -8983,7 +8983,7 @@
   {
     "name": {
       "en": "Tapunium Z",
-      "es": "Tapunium Z"
+      "es": "Tapustal Z"
     },
     "spritenum": 653,
     "zMove": "Guardian of Alola",
@@ -8999,7 +8999,7 @@
     "isNonstandard": "Past",
     "desc": {
       "en": "If held by a Tapu with Nature's Madness, it can use Guardian of Alola.",
-      "es": "Sin descripción oficial."
+      "es": "Si lo lleva un Tapu con Furia Natural, le permite usar el movimiento Z Cólera de Alola."
     },
     "shortDesc": "If held by a Tapu with Nature's Madness, it can use Guardian of Alola.",
     "id": "tapuniumz",
@@ -9028,7 +9028,7 @@
   {
     "name": {
       "en": "Tatsugirinite",
-      "es": "Tatsugirinite"
+      "es": "Tatsugirita"
     },
     "spritenum": 513,
     "megaStone": {
@@ -9046,7 +9046,7 @@
     "isNonstandard": "Future",
     "desc": {
       "en": "If held by a Tatsugiri, this item allows it to Mega Evolve in battle.",
-      "es": "Sin descripción oficial."
+      "es": "Si lo lleva un Tatsugiri, este objeto le permite megaevolucionar en combate."
     },
     "shortDesc": "If held by a Tatsugiri, this item allows it to Mega Evolve in battle.",
     "id": "tatsugirinite",
@@ -11260,7 +11260,7 @@
   {
     "name": {
       "en": "Ultranecrozium Z",
-      "es": "Ultranecrozium Z"
+      "es": "Ultranecroztal Z"
     },
     "spritenum": 687,
     "zMove": "Light That Burns the Sky",
@@ -11273,7 +11273,7 @@
     "isNonstandard": "Past",
     "desc": {
       "en": "Dusk Mane/Dawn Wings Necrozma: Ultra Burst, then Z-Move w/ Photon Geyser.",
-      "es": "Sin descripción oficial."
+      "es": "Permite a Necrozma Melena de Crepúsculo o Necrozma Alas del Alba realizar la Ultraexplosión en combate para transformarse en Ultra-Necrozma y usar el movimiento Z Fotodestrucción Apocalíptica."
     },
     "shortDesc": "Dusk Mane/Dawn Wings Necrozma: Ultra Burst, then Z-Move w/ Photon Geyser.",
     "id": "ultranecroziumz",
@@ -11363,7 +11363,7 @@
   {
     "name": {
       "en": "Victreebelite",
-      "es": "Victreebelite"
+      "es": "Victreebelita"
     },
     "spritenum": 545,
     "megaStone": {
@@ -11377,7 +11377,7 @@
     "isNonstandard": "Future",
     "desc": {
       "en": "If held by a Victreebel, this item allows it to Mega Evolve in battle.",
-      "es": "Sin descripción oficial."
+      "es": "Si lo lleva un Victreebel, este objeto le permite megaevolucionar en combate."
     },
     "shortDesc": "If held by a Victreebel, this item allows it to Mega Evolve in battle.",
     "id": "victreebelite",
@@ -11425,7 +11425,7 @@
   {
     "name": {
       "en": "Waterium Z",
-      "es": "Waterium Z"
+      "es": "Hidrostal Z"
     },
     "spritenum": 633,
     "onPlate": "Water",
@@ -11436,7 +11436,7 @@
     "isNonstandard": "Past",
     "desc": {
       "en": "If holder has a Water move, this item allows it to use a Water Z-Move.",
-      "es": "Sin descripción oficial."
+      "es": "Si el portador lleva un movimiento de tipo Agua, este objeto le permite usar un movimiento Z de tipo Agua."
     },
     "shortDesc": "If holder has a Water move, this item allows it to use a Water Z-Move.",
     "id": "wateriumz",
@@ -11743,7 +11743,7 @@
   {
     "name": {
       "en": "Zeraorite",
-      "es": "Zeraorite"
+      "es": "Zeraorita"
     },
     "spritenum": 510,
     "megaStone": {
@@ -11757,7 +11757,7 @@
     "isNonstandard": "Future",
     "desc": {
       "en": "If held by a Zeraora, this item allows it to Mega Evolve in battle.",
-      "es": "Sin descripción oficial."
+      "es": "Si lo lleva un Zeraora, este objeto le permite megaevolucionar en combate."
     },
     "shortDesc": "If held by a Zeraora, this item allows it to Mega Evolve in battle.",
     "id": "zeraorite",
@@ -11786,7 +11786,7 @@
   {
     "name": {
       "en": "Zygardite",
-      "es": "Zygardite"
+      "es": "Zygardita"
     },
     "spritenum": 568,
     "megaStone": {
@@ -11800,7 +11800,7 @@
     "isNonstandard": "Future",
     "desc": {
       "en": "If held by a Zygarde in Complete Forme, this item allows it to Mega Evolve in battle.",
-      "es": "Sin descripción oficial."
+      "es": "Si lo lleva un Zygarde en Forma Completa, este objeto le permite megaevolucionar en combate."
     },
     "shortDesc": "If held by a Zygarde in Complete Forme, this item allows it to Mega Evolve in battle.",
     "id": "zygardite",
@@ -11809,7 +11809,7 @@
   {
     "name": {
       "en": "Berry",
-      "es": "Berry"
+      "es": "Baya"
     },
     "spritenum": 319,
     "isBerry": true,
@@ -11823,7 +11823,7 @@
     "isNonstandard": "Past",
     "desc": {
       "en": "(Gen 2) Restores 10 HP when at 1/2 max HP or less. Single use.",
-      "es": "Sin descripción oficial."
+      "es": "(Gen 2) Restaura 10 PS cuando los PS están al 50% o menos. Un solo uso."
     },
     "shortDesc": "(Gen 2) Restores 10 HP when at 1/2 max HP or less. Single use.",
     "id": "berry",
@@ -11832,7 +11832,7 @@
   {
     "name": {
       "en": "Berserk Gene",
-      "es": "Berserk Gene"
+      "es": "Gen Loco"
     },
     "spritenum": 388,
     "boosts": {
@@ -11843,7 +11843,7 @@
     "isNonstandard": "Past",
     "desc": {
       "en": "(Gen 2) On switch-in, raises holder's Attack by 2 and confuses it. Single use.",
-      "es": "Sin descripción oficial."
+      "es": "(Gen 2) Al entrar a combatir, aumenta el Ataque del portador en 2 niveles y lo confunde. Un solo uso."
     },
     "shortDesc": "(Gen 2) On switch-in, raises holder's Attack by 2 and confuses it. Single use.",
     "id": "berserkgene",
@@ -11852,7 +11852,7 @@
   {
     "name": {
       "en": "Bitter Berry",
-      "es": "Bitter Berry"
+      "es": "Baya Amarga"
     },
     "spritenum": 334,
     "isBerry": true,
@@ -11865,7 +11865,7 @@
     "isNonstandard": "Past",
     "desc": {
       "en": "(Gen 2) Holder is cured if it is confused. Single use.",
-      "es": "Sin descripción oficial."
+      "es": "(Gen 2) Cura la confusión del portador si se confunde. Un solo uso."
     },
     "shortDesc": "(Gen 2) Holder is cured if it is confused. Single use.",
     "id": "bitterberry",
@@ -11874,7 +11874,7 @@
   {
     "name": {
       "en": "Burnt Berry",
-      "es": "Burnt Berry"
+      "es": "Baya Hielo"
     },
     "spritenum": 13,
     "isBerry": true,
@@ -11887,7 +11887,7 @@
     "isNonstandard": "Past",
     "desc": {
       "en": "(Gen 2) Holder is cured if it is frozen. Single use.",
-      "es": "Sin descripción oficial."
+      "es": "(Gen 2) Cura el congelamiento del portador si se congela. Un solo uso."
     },
     "shortDesc": "(Gen 2) Holder is cured if it is frozen. Single use.",
     "id": "burntberry",
@@ -11896,7 +11896,7 @@
   {
     "name": {
       "en": "Gold Berry",
-      "es": "Gold Berry"
+      "es": "Baya Dorada"
     },
     "spritenum": 448,
     "isBerry": true,
@@ -11910,7 +11910,7 @@
     "isNonstandard": "Past",
     "desc": {
       "en": "(Gen 2) Restores 30 HP when at 1/2 max HP or less. Single use.",
-      "es": "Sin descripción oficial."
+      "es": "(Gen 2) Restaura 30 PS cuando los PS están al 50% o menos. Un solo uso."
     },
     "shortDesc": "(Gen 2) Restores 30 HP when at 1/2 max HP or less. Single use.",
     "id": "goldberry",
@@ -11919,7 +11919,7 @@
   {
     "name": {
       "en": "Ice Berry",
-      "es": "Ice Berry"
+      "es": "Baya Antiquema"
     },
     "spritenum": 381,
     "isBerry": true,
@@ -11932,7 +11932,7 @@
     "isNonstandard": "Past",
     "desc": {
       "en": "(Gen 2) Holder is cured if it is burned. Single use.",
-      "es": "Sin descripción oficial."
+      "es": "(Gen 2) Cura las quemaduras del portador si se quema. Un solo uso."
     },
     "shortDesc": "(Gen 2) Holder is cured if it is burned. Single use.",
     "id": "iceberry",
@@ -11941,7 +11941,7 @@
   {
     "name": {
       "en": "Mint Berry",
-      "es": "Mint Berry"
+      "es": "Baya Menta"
     },
     "spritenum": 65,
     "isBerry": true,
@@ -11954,7 +11954,7 @@
     "isNonstandard": "Past",
     "desc": {
       "en": "(Gen 2) Holder wakes up if it is asleep. Single use.",
-      "es": "Sin descripción oficial."
+      "es": "(Gen 2) Despierta al portador si se duerme. Un solo uso."
     },
     "shortDesc": "(Gen 2) Holder wakes up if it is asleep. Single use.",
     "id": "mintberry",
@@ -11963,7 +11963,7 @@
   {
     "name": {
       "en": "Miracle Berry",
-      "es": "Miracle Berry"
+      "es": "Baya Milagro"
     },
     "spritenum": 262,
     "isBerry": true,
@@ -11976,7 +11976,7 @@
     "isNonstandard": "Past",
     "desc": {
       "en": "(Gen 2) Holder cures itself if it is confused or has a status condition. Single use.",
-      "es": "Sin descripción oficial."
+      "es": "(Gen 2) Cura cualquier problema de estado o confusión del portador. Un solo uso."
     },
     "shortDesc": "(Gen 2) Holder cures itself if it is confused or has a status condition. Single use.",
     "id": "miracleberry",
@@ -11985,7 +11985,7 @@
   {
     "name": {
       "en": "Mystery Berry",
-      "es": "Mystery Berry"
+      "es": "Baya Misterio"
     },
     "spritenum": 244,
     "isBerry": true,
@@ -11998,7 +11998,7 @@
     "isNonstandard": "Past",
     "desc": {
       "en": "(Gen 2) Restores 5 PP to the first of the holder's moves to reach 0 PP. Single use.",
-      "es": "Sin descripción oficial."
+      "es": "(Gen 2) Restaura 5 PP al primer movimiento del portador cuyos PP lleguen a 0. Un solo uso."
     },
     "shortDesc": "(Gen 2) Restores 5 PP to the first of the holder's moves to reach 0 PP. Single use.",
     "id": "mysteryberry",
@@ -12007,7 +12007,7 @@
   {
     "name": {
       "en": "Pink Bow",
-      "es": "Pink Bow"
+      "es": "Cinta Rosa"
     },
     "spritenum": 444,
     "num": 251,
@@ -12015,7 +12015,7 @@
     "isNonstandard": "Past",
     "desc": {
       "en": "(Gen 2) Holder's Normal-type attacks have 1.1x power.",
-      "es": "Sin descripción oficial."
+      "es": "(Gen 2) Aumenta la potencia de los movimientos de tipo Normal del portador en un 10%."
     },
     "shortDesc": "(Gen 2) Holder's Normal-type attacks have 1.1x power.",
     "id": "pinkbow",
@@ -12024,7 +12024,7 @@
   {
     "name": {
       "en": "Polkadot Bow",
-      "es": "Polkadot Bow"
+      "es": "Cinta Lunares"
     },
     "spritenum": 444,
     "num": 251,
@@ -12032,7 +12032,7 @@
     "isNonstandard": "Past",
     "desc": {
       "en": "(Gen 2) Holder's Normal-type attacks have 1.1x power.",
-      "es": "Sin descripción oficial."
+      "es": "(Gen 2) Aumenta la potencia de los movimientos de tipo Normal del portador en un 10%."
     },
     "shortDesc": "(Gen 2) Holder's Normal-type attacks have 1.1x power.",
     "id": "polkadotbow",
@@ -12041,7 +12041,7 @@
   {
     "name": {
       "en": "PRZ Cure Berry",
-      "es": "PRZ Cure Berry"
+      "es": "Baya Antiparálisis"
     },
     "spritenum": 63,
     "isBerry": true,
@@ -12054,7 +12054,7 @@
     "isNonstandard": "Past",
     "desc": {
       "en": "(Gen 2) Holder cures itself if it is paralyzed. Single use.",
-      "es": "Sin descripción oficial."
+      "es": "(Gen 2) Cura la parálisis del portador si se paraliza. Un solo uso."
     },
     "shortDesc": "(Gen 2) Holder cures itself if it is paralyzed. Single use.",
     "id": "przcureberry",
@@ -12063,7 +12063,7 @@
   {
     "name": {
       "en": "PSN Cure Berry",
-      "es": "PSN Cure Berry"
+      "es": "Baya Antídoto"
     },
     "spritenum": 333,
     "isBerry": true,
@@ -12076,7 +12076,7 @@
     "isNonstandard": "Past",
     "desc": {
       "en": "(Gen 2) Holder is cured if it is poisoned. Single use.",
-      "es": "Sin descripción oficial."
+      "es": "(Gen 2) Cura el envenenamiento del portador si se envenena. Un solo uso."
     },
     "shortDesc": "(Gen 2) Holder is cured if it is poisoned. Single use.",
     "id": "psncureberry",
@@ -12085,7 +12085,7 @@
   {
     "name": {
       "en": "Crucibellite",
-      "es": "Crucibellite"
+      "es": "Crucibellita"
     },
     "spritenum": 577,
     "megaStone": {
@@ -12099,7 +12099,7 @@
     "isNonstandard": "CAP",
     "desc": {
       "en": "If held by a Crucibelle, this item allows it to Mega Evolve in battle.",
-      "es": "Sin descripción oficial."
+      "es": "Si lo lleva un Crucibelle, este objeto le permite megaevolucionar en combate."
     },
     "shortDesc": "If held by a Crucibelle, this item allows it to Mega Evolve in battle.",
     "id": "crucibellite",
@@ -12108,7 +12108,7 @@
   {
     "name": {
       "en": "Vile Vial",
-      "es": "Vile Vial"
+      "es": "Vial Nocivo"
     },
     "spritenum": 752,
     "fling": {
@@ -12124,7 +12124,7 @@
     "isNonstandard": "CAP",
     "desc": {
       "en": "If held by a Venomicon, its Poison- and Flying-type attacks have 1.2x power.",
-      "es": "Sin descripción oficial."
+      "es": "Si lo lleva un Venomicon, sus movimientos de tipo Veneno y Volador tienen una potencia de 1.2x."
     },
     "shortDesc": "If held by a Venomicon, its Poison- and Flying-type attacks have 1.2x power.",
     "id": "vilevial",
