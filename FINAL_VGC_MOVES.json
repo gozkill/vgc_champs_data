@@ -13760,9 +13760,10 @@
             }
           }
         },
-        {"chance": 20,
-      "volatileStatus": "flinch"}
-        
+        {
+          "chance": 20,
+          "volatileStatus": "flinch"
+        }
       ]
     },
     "zMove": null,
@@ -35722,11 +35723,11 @@
     "id": "direclaw",
     "pokeapi_id": 827,
     "name": {
-      "es": "",
+      "es": "Garras Fatídicas",
       "en": "Dire Claw"
     },
     "desc": {
-      "es": "",
+      "es": "Ataca al objetivo con sus garras. Puede envenenar, paralizar o dormir al objetivo.",
       "en": "The user lashes out at the target with ruinous claws. This may also leave the target poisoned, paralyzed, or asleep."
     },
     "type": "Poison",
@@ -35778,11 +35779,11 @@
     "id": "psyshieldbash",
     "pokeapi_id": 828,
     "name": {
-      "es": "",
+      "es": "Asalto Escudo",
       "en": "Psyshield Bash"
     },
     "desc": {
-      "es": "",
+      "es": "Se imbuye de energía psíquica y embiste al objetivo. También aumenta la Defensa del usuario.",
       "en": "Cloaking itself in psychic energy, the user slams into the target. This also boosts the user’s Defense stat."
     },
     "type": "Psychic",
@@ -35831,11 +35832,11 @@
     "id": "powershift",
     "pokeapi_id": 829,
     "name": {
-      "es": "",
+      "es": "Cambio de Fuerza",
       "en": "Power Shift"
     },
     "desc": {
-      "es": "",
+      "es": "El usuario intercambia su Ataque y su Defensa.",
       "en": "The user swaps its Attack and Defense stats."
     },
     "type": "Normal",
@@ -35871,11 +35872,11 @@
     "id": "stoneaxe",
     "pokeapi_id": 830,
     "name": {
-      "es": "",
+      "es": "Hachazo Pétreo",
       "en": "Stone Axe"
     },
     "desc": {
-      "es": "",
+      "es": "Ataca al objetivo con sus hachas de piedra. Deja fragmentos de piedra flotando alrededor del objetivo como trampa de rocas.",
       "en": "The user swings its stone axes at the target. Stone splinters left behind by this attack float around the target."
     },
     "type": "Rock",
@@ -35917,11 +35918,11 @@
     "id": "springtidestorm",
     "pokeapi_id": 831,
     "name": {
-      "es": "",
+      "es": "Tormenta de Primavera",
       "en": "Springtide Storm"
     },
     "desc": {
-      "es": "",
+      "es": "Ataca envolviendo al rival en vientos feroces llenos de amor y odio. Puede bajar el Ataque del objetivo.",
       "en": "The user attacks by wrapping opposing Pokémon in fierce winds brimming with love and hate. This may also lower their Attack stats."
     },
     "type": "Fairy",
@@ -35963,11 +35964,11 @@
     "id": "mysticalpower",
     "pokeapi_id": 832,
     "name": {
-      "es": "",
+      "es": "Poder Místico",
       "en": "Mystical Power"
     },
     "desc": {
-      "es": "",
+      "es": "Ataca emitiendo un poder misterioso. También aumenta el Ataque Especial del usuario.",
       "en": "The user attacks by emitting a mysterious power. This also boosts the user’s Sp. Atk stat."
     },
     "type": "Psychic",
@@ -36011,11 +36012,11 @@
     "id": "ragingfury",
     "pokeapi_id": 833,
     "name": {
-      "es": "",
+      "es": "Furia Desatada",
       "en": "Raging Fury"
     },
     "desc": {
-      "es": "",
+      "es": "El usuario ataca escupiendo llamas durante dos o tres turnos y luego se confunde.",
       "en": "The user rampages around spewing flames for two to three turns. The user then becomes confused."
     },
     "type": "Fire",
@@ -36054,11 +36055,11 @@
     "id": "wavecrash",
     "pokeapi_id": 834,
     "name": {
-      "es": "",
+      "es": "Envite Acuático",
       "en": "Wave Crash"
     },
     "desc": {
-      "es": "",
+      "es": "El usuario se rodea de agua y embiste con todo su cuerpo, sufriendo daño de retroceso.",
       "en": "The user shrouds itself in water and slams into the target with its whole body to inflict damage. This also damages the user quite a lot."
     },
     "type": "Water",
@@ -36098,11 +36099,11 @@
     "id": "chloroblast",
     "pokeapi_id": 835,
     "name": {
-      "es": "",
+      "es": "Clorobola",
       "en": "Chloroblast"
     },
     "desc": {
-      "es": "",
+      "es": "Lanza la clorofila acumulada para causar un daño masivo, sufriendo daño de retroceso.",
       "en": "The user launches its amassed chlorophyll to inflict damage on the target. This also damages the user."
     },
     "type": "Grass",
@@ -36137,11 +36138,11 @@
     "id": "mountaingale",
     "pokeapi_id": 836,
     "name": {
-      "es": "",
+      "es": "Alud de Alabastro",
       "en": "Mountain Gale"
     },
     "desc": {
-      "es": "",
+      "es": "Lanza trozos gigantes de hielo al objetivo. Puede hacer retroceder al rival.",
       "en": "The user hurls giant chunks of ice at the target to inflict damage. This may also make the target flinch."
     },
     "type": "Ice",
@@ -36185,11 +36186,11 @@
     "id": "victorydance",
     "pokeapi_id": 837,
     "name": {
-      "es": "",
+      "es": "Danza Victoria",
       "en": "Victory Dance"
     },
     "desc": {
-      "es": "",
+      "es": "Realiza una danza intensa que aumenta su Ataque, Defensa y Velocidad.",
       "en": "The user performs an intense dance to usher in victory, boosting its Attack, Defense, and Speed stats."
     },
     "type": "Fighting",
@@ -36228,11 +36229,11 @@
     "id": "headlongrush",
     "pokeapi_id": 838,
     "name": {
-      "es": "",
+      "es": "Arremetida Feroz",
       "en": "Headlong Rush"
     },
     "desc": {
-      "es": "",
+      "es": "El usuario embiste al objetivo con todo su cuerpo. Baja la Defensa y la Defensa Especial del usuario.",
       "en": "The user smashes into the target in a full-body tackle. This also lowers the user’s Defense and Sp. Def stats."
     },
     "type": "Ground",
@@ -36277,11 +36278,11 @@
     "id": "barbbarrage",
     "pokeapi_id": 839,
     "name": {
-      "es": "",
+      "es": "Mil Púas Tóxicas",
       "en": "Barb Barrage"
     },
     "desc": {
-      "es": "",
+      "es": "Lanza incontables púas tóxicas. Puede envenenar. Dobla su potencia si el objetivo ya está envenenado.",
       "en": "The user launches countless toxic barbs to inflict damage. This may also poison the target. This move’s power is doubled if the target is already poisoned."
     },
     "type": "Poison",
@@ -36321,11 +36322,11 @@
     "id": "esperwing",
     "pokeapi_id": 840,
     "name": {
-      "es": "",
+      "es": "Ala Aural",
       "en": "Esper Wing"
     },
     "desc": {
-      "es": "",
+      "es": "Corta al objetivo con alas imbuidas de aura. Aumenta la Velocidad del usuario. Alta probabilidad de golpe crítico.",
       "en": "The user slashes the target with aura-enriched wings. This also boosts the user's Speed stat. This move has a heightened chance of landing a critical hit."
     },
     "type": "Psychic",
@@ -36370,11 +36371,11 @@
     "id": "bittermalice",
     "pokeapi_id": 841,
     "name": {
-      "es": "",
+      "es": "Rencor Rencoroso",
       "en": "Bitter Malice"
     },
     "desc": {
-      "es": "",
+      "es": "Ataca con un resentimiento escalofriante. Baja el Ataque del objetivo.",
       "en": "The user attacks the target with spine-chilling resentment. This also lowers the target’s Attack stat."
     },
     "type": "Ghost",
@@ -36419,11 +36420,11 @@
     "id": "shelter",
     "pokeapi_id": 842,
     "name": {
-      "es": "",
+      "es": "Refugio",
       "en": "Shelter"
     },
     "desc": {
-      "es": "",
+      "es": "El usuario endurece su piel como un escudo de hierro, aumentando mucho su Defensa.",
       "en": "The user makes its skin as hard as an iron shield, sharply boosting its Defense stat."
     },
     "type": "Steel",
@@ -36462,11 +36463,11 @@
     "id": "triplearrows",
     "pokeapi_id": 843,
     "name": {
-      "es": "",
+      "es": "Triple Flecha",
       "en": "Triple Arrows"
     },
     "desc": {
-      "es": "",
+      "es": "Da una patada y dispara tres flechas. Alta probabilidad de golpe crítico. Puede bajar la Defensa del rival o hacerle retroceder.",
       "en": "The user kicks, then fires three arrows. This move has a heightened chance of landing a critical hit and may also lower the target’s Defense stat or make it flinch."
     },
     "type": "Fighting",
@@ -36516,11 +36517,11 @@
     "id": "infernalparade",
     "pokeapi_id": 844,
     "name": {
-      "es": "",
+      "es": "Marcha Espectral",
       "en": "Infernal Parade"
     },
     "desc": {
-      "es": "",
+      "es": "Ataca con multitud de bolas de fuego. Puede quemar. Dobla su potencia si el rival sufre un estado alterado.",
       "en": "The user attacks with myriad fireballs. This may also leave the target with a burn. This move's power is doubled if the target has a status condition."
     },
     "type": "Ghost",
@@ -36564,11 +36565,11 @@
     "id": "ceaselessedge",
     "pokeapi_id": 845,
     "name": {
-      "es": "",
+      "es": "Tajo Metralla",
       "en": "Ceaseless Edge"
     },
     "desc": {
-      "es": "",
+      "es": "Ataca con su espada concha. Deja fragmentos afilados en el campo enemigo como púas.",
       "en": "The user slashes its shell blade at the target. Shell splinters left behind by this attack remain scattered under the target as spikes."
     },
     "type": "Dark",
@@ -36610,11 +36611,11 @@
     "id": "bleakwindstorm",
     "pokeapi_id": 846,
     "name": {
-      "es": "",
+      "es": "Vendaval Gélido",
       "en": "Bleakwind Storm"
     },
     "desc": {
-      "es": "",
+      "es": "Ataca con vientos salvajemente fríos. Puede bajar la Velocidad de los objetivos.",
       "en": "The user attacks with savagely cold winds that cause both body and spirit to tremble. This may also lower the Speed stats of opposing Pokémon."
     },
     "type": "Flying",
@@ -36657,11 +36658,11 @@
     "id": "wildboltstorm",
     "pokeapi_id": 847,
     "name": {
-      "es": "",
+      "es": "Tormenta Relámpago",
       "en": "Wildbolt Storm"
     },
     "desc": {
-      "es": "",
+      "es": "Invoca una tempestad de rayos y viento. Puede paralizar a los objetivos.",
       "en": "The user summons a thunderous tempest and savagely attacks with lightning and wind. This may also leave opposing Pokémon with paralysis."
     },
     "type": "Electric",
@@ -36702,11 +36703,11 @@
     "id": "sandsearstorm",
     "pokeapi_id": 848,
     "name": {
-      "es": "",
+      "es": "Tierra Arenosa",
       "en": "Sandsear Storm"
     },
     "desc": {
-      "es": "",
+      "es": "Envuelve a los rivales en vientos abrasadores y arena caliente. Puede quemar a los objetivos.",
       "en": "The user attacks by wrapping opposing Pokémon in fierce winds and searingly hot sand. This may also leave them with a burn."
     },
     "type": "Ground",
@@ -36747,11 +36748,11 @@
     "id": "lunarblessing",
     "pokeapi_id": 849,
     "name": {
-      "es": "",
+      "es": "Plegaria Lunar",
       "en": "Lunar Blessing"
     },
     "desc": {
-      "es": "",
+      "es": "El usuario recibe una bendición de la luna creciente, curando problemas de estado y restaurando PS propios y de aliados.",
       "en": "The user receives a blessing from the crescent moon, restoring HP and curing status conditions for itself and its ally Pokémon currently in the battle."
     },
     "type": "Psychic",
@@ -36786,11 +36787,11 @@
     "id": "takeheart",
     "pokeapi_id": 850,
     "name": {
-      "es": "",
+      "es": "Ánimo",
       "en": "Take Heart"
     },
     "desc": {
-      "es": "",
+      "es": "El usuario levanta su espíritu, curando sus propios estados alterados y aumentando su Ataque Especial y Defensa Especial.",
       "en": "The user lifts its spirits, curing its own status conditions and boosting its Sp. Atk and Sp. Def stats."
     },
     "type": "Psychic",
@@ -36824,11 +36825,11 @@
     "id": "terablast",
     "pokeapi_id": 851,
     "name": {
-      "es": "",
+      "es": "Teraexplosión",
       "en": "Tera Blast"
     },
     "desc": {
-      "es": "",
+      "es": "Libera energía de su Tera Tipo si ha teracristalizado. Utiliza la estadística de Ataque o Ataque Especial más alta.",
       "en": "If the user has Terastallized, it unleashes energy of its Tera Type. This move inflicts damage using the Attack or Sp. Atk stat—whichever is higher for the user."
     },
     "type": "Normal",
@@ -36864,11 +36865,11 @@
     "id": "silktrap",
     "pokeapi_id": 852,
     "name": {
-      "es": "",
+      "es": "Trampa de Seda",
       "en": "Silk Trap"
     },
     "desc": {
-      "es": "",
+      "es": "Teje una trampa protectora. Protege de daños y baja la Velocidad de cualquier atacante físico que haga contacto directo.",
       "en": "The user spins a silken trap, protecting itself from damage while lowering the Speed stat of any attacker that makes direct contact."
     },
     "type": "Bug",
@@ -36899,11 +36900,11 @@
     "id": "axekick",
     "pokeapi_id": 853,
     "name": {
-      "es": "",
+      "es": "Patada Hacha",
       "en": "Axe Kick"
     },
     "desc": {
-      "es": "",
+      "es": "Ataca cayendo con el talón sobre el objetivo. Puede confundirlo. Si falla, el usuario sufre daño.",
       "en": "The user attacks by kicking up into the air and slamming its heel down upon the target. This may also confuse the target. If it misses, the user takes damage instead."
     },
     "type": "Fighting",
@@ -36948,11 +36949,11 @@
     "id": "lastrespects",
     "pokeapi_id": 854,
     "name": {
-      "es": "",
+      "es": "Homenaje Póstumo",
       "en": "Last Respects"
     },
     "desc": {
-      "es": "",
+      "es": "Ataca para vengar a sus aliados. Su potencia aumenta cuantos más Pokémon debilitados haya en el equipo.",
       "en": "The user attacks to avenge its allies. The more defeated allies there are in the user's party, the greater the move's power."
     },
     "type": "Ghost",
@@ -36990,11 +36991,11 @@
     "id": "luminacrash",
     "pokeapi_id": 855,
     "name": {
-      "es": "",
+      "es": "Choque Lumínico",
       "en": "Lumina Crash"
     },
     "desc": {
-      "es": "",
+      "es": "Desata una luz peculiar que afecta a la mente. Baja mucho la Defensa Especial del rival.",
       "en": "The user attacks by unleashing a peculiar light that even affects the mind. This also harshly lowers the target's Sp. Def stat."
     },
     "type": "Psychic",
@@ -37039,11 +37040,11 @@
     "id": "orderup",
     "pokeapi_id": 856,
     "name": {
-      "es": "",
+      "es": "Espotonazo",
       "en": "Order Up"
     },
     "desc": {
-      "es": "",
+      "es": "Ataca con pose elegante. Si tiene un Tatsugiri en la boca, aumenta una de sus estadísticas según la forma de Tatsugiri.",
       "en": "The user attacks with elegant poise. If the user has a Tatsugiri in its mouth, this move boosts one of the user's stats based on the Tatsugiri's form."
     },
     "type": "Dragon",
@@ -37076,11 +37077,11 @@
     "id": "jetpunch",
     "pokeapi_id": 857,
     "name": {
-      "es": "",
+      "es": "Puño Jet",
       "en": "Jet Punch"
     },
     "desc": {
-      "es": "",
+      "es": "Golpea a velocidad cegadora rodeado de un torrente de agua. Siempre ataca primero.",
       "en": "The user summons a torrent around its fist and punches at blinding speed. This move always goes first."
     },
     "type": "Water",
@@ -37119,11 +37120,11 @@
     "id": "spicyextract",
     "pokeapi_id": 858,
     "name": {
-      "es": "",
+      "es": "Extracto Picante",
       "en": "Spicy Extract"
     },
     "desc": {
-      "es": "",
+      "es": "Emite un extracto picante que aumenta mucho el Ataque del objetivo pero baja mucho su Defensa.",
       "en": "The user emits an incredibly spicy extract, sharply boosting the target's Attack stat and harshly lowering the target's Defense stat."
     },
     "type": "Grass",
@@ -37164,11 +37165,11 @@
     "id": "spinout",
     "pokeapi_id": 859,
     "name": {
-      "es": "",
+      "es": "Derrape",
       "en": "Spin Out"
     },
     "desc": {
-      "es": "",
+      "es": "Gira furiosamente desgastando sus ruedas para atacar. Baja mucho la Velocidad del usuario.",
       "en": "The user spins furiously by straining its legs, inflicting damage on the target. This also harshly lowers the user's Speed stat."
     },
     "type": "Steel",
@@ -37208,11 +37209,11 @@
     "id": "populationbomb",
     "pokeapi_id": 860,
     "name": {
-      "es": "",
+      "es": "Prole de Bombas",
       "en": "Population Bomb"
     },
     "desc": {
-      "es": "",
+      "es": "Ataca en grupo golpeando al objetivo de una a diez veces seguidas.",
       "en": "The user’s fellows gather in droves to perform a combo attack that hits the target one to ten times in a row."
     },
     "type": "Normal",
@@ -37251,11 +37252,11 @@
     "id": "icespinner",
     "pokeapi_id": 861,
     "name": {
-      "es": "",
+      "es": "Giro Gélido",
       "en": "Ice Spinner"
     },
     "desc": {
-      "es": "",
+      "es": "Gira cubierto de una fina capa de hielo golpeando al objetivo. Destruye campos activos (psíquico, eléctrico, etc.).",
       "en": "The user covers its feet in thin ice and twirls around, slamming into the target. This move's spinning motion also destroys the terrain."
     },
     "type": "Ice",
@@ -37294,11 +37295,11 @@
     "id": "glaiverush",
     "pokeapi_id": 862,
     "name": {
-      "es": "",
+      "es": "Asalto Espada",
       "en": "Glaive Rush"
     },
     "desc": {
-      "es": "",
+      "es": "Se lanza en una carga temeraria. Los ataques recibidos no fallarán y harán el doble de daño hasta su próximo turno.",
       "en": "The user throws its entire body into a reckless charge. After this move is used, attacks on the user cannot miss and will inflict double damage until the user’s next turn."
     },
     "type": "Dragon",
@@ -37336,11 +37337,11 @@
     "id": "revivalblessing",
     "pokeapi_id": 863,
     "name": {
-      "es": "",
+      "es": "Plegaria Vital",
       "en": "Revival Blessing"
     },
     "desc": {
-      "es": "",
+      "es": "El usuario otorga una bendición que revive a un Pokémon debilitado del equipo con la mitad de sus PS máximos.",
       "en": "The user bestows a loving blessing, reviving a party Pokémon that has fainted and restoring half that Pokémon's max HP."
     },
     "type": "Normal",
@@ -37374,11 +37375,11 @@
     "id": "saltcure",
     "pokeapi_id": 864,
     "name": {
-      "es": "",
+      "es": "Salazón",
       "en": "Salt Cure"
     },
     "desc": {
-      "es": "",
+      "es": "Sazona al objetivo causándole daño continuo cada turno. Es más efectivo contra tipos Acero y Agua.",
       "en": "The user salt cures the target, inflicting damage every turn. Steel and Water types are more strongly affected by this move."
     },
     "type": "Rock",
@@ -37420,11 +37421,11 @@
     "id": "tripledive",
     "pokeapi_id": 865,
     "name": {
-      "es": "",
+      "es": "Triple Inmersión",
       "en": "Triple Dive"
     },
     "desc": {
-      "es": "",
+      "es": "Realiza tres inmersiones consecutivas, golpeando al rival tres veces seguidas con chorros de agua.",
       "en": "The user performs a perfectly timed triple dive, hitting the target with splashes of water three times in a row."
     },
     "type": "Water",
@@ -37460,11 +37461,11 @@
     "id": "mortalspin",
     "pokeapi_id": 866,
     "name": {
-      "es": "",
+      "es": "Giro Mortífero",
       "en": "Mortal Spin"
     },
     "desc": {
-      "es": "",
+      "es": "Gira para atacar y liberarse de ataduras como Bucle o Drenadoras. Además, envenena al rival.",
       "en": "The user performs a spin attack that can also eliminate the effects of such moves as Bind, Wrap, and Leech Seed. This also poisons opposing Pokémon."
     },
     "type": "Poison",
@@ -37508,11 +37509,11 @@
     "id": "doodle",
     "pokeapi_id": 867,
     "name": {
-      "es": "",
+      "es": "Grafiti",
       "en": "Doodle"
     },
     "desc": {
-      "es": "",
+      "es": "Copia la habilidad del objetivo y la aplica al usuario y a su aliado.",
       "en": "The user captures the very essence of the target in a sketch. This changes the Abilities of the user and its ally Pokémon to that of the target."
     },
     "type": "Normal",
@@ -37543,11 +37544,11 @@
     "id": "filletaway",
     "pokeapi_id": 868,
     "name": {
-      "es": "",
+      "es": "Filetear",
       "en": "Fillet Away"
     },
     "desc": {
-      "es": "",
+      "es": "El usuario sacrifica la mitad de sus PS para aumentar mucho su Ataque, Ataque Especial y Velocidad.",
       "en": "The user sharply boosts its Attack, Sp. Atk, and Speed stats by using its own HP."
     },
     "type": "Normal",
@@ -37632,7 +37633,7 @@
       "en": "Flower Trick"
     },
     "desc": {
-      "es": "",
+      "es": "Lanza un ramo de flores al objetivo. Nunca falla y siempre resulta en un golpe crítico.",
       "en": "The user throws a rigged bouquet of flowers at the target. This attack never misses and always lands a critical hit."
     },
     "type": "Grass",
@@ -37671,11 +37672,11 @@
     "id": "torchsong",
     "pokeapi_id": 871,
     "name": {
-      "es": "",
+      "es": "Canto Ardiente",
       "en": "Torch Song"
     },
     "desc": {
-      "es": "",
+      "es": "Lanza llamas abrasadoras como si cantara una canción. Aumenta el Ataque Especial del usuario.",
       "en": "The user blows out raging flames as if singing a song, scorching the target. This also boosts the user's Sp. Atk stat."
     },
     "type": "Fire",
@@ -37724,11 +37725,11 @@
     "id": "aquastep",
     "pokeapi_id": 872,
     "name": {
-      "es": "",
+      "es": "Danza Acuática",
       "en": "Aqua Step"
     },
     "desc": {
-      "es": "",
+      "es": "Ataca al rival con ligeros pasos de baile acuático. Aumenta la Velocidad del usuario.",
       "en": "The user toys with the target and attacks it using light and fluid dance steps. This also boosts the user's Speed stat."
     },
     "type": "Water",
@@ -37777,11 +37778,11 @@
     "id": "ragingbull",
     "pokeapi_id": 873,
     "name": {
-      "es": "",
+      "es": "Furia Taurina",
       "en": "Raging Bull"
     },
     "desc": {
-      "es": "",
+      "es": "Embiste al rival con la fuerza de un toro bravo. Su tipo cambia según la forma del usuario y rompe pantallas reflectoras.",
       "en": "The user performs a tackle like a raging bull. This move's type depends on the user's form. It can also break barriers, such as Light Screen and Reflect."
     },
     "type": "Normal",
@@ -37819,11 +37820,11 @@
     "id": "makeitrain",
     "pokeapi_id": 874,
     "name": {
-      "es": "",
+      "es": "Fiebre del Oro",
       "en": "Make It Rain"
     },
     "desc": {
-      "es": "",
+      "es": "Lanza una gran cantidad de monedas al rival. Baja el Ataque Especial del usuario. Genera dinero extra.",
       "en": "The user attacks by throwing out a mass of coins. This also lowers the user's Sp. Atk stat. Money is earned after the battle."
     },
     "type": "Steel",
@@ -37865,7 +37866,7 @@
       "en": "Psyblade"
     },
     "desc": {
-      "es": "",
+      "es": "Corta al rival con una hoja de luz. Su potencia aumenta en 50% en Campo Eléctrico.",
       "en": "The user rends the target with an ethereal blade. This move's power is boosted by 50 percent if the user is on Electric Terrain."
     },
     "type": "Psychic",
@@ -37906,7 +37907,7 @@
       "en": "Hydro Steam"
     },
     "desc": {
-      "es": "",
+      "es": "Lanza agua a temperatura de ebullición. Su potencia aumenta en 50% bajo el sol.",
       "en": "The user blasts the target with boiling-hot water. This move's power is not lowered in harsh sunlight but rather boosted by 50 percent."
     },
     "type": "Water",
@@ -37942,11 +37943,11 @@
     "id": "ruination",
     "pokeapi_id": 877,
     "name": {
-      "es": "",
+      "es": "Catástrofe",
       "en": "Ruination"
     },
     "desc": {
-      "es": "",
+      "es": "Llama a un desastre destructivo. Reduce a la mitad los PS actuales del rival.",
       "en": "The user summons a ruinous disaster. This cuts the target’s HP in half."
     },
     "type": "Dark",
@@ -37980,11 +37981,11 @@
     "id": "collisioncourse",
     "pokeapi_id": 878,
     "name": {
-      "es": "",
+      "es": "Choque de Giras",
       "en": "Collision Course"
     },
     "desc": {
-      "es": "",
+      "es": "Embiste chocando contra el suelo. Hace más daño si el movimiento resulta ser súper eficaz.",
       "en": "The user transforms and crashes to the ground, causing a massive prehistoric explosion. This move's power is boosted more than usual if it’s a supereffective hit."
     },
     "type": "Fighting",
@@ -38019,11 +38020,11 @@
     "id": "electrodrift",
     "pokeapi_id": 879,
     "name": {
-      "es": "",
+      "es": "Electroderrape",
       "en": "Electro Drift"
     },
     "desc": {
-      "es": "",
+      "es": "Se desliza a gran velocidad embistiendo con electricidad futurista. Hace más daño si resulta súper eficaz.",
       "en": "The user races forward at ultrafast speeds, piercing its target with futuristic electricity. This move's power is boosted more than usual if it's a supereffective hit."
     },
     "type": "Electric",
@@ -38058,11 +38059,11 @@
     "id": "shedtail",
     "pokeapi_id": 880,
     "name": {
-      "es": "",
+      "es": "Autotomía",
       "en": "Shed Tail"
     },
     "desc": {
-      "es": "",
+      "es": "Crea un sustituto consumiendo sus propios PS y se intercambia por otro Pokémon del equipo.",
       "en": "The user creates a substitute for itself using its own HP before switching places with a party Pokémon in waiting."
     },
     "type": "Normal",
@@ -38098,11 +38099,11 @@
     "id": "chillyreception",
     "pokeapi_id": 881,
     "name": {
-      "es": "",
+      "es": "Fría Acogida",
       "en": "Chilly Reception"
     },
     "desc": {
-      "es": "",
+      "es": "Cuenta un chiste pésimo antes de volver a su Poké Ball para cambiarse por otro Pokémon, invocando granizo o nieve.",
       "en": "The user tells a chillingly bad joke before switching places with a party Pokémon in waiting. This summons a snowstorm lasting five turns."
     },
     "type": "Ice",
@@ -38136,11 +38137,11 @@
     "id": "tidyup",
     "pokeapi_id": 882,
     "name": {
-      "es": "",
+      "es": "Limpieza General",
       "en": "Tidy Up"
     },
     "desc": {
-      "es": "",
+      "es": "Limpia y elimina los efectos de Púas, Trampa Rocas, Red Viscosa y Sustitutos. Aumenta Ataque y Velocidad del usuario.",
       "en": "The user tidies up and removes the effects of Spikes, Stealth Rock, Sticky Web, Toxic Spikes, and Substitute. This also boosts the user’s Attack and Speed stats."
     },
     "type": "Normal",
@@ -38174,11 +38175,11 @@
     "id": "snowscape",
     "pokeapi_id": 883,
     "name": {
-      "es": "",
+      "es": "Paisaje Nevado",
       "en": "Snowscape"
     },
     "desc": {
-      "es": "",
+      "es": "Invoca una tormenta de nieve durante cinco turnos. Aumenta la Defensa de los Pokémon de tipo Hielo.",
       "en": "The user summons a snowstorm lasting five turns. This boosts the Defense stats of Ice types."
     },
     "type": "Ice",
@@ -38212,11 +38213,11 @@
     "id": "pounce",
     "pokeapi_id": 884,
     "name": {
-      "es": "",
+      "es": "Abanicar",
       "en": "Pounce"
     },
     "desc": {
-      "es": "",
+      "es": "El usuario se abalanza sobre el objetivo para atacar. También baja la Velocidad del objetivo.",
       "en": "The user attacks by pouncing on the target. This also lowers the target's Speed stat."
     },
     "type": "Bug",
@@ -38258,11 +38259,11 @@
     "id": "trailblaze",
     "pokeapi_id": 885,
     "name": {
-      "es": "",
+      "es": "Abrecaminos",
       "en": "Trailblaze"
     },
     "desc": {
-      "es": "",
+      "es": "Ataca saltando repentinamente. Su agilidad aumenta la Velocidad del usuario.",
       "en": "The user attacks suddenly as if leaping out from tall grass. The user's nimble footwork boosts its Speed stat."
     },
     "type": "Grass",
@@ -38306,11 +38307,11 @@
     "id": "chillingwater",
     "pokeapi_id": 886,
     "name": {
-      "es": "",
+      "es": "Agua Fría",
       "en": "Chilling Water"
     },
     "desc": {
-      "es": "",
+      "es": "Ducha al rival con agua extremadamente fría que reduce su fuerza de ataque. Baja el Ataque del objetivo.",
       "en": "The user attacks the target by showering it with water that's so cold it saps the target's power. This also lowers the target's Attack stat."
     },
     "type": "Water",
@@ -38351,11 +38352,11 @@
     "id": "hyperdrill",
     "pokeapi_id": 887,
     "name": {
-      "es": "",
+      "es": "Hipertaladro",
       "en": "Hyper Drill"
     },
     "desc": {
-      "es": "",
+      "es": "Gira su cuerpo puntiagudo para perforar al rival. Atraviesa movimientos de protección como Protección o Detección.",
       "en": "The user spins the pointed part of its body at high speed to pierce the target. This attack can hit a target using a move such as Protect or Detect."
     },
     "type": "Normal",
@@ -38389,11 +38390,11 @@
     "id": "twinbeam",
     "pokeapi_id": 888,
     "name": {
-      "es": "",
+      "es": "Doble Rayo",
       "en": "Twin Beam"
     },
     "desc": {
-      "es": "",
+      "es": "Dispara dos rayos místicos consecutivos desde sus ojos. Golpea al rival dos veces.",
       "en": "The user shoots mystical beams from its eyes to inflict damage. The target is hit twice in a row."
     },
     "type": "Psychic",
@@ -38430,11 +38431,11 @@
     "id": "ragefist",
     "pokeapi_id": 889,
     "name": {
-      "es": "",
+      "es": "Puño Furia",
       "en": "Rage Fist"
     },
     "desc": {
-      "es": "",
+      "es": "Convierte la rabia en energía de ataque. Su potencia aumenta según la cantidad de veces que el usuario ha sido golpeado.",
       "en": "The user converts its rage into energy to attack. The more times the user has been hit by attacks, the greater the move's power."
     },
     "type": "Ghost",
@@ -38470,11 +38471,11 @@
     "id": "armorcannon",
     "pokeapi_id": 890,
     "name": {
-      "es": "",
+      "es": "Cañón de Armadura",
       "en": "Armor Cannon"
     },
     "desc": {
-      "es": "",
+      "es": "Dispara partes de su armadura ardiente como proyectiles. Baja la Defensa y la Defensa Especial del usuario.",
       "en": "The user shoots its own armor out as blazing projectiles. This also lowers the user’s Defense and Sp. Def stats."
     },
     "type": "Fire",
@@ -38516,11 +38517,11 @@
     "id": "bitterblade",
     "pokeapi_id": 891,
     "name": {
-      "es": "",
+      "es": "Espada Lamento",
       "en": "Bitter Blade"
     },
     "desc": {
-      "es": "",
+      "es": "Focaliza su amargura contra el mundo de los vivos en un corte espantoso. Cura al usuario por la mitad del daño causado.",
       "en": "The user focuses its bitter feelings toward the world of the living into a slashing attack. The user's HP is restored by up to half the damage taken by the target."
     },
     "type": "Fire",
@@ -38562,11 +38563,11 @@
     "id": "doubleshock",
     "pokeapi_id": 892,
     "name": {
-      "es": "",
+      "es": "Doble Rayo",
       "en": "Double Shock"
     },
     "desc": {
-      "es": "",
+      "es": "Descarga toda la electricidad de su cuerpo para un ataque de alto daño. El usuario pierde el tipo Eléctrico tras usarlo.",
       "en": "The user discharges all the electricity from its body to perform a high-damage attack. After using this move, the user will no longer be Electric type."
     },
     "type": "Electric",
@@ -38601,11 +38602,11 @@
     "id": "gigatonhammer",
     "pokeapi_id": 893,
     "name": {
-      "es": "",
+      "es": "Martillo Gigante",
       "en": "Gigaton Hammer"
     },
     "desc": {
-      "es": "",
+      "es": "Balanza todo su cuerpo para atacar con su enorme martillo. No se puede usar dos veces seguidas.",
       "en": "The user swings its whole body around to attack with its huge hammer. This move can't be used twice in a row."
     },
     "type": "Steel",
@@ -38644,11 +38645,11 @@
     "id": "comeuppance",
     "pokeapi_id": 894,
     "name": {
-      "es": "",
+      "es": "Venganza",
       "en": "Comeuppance"
     },
     "desc": {
-      "es": "",
+      "es": "Devuelve el golpe con mayor fuerza contra el oponente que le causó daño por última vez.",
       "en": "The user retaliates with much greater force against the opponent that last inflicted damage on it."
     },
     "type": "Dark",
@@ -38687,11 +38688,11 @@
     "id": "aquacutter",
     "pokeapi_id": 895,
     "name": {
-      "es": "",
+      "es": "Corte Acuático",
       "en": "Aqua Cutter"
     },
     "desc": {
-      "es": "",
+      "es": "Expulsa agua a presión para cortar al objetivo como una cuchilla. Alta probabilidad de golpe crítico.",
       "en": "The user expels pressurized water to cut at the target like a blade. This move has a heightened chance of landing a critical hit."
     },
     "type": "Water",
@@ -38728,11 +38729,11 @@
     "id": "blazingtorque",
     "pokeapi_id": 896,
     "name": {
-      "es": "",
+      "es": "Furia Ígnea",
       "en": "Blazing Torque"
     },
     "desc": {
-      "es": "",
+      "es": "Lanza un ataque de fuego giratorio a alta velocidad.",
       "en": ""
     },
     "type": "Fire",
@@ -38778,11 +38779,11 @@
     "id": "wickedtorque",
     "pokeapi_id": 897,
     "name": {
-      "es": "",
+      "es": "Furia Siniestra",
       "en": "Wicked Torque"
     },
     "desc": {
-      "es": "",
+      "es": "Lanza un ataque siniestro giratorio a alta velocidad.",
       "en": ""
     },
     "type": "Dark",
@@ -38828,11 +38829,11 @@
     "id": "noxioustorque",
     "pokeapi_id": 898,
     "name": {
-      "es": "",
+      "es": "Furia Venenosa",
       "en": "Noxious Torque"
     },
     "desc": {
-      "es": "",
+      "es": "Lanza un ataque venenoso giratorio a alta velocidad.",
       "en": ""
     },
     "type": "Poison",
@@ -38878,11 +38879,11 @@
     "id": "combattorque",
     "pokeapi_id": 899,
     "name": {
-      "es": "",
+      "es": "Furia Lucha",
       "en": "Combat Torque"
     },
     "desc": {
-      "es": "",
+      "es": "Lanza un ataque de tipo lucha giratorio a alta velocidad.",
       "en": ""
     },
     "type": "Fighting",
@@ -38928,11 +38929,11 @@
     "id": "magicaltorque",
     "pokeapi_id": 900,
     "name": {
-      "es": "",
+      "es": "Furia Hada",
       "en": "Magical Torque"
     },
     "desc": {
-      "es": "",
+      "es": "Lanza un ataque de tipo hada giratorio a alta velocidad.",
       "en": ""
     },
     "type": "Fairy",
@@ -38978,11 +38979,11 @@
     "id": "bloodmoon",
     "pokeapi_id": 901,
     "name": {
-      "es": "",
+      "es": "Luna Roja",
       "en": "Blood Moon"
     },
     "desc": {
-      "es": "",
+      "es": "Desata todo el poder de su espíritu desde una luna roja como la sangre. No se puede usar dos veces seguidas.",
       "en": "The user unleashes the full brunt of its spirit from a full moon that shines as red as blood. This move can't be used twice in a row."
     },
     "type": "Normal",
@@ -39018,11 +39019,11 @@
     "id": "matchagotcha",
     "pokeapi_id": 902,
     "name": {
-      "es": "",
+      "es": "Taza de Matcha",
       "en": "Matcha Gotcha"
     },
     "desc": {
-      "es": "",
+      "es": "Dispara un chorro de té caliente. Recupera la mitad del daño infligido. Puede quemar al rival.",
       "en": "The user fires a blast of tea that it mixed. The user's HP is restored by up to half the damage taken by the target. This may also leave the target with a burn."
     },
     "type": "Grass",
@@ -39068,11 +39069,11 @@
     "id": "syrupbomb",
     "pokeapi_id": 903,
     "name": {
-      "es": "",
+      "es": "Bomba Jarabe",
       "en": "Syrup Bomb"
     },
     "desc": {
-      "es": "",
+      "es": "Provoca una explosión de jarabe pegajoso que reduce la Velocidad del objetivo cada turno durante tres turnos.",
       "en": "The user sets off an explosion of sticky candy syrup, which coats the target and causes the target's Speed stat to drop each turn for three turns."
     },
     "type": "Grass",
@@ -39117,11 +39118,11 @@
     "id": "ivycudgel",
     "pokeapi_id": 904,
     "name": {
-      "es": "",
+      "es": "Garrote Liana",
       "en": "Ivy Cudgel"
     },
     "desc": {
-      "es": "",
+      "es": "Ataca con un garrote cubierto de lianas. Su tipo cambia según la máscara del usuario y tiene alta probabilidad de crítico.",
       "en": "The user strikes with an ivy-wrapped cudgel. This move's type changes depending on the mask worn by the user, and it has a heightened chance of landing a critical hit."
     },
     "type": "Grass",
@@ -39161,7 +39162,7 @@
       "en": "Electro Shot"
     },
     "desc": {
-      "es": "",
+      "es": "Acumula electricidad el primer turno, subiendo su Ataque Especial, y dispara el segundo turno. Bajo la lluvia se ejecuta al instante.",
       "en": "The user gathers electricity on the first turn, boosting its Sp. Atk stat, then fires a high-voltage shot on the next turn. The shot will be fired immediately in rain."
     },
     "type": "Electric",
@@ -39204,7 +39205,7 @@
       "en": "Tera Starstorm"
     },
     "desc": {
-      "es": "",
+      "es": "Ataca al rival bombardeándolo con el poder de sus cristales. En forma Estelar, ataca a todos los oponentes.",
       "en": "With the power of its crystals, the user bombards and eliminates the target. When used by Terapagos in its Stellar Form, this move damages all opposing Pokémon."
     },
     "type": "Normal",
@@ -39246,7 +39247,7 @@
       "en": "Fickle Beam"
     },
     "desc": {
-      "es": "",
+      "es": "Dispara un haz de luz caprichoso. A veces todas sus cabezas disparan al unísono, doblando su potencia.",
       "en": "The user shoots a beam of light to inflict damage. Sometimes all the user's heads shoot beams in unison, doubling the move's power."
     },
     "type": "Dragon",
@@ -39288,7 +39289,7 @@
       "en": "Burning Bulwark"
     },
     "desc": {
-      "es": "",
+      "es": "Se protege de los ataques con un pelaje ardiente que quema a los oponentes que hagan contacto físico directo.",
       "en": "The user's intensely hot fur protects it from attacks and also burns any attacker that makes direct contact with it."
     },
     "type": "Fire",
@@ -39327,7 +39328,7 @@
       "en": "Thunderclap"
     },
     "desc": {
-      "es": "",
+      "es": "Ataque eléctrico prioritario que golpea antes de que el rival actúe. Falla si el rival no está preparando un ataque ofensivo.",
       "en": "This move enables the user to attack first with a jolt of electricity. This move fails if the target is not readying an attack."
     },
     "type": "Electric",
@@ -39366,7 +39367,7 @@
       "en": "Mighty Cleave"
     },
     "desc": {
-      "es": "",
+      "es": "Corta al rival con la energía acumulada en su frente. Atraviesa movimientos de protección.",
       "en": "The user wields the light that has accumulated atop its head to cleave the target. This move hits even if the target protects itself."
     },
     "type": "Rock",
@@ -39406,7 +39407,7 @@
       "en": "Tachyon Cutter"
     },
     "desc": {
-      "es": "",
+      "es": "Golpea al rival dos veces seguidas con cuchillas de partículas. Nunca falla.",
       "en": "The user attacks by launching particle blades at the target twice in a row. This attack never misses."
     },
     "type": "Steel",
@@ -39450,7 +39451,7 @@
       "en": "Hard Press"
     },
     "desc": {
-      "es": "",
+      "es": "Aplasta al rival con su cuerpo. Su potencia aumenta cuantos más PS le queden al objetivo.",
       "en": "The target is crushed with an arm, a claw, or the like to inflict damage. The more HP the target has left, the greater the move's power."
     },
     "type": "Steel",
@@ -39493,7 +39494,7 @@
       "en": "Dragon Cheer"
     },
     "desc": {
-      "es": "",
+      "es": "Anima a sus aliados para aumentar su probabilidad de golpe crítico. Es más efectivo con aliados de tipo Dragón.",
       "en": "The user raises its allies’ morale with a draconic cry so that their future attacks have a heightened chance of landing critical hits. This rouses Dragon types more."
     },
     "type": "Dragon",
@@ -39535,7 +39536,7 @@
       "en": "Alluring Voice"
     },
     "desc": {
-      "es": "",
+      "es": "Ataca con una voz angelical. Confunde al objetivo si este ha aumentado sus estadísticas en ese turno.",
       "en": "The user attacks the target using its angelic voice. This also confuses the target if its stats have been boosted during the turn."
     },
     "type": "Fairy",
@@ -39583,7 +39584,7 @@
       "en": "Temper Flare"
     },
     "desc": {
-      "es": "",
+      "es": "Ataca impulsado por la frustración. Su potencia se duplica si el movimiento anterior del usuario falló.",
       "en": "Spurred by desperation, the user attacks the target. This move's power is doubled if the user's previous move failed."
     },
     "type": "Fire",
@@ -39626,7 +39627,7 @@
       "en": "Supercell Slam"
     },
     "desc": {
-      "es": "",
+      "es": "Electrifica su cuerpo y cae sobre el rival. Si falla, el usuario sufre daño de retroceso.",
       "en": "The user electrifies its body and drops onto the target to inflict damage. If this move misses, the user takes damage instead."
     },
     "type": "Electric",
@@ -39671,7 +39672,7 @@
       "en": "Psychic Noise"
     },
     "desc": {
-      "es": "",
+      "es": "Lanza ondas de sonido molestas que impiden al rival recuperar PS mediante movimientos, habilidades u objetos durante dos turnos.",
       "en": "The user attacks the target with unpleasant sound waves. For two turns, the target is prevented from recovering HP through moves, Abilities, or held items."
     },
     "type": "Psychic",
@@ -39720,7 +39721,7 @@
       "en": "Upper Hand"
     },
     "desc": {
-      "es": "",
+      "es": "Golpea la palma contra el rival haciéndolo retroceder. Falla si el rival no está preparando un ataque de prioridad.",
       "en": "The user reacts to the target's movement and strikes with the heel of its palm, making the target flinch. This move fails if the target is not readying a priority move."
     },
     "type": "Fighting",
@@ -39768,7 +39769,7 @@
       "en": "Malignant Chain"
     },
     "desc": {
-      "es": "",
+      "es": "Envuelve al rival en una cadena tóxica que inyecta veneno grave con alta probabilidad.",
       "en": "The user pours toxins into the target by wrapping them in a toxic, corrosive chain. This may also leave the target badly poisoned."
     },
     "type": "Poison",
@@ -39812,7 +39813,7 @@
       "en": "Shadow Rush"
     },
     "desc": {
-      "es": "",
+      "es": "Una carga rápida y oscura de gran daño físico.",
       "en": ""
     },
     "type": "Normal",
@@ -39837,7 +39838,7 @@
       "en": "Shadow Blast"
     },
     "desc": {
-      "es": "",
+      "es": "Dispara una ráfaga de viento sombrío contra el objetivo.",
       "en": ""
     },
     "type": "Normal",
@@ -39862,7 +39863,7 @@
       "en": "Shadow Blitz"
     },
     "desc": {
-      "es": "",
+      "es": "Un golpe rápido e imbuido de energía oscura.",
       "en": ""
     },
     "type": "Normal",
@@ -39887,7 +39888,7 @@
       "en": "Shadow Bolt"
     },
     "desc": {
-      "es": "",
+      "es": "Un relámpago sombrío que electrocuta al objetivo.",
       "en": ""
     },
     "type": "Normal",
@@ -39912,7 +39913,7 @@
       "en": "Shadow Break"
     },
     "desc": {
-      "es": "",
+      "es": "Un ataque físico contundente cargado de rabia oscura.",
       "en": ""
     },
     "type": "Normal",
@@ -39937,7 +39938,7 @@
       "en": "Shadow Chill"
     },
     "desc": {
-      "es": "",
+      "es": "Un viento helado y oscuro que congela los huesos del rival.",
       "en": ""
     },
     "type": "Normal",
@@ -39962,7 +39963,7 @@
       "en": "Shadow End"
     },
     "desc": {
-      "es": "",
+      "es": "El usuario desata su poder oscuro final sufriendo gran daño de retroceso.",
       "en": ""
     },
     "type": "Normal",
@@ -39987,7 +39988,7 @@
       "en": "Shadow Fire"
     },
     "desc": {
-      "es": "",
+      "es": "Una llamarada sombría que incinera al rival.",
       "en": ""
     },
     "type": "Normal",
@@ -40012,7 +40013,7 @@
       "en": "Shadow Rave"
     },
     "desc": {
-      "es": "",
+      "es": "Lanza ondas de rabia oscura contra ambos oponentes.",
       "en": ""
     },
     "type": "Normal",
@@ -40037,7 +40038,7 @@
       "en": "Shadow Storm"
     },
     "desc": {
-      "es": "",
+      "es": "Invoca un tornado sombrío que arrasa el campo de batalla.",
       "en": ""
     },
     "type": "Normal",
@@ -40062,7 +40063,7 @@
       "en": "Shadow Wave"
     },
     "desc": {
-      "es": "",
+      "es": "Lanza una onda expansiva de energía oscura.",
       "en": ""
     },
     "type": "Normal",
@@ -40087,7 +40088,7 @@
       "en": "Shadow Down"
     },
     "desc": {
-      "es": "",
+      "es": "Reduce drásticamente la Defensa y Defensa Especial de ambos oponentes.",
       "en": ""
     },
     "type": "Normal",
@@ -40112,7 +40113,7 @@
       "en": "Shadow Half"
     },
     "desc": {
-      "es": "",
+      "es": "Reduce a la mitad los PS de todos los Pokémon en combate, incluyendo el usuario.",
       "en": ""
     },
     "type": "Normal",
@@ -40137,7 +40138,7 @@
       "en": "Shadow Hold"
     },
     "desc": {
-      "es": "",
+      "es": "Impide al rival huir o ser intercambiado en combate.",
       "en": ""
     },
     "type": "Normal",
@@ -40162,7 +40163,7 @@
       "en": "Shadow Mist"
     },
     "desc": {
-      "es": "",
+      "es": "Reduce la evasión de ambos oponentes.",
       "en": ""
     },
     "type": "Normal",
@@ -40187,7 +40188,7 @@
       "en": "Shadow Panic"
     },
     "desc": {
-      "es": "",
+      "es": "Confunde a ambos oponentes infundiendo un miedo terrible.",
       "en": ""
     },
     "type": "Normal",
@@ -40212,7 +40213,7 @@
       "en": "Shadow Shed"
     },
     "desc": {
-      "es": "",
+      "es": "Elimina reflejos, pantallas protectoras y velos del campo rival.",
       "en": ""
     },
     "type": "Normal",
@@ -40237,7 +40238,7 @@
       "en": "Shadow Sky"
     },
     "desc": {
-      "es": "",
+      "es": "Invoca una tormenta oscura que daña a todos los Pokémon en combate excepto a los oscuros.",
       "en": ""
     },
     "type": "Normal",
