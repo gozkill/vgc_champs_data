@@ -2,7 +2,7 @@
   {
     "name": {
       "en": "Ability Shield",
-      "es": ""
+      "es": "Escudo Habilidad"
     },
     "spritenum": 746,
     "fling": {
@@ -13,7 +13,7 @@
     "gen": 9,
     "desc": {
       "en": "Holder's Ability cannot be changed, suppressed, or ignored by any effect.",
-      "es": "Sin descripción oficial."
+      "es": "Impide que otros efectos alteren, anulen o ignoren la habilidad del portador."
     },
     "shortDesc": "Holder's Ability cannot be changed, suppressed, or ignored by any effect.",
     "id": "abilityshield",
@@ -113,7 +113,7 @@
   {
     "name": {
       "en": "Adamant Crystal",
-      "es": ""
+      "es": "Granal Diamante"
     },
     "spritenum": 741,
     "onBasePowerPriority": 15,
@@ -125,7 +125,7 @@
     "gen": 8,
     "desc": {
       "en": "If held by a Dialga, its Steel- and Dragon-type attacks have 1.2x power.",
-      "es": "Sin descripción oficial."
+      "es": "Si lo lleva Dialga, potencia sus movimientos de tipo Acero y Dragón en un 20%."
     },
     "shortDesc": "If held by a Dialga, its Steel- and Dragon-type attacks have 1.2x power.",
     "id": "adamantcrystal",
@@ -462,7 +462,7 @@
   {
     "name": {
       "en": "Auspicious Armor",
-      "es": ""
+      "es": "Armadura Auspiciosa"
     },
     "spritenum": 753,
     "fling": {
@@ -472,7 +472,7 @@
     "gen": 9,
     "desc": {
       "en": "Evolves Charcadet into Armarouge when used.",
-      "es": "Sin descripción oficial."
+      "es": "Evoluciona a Charcadet en Armarouge al usarse."
     },
     "shortDesc": "Evolves Charcadet into Armarouge when used.",
     "id": "auspiciousarmor",
@@ -902,7 +902,7 @@
   {
     "name": {
       "en": "Booster Energy",
-      "es": ""
+      "es": "Energía Potenciadora"
     },
     "spritenum": 745,
     "fling": {
@@ -913,7 +913,7 @@
     "gen": 9,
     "desc": {
       "en": "Activates the Protosynthesis or Quark Drive Abilities. Single use.",
-      "es": "Sin descripción oficial."
+      "es": "Activa las habilidades Paleosíntesis o Carga Cuark del portador. Un solo uso."
     },
     "shortDesc": "Activates the Protosynthesis or Quark Drive Abilities. Single use.",
     "id": "boosterenergy",
@@ -1470,7 +1470,7 @@
   {
     "name": {
       "en": "Clear Amulet",
-      "es": ""
+      "es": "Amuleto Puro"
     },
     "spritenum": 747,
     "fling": {
@@ -1481,7 +1481,7 @@
     "gen": 9,
     "desc": {
       "en": "Prevents other Pokemon from lowering the holder's stat stages.",
-      "es": "Sin descripción oficial."
+      "es": "Impide que otros Pokémon bajen las estadísticas del portador."
     },
     "shortDesc": "Prevents other Pokemon from lowering the holder's stat stages.",
     "id": "clearamulet",
@@ -1574,7 +1574,7 @@
   {
     "name": {
       "en": "Cornerstone Mask",
-      "es": ""
+      "es": "Máscara Cimiento"
     },
     "spritenum": 758,
     "fling": {
@@ -1589,7 +1589,7 @@
     "gen": 9,
     "desc": {
       "en": "Ogerpon-Cornerstone: 1.2x power attacks; Terastallize to gain Embody Aspect.",
-      "es": "Sin descripción oficial."
+      "es": "Ogerpon Cimiento: Potencia sus ataques en un 20%; teracristalizar activa la habilidad del portador."
     },
     "shortDesc": "Ogerpon-Cornerstone: 1.2x power attacks; Terastallize to gain Embody Aspect.",
     "id": "cornerstonemask",
@@ -1641,7 +1641,7 @@
   {
     "name": {
       "en": "Covert Cloak",
-      "es": ""
+      "es": "Capa Furtiva"
     },
     "spritenum": 750,
     "fling": {
@@ -1651,7 +1651,7 @@
     "gen": 9,
     "desc": {
       "en": "The holder is not affected by the secondary effect of another Pokemon's attack. Attacks with secondary effects that are prevented include those with a chance (even 100%) to paralyze, sleep, freeze, burn, poison, confuse, cause the holder to flinch, cause the holder's stat stages to be lowered, as well as Anchor Shot, Eerie Spell, Fling, Psychic Noise, Salt Cure, Spirit Shackle, Syrup Bomb, and Throat Chop. The effect of Sparkling Aria is prevented if the holder is the only target. Secondary effects added by King's Rock, Razor Fang, and the Poison Touch, Stench, and Toxic Chain Abilities are also prevented against the holder.",
-      "es": "Sin descripción oficial."
+      "es": "Protege al portador de los efectos secundarios de los ataques de otros Pokémon."
     },
     "shortDesc": "Holder is not affected by the secondary effect of another Pokemon's attack.",
     "id": "covertcloak",
@@ -2681,7 +2681,7 @@
   {
     "name": {
       "en": "Fairy Feather",
-      "es": ""
+      "es": "Pluma Hada"
     },
     "spritenum": 754,
     "fling": {
@@ -2692,7 +2692,7 @@
     "gen": 9,
     "desc": {
       "en": "Holder's Fairy-type attacks have 1.2x power.",
-      "es": "Sin descripción oficial."
+      "es": "Potencia los movimientos de tipo Hada del portador en un 20%."
     },
     "shortDesc": "Holder's Fairy-type attacks have 1.2x power.",
     "id": "fairyfeather",
@@ -3840,7 +3840,7 @@
   {
     "name": {
       "en": "Griseous Core",
-      "es": ""
+      "es": "Granal Esfera"
     },
     "spritenum": 743,
     "onBasePowerPriority": 15,
@@ -3852,7 +3852,7 @@
     "gen": 8,
     "desc": {
       "en": "If held by a Giratina, its Ghost- and Dragon-type attacks have 1.2x power.",
-      "es": "Sin descripción oficial."
+      "es": "Si lo lleva Giratina, potencia sus movimientos de tipo Fantasma y Dragón en un 20%."
     },
     "shortDesc": "If held by a Giratina, its Ghost- and Dragon-type attacks have 1.2x power.",
     "id": "griseouscore",
@@ -4049,7 +4049,7 @@
   {
     "name": {
       "en": "Hearthflame Mask",
-      "es": ""
+      "es": "Máscara Horno"
     },
     "spritenum": 760,
     "fling": {
@@ -4064,7 +4064,7 @@
     "gen": 9,
     "desc": {
       "en": "Ogerpon-Hearthflame: 1.2x power attacks; Terastallize to gain Embody Aspect.",
-      "es": "Sin descripción oficial."
+      "es": "Ogerpon Horno: Potencia sus ataques en un 20%; teracristalizar activa la habilidad del portador."
     },
     "shortDesc": "Ogerpon-Hearthflame: 1.2x power attacks; Terastallize to gain Embody Aspect.",
     "id": "hearthflamemask",
@@ -4962,7 +4962,7 @@
   {
     "name": {
       "en": "Loaded Dice",
-      "es": ""
+      "es": "Dados Cargados"
     },
     "spritenum": 751,
     "fling": {
@@ -4972,7 +4972,7 @@
     "gen": 9,
     "desc": {
       "en": "The holder's moves that normally hit 2 to 5 times instead hit 4 or 5 times. If the first hit is successful, the holder's use of Triple Kick or Triple Axel hits 3 times, and Population Bomb hits 4 to 10 times, at random.",
-      "es": "Sin descripción oficial."
+      "es": "Los ataques múltiples del portador golpearán siempre 4 o 5 veces."
     },
     "shortDesc": "Holder's moves that hit 2-5 times hit 4-5 times; Population Bomb hits 4-10 times.",
     "id": "loadeddice",
@@ -5194,7 +5194,7 @@
   {
     "name": {
       "en": "Lustrous Globe",
-      "es": ""
+      "es": "Granal Lustroso"
     },
     "spritenum": 742,
     "onBasePowerPriority": 15,
@@ -5206,7 +5206,7 @@
     "gen": 8,
     "desc": {
       "en": "If held by a Palkia, its Water- and Dragon-type attacks have 1.2x power.",
-      "es": "Sin descripción oficial."
+      "es": "Si lo lleva Palkia, potencia sus movimientos de tipo Agua y Dragón en un 20%."
     },
     "shortDesc": "If held by a Palkia, its Water- and Dragon-type attacks have 1.2x power.",
     "id": "lustrousglobe",
@@ -5449,7 +5449,7 @@
   {
     "name": {
       "en": "Malicious Armor",
-      "es": ""
+      "es": "Armadura Maliciosa"
     },
     "spritenum": 744,
     "fling": {
@@ -5459,7 +5459,7 @@
     "gen": 9,
     "desc": {
       "en": "Evolves Charcadet into Ceruledge when used.",
-      "es": "Sin descripción oficial."
+      "es": "Evoluciona a Charcadet en Ceruledge al usarse."
     },
     "shortDesc": "Evolves Charcadet into Ceruledge when used.",
     "id": "maliciousarmor",
@@ -5552,7 +5552,7 @@
   {
     "name": {
       "en": "Masterpiece Teacup",
-      "es": ""
+      "es": "Taza de Té Obra Maestra"
     },
     "spritenum": 757,
     "fling": {
@@ -5562,7 +5562,7 @@
     "gen": 9,
     "desc": {
       "en": "Evolves Poltchageist-Artisan into Sinistcha-Masterpiece when used.",
-      "es": "Sin descripción oficial."
+      "es": "Evoluciona a Poltchageist Artista en Sinistcha Obra Maestra al usarse."
     },
     "shortDesc": "Evolves Poltchageist-Artisan into Sinistcha-Masterpiece when used.",
     "id": "masterpieceteacup",
@@ -5726,14 +5726,14 @@
   {
     "name": {
       "en": "Metal Alloy",
-      "es": ""
+      "es": "Metal Compuesto"
     },
     "spritenum": 761,
     "num": 2482,
     "gen": 9,
     "desc": {
       "en": "Evolves Duraludon into Archaludon when used.",
-      "es": "Sin descripción oficial."
+      "es": "Evoluciona a Duraludon en Archaludon al usarse."
     },
     "shortDesc": "Evolves Duraludon into Archaludon when used.",
     "id": "metalalloy",
@@ -5966,7 +5966,7 @@
   {
     "name": {
       "en": "Mirror Herb",
-      "es": ""
+      "es": "Hierba Copia"
     },
     "spritenum": 748,
     "fling": {
@@ -5978,7 +5978,7 @@
     "gen": 9,
     "desc": {
       "en": "When an opposing Pokemon raises a stat stage, the holder copies it. Single use.",
-      "es": "Sin descripción oficial."
+      "es": "Copia las mejoras en estadísticas del oponente cuando estas suben. Un solo uso."
     },
     "shortDesc": "When an opposing Pokemon raises a stat stage, the holder copies it. Single use.",
     "id": "mirrorherb",
@@ -7090,7 +7090,7 @@
   {
     "name": {
       "en": "Punching Glove",
-      "es": ""
+      "es": "Guante de Boxeo"
     },
     "spritenum": 749,
     "fling": {
@@ -7102,7 +7102,7 @@
     "gen": 9,
     "desc": {
       "en": "Holder's punch-based attacks have 1.1x power and do not make contact.",
-      "es": "Sin descripción oficial."
+      "es": "Potencia los ataques basados en puños en un 10% y evita el contacto físico directo."
     },
     "shortDesc": "Holder's punch-based attacks have 1.1x power and do not make contact.",
     "id": "punchingglove",
@@ -8823,7 +8823,7 @@
   {
     "name": {
       "en": "Strange Ball",
-      "es": ""
+      "es": "Extraña Ball"
     },
     "spritenum": 308,
     "num": 1785,
@@ -8832,7 +8832,7 @@
     "isNonstandard": "Unobtainable",
     "desc": {
       "en": "Placeholder if caught in Poke Ball not in current game.",
-      "es": "Sin descripción oficial."
+      "es": "Una Poké Ball misteriosa utilizada en Hisui."
     },
     "shortDesc": "Placeholder if caught in Poke Ball not in current game.",
     "id": "strangeball",
@@ -8921,7 +8921,7 @@
   {
     "name": {
       "en": "Syrupy Apple",
-      "es": ""
+      "es": "Manzana Almíbar"
     },
     "spritenum": 755,
     "fling": {
@@ -8931,7 +8931,7 @@
     "gen": 9,
     "desc": {
       "en": "Evolves Applin into Dipplin when used.",
-      "es": "Sin descripción oficial."
+      "es": "Evoluciona a Applin en Dipplin al usarse."
     },
     "shortDesc": "Evolves Applin into Dipplin when used.",
     "id": "syrupyapple",
@@ -11283,7 +11283,7 @@
   {
     "name": {
       "en": "Unremarkable Teacup",
-      "es": ""
+      "es": "Taza de Té Agrietada"
     },
     "spritenum": 756,
     "fling": {
@@ -11293,7 +11293,7 @@
     "gen": 9,
     "desc": {
       "en": "Evolves Poltchageist into Sinistcha when used.",
-      "es": "Sin descripción oficial."
+      "es": "Evoluciona a Poltchageist en Sinistcha al usarse."
     },
     "shortDesc": "Evolves Poltchageist into Sinistcha when used.",
     "id": "unremarkableteacup",
@@ -11554,7 +11554,7 @@
   {
     "name": {
       "en": "Wellspring Mask",
-      "es": ""
+      "es": "Máscara Fuente"
     },
     "spritenum": 759,
     "fling": {
@@ -11569,7 +11569,7 @@
     "gen": 9,
     "desc": {
       "en": "Ogerpon-Wellspring: 1.2x power attacks; Terastallize to gain Embody Aspect.",
-      "es": "Sin descripción oficial."
+      "es": "Ogerpon Fuente: Potencia sus ataques en un 20%; teracristalizar activa la habilidad del portador."
     },
     "shortDesc": "Ogerpon-Wellspring: 1.2x power attacks; Terastallize to gain Embody Aspect.",
     "id": "wellspringmask",
