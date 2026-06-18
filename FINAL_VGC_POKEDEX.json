@@ -179,7 +179,7 @@
     "evos": [],
     "prevo": null,
     "evoLevel": 32,
-    "champions": true,
+    "champions": false,
     "gender": "87.5:12.5"
   },
   {
@@ -395,7 +395,7 @@
     "evos": [],
     "prevo": null,
     "evoLevel": 36,
-    "champions": true,
+    "champions": false,
     "gender": "87.5:12.5"
   },
   {
@@ -573,7 +573,7 @@
     "evos": [],
     "prevo": null,
     "evoLevel": 36,
-    "champions": true,
+    "champions": false,
     "gender": "87.5:12.5"
   },
   {
@@ -1420,7 +1420,7 @@
     "evos": [],
     "prevo": null,
     "evoLevel": null,
-    "champions": true,
+    "champions": false,
     "gender": "50:50",
     "evoCondition": "high_friendship"
   },
@@ -1455,7 +1455,7 @@
     "evos": [],
     "prevo": null,
     "evoLevel": null,
-    "champions": true,
+    "champions": false,
     "gender": "50:50",
     "evoCondition": "high_friendship"
   },
@@ -1490,7 +1490,7 @@
     "evos": [],
     "prevo": null,
     "evoLevel": null,
-    "champions": true,
+    "champions": false,
     "gender": "50:50",
     "evoCondition": "high_friendship"
   },
@@ -1525,7 +1525,7 @@
     "evos": [],
     "prevo": null,
     "evoLevel": null,
-    "champions": true,
+    "champions": false,
     "gender": "50:50",
     "evoCondition": "high_friendship"
   },
@@ -1560,7 +1560,7 @@
     "evos": [],
     "prevo": null,
     "evoLevel": null,
-    "champions": true,
+    "champions": false,
     "gender": "50:50",
     "evoCondition": "high_friendship"
   },
@@ -1595,7 +1595,7 @@
     "evos": [],
     "prevo": null,
     "evoLevel": null,
-    "champions": true,
+    "champions": false,
     "gender": "50:50",
     "evoCondition": "high_friendship"
   },
@@ -1631,7 +1631,7 @@
     "evos": [],
     "prevo": null,
     "evoLevel": null,
-    "champions": true,
+    "champions": false,
     "gender": "50:50",
     "evoCondition": "high_friendship"
   },
@@ -1667,7 +1667,7 @@
     "evos": [],
     "prevo": null,
     "evoLevel": null,
-    "champions": true,
+    "champions": false,
     "gender": "50:50",
     "evoCondition": "high_friendship"
   },
@@ -1703,7 +1703,7 @@
     "evos": [],
     "prevo": null,
     "evoLevel": null,
-    "champions": true,
+    "champions": false,
     "gender": "50:50",
     "evoCondition": "high_friendship"
   },
@@ -1739,7 +1739,7 @@
     "evos": [],
     "prevo": null,
     "evoLevel": null,
-    "champions": true,
+    "champions": false,
     "gender": "50:50",
     "evoCondition": "high_friendship"
   },
@@ -1775,7 +1775,7 @@
     "evos": [],
     "prevo": null,
     "evoLevel": null,
-    "champions": true,
+    "champions": false,
     "gender": "50:50",
     "evoCondition": "high_friendship"
   },
@@ -1811,7 +1811,7 @@
     "evos": [],
     "prevo": null,
     "evoLevel": null,
-    "champions": true,
+    "champions": false,
     "gender": "50:50",
     "evoCondition": "high_friendship"
   },
@@ -1847,7 +1847,7 @@
     "evos": [],
     "prevo": null,
     "evoLevel": null,
-    "champions": true,
+    "champions": false,
     "gender": "50:50",
     "evoCondition": "high_friendship"
   },
@@ -1883,7 +1883,7 @@
     "evos": [],
     "prevo": null,
     "evoLevel": null,
-    "champions": true,
+    "champions": false,
     "gender": "50:50",
     "evoCondition": "high_friendship"
   },
@@ -1919,7 +1919,7 @@
     "evos": [],
     "prevo": null,
     "evoLevel": null,
-    "champions": true,
+    "champions": false,
     "gender": "50:50",
     "evoCondition": "high_friendship"
   },
@@ -1955,7 +1955,7 @@
     "evos": [],
     "prevo": null,
     "evoLevel": null,
-    "champions": true,
+    "champions": false,
     "gender": "50:50",
     "evoCondition": "high_friendship"
   },
@@ -2998,7 +2998,7 @@
     "evos": [],
     "prevo": "Gloom",
     "evoLevel": null,
-    "champions": false,
+    "champions": true,
     "gender": "50:50",
     "evoItem": "leafstone"
   },
@@ -4237,7 +4237,7 @@
     "evos": [],
     "prevo": null,
     "evoLevel": null,
-    "champions": true,
+    "champions": false,
     "gender": "75:25",
     "evoCondition": "trade"
   },
@@ -5742,7 +5742,7 @@
     "evos": [],
     "prevo": null,
     "evoLevel": null,
-    "champions": true,
+    "champions": false,
     "gender": "50:50",
     "evoCondition": "trade"
   },
@@ -8310,7 +8310,7 @@
     "evos": [],
     "prevo": null,
     "evoLevel": null,
-    "champions": true,
+    "champions": false,
     "gender": "87.5:12.5",
     "evoCondition": "high_friendship"
   },
@@ -11338,7 +11338,7 @@
     "evos": [],
     "prevo": null,
     "evoLevel": null,
-    "champions": false,
+    "champions": true,
     "gender": "50:50"
   },
   {
@@ -13226,7 +13226,7 @@
     "evos": [],
     "prevo": "Grovyle",
     "evoLevel": 36,
-    "champions": false,
+    "champions": true,
     "gender": "87.5:12.5"
   },
   {
@@ -13261,7 +13261,7 @@
     "evos": [],
     "prevo": null,
     "evoLevel": 36,
-    "champions": false,
+    "champions": true,
     "gender": "87.5:12.5"
   },
   {
@@ -13372,7 +13372,7 @@
     "evos": [],
     "prevo": "Combusken",
     "evoLevel": 36,
-    "champions": false,
+    "champions": true,
     "gender": "87.5:12.5"
   },
   {
@@ -13407,7 +13407,7 @@
     "evos": [],
     "prevo": null,
     "evoLevel": 36,
-    "champions": false,
+    "champions": true,
     "gender": "87.5:12.5"
   },
   {
@@ -13518,7 +13518,7 @@
     "evos": [],
     "prevo": "Marshtomp",
     "evoLevel": 36,
-    "champions": false,
+    "champions": true,
     "gender": "87.5:12.5"
   },
   {
@@ -13553,7 +13553,7 @@
     "evos": [],
     "prevo": null,
     "evoLevel": 36,
-    "champions": false,
+    "champions": true,
     "gender": "87.5:12.5"
   },
   {
@@ -15305,7 +15305,7 @@
     "evos": [],
     "prevo": null,
     "evoLevel": null,
-    "champions": false,
+    "champions": true,
     "gender": "50:50"
   },
   {
@@ -15340,7 +15340,7 @@
     "evos": [],
     "prevo": null,
     "evoLevel": null,
-    "champions": false,
+    "champions": true,
     "gender": "50:50"
   },
   {
@@ -17846,7 +17846,7 @@
     "evos": [],
     "prevo": null,
     "evoLevel": null,
-    "champions": true,
+    "champions": false,
     "gender": "50:50"
   },
   {
@@ -18546,7 +18546,7 @@
     "evos": [],
     "prevo": "Metang",
     "evoLevel": 45,
-    "champions": false,
+    "champions": true,
     "gender": "Genderless"
   },
   {
@@ -18581,7 +18581,7 @@
     "evos": [],
     "prevo": null,
     "evoLevel": 45,
-    "champions": false,
+    "champions": true,
     "gender": "Genderless"
   },
   {
@@ -19647,7 +19647,7 @@
     "evos": [],
     "prevo": "Staravia",
     "evoLevel": 34,
-    "champions": false,
+    "champions": true,
     "gender": "50:50"
   },
   {
@@ -19683,7 +19683,7 @@
     "evos": [],
     "prevo": null,
     "evoLevel": 34,
-    "champions": false,
+    "champions": true,
     "gender": "50:50"
   },
   {
@@ -21644,7 +21644,7 @@
     "evos": [],
     "prevo": null,
     "evoLevel": 48,
-    "champions": true,
+    "champions": false,
     "gender": "50:50"
   },
   {
@@ -21829,7 +21829,7 @@
     "evos": [],
     "prevo": null,
     "evoLevel": null,
-    "champions": true,
+    "champions": false,
     "gender": "87.5:12.5",
     "evoCondition": "high_friendship_daytime"
   },
@@ -25524,7 +25524,7 @@
     "evos": [],
     "prevo": "Munna",
     "evoLevel": null,
-    "champions": false,
+    "champions": true,
     "gender": "50:50",
     "evoItem": "moonstone"
   },
@@ -26615,7 +26615,7 @@
     "evos": [],
     "prevo": "Whirlipede",
     "evoLevel": 30,
-    "champions": false,
+    "champions": true,
     "gender": "50:50"
   },
   {
@@ -26652,7 +26652,7 @@
     "evos": [],
     "prevo": null,
     "evoLevel": 30,
-    "champions": false,
+    "champions": true,
     "gender": "50:50"
   },
   {
@@ -27475,7 +27475,7 @@
     "evos": [],
     "prevo": "Scraggy",
     "evoLevel": 39,
-    "champions": false,
+    "champions": true,
     "gender": "50:50"
   },
   {
@@ -27512,7 +27512,7 @@
     "evos": [],
     "prevo": null,
     "evoLevel": 39,
-    "champions": false,
+    "champions": true,
     "gender": "50:50"
   },
   {
@@ -27914,7 +27914,7 @@
     "evos": [],
     "prevo": null,
     "evoLevel": 36,
-    "champions": true,
+    "champions": false,
     "gender": "50:50"
   },
   {
@@ -29284,7 +29284,7 @@
     "evos": [],
     "prevo": "Eelektrik",
     "evoLevel": null,
-    "champions": false,
+    "champions": true,
     "gender": "50:50",
     "evoItem": "thunderstone"
   },
@@ -29319,7 +29319,7 @@
     "evos": [],
     "prevo": null,
     "evoLevel": null,
-    "champions": false,
+    "champions": true,
     "gender": "50:50",
     "evoItem": "thunderstone"
   },
@@ -31936,7 +31936,7 @@
     "evos": [],
     "prevo": null,
     "evoLevel": 36,
-    "champions": true,
+    "champions": false,
     "gender": "87.5:12.5"
   },
   {
@@ -31971,7 +31971,7 @@
     "evos": [],
     "prevo": null,
     "evoLevel": 36,
-    "champions": true,
+    "champions": false,
     "gender": "87.5:12.5"
   },
   {
@@ -32343,7 +32343,7 @@
     "evos": [],
     "prevo": "Spewpa",
     "evoLevel": 12,
-    "champions": true,
+    "champions": false,
     "gender": "50:50"
   },
   {
@@ -32380,7 +32380,7 @@
     "evos": [],
     "prevo": null,
     "evoLevel": 12,
-    "champions": true,
+    "champions": false,
     "gender": "50:50"
   },
   {
@@ -32456,7 +32456,7 @@
     "evos": [],
     "prevo": "Litleo",
     "evoLevel": 35,
-    "champions": false,
+    "champions": true,
     "gender": "12.5:87.5"
   },
   {
@@ -32493,7 +32493,7 @@
     "evos": [],
     "prevo": null,
     "evoLevel": 35,
-    "champions": false,
+    "champions": true,
     "gender": "12.5:87.5"
   },
   {
@@ -32567,7 +32567,7 @@
     ],
     "prevo": "Flabébé",
     "evoLevel": 19,
-    "champions": true,
+    "champions": false,
     "gender": "0:100"
   },
   {
@@ -32999,7 +32999,7 @@
     "evos": [],
     "prevo": null,
     "evoLevel": 25,
-    "champions": true,
+    "champions": false,
     "gender": "50:50"
   },
   {
@@ -33033,7 +33033,7 @@
     "evos": [],
     "prevo": null,
     "evoLevel": 25,
-    "champions": true,
+    "champions": false,
     "gender": "50:50"
   },
   {
@@ -33401,7 +33401,7 @@
     "evos": [],
     "prevo": "Inkay",
     "evoLevel": 30,
-    "champions": false,
+    "champions": true,
     "gender": "50:50",
     "evoCondition": "level_30_holding_console_upside_down"
   },
@@ -33439,7 +33439,7 @@
     "evos": [],
     "prevo": null,
     "evoLevel": null,
-    "champions": false,
+    "champions": true,
     "gender": "50:50",
     "evoCondition": "level_30_holding_console_upside_down"
   },
@@ -33516,7 +33516,7 @@
     "evos": [],
     "prevo": "Binacle",
     "evoLevel": 39,
-    "champions": false,
+    "champions": true,
     "gender": "50:50"
   },
   {
@@ -33553,7 +33553,7 @@
     "evos": [],
     "prevo": null,
     "evoLevel": 39,
-    "champions": false,
+    "champions": true,
     "gender": "50:50"
   },
   {
@@ -33629,7 +33629,7 @@
     "evos": [],
     "prevo": "Skrelp",
     "evoLevel": 48,
-    "champions": false,
+    "champions": true,
     "gender": "50:50"
   },
   {
@@ -33666,7 +33666,7 @@
     "evos": [],
     "prevo": null,
     "evoLevel": 48,
-    "champions": false,
+    "champions": true,
     "gender": "50:50"
   },
   {
@@ -36975,7 +36975,7 @@
     "evos": [],
     "prevo": null,
     "evoLevel": 22,
-    "champions": true,
+    "champions": false,
     "gender": "50:50"
   },
   {
@@ -37269,7 +37269,7 @@
     "evos": [],
     "prevo": null,
     "evoLevel": null,
-    "champions": true,
+    "champions": false,
     "gender": "0:100",
     "evoCondition": "level_33_female"
   },
@@ -38730,7 +38730,7 @@
     "evos": [],
     "prevo": null,
     "evoLevel": null,
-    "champions": true,
+    "champions": false,
     "gender": "50:50"
   },
   {
@@ -38765,7 +38765,7 @@
     "evos": [],
     "prevo": null,
     "evoLevel": null,
-    "champions": true,
+    "champions": false,
     "gender": "50:50"
   },
   {
@@ -38800,7 +38800,7 @@
     "evos": [],
     "prevo": null,
     "evoLevel": null,
-    "champions": true,
+    "champions": false,
     "gender": "50:50"
   },
   {
@@ -39093,7 +39093,7 @@
     "evos": [],
     "prevo": null,
     "evoLevel": 45,
-    "champions": true,
+    "champions": false,
     "gender": "50:50"
   },
   {
@@ -40908,7 +40908,7 @@
     "evos": [],
     "prevo": null,
     "evoLevel": 38,
-    "champions": true,
+    "champions": false,
     "gender": "50.0:50.0"
   },
   {
@@ -41732,7 +41732,7 @@
     "evos": [],
     "prevo": null,
     "evoLevel": null,
-    "champions": true,
+    "champions": false,
     "gender": "50.0:50.0",
     "evoItem": ""
   },
@@ -41808,7 +41808,7 @@
     "evos": [],
     "prevo": null,
     "evoLevel": null,
-    "champions": true,
+    "champions": false,
     "gender": "50.0:50.0",
     "evoItem": ""
   },
@@ -41919,7 +41919,7 @@
     "evos": [],
     "prevo": null,
     "evoLevel": 36,
-    "champions": true,
+    "champions": false,
     "gender": "50.0:50.0"
   },
   {
@@ -42615,7 +42615,7 @@
     "evos": [],
     "prevo": "Sinistea-Antique",
     "evoLevel": null,
-    "champions": true,
+    "champions": false,
     "gender": "Genderless",
     "evoItem": ""
   },
@@ -42766,7 +42766,7 @@
     "evos": [],
     "prevo": null,
     "evoLevel": 42,
-    "champions": true,
+    "champions": false,
     "gender": "0.0:100.0"
   },
   {
@@ -42881,7 +42881,7 @@
     "evos": [],
     "prevo": "Morgrem",
     "evoLevel": 42,
-    "champions": false,
+    "champions": true,
     "gender": "100.0:0.0"
   },
   {
@@ -43243,7 +43243,7 @@
     "evos": [],
     "prevo": null,
     "evoLevel": null,
-    "champions": true,
+    "champions": false,
     "gender": "0.0:100.0",
     "evoCondition": "spin_around_holding_sweet"
   },
@@ -43279,7 +43279,7 @@
     "evos": [],
     "prevo": null,
     "evoLevel": null,
-    "champions": false,
+    "champions": true,
     "gender": "Genderless"
   },
   {
@@ -43314,7 +43314,7 @@
     "evos": [],
     "prevo": null,
     "evoLevel": null,
-    "champions": false,
+    "champions": true,
     "gender": "Genderless"
   },
   {
@@ -43670,7 +43670,7 @@
     "evos": [],
     "prevo": null,
     "evoLevel": null,
-    "champions": true,
+    "champions": false,
     "gender": "50.0:50.0"
   },
   {
@@ -45110,7 +45110,7 @@
     "evos": [],
     "prevo": "Qwilfish-Hisui",
     "evoLevel": null,
-    "champions": false,
+    "champions": true,
     "gender": ""
   },
   {
@@ -45992,7 +45992,7 @@
     "evos": [],
     "prevo": "Tandemaus",
     "evoLevel": 25,
-    "champions": true,
+    "champions": false,
     "gender": ""
   },
   {
@@ -47941,7 +47941,7 @@
     "evos": [],
     "prevo": "Greavard",
     "evoLevel": 30,
-    "champions": false,
+    "champions": true,
     "gender": ""
   },
   {
@@ -48377,7 +48377,7 @@
     "evos": [],
     "prevo": "Primeape",
     "evoLevel": null,
-    "champions": false,
+    "champions": true,
     "gender": ""
   },
   {
@@ -49235,7 +49235,7 @@
     "evos": [],
     "prevo": "Gimmighoul",
     "evoLevel": null,
-    "champions": false,
+    "champions": true,
     "gender": ""
   },
   {
@@ -49772,7 +49772,7 @@
     "evos": [],
     "prevo": "Poltchageist-Artisan",
     "evoLevel": null,
-    "champions": true,
+    "champions": false,
     "gender": ""
   },
   {
