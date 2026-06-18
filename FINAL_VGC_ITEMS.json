@@ -543,7 +543,7 @@
     },
     "shortDesc": "If held by a Barbaracle, this item allows it to Mega Evolve in battle.",
     "id": "barbaracite",
-    "champions": false
+    "champions": true
   },
   {
     "name": {
@@ -707,7 +707,7 @@
     },
     "shortDesc": "Holder gains 1.3x HP from draining/Aqua Ring/Ingrain/Leech Seed/Strength Sap.",
     "id": "bigroot",
-    "champions": false
+    "champions": true
   },
   {
     "name": {
@@ -833,7 +833,7 @@
     },
     "shortDesc": "If held by a Blaziken, this item allows it to Mega Evolve in battle.",
     "id": "blazikenite",
-    "champions": false
+    "champions": true
   },
   {
     "name": {
@@ -1738,7 +1738,7 @@
     },
     "shortDesc": "Holder's use of Rain Dance lasts 8 turns instead of 5.",
     "id": "damprock",
-    "champions": false
+    "champions": true
   },
   {
     "name": {
@@ -2079,7 +2079,7 @@
     },
     "shortDesc": "If held by a Dragalge, this item allows it to Mega Evolve in battle.",
     "id": "dragalgite",
-    "champions": false
+    "champions": true
   },
   {
     "name": {
@@ -2381,7 +2381,7 @@
     },
     "shortDesc": "If held by an Eelektross, this item allows it to Mega Evolve in battle.",
     "id": "eelektrossite",
-    "champions": false
+    "champions": true
   },
   {
     "name": {
@@ -2655,7 +2655,7 @@
     },
     "shortDesc": "Holder's attacks that are super effective against the target do 1.2x damage.",
     "id": "expertbelt",
-    "champions": false
+    "champions": true
   },
   {
     "name": {
@@ -2759,7 +2759,7 @@
     },
     "shortDesc": "If held by a Falinks, this item allows it to Mega Evolve in battle.",
     "id": "falinksite",
-    "champions": false
+    "champions": true
   },
   {
     "name": {
@@ -4110,7 +4110,7 @@
     },
     "shortDesc": "Holder's use of Sunny Day lasts 8 turns instead of 5.",
     "id": "heatrock",
-    "champions": false
+    "champions": true
   },
   {
     "name": {
@@ -4373,7 +4373,7 @@
     },
     "shortDesc": "Holder's use of Snowscape lasts 8 turns instead of 5.",
     "id": "icyrock",
-    "champions": false
+    "champions": true
   },
   {
     "name": {
@@ -4434,7 +4434,7 @@
     },
     "shortDesc": "Holder is grounded, Speed halved. If Flying type, takes neutral Ground damage.",
     "id": "ironball",
-    "champions": false
+    "champions": true
   },
   {
     "name": {
@@ -4898,7 +4898,7 @@
     },
     "shortDesc": "Holder's attacks do 1.3x damage, and it loses 1/10 its max HP after the attack.",
     "id": "lifeorb",
-    "champions": false
+    "champions": true
   },
   {
     "name": {
@@ -4957,7 +4957,7 @@
     },
     "shortDesc": "Holder's use of Aurora Veil, Light Screen, or Reflect lasts 8 turns instead of 5.",
     "id": "lightclay",
-    "champions": false
+    "champions": true
   },
   {
     "name": {
@@ -5444,7 +5444,7 @@
     },
     "shortDesc": "If held by a Malamar, this item allows it to Mega Evolve in battle.",
     "id": "malamarite",
-    "champions": false
+    "champions": true
   },
   {
     "name": {
@@ -5589,7 +5589,7 @@
     },
     "shortDesc": "If held by a Mawile, this item allows it to Mega Evolve in battle.",
     "id": "mawilite",
-    "champions": false
+    "champions": true
   },
   {
     "name": {
@@ -5721,7 +5721,7 @@
     },
     "shortDesc": "If held by a Metagross, this item allows it to Mega Evolve in battle.",
     "id": "metagrossite",
-    "champions": false
+    "champions": true
   },
   {
     "name": {
@@ -5803,7 +5803,7 @@
     },
     "shortDesc": "Damage of moves used on consecutive turns is increased. Max 2x after 5 turns.",
     "id": "metronome",
-    "champions": false
+    "champions": true
   },
   {
     "name": {
@@ -6061,7 +6061,7 @@
     },
     "shortDesc": "Holder's physical attacks have 1.1x power.",
     "id": "muscleband",
-    "champions": false
+    "champions": true
   },
   {
     "name": {
@@ -7129,7 +7129,7 @@
     },
     "shortDesc": "If held by a Pyroar, this item allows it to Mega Evolve in battle.",
     "id": "pyroarite",
-    "champions": false
+    "champions": true
   },
   {
     "name": {
@@ -7257,7 +7257,7 @@
     },
     "shortDesc": "If held by a Raichu, this item allows it to Mega Evolve into Mega Raichu X in battle.",
     "id": "raichunitex",
-    "champions": false
+    "champions": true
   },
   {
     "name": {
@@ -7280,7 +7280,7 @@
     },
     "shortDesc": "If held by a Raichu, this item allows it to Mega Evolve into Mega Raichu Y in battle.",
     "id": "raichunitey",
-    "champions": false
+    "champions": true
   },
   {
     "name": {
@@ -7931,7 +7931,7 @@
     },
     "shortDesc": "If held by a Sceptile, this item allows it to Mega Evolve in battle.",
     "id": "sceptilite",
-    "champions": false
+    "champions": true
   },
   {
     "name": {
@@ -7977,7 +7977,7 @@
     },
     "shortDesc": "If held by a Scolipede, this item allows it to Mega Evolve in battle.",
     "id": "scolipite",
-    "champions": false
+    "champions": true
   },
   {
     "name": {
@@ -8042,7 +8042,7 @@
     },
     "shortDesc": "If held by a Scrafty, this item allows it to Mega Evolve in battle.",
     "id": "scraftinite",
-    "champions": false
+    "champions": true
   },
   {
     "name": {
@@ -8127,7 +8127,7 @@
     },
     "shortDesc": "Holder cannot be prevented from choosing to switch out by any effect.",
     "id": "shedshell",
-    "champions": false
+    "champions": true
   },
   {
     "name": {
@@ -8374,7 +8374,7 @@
     },
     "shortDesc": "Holder's use of Sandstorm lasts 8 turns instead of 5.",
     "id": "smoothrock",
-    "champions": false
+    "champions": true
   },
   {
     "name": {
@@ -8608,7 +8608,7 @@
     },
     "shortDesc": "If held by a Staraptor, this item allows it to Mega Evolve in battle.",
     "id": "staraptite",
-    "champions": false
+    "champions": true
   },
   {
     "name": {
@@ -8897,7 +8897,7 @@
     },
     "shortDesc": "If held by a Swampert, this item allows it to Mega Evolve in battle.",
     "id": "swampertite",
-    "champions": false
+    "champions": true
   },
   {
     "name": {
@@ -11657,7 +11657,7 @@
     },
     "shortDesc": "The accuracy of attacks by the holder is 1.1x.",
     "id": "widelens",
-    "champions": false
+    "champions": true
   },
   {
     "name": {
@@ -11698,7 +11698,7 @@
     },
     "shortDesc": "Holder's special attacks have 1.1x power.",
     "id": "wiseglasses",
-    "champions": false
+    "champions": true
   },
   {
     "name": {
@@ -11781,7 +11781,7 @@
     },
     "shortDesc": "The accuracy of attacks by the holder is 1.2x if it moves after its target.",
     "id": "zoomlens",
-    "champions": false
+    "champions": true
   },
   {
     "name": {
