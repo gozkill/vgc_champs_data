@@ -5,7 +5,7 @@
       "en": "Adaptability",
       "es": "Adaptable"
     },
-    "rating": 4.0,
+    "rating": 4,
     "num": 91,
     "desc": {
       "en": "Powers up moves of the same type as the Pokémon.",
@@ -23,7 +23,7 @@
       "en": "Aerilate",
       "es": "Piel Celeste"
     },
-    "rating": 4.0,
+    "rating": 4,
     "num": 184,
     "desc": {
       "en": "Normal-type moves become Flying-type moves. The power of those moves is boosted a little.",
@@ -40,7 +40,7 @@
       "en": "Aftermath",
       "es": "Detonación"
     },
-    "rating": 2.0,
+    "rating": 2,
     "num": 106,
     "desc": {
       "en": "Damages the attacker if it knocks out the Pokémon with a move that makes direct contact.",
@@ -65,7 +65,7 @@
     "shortDesc": "While this Pokemon is active, the effects of weather conditions are disabled.",
     "id": "airlock",
     "suppressesWeather": true,
-    "champions": true
+    "champions": false
   },
   {
     "onBasePowerPriority": 21,
@@ -90,7 +90,7 @@
       "en": "Anger Point",
       "es": "Irascible"
     },
-    "rating": 1.0,
+    "rating": 1,
     "num": 83,
     "desc": {
       "en": "The Pokémon is angered when it takes a critical hit, and that maxes its Attack stat.",
@@ -106,7 +106,7 @@
       "en": "Anger Shell",
       "es": "Coraza Ira"
     },
-    "rating": 3.0,
+    "rating": 3,
     "num": 271,
     "desc": {
       "en": "When an attack causes its HP to drop to half or less, the Pokémon gets angry. This lowers its Defense and Sp. Def stats but boosts its Attack, Sp. Atk, and Speed stats.",
@@ -114,7 +114,7 @@
     },
     "shortDesc": "At 1/2 or less of this Pokemon's max HP: +1 Atk, Sp. Atk, Spe, and -1 Def, Sp. Def.",
     "id": "angershell",
-    "champions": true
+    "champions": false
   },
   {
     "flags": {},
@@ -138,7 +138,7 @@
       "en": "Arena Trap",
       "es": "Trampa Arena"
     },
-    "rating": 5.0,
+    "rating": 5,
     "num": 71,
     "desc": {
       "en": "Prevents opposing Pokémon from fleeing from battle.",
@@ -146,7 +146,7 @@
     },
     "shortDesc": "Prevents opposing Pokemon from choosing to switch out unless they are airborne.",
     "id": "arenatrap",
-    "champions": true
+    "champions": false
   },
   {
     "flags": {
@@ -174,7 +174,7 @@
       "en": "Aroma Veil",
       "es": "Velo Aroma"
     },
-    "rating": 2.0,
+    "rating": 2,
     "num": 165,
     "desc": {
       "en": "Protects the Pokémon and its allies from effects that prevent the use of moves.",
@@ -206,7 +206,7 @@
     },
     "shortDesc": "Combination of the Unnerve and Chilling Neigh Abilities.",
     "id": "asoneglastrier",
-    "champions": true
+    "champions": false
   },
   {
     "onSwitchInPriority": 1,
@@ -230,7 +230,7 @@
     },
     "shortDesc": "Combination of the Unnerve and Grim Neigh Abilities.",
     "id": "asonespectrier",
-    "champions": true
+    "champions": false
   },
   {
     "flags": {
@@ -240,7 +240,7 @@
       "en": "Aura Break",
       "es": "Rompeaura"
     },
-    "rating": 1.0,
+    "rating": 1,
     "num": 188,
     "desc": {
       "en": "The effects of “Aura” Abilities are reversed to lower the power of affected moves.",
@@ -248,7 +248,7 @@
     },
     "shortDesc": "While this Pokemon is active, the Dark Aura and Fairy Aura power modifier is 0.75x.",
     "id": "aurabreak",
-    "champions": true
+    "champions": false
   },
   {
     "onResidualOrder": 28,
@@ -266,7 +266,7 @@
     },
     "shortDesc": "Causes sleeping foes to lose 1/8 of their max HP at the end of each turn.",
     "id": "baddreams",
-    "champions": true
+    "champions": false
   },
   {
     "flags": {},
@@ -274,7 +274,7 @@
       "en": "Ball Fetch",
       "es": "Recogebolas"
     },
-    "rating": 0.0,
+    "rating": 0,
     "num": 237,
     "desc": {
       "en": "If the Pokémon is not holding an item, it will fetch the Poké Ball from the first failed throw of the battle.",
@@ -282,7 +282,7 @@
     },
     "shortDesc": "No competitive use.",
     "id": "ballfetch",
-    "champions": true
+    "champions": false
   },
   {
     "onAllyBasePowerPriority": 22,
@@ -291,7 +291,7 @@
       "en": "Battery",
       "es": "Batería"
     },
-    "rating": 0.0,
+    "rating": 0,
     "num": 217,
     "desc": {
       "en": "Powers up ally Pokémon's special moves.",
@@ -299,7 +299,7 @@
     },
     "shortDesc": "This Pokemon's allies have the power of their special attacks multiplied by 1.3.",
     "id": "battery",
-    "champions": true
+    "champions": false
   },
   {
     "onCriticalHit": "false",
@@ -310,7 +310,7 @@
       "en": "Battle Armor",
       "es": "Armadura Batalla"
     },
-    "rating": 1.0,
+    "rating": 1,
     "num": 4,
     "desc": {
       "en": "Hard armor protects the Pokémon from critical hits.",
@@ -342,7 +342,7 @@
     },
     "shortDesc": "After KOing a Pokemon: raises Attack, Sp. Atk, Speed by 1 stage. Once per battle.",
     "id": "battlebond",
-    "champions": true
+    "champions": false
   },
   {
     "flags": {},
@@ -358,7 +358,7 @@
     },
     "shortDesc": "Active Pokemon without this Ability have their Special Defense multiplied by 0.75.",
     "id": "beadsofruin",
-    "champions": true
+    "champions": false
   },
   {
     "flags": {},
@@ -374,7 +374,7 @@
     },
     "shortDesc": "This Pokemon's highest stat is raised by 1 if it attacks and KOes another Pokemon.",
     "id": "beastboost",
-    "champions": true
+    "champions": false
   },
   {
     "flags": {},
@@ -382,7 +382,7 @@
       "en": "Berserk",
       "es": "Cólera"
     },
-    "rating": 2.0,
+    "rating": 2,
     "num": 201,
     "desc": {
       "en": "Boosts the Pokémon's Sp. Atk stat when it takes a hit that causes its HP to drop to half or less.",
@@ -418,7 +418,7 @@
       "en": "Blaze",
       "es": "Mar Llamas"
     },
-    "rating": 2.0,
+    "rating": 2,
     "num": 66,
     "desc": {
       "en": "Powers up Fire-type moves when the Pokémon's HP is low.",
@@ -436,7 +436,7 @@
       "en": "Bulletproof",
       "es": "Antibalas"
     },
-    "rating": 3.0,
+    "rating": 3,
     "num": 171,
     "desc": {
       "en": "Protects the Pokémon from ball and bomb moves.",
@@ -452,7 +452,7 @@
       "en": "Cheek Pouch",
       "es": "Carrillo"
     },
-    "rating": 2.0,
+    "rating": 2,
     "num": 167,
     "desc": {
       "en": "The Pokémon's HP is restored when it eats any Berry, in addition to the Berry's usual effect.",
@@ -468,7 +468,7 @@
       "en": "Chilling Neigh",
       "es": "Relincho Blanco"
     },
-    "rating": 3.0,
+    "rating": 3,
     "num": 264,
     "desc": {
       "en": "When the Pokémon knocks out a target, it utters a chilling neigh, which boosts its Attack stat.",
@@ -476,7 +476,7 @@
     },
     "shortDesc": "This Pokemon's Attack is raised by 1 stage if it attacks and KOes another Pokemon.",
     "id": "chillingneigh",
-    "champions": true
+    "champions": false
   },
   {
     "flags": {},
@@ -484,7 +484,7 @@
       "en": "Chlorophyll",
       "es": "Clorofila"
     },
-    "rating": 3.0,
+    "rating": 3,
     "num": 34,
     "desc": {
       "en": "Boosts the Pokémon's Speed stat in harsh sunlight.",
@@ -502,7 +502,7 @@
       "en": "Clear Body",
       "es": "Cuerpo Puro"
     },
-    "rating": 2.0,
+    "rating": 2,
     "num": 29,
     "desc": {
       "en": "Prevents other Pokémon's moves or Abilities from lowering the Pokémon's stats.",
@@ -535,7 +535,7 @@
       "en": "Color Change",
       "es": "Cambio Color"
     },
-    "rating": 0.0,
+    "rating": 0,
     "num": 16,
     "desc": {
       "en": "The Pokémon’s type becomes the type of the move used on it.",
@@ -543,7 +543,7 @@
     },
     "shortDesc": "This Pokemon's type changes to the type of a move it's hit by, unless it has the type.",
     "id": "colorchange",
-    "champions": true
+    "champions": false
   },
   {
     "flags": {
@@ -558,7 +558,7 @@
       "en": "Comatose",
       "es": "Letargo Perenne"
     },
-    "rating": 4.0,
+    "rating": 4,
     "num": 213,
     "desc": {
       "en": "The Pokémon is always drowsing and will never wake up. It can attack while in its sleeping state.",
@@ -566,7 +566,7 @@
     },
     "shortDesc": "This Pokemon cannot be statused, and is considered to be asleep.",
     "id": "comatose",
-    "champions": true
+    "champions": false
   },
   {
     "onAnySwitchInPriority": -2,
@@ -581,7 +581,7 @@
       "en": "Commander",
       "es": "Comandar"
     },
-    "rating": 0.0,
+    "rating": 0,
     "num": 279,
     "desc": {
       "en": "When the Pokémon enters a battle, it goes inside the mouth of an ally Dondozo if one is on the field. The Pokémon then issues commands from there.",
@@ -589,7 +589,7 @@
     },
     "shortDesc": "If ally is Dondozo: this Pokemon cannot act or be hit, +2 to all Dondozo's stats.",
     "id": "commander",
-    "champions": true
+    "champions": false
   },
   {
     "flags": {},
@@ -614,7 +614,7 @@
       "en": "Compound Eyes",
       "es": "Ojo Compuesto"
     },
-    "rating": 3.0,
+    "rating": 3,
     "num": 14,
     "desc": {
       "en": "The Pokémon's compound eyes boost its accuracy.",
@@ -665,7 +665,7 @@
       "en": "Costar",
       "es": "Unísono"
     },
-    "rating": 0.0,
+    "rating": 0,
     "num": 294,
     "desc": {
       "en": "When the Pokémon enters a battle, it copies an ally's stat changes.",
@@ -673,7 +673,7 @@
     },
     "shortDesc": "On switch-in, this Pokemon copies all of its ally's stat stage changes.",
     "id": "costar",
-    "champions": true
+    "champions": false
   },
   {
     "flags": {},
@@ -681,7 +681,7 @@
       "en": "Cotton Down",
       "es": "Pelusa"
     },
-    "rating": 2.0,
+    "rating": 2,
     "num": 238,
     "desc": {
       "en": "When the Pokémon is hit by an attack, it scatters cotton fluff around and lowers the Speed stat of all Pokémon except itself.",
@@ -689,7 +689,7 @@
     },
     "shortDesc": "If this Pokemon is hit, it lowers the Speed of all other Pokemon on the field 1 stage.",
     "id": "cottondown",
-    "champions": true
+    "champions": false
   },
   {
     "onResidualOrder": 28,
@@ -699,7 +699,7 @@
       "en": "Cud Chew",
       "es": "Rumia"
     },
-    "rating": 2.0,
+    "rating": 2,
     "num": 291,
     "desc": {
       "en": "When the Pokémon eats a Berry, it will regurgitate that Berry at the end of the next turn and eat it one more time.",
@@ -715,7 +715,7 @@
       "en": "Curious Medicine",
       "es": "Medicina Extraña"
     },
-    "rating": 0.0,
+    "rating": 0,
     "num": 261,
     "desc": {
       "en": "When the Pokémon enters a battle, it scatters medicine from its shell, which removes all stat changes from allies.",
@@ -731,7 +731,7 @@
       "en": "Cursed Body",
       "es": "Cuerpo Maldito"
     },
-    "rating": 2.0,
+    "rating": 2,
     "num": 130,
     "desc": {
       "en": "May disable a move that has dealt damage to the Pokémon.",
@@ -789,7 +789,7 @@
     },
     "shortDesc": "After another Pokemon uses a dance move, this Pokemon uses the same move.",
     "id": "dancer",
-    "champions": true
+    "champions": false
   },
   {
     "onAnyBasePowerPriority": 20,
@@ -798,7 +798,7 @@
       "en": "Dark Aura",
       "es": "Aura Oscura"
     },
-    "rating": 3.0,
+    "rating": 3,
     "num": 186,
     "desc": {
       "en": "Powers up each Pokémon’s Dark-type moves.",
@@ -806,7 +806,7 @@
     },
     "shortDesc": "While this Pokemon is active, a Dark move used by any Pokemon has 1.33x power.",
     "id": "darkaura",
-    "champions": true
+    "champions": false
   },
   {
     "flags": {},
@@ -822,7 +822,7 @@
     },
     "shortDesc": "On switch-in, this Pokemon's Defense is raised by 1 stage. Once per battle.",
     "id": "dauntlessshield",
-    "champions": true
+    "champions": false
   },
   {
     "flags": {
@@ -840,7 +840,7 @@
     },
     "shortDesc": "This Pokemon and its allies are protected from opposing priority moves.",
     "id": "dazzling",
-    "champions": true
+    "champions": false
   },
   {
     "onModifyAtkPriority": 5,
@@ -850,7 +850,7 @@
       "en": "Defeatist",
       "es": "Flaqueza"
     },
-    "rating": -1.0,
+    "rating": -1,
     "num": 129,
     "desc": {
       "en": "Halves the Pokémon’s Attack and Sp. Atk stats when its HP becomes half or less.",
@@ -858,7 +858,7 @@
     },
     "shortDesc": "While this Pokemon has 1/2 or less of its max HP, its Attack and Sp. Atk are halved.",
     "id": "defeatist",
-    "champions": true
+    "champions": false
   },
   {
     "flags": {},
@@ -866,7 +866,7 @@
       "en": "Defiant",
       "es": "Competitivo"
     },
-    "rating": 3.0,
+    "rating": 3,
     "num": 128,
     "desc": {
       "en": "If the Pokémon has any stat lowered by an opposing Pokémon, its Attack stat will be boosted sharply.",
@@ -882,7 +882,7 @@
       "en": "Delta Stream",
       "es": "Ráfaga Delta"
     },
-    "rating": 4.0,
+    "rating": 4,
     "num": 191,
     "desc": {
       "en": "The Pokémon changes the weather to eliminate all of the Flying type’s weaknesses.",
@@ -890,7 +890,7 @@
     },
     "shortDesc": "On switch-in, strong winds begin until this Ability is not active in battle.",
     "id": "deltastream",
-    "champions": true
+    "champions": false
   },
   {
     "flags": {},
@@ -906,7 +906,7 @@
     },
     "shortDesc": "On switch-in, extremely harsh sunlight begins until this Ability is not active in battle.",
     "id": "desolateland",
-    "champions": true
+    "champions": false
   },
   {
     "onDamagePriority": 1,
@@ -948,7 +948,7 @@
     },
     "shortDesc": "On switch-in, Attack or Sp. Atk is raised 1 stage based on the foes' weaker Defense.",
     "id": "download",
-    "champions": true
+    "champions": false
   },
   {
     "isNonstandard": "Future",
@@ -959,7 +959,7 @@
       "en": "Dragonize",
       "es": ""
     },
-    "rating": 4.0,
+    "rating": 4,
     "num": 312,
     "desc": {
       "en": "The Pokémon's Normal-type moves become Dragon-type moves and their power is boosted by 20%.",
@@ -985,7 +985,7 @@
     },
     "shortDesc": "This Pokemon's offensive stat is multiplied by 1.5 while using a Dragon-type attack.",
     "id": "dragonsmaw",
-    "champions": true
+    "champions": false
   },
   {
     "flags": {},
@@ -993,7 +993,7 @@
       "en": "Drizzle",
       "es": "Llovizna"
     },
-    "rating": 4.0,
+    "rating": 4,
     "num": 2,
     "desc": {
       "en": "The Pokémon makes it rain when it enters a battle.",
@@ -1009,7 +1009,7 @@
       "en": "Drought",
       "es": "Sequía"
     },
-    "rating": 4.0,
+    "rating": 4,
     "num": 70,
     "desc": {
       "en": "Turns the sunlight harsh when the Pokémon enters a battle.",
@@ -1028,7 +1028,7 @@
       "en": "Dry Skin",
       "es": "Piel Seca"
     },
-    "rating": 3.0,
+    "rating": 3,
     "num": 87,
     "desc": {
       "en": "Restores the Pokémon's HP in rain or when it is hit by Water-type moves. Reduces HP in harsh sunlight, and increases the damage received from Fire-type moves.",
@@ -1078,7 +1078,7 @@
       "en": "Effect Spore",
       "es": "Efecto Espora"
     },
-    "rating": 2.0,
+    "rating": 2,
     "num": 27,
     "desc": {
       "en": "Contact with the Pokémon may inflict poison, sleep, or paralysis on the attacker.",
@@ -1094,7 +1094,7 @@
       "en": "Electric Surge",
       "es": "Electrogénesis"
     },
-    "rating": 4.0,
+    "rating": 4,
     "num": 226,
     "desc": {
       "en": "Turns the ground into Electric Terrain when the Pokémon enters a battle.",
@@ -1111,7 +1111,7 @@
       "en": "Electromorphosis",
       "es": "Dinamo"
     },
-    "rating": 3.0,
+    "rating": 3,
     "num": 280,
     "desc": {
       "en": "The Pokémon becomes charged when it takes damage, boosting the power of the next Electric-type move the Pokémon uses.",
@@ -1142,7 +1142,7 @@
     },
     "shortDesc": "On switch-in, this Pokemon's Defense is raised by 1 stage.",
     "id": "embodyaspectcornerstone",
-    "champions": true
+    "champions": false
   },
   {
     "flags": {
@@ -1165,7 +1165,7 @@
     },
     "shortDesc": "On switch-in, this Pokemon's Attack is raised by 1 stage.",
     "id": "embodyaspecthearthflame",
-    "champions": true
+    "champions": false
   },
   {
     "flags": {
@@ -1188,7 +1188,7 @@
     },
     "shortDesc": "On switch-in, this Pokemon's Speed is raised by 1 stage.",
     "id": "embodyaspectteal",
-    "champions": true
+    "champions": false
   },
   {
     "flags": {
@@ -1211,7 +1211,7 @@
     },
     "shortDesc": "On switch-in, this Pokemon's Special Defense is raised by 1 stage.",
     "id": "embodyaspectwellspring",
-    "champions": true
+    "champions": false
   },
   {
     "flags": {},
@@ -1219,7 +1219,7 @@
       "en": "Emergency Exit",
       "es": "Retirada"
     },
-    "rating": 1.0,
+    "rating": 1,
     "num": 194,
     "desc": {
       "en": "The Pokémon, sensing danger, switches out when its HP becomes half or less.",
@@ -1227,7 +1227,7 @@
     },
     "shortDesc": "This Pokemon switches out when it reaches 1/2 or less of its maximum HP.",
     "id": "emergencyexit",
-    "champions": true
+    "champions": false
   },
   {
     "onAnyBasePowerPriority": 20,
@@ -1236,7 +1236,7 @@
       "en": "Fairy Aura",
       "es": "Aura Feérica"
     },
-    "rating": 3.0,
+    "rating": 3,
     "num": 187,
     "desc": {
       "en": "Powers up each Pokémon’s Fairy-type moves.",
@@ -1254,7 +1254,7 @@
       "en": "Filter",
       "es": "Filtro"
     },
-    "rating": 3.0,
+    "rating": 3,
     "num": 111,
     "desc": {
       "en": "Reduces the power of supereffective attacks that hit the Pokémon.",
@@ -1270,7 +1270,7 @@
       "en": "Flame Body",
       "es": "Cuerpo Llama"
     },
-    "rating": 2.0,
+    "rating": 2,
     "num": 49,
     "desc": {
       "en": "Contact with the Pokémon may burn the attacker.",
@@ -1287,7 +1287,7 @@
       "en": "Flare Boost",
       "es": "Ímpetu Ardiente"
     },
-    "rating": 2.0,
+    "rating": 2,
     "num": 138,
     "desc": {
       "en": "Powers up special moves when the Pokémon is burned.",
@@ -1295,7 +1295,7 @@
     },
     "shortDesc": "While this Pokemon is burned, its special attacks have 1.5x power.",
     "id": "flareboost",
-    "champions": true
+    "champions": false
   },
   {
     "condition": {
@@ -1335,7 +1335,7 @@
       "en": "Flower Gift",
       "es": "Don Floral"
     },
-    "rating": 1.0,
+    "rating": 1,
     "num": 122,
     "desc": {
       "en": "Boosts the Attack and Sp. Def stats of itself and allies in harsh sunlight.",
@@ -1343,7 +1343,7 @@
     },
     "shortDesc": "If user is Cherrim and Sunny Day is active, it and allies' Attack and Sp. Def are 1.5x.",
     "id": "flowergift",
-    "champions": true
+    "champions": false
   },
   {
     "flags": {
@@ -1353,7 +1353,7 @@
       "en": "Flower Veil",
       "es": "Velo Flor"
     },
-    "rating": 0.0,
+    "rating": 0,
     "num": 166,
     "desc": {
       "en": "Ally Grass-type Pokémon are protected from status conditions and the lowering of their stats.",
@@ -1393,7 +1393,7 @@
       "en": "Forecast",
       "es": "Predicción"
     },
-    "rating": 2.0,
+    "rating": 2,
     "num": 59,
     "desc": {
       "en": "The Pokémon transforms with the weather to change its type to Water, Fire, or Ice.",
@@ -1427,7 +1427,7 @@
       "en": "Friend Guard",
       "es": "Compiescolta"
     },
-    "rating": 0.0,
+    "rating": 0,
     "num": 132,
     "desc": {
       "en": "Reduces damage dealt to allies.",
@@ -1459,7 +1459,7 @@
       "en": "Full Metal Body",
       "es": "Guardia Metálica"
     },
-    "rating": 2.0,
+    "rating": 2,
     "num": 230,
     "desc": {
       "en": "Prevents other Pokémon’s moves or Abilities from lowering the Pokémon’s stats.",
@@ -1467,7 +1467,7 @@
     },
     "shortDesc": "Prevents other Pokemon from lowering this Pokemon's stat stages.",
     "id": "fullmetalbody",
-    "champions": true
+    "champions": false
   },
   {
     "onModifyDefPriority": 6,
@@ -1478,7 +1478,7 @@
       "en": "Fur Coat",
       "es": "Pelaje Recio"
     },
-    "rating": 4.0,
+    "rating": 4,
     "num": 169,
     "desc": {
       "en": "Halves the damage from physical moves.",
@@ -1512,7 +1512,7 @@
       "en": "Galvanize",
       "es": "Piel Eléctrica"
     },
-    "rating": 4.0,
+    "rating": 4,
     "num": 206,
     "desc": {
       "en": "Normal-type moves become Electric-type moves. The power of those moves is boosted a little.",
@@ -1520,7 +1520,7 @@
     },
     "shortDesc": "This Pokemon's Normal-type moves become Electric type and have 1.2x power.",
     "id": "galvanize",
-    "champions": true
+    "champions": false
   },
   {
     "flags": {},
@@ -1546,7 +1546,7 @@
       "en": "Good as Gold",
       "es": "Cuerpo Áureo"
     },
-    "rating": 5.0,
+    "rating": 5,
     "num": 283,
     "desc": {
       "en": "A body of pure, solid gold gives the Pokémon full immunity to other Pokémon's status moves.",
@@ -1562,7 +1562,7 @@
       "en": "Gooey",
       "es": "Baba"
     },
-    "rating": 2.0,
+    "rating": 2,
     "num": 183,
     "desc": {
       "en": "Contact with the Pokémon lowers the attacker's Speed stat.",
@@ -1587,7 +1587,7 @@
     },
     "shortDesc": "This Pokemon's Attack is 1.5x, but it can only select the first move it executes.",
     "id": "gorillatactics",
-    "champions": true
+    "champions": false
   },
   {
     "onModifyDefPriority": 6,
@@ -1606,7 +1606,7 @@
     },
     "shortDesc": "If Grassy Terrain is active, this Pokemon's Defense is multiplied by 1.5.",
     "id": "grasspelt",
-    "champions": true
+    "champions": false
   },
   {
     "flags": {},
@@ -1614,7 +1614,7 @@
       "en": "Grassy Surge",
       "es": "Herbogénesis"
     },
-    "rating": 4.0,
+    "rating": 4,
     "num": 229,
     "desc": {
       "en": "Turns the ground into Grassy Terrain when the Pokémon enters a battle.",
@@ -1622,7 +1622,7 @@
     },
     "shortDesc": "On switch-in, this Pokemon summons Grassy Terrain.",
     "id": "grassysurge",
-    "champions": true
+    "champions": false
   },
   {
     "flags": {},
@@ -1630,7 +1630,7 @@
       "en": "Grim Neigh",
       "es": "Relincho Negro"
     },
-    "rating": 3.0,
+    "rating": 3,
     "num": 265,
     "desc": {
       "en": "When the Pokémon knocks out a target, it utters a terrifying neigh, which boosts its Sp. Atk stat.",
@@ -1638,7 +1638,7 @@
     },
     "shortDesc": "This Pokemon's Sp. Atk is raised by 1 stage if it attacks and KOes another Pokemon.",
     "id": "grimneigh",
-    "champions": true
+    "champions": false
   },
   {
     "onDragOutPriority": 1,
@@ -1650,7 +1650,7 @@
       "en": "Guard Dog",
       "es": "Perro Guardián"
     },
-    "rating": 2.0,
+    "rating": 2,
     "num": 275,
     "desc": {
       "en": "Boosts the Pokémon’s Attack stat if intimidated. Moves and items that would force the Pokémon to switch out also fail to work.",
@@ -1658,7 +1658,7 @@
     },
     "shortDesc": "Immune to Intimidate. Intimidated: +1 Attack. Cannot be forced to switch out.",
     "id": "guarddog",
-    "champions": true
+    "champions": false
   },
   {
     "flags": {
@@ -1677,7 +1677,7 @@
     },
     "shortDesc": "When hit after Surf/Dive, attacker takes 1/4 max HP and -1 Defense or paralysis.",
     "id": "gulpmissile",
-    "champions": true
+    "champions": false
   },
   {
     "onModifyAtkPriority": 5,
@@ -1711,7 +1711,7 @@
     },
     "shortDesc": "On switch-in, summons Electric Terrain. During Electric Terrain, Sp. Atk is 1.3333x.",
     "id": "hadronengine",
-    "champions": true
+    "champions": false
   },
   {
     "onResidualOrder": 28,
@@ -1739,7 +1739,7 @@
       "en": "Healer",
       "es": "Alma Cura"
     },
-    "rating": 0.0,
+    "rating": 0,
     "num": 131,
     "desc": {
       "en": "Sometimes cures the status conditions of the Pokémon's allies.",
@@ -1759,7 +1759,7 @@
       "en": "Heatproof",
       "es": "Ignífugo"
     },
-    "rating": 2.0,
+    "rating": 2,
     "num": 85,
     "desc": {
       "en": "The Pokémon's heatproof body halves the damage taken from Fire-type moves.",
@@ -1778,7 +1778,7 @@
       "en": "Heavy Metal",
       "es": "Metal Pesado"
     },
-    "rating": 0.0,
+    "rating": 0,
     "num": 134,
     "desc": {
       "en": "Doubles the Pokémon's weight.",
@@ -1794,7 +1794,7 @@
       "en": "Honey Gather",
       "es": "Recogemiel"
     },
-    "rating": 0.0,
+    "rating": 0,
     "num": 118,
     "desc": {
       "en": "The Pokémon may gather Honey after a battle.",
@@ -1802,7 +1802,7 @@
     },
     "shortDesc": "No competitive use.",
     "id": "honeygather",
-    "champions": true
+    "champions": false
   },
   {
     "onSwitchInPriority": -2,
@@ -1811,7 +1811,7 @@
       "en": "Hospitality",
       "es": "Hospitalidad"
     },
-    "rating": 0.0,
+    "rating": 0,
     "num": 299,
     "desc": {
       "en": "When the Pokémon enters a battle, it showers its ally with hospitality, restoring a small amount of the ally's HP",
@@ -1828,7 +1828,7 @@
       "en": "Huge Power",
       "es": "Potencia"
     },
-    "rating": 5.0,
+    "rating": 5,
     "num": 37,
     "desc": {
       "en": "Doubles the Pokémon's Attack stat.",
@@ -1852,7 +1852,7 @@
       "en": "Hunger Switch",
       "es": "Mutapetito"
     },
-    "rating": 1.0,
+    "rating": 1,
     "num": 258,
     "desc": {
       "en": "The Pokémon changes its form, alternating between its Full Belly Mode and Hangry Mode after the end of every turn.",
@@ -1922,7 +1922,7 @@
       "en": "Ice Body",
       "es": "Gélido"
     },
-    "rating": 1.0,
+    "rating": 1,
     "num": 115,
     "desc": {
       "en": "The Pokémon gradually regains HP in snow.",
@@ -1949,7 +1949,7 @@
       "en": "Ice Face",
       "es": "Cara de Hielo"
     },
-    "rating": 3.0,
+    "rating": 3,
     "num": 248,
     "desc": {
       "en": "The Pokémon's ice head can take a physical attack as a substitute, but the attack also changes the Pokémon's appearance. The ice will be restored when it snows.",
@@ -1957,7 +1957,7 @@
     },
     "shortDesc": "If Eiscue, the first physical hit it takes deals 0 damage. Effect is restored in Snow.",
     "id": "iceface",
-    "champions": true
+    "champions": false
   },
   {
     "flags": {
@@ -1967,7 +1967,7 @@
       "en": "Ice Scales",
       "es": "Escama de Hielo"
     },
-    "rating": 4.0,
+    "rating": 4,
     "num": 246,
     "desc": {
       "en": "The Pokémon is protected by ice scales, which halve the damage taken from special moves.",
@@ -1975,7 +1975,7 @@
     },
     "shortDesc": "This Pokemon receives 1/2 damage from special attacks.",
     "id": "icescales",
-    "champions": true
+    "champions": false
   },
   {
     "flags": {
@@ -2025,7 +2025,7 @@
       "en": "Immunity",
       "es": "Inmunidad"
     },
-    "rating": 2.0,
+    "rating": 2,
     "num": 17,
     "desc": {
       "en": "The Pokémon's immune system prevents it from being poisoned.",
@@ -2046,7 +2046,7 @@
       "en": "Imposter",
       "es": "Impostor"
     },
-    "rating": 5.0,
+    "rating": 5,
     "num": 150,
     "desc": {
       "en": "The Pokémon transforms itself into the Pokémon it's facing.",
@@ -2079,7 +2079,7 @@
       "en": "Innards Out",
       "es": "Revés"
     },
-    "rating": 4.0,
+    "rating": 4,
     "num": 215,
     "desc": {
       "en": "Damages the attacker landing the finishing hit by the amount equal to its last HP.",
@@ -2097,7 +2097,7 @@
       "en": "Inner Focus",
       "es": "Foco Interno"
     },
-    "rating": 1.0,
+    "rating": 1,
     "num": 39,
     "desc": {
       "en": "The Pokémon's intense focus prevents it from flinching or being affected by Intimidate.",
@@ -2147,7 +2147,7 @@
       "en": "Intrepid Sword",
       "es": "Espada Indómita"
     },
-    "rating": 4.0,
+    "rating": 4,
     "num": 234,
     "desc": {
       "en": "Boosts the Pokémon’s Attack stat the first time the Pokémon enters a battle.",
@@ -2155,7 +2155,7 @@
     },
     "shortDesc": "On switch-in, this Pokemon's Attack is raised by 1 stage. Once per battle.",
     "id": "intrepidsword",
-    "champions": true
+    "champions": false
   },
   {
     "onDamagingHitOrder": 1,
@@ -2172,7 +2172,7 @@
     },
     "shortDesc": "Pokemon making contact with this Pokemon lose 1/8 of their max HP.",
     "id": "ironbarbs",
-    "champions": true
+    "champions": false
   },
   {
     "onBasePowerPriority": 23,
@@ -2181,7 +2181,7 @@
       "en": "Iron Fist",
       "es": "Puño Férreo"
     },
-    "rating": 3.0,
+    "rating": 3,
     "num": 89,
     "desc": {
       "en": "Powers up punching moves.",
@@ -2232,7 +2232,7 @@
       "en": "Klutz",
       "es": "Zoquete"
     },
-    "rating": -1.0,
+    "rating": -1,
     "num": 103,
     "desc": {
       "en": "The Pokémon can't use any held items.",
@@ -2284,7 +2284,7 @@
       "en": "Libero",
       "es": "Líbero"
     },
-    "rating": 4.0,
+    "rating": 4,
     "num": 236,
     "desc": {
       "en": "Changes the Pokémon's type to the type of the move it's about to use. This works only once each time the Pokémon enters battle.",
@@ -2292,7 +2292,7 @@
     },
     "shortDesc": "This Pokemon's type changes to the type of the move it is using. Once per switch-in.",
     "id": "libero",
-    "champions": true
+    "champions": false
   },
   {
     "flags": {
@@ -2302,7 +2302,7 @@
       "en": "Light Metal",
       "es": "Metal Liviano"
     },
-    "rating": 1.0,
+    "rating": 1,
     "num": 135,
     "desc": {
       "en": "Halves the Pokémon's weight.",
@@ -2320,7 +2320,7 @@
       "en": "Lightning Rod",
       "es": "Pararrayos"
     },
-    "rating": 3.0,
+    "rating": 3,
     "num": 31,
     "desc": {
       "en": "The Pokémon draws in all Electric-type moves. Instead of taking damage from them, its Sp. Atk stat is boosted.",
@@ -2338,7 +2338,7 @@
       "en": "Limber",
       "es": "Flexibilidad"
     },
-    "rating": 2.0,
+    "rating": 2,
     "num": 7,
     "desc": {
       "en": "The Pokémon's limber body prevents it from being paralyzed.",
@@ -2354,7 +2354,7 @@
       "en": "Lingering Aroma",
       "es": "Olor Persistente"
     },
-    "rating": 2.0,
+    "rating": 2,
     "num": 268,
     "desc": {
       "en": "Contact with the Pokémon changes the attacker's Ability to Lingering Aroma.",
@@ -2362,7 +2362,7 @@
     },
     "shortDesc": "Making contact with this Pokemon has the attacker's Ability become Lingering Aroma.",
     "id": "lingeringaroma",
-    "champions": true
+    "champions": false
   },
   {
     "flags": {},
@@ -2378,7 +2378,7 @@
     },
     "shortDesc": "This Pokemon damages those draining HP from it for as much as they would heal.",
     "id": "liquidooze",
-    "champions": true
+    "champions": false
   },
   {
     "onModifyTypePriority": -1,
@@ -2403,7 +2403,7 @@
       "en": "Long Reach",
       "es": "Remoto"
     },
-    "rating": 1.0,
+    "rating": 1,
     "num": 203,
     "desc": {
       "en": "The Pokémon uses its moves without making contact with the target.",
@@ -2422,7 +2422,7 @@
       "en": "Magic Bounce",
       "es": "Espejo Mágico"
     },
-    "rating": 4.0,
+    "rating": 4,
     "num": 156,
     "desc": {
       "en": "The Pokémon reflects status moves instead of getting hit by them.",
@@ -2438,7 +2438,7 @@
       "en": "Magic Guard",
       "es": "Muro Mágico"
     },
-    "rating": 4.0,
+    "rating": 4,
     "num": 98,
     "desc": {
       "en": "The Pokémon only takes damage from attacks.",
@@ -2454,7 +2454,7 @@
       "en": "Magician",
       "es": "Prestidigitador"
     },
-    "rating": 1.0,
+    "rating": 1,
     "num": 170,
     "desc": {
       "en": "The Pokémon steals the held item from any target it hits with a move.",
@@ -2488,7 +2488,7 @@
       "en": "Magnet Pull",
       "es": "Imán"
     },
-    "rating": 4.0,
+    "rating": 4,
     "num": 42,
     "desc": {
       "en": "Prevents Steel-type Pokémon from fleeing by pulling them in with magnetism.",
@@ -2496,7 +2496,7 @@
     },
     "shortDesc": "Prevents opposing Steel-type Pokemon from choosing to switch out.",
     "id": "magnetpull",
-    "champions": true
+    "champions": false
   },
   {
     "onModifyDefPriority": 6,
@@ -2524,7 +2524,7 @@
       "en": "Mega Launcher",
       "es": "Megadisparador"
     },
-    "rating": 3.0,
+    "rating": 3,
     "num": 178,
     "desc": {
       "en": "Powers up pulse moves.",
@@ -2542,7 +2542,7 @@
       "en": "Mega Sol",
       "es": ""
     },
-    "rating": 3.0,
+    "rating": 3,
     "num": 315,
     "desc": {
       "en": "Even when the sunlight has not turned harsh, the Pokémon can use its moves as if the weather were harsh sunlight.",
@@ -2575,7 +2575,7 @@
       "en": "Mimicry",
       "es": "Mimetismo"
     },
-    "rating": 0.0,
+    "rating": 0,
     "num": 250,
     "desc": {
       "en": "Changes the Pokémon’s type depending on the terrain.",
@@ -2594,7 +2594,7 @@
       "en": "Mind’s Eye",
       "es": "Ojo Mental "
     },
-    "rating": 0.0,
+    "rating": 0,
     "num": 300,
     "desc": {
       "en": "The Pokémon ignores changes to opponents' evasiveness, its accuracy can't be lowered, and it can hit Ghost types with Normal-type and Fighting-type moves",
@@ -2602,7 +2602,7 @@
     },
     "shortDesc": "Fighting, Normal moves hit Ghost. Accuracy can't be lowered, ignores evasiveness.",
     "id": "mindseye",
-    "champions": true
+    "champions": false
   },
   {
     "onModifySpAPriority": 5,
@@ -2611,7 +2611,7 @@
       "en": "Minus",
       "es": "Menos"
     },
-    "rating": 0.0,
+    "rating": 0,
     "num": 58,
     "desc": {
       "en": "Boosts the Sp. Atk stat of the Pokémon if an ally with the Plus or Minus Ability is also in battle.",
@@ -2629,7 +2629,7 @@
       "en": "Mirror Armor",
       "es": "Coraza Reflejo"
     },
-    "rating": 2.0,
+    "rating": 2,
     "num": 240,
     "desc": {
       "en": "Bounces back only the stat-lowering effects that the Pokémon receives.",
@@ -2653,7 +2653,7 @@
     },
     "shortDesc": "On switch-in, this Pokemon summons Misty Terrain.",
     "id": "mistysurge",
-    "champions": true
+    "champions": false
   },
   {
     "flags": {},
@@ -2661,7 +2661,7 @@
       "en": "Mold Breaker",
       "es": "Rompemoldes"
     },
-    "rating": 3.0,
+    "rating": 3,
     "num": 104,
     "desc": {
       "en": "The Pokémon's moves are unimpeded by the Ability of the target.",
@@ -2679,7 +2679,7 @@
       "en": "Moody",
       "es": "Veleta"
     },
-    "rating": 5.0,
+    "rating": 5,
     "num": 141,
     "desc": {
       "en": "Every turn, one of the Pokémon's stats will be boosted sharply but another stat will be lowered.",
@@ -2697,7 +2697,7 @@
       "en": "Motor Drive",
       "es": "Electromotor"
     },
-    "rating": 3.0,
+    "rating": 3,
     "num": 78,
     "desc": {
       "en": "The Pokémon takes no damage when hit by Electric-type moves. Instead, its Speed stat is boosted.",
@@ -2713,7 +2713,7 @@
       "en": "Moxie",
       "es": "Autoestima"
     },
-    "rating": 3.0,
+    "rating": 3,
     "num": 153,
     "desc": {
       "en": "When the Pokémon knocks out a target, it shows moxie, which boosts its Attack stat.",
@@ -2754,7 +2754,7 @@
       "en": "Multitype",
       "es": "Multitipo"
     },
-    "rating": 4.0,
+    "rating": 4,
     "num": 121,
     "desc": {
       "en": "Changes the Pokémon's type to match the plate it holds.",
@@ -2762,7 +2762,7 @@
     },
     "shortDesc": "If this Pokemon is an Arceus, its type changes to match its held Plate.",
     "id": "multitype",
-    "champions": true
+    "champions": false
   },
   {
     "flags": {},
@@ -2770,7 +2770,7 @@
       "en": "Mummy",
       "es": "Momia"
     },
-    "rating": 2.0,
+    "rating": 2,
     "num": 152,
     "desc": {
       "en": "Contact with the Pokémon changes the attacker’s Ability to Mummy.",
@@ -2787,7 +2787,7 @@
       "en": "Mycelium Might",
       "es": "Poder Fúngico"
     },
-    "rating": 2.0,
+    "rating": 2,
     "num": 298,
     "desc": {
       "en": "The Pokémon will always act more slowly when using status moves, but these moves will be unimpeded by the Ability of the target.",
@@ -2795,7 +2795,7 @@
     },
     "shortDesc": "This Pokemon's Status moves go last in their priority bracket and ignore Abilities.",
     "id": "myceliummight",
-    "champions": true
+    "champions": false
   },
   {
     "flags": {},
@@ -2827,7 +2827,7 @@
     },
     "shortDesc": "This Pokemon's attacks that are super effective against the target do 1.25x damage.",
     "id": "neuroforce",
-    "champions": true
+    "champions": false
   },
   {
     "onSwitchInPriority": 2,
@@ -2851,7 +2851,7 @@
     },
     "shortDesc": "While this Pokemon is active, Abilities have no effect.",
     "id": "neutralizinggas",
-    "champions": true
+    "champions": false
   },
   {
     "onAnyInvulnerabilityPriority": 1,
@@ -2860,7 +2860,7 @@
       "en": "No Guard",
       "es": "Indefenso"
     },
-    "rating": 4.0,
+    "rating": 4,
     "num": 99,
     "desc": {
       "en": "The Pokémon employs no-guard tactics to ensure incoming and outgoing attacks always land.",
@@ -2878,7 +2878,7 @@
       "en": "Normalize",
       "es": "Normalidad"
     },
-    "rating": 0.0,
+    "rating": 0,
     "num": 96,
     "desc": {
       "en": "All the Pokémon’s moves become Normal type. The power of those moves is boosted a little.",
@@ -2886,7 +2886,7 @@
     },
     "shortDesc": "This Pokemon's moves are changed to be Normal type and have 1.2x power.",
     "id": "normalize",
-    "champions": true
+    "champions": false
   },
   {
     "flags": {
@@ -2914,7 +2914,7 @@
       "en": "Opportunist",
       "es": "Oportunista"
     },
-    "rating": 3.0,
+    "rating": 3,
     "num": 290,
     "desc": {
       "en": "If an opponent's stat is boosted, the Pokémon seizes the opportunity to boost the same stat for itself.",
@@ -2939,7 +2939,7 @@
     },
     "shortDesc": "On switch-in, summons Sunny Day. During Sunny Day, Attack is 1.3333x.",
     "id": "orichalcumpulse",
-    "champions": true
+    "champions": false
   },
   {
     "onTryHitPriority": 1,
@@ -2950,7 +2950,7 @@
       "en": "Overcoat",
       "es": "Funda"
     },
-    "rating": 2.0,
+    "rating": 2,
     "num": 142,
     "desc": {
       "en": "The Pokémon takes no damage from sandstorms. It is also protected from the effects of powders and spores.",
@@ -2968,7 +2968,7 @@
       "en": "Overgrow",
       "es": "Espesura"
     },
-    "rating": 2.0,
+    "rating": 2,
     "num": 65,
     "desc": {
       "en": "Powers up Grass-type moves when the Pokémon's HP is low.",
@@ -3020,7 +3020,7 @@
       "en": "Pastel Veil",
       "es": "Velo Pastel"
     },
-    "rating": 2.0,
+    "rating": 2,
     "num": 257,
     "desc": {
       "en": "Protects the Pokémon and its ally Pokémon from being poisoned.",
@@ -3028,7 +3028,7 @@
     },
     "shortDesc": "This Pokemon and its allies cannot be poisoned. On switch-in, cures poisoned allies.",
     "id": "pastelveil",
-    "champions": true
+    "champions": false
   },
   {
     "flags": {},
@@ -3036,7 +3036,7 @@
       "en": "Perish Body",
       "es": "Cuerpo Mortal"
     },
-    "rating": 1.0,
+    "rating": 1,
     "num": 253,
     "desc": {
       "en": "When hit by a move that makes direct contact, the Pokémon and the attacker will faint after three turns unless they switch out of battle.",
@@ -3044,7 +3044,7 @@
     },
     "shortDesc": "Making contact with this Pokemon starts the Perish Song effect for it and the attacker.",
     "id": "perishbody",
-    "champions": true
+    "champions": false
   },
   {
     "flags": {},
@@ -3052,7 +3052,7 @@
       "en": "Pickpocket",
       "es": "Hurto"
     },
-    "rating": 1.0,
+    "rating": 1,
     "num": 124,
     "desc": {
       "en": "The Pokémon steals the held item from attackers that made direct contact with it.",
@@ -3087,7 +3087,7 @@
       "en": "Piercing Drill",
       "es": ""
     },
-    "rating": 1.0,
+    "rating": 1,
     "num": 311,
     "desc": {
       "en": "When the Pokémon uses contact moves, it can hit even targets that are protecting themselves, dealing 1/4 of the damage that the move would otherwise deal. Everything aside from the target's protective effects is still triggered.",
@@ -3105,7 +3105,7 @@
       "en": "Pixilate",
       "es": "Piel Feérica"
     },
-    "rating": 4.0,
+    "rating": 4,
     "num": 182,
     "desc": {
       "en": "Normal-type moves become Fairy-type moves. The power of those moves is boosted a little.",
@@ -3122,7 +3122,7 @@
       "en": "Plus",
       "es": "Más"
     },
-    "rating": 0.0,
+    "rating": 0,
     "num": 57,
     "desc": {
       "en": "Boosts the Sp. Atk stat of the Pokémon if an ally with the Plus or Minus Ability is also in battle.",
@@ -3139,7 +3139,7 @@
       "en": "Poison Heal",
       "es": "Antídoto"
     },
-    "rating": 4.0,
+    "rating": 4,
     "num": 90,
     "desc": {
       "en": "If poisoned, the Pokémon has its HP restored instead of taking damage.",
@@ -3177,7 +3177,7 @@
       "en": "Poison Puppeteer",
       "es": "Títere Tóxico"
     },
-    "rating": 3.0,
+    "rating": 3,
     "num": 310,
     "desc": {
       "en": "Pokémon poisoned by Pecharunt's moves will also become confused.",
@@ -3185,7 +3185,7 @@
     },
     "shortDesc": "Pecharunt: If this Pokemon poisons a target, the target also becomes confused.",
     "id": "poisonpuppeteer",
-    "champions": true
+    "champions": false
   },
   {
     "flags": {},
@@ -3193,7 +3193,7 @@
       "en": "Poison Touch",
       "es": "Toque Tóxico"
     },
-    "rating": 2.0,
+    "rating": 2,
     "num": 143,
     "desc": {
       "en": "May poison a target when the Pokémon makes contact.",
@@ -3217,7 +3217,7 @@
       "en": "Power Construct",
       "es": "Agrupamiento"
     },
-    "rating": 5.0,
+    "rating": 5,
     "num": 211,
     "desc": {
       "en": "Other Cells gather to aid when its HP becomes half or less. Then the Pokémon changes its form to Complete Forme.",
@@ -3225,7 +3225,7 @@
     },
     "shortDesc": "If Zygarde 10%/50%, changes to Complete if at 1/2 max HP or less at end of turn.",
     "id": "powerconstruct",
-    "champions": true
+    "champions": false
   },
   {
     "flags": {
@@ -3238,7 +3238,7 @@
       "en": "Power of Alchemy",
       "es": "Reacción Química"
     },
-    "rating": 0.0,
+    "rating": 0,
     "num": 223,
     "desc": {
       "en": "The Pokémon copies the Ability of a defeated ally.",
@@ -3246,7 +3246,7 @@
     },
     "shortDesc": "This Pokemon copies the Ability of an ally that faints.",
     "id": "powerofalchemy",
-    "champions": true
+    "champions": false
   },
   {
     "onAllyBasePowerPriority": 22,
@@ -3255,7 +3255,7 @@
       "en": "Power Spot",
       "es": "Fuente Energía"
     },
-    "rating": 0.0,
+    "rating": 0,
     "num": 249,
     "desc": {
       "en": "Just being next to the Pokémon powers up moves.",
@@ -3263,7 +3263,7 @@
     },
     "shortDesc": "This Pokemon's allies have the power of their moves multiplied by 1.3.",
     "id": "powerspot",
-    "champions": true
+    "champions": false
   },
   {
     "flags": {},
@@ -3271,7 +3271,7 @@
       "en": "Prankster",
       "es": "Bromista"
     },
-    "rating": 4.0,
+    "rating": 4,
     "num": 158,
     "desc": {
       "en": "Gives priority to the Pokémon's status moves.",
@@ -3311,7 +3311,7 @@
     },
     "shortDesc": "On switch-in, heavy rain begins until this Ability is not active in battle.",
     "id": "primordialsea",
-    "champions": true
+    "champions": false
   },
   {
     "flags": {},
@@ -3319,7 +3319,7 @@
       "en": "Prism Armor",
       "es": "Armadura Prisma"
     },
-    "rating": 3.0,
+    "rating": 3,
     "num": 232,
     "desc": {
       "en": "Reduces the power of supereffective attacks taken.",
@@ -3327,7 +3327,7 @@
     },
     "shortDesc": "This Pokemon receives 3/4 damage from supereffective attacks.",
     "id": "prismarmor",
-    "champions": true
+    "champions": false
   },
   {
     "onModifyMovePriority": 1,
@@ -3336,7 +3336,7 @@
       "en": "Propeller Tail",
       "es": "Hélice Caudal"
     },
-    "rating": 0.0,
+    "rating": 0,
     "num": 239,
     "desc": {
       "en": "Ignores the effects of opposing Pokémon's Abilities and moves that draw in moves.",
@@ -3344,7 +3344,7 @@
     },
     "shortDesc": "This Pokemon's moves cannot be redirected to a different target by any effect.",
     "id": "propellertail",
-    "champions": true
+    "champions": false
   },
   {
     "flags": {},
@@ -3352,7 +3352,7 @@
       "en": "Protean",
       "es": "Mutatipo"
     },
-    "rating": 4.0,
+    "rating": 4,
     "num": 168,
     "desc": {
       "en": "Changes the Pokémon's type to the type of the move it's about to use. This works only once each time the Pokémon enters battle.",
@@ -3383,7 +3383,7 @@
       "en": "Protosynthesis",
       "es": "Paleosíntesis"
     },
-    "rating": 3.0,
+    "rating": 3,
     "num": 281,
     "desc": {
       "en": "Boosts the Pokémon's most proficient stat in harsh sunlight or if the Pokémon is holding Booster Energy.",
@@ -3391,7 +3391,7 @@
     },
     "shortDesc": "Sunny Day active or Booster Energy used: highest stat is 1.3x, or 1.5x if Speed.",
     "id": "protosynthesis",
-    "champions": true
+    "champions": false
   },
   {
     "flags": {},
@@ -3399,7 +3399,7 @@
       "en": "Psychic Surge",
       "es": "Psicogénesis"
     },
-    "rating": 4.0,
+    "rating": 4,
     "num": 227,
     "desc": {
       "en": "Turns the ground into Psychic Terrain when the Pokémon enters a battle.",
@@ -3407,7 +3407,7 @@
     },
     "shortDesc": "On switch-in, this Pokemon summons Psychic Terrain.",
     "id": "psychicsurge",
-    "champions": true
+    "champions": false
   },
   {
     "onBasePowerPriority": 7,
@@ -3426,7 +3426,7 @@
     },
     "shortDesc": "This Pokemon receives 1/2 damage from sound moves. Its own have 1.3x power.",
     "id": "punkrock",
-    "champions": true
+    "champions": false
   },
   {
     "onModifyAtkPriority": 5,
@@ -3435,7 +3435,7 @@
       "en": "Pure Power",
       "es": "Energía Pura"
     },
-    "rating": 5.0,
+    "rating": 5,
     "num": 74,
     "desc": {
       "en": "Using its pure power, the Pokémon doubles its Attack stat.",
@@ -3455,7 +3455,7 @@
       "en": "Purifying Salt",
       "es": "Sal Purificadora"
     },
-    "rating": 4.0,
+    "rating": 4,
     "num": 272,
     "desc": {
       "en": "The Pokémon's pure salt protects it from status conditions and halves the damage taken from Ghost-type moves.",
@@ -3486,7 +3486,7 @@
       "en": "Quark Drive",
       "es": "Carga Cuark"
     },
-    "rating": 3.0,
+    "rating": 3,
     "num": 282,
     "desc": {
       "en": "Boosts the Pokémon's most proficient stat on Electric Terrain or if the Pokémon is holding Booster Energy.",
@@ -3494,7 +3494,7 @@
     },
     "shortDesc": "Electric Terrain active or Booster Energy used: highest stat is 1.3x, or 1.5x if Speed.",
     "id": "quarkdrive",
-    "champions": true
+    "champions": false
   },
   {
     "flags": {
@@ -3569,7 +3569,7 @@
       "en": "Rattled",
       "es": "Cobardía"
     },
-    "rating": 1.0,
+    "rating": 1,
     "num": 155,
     "desc": {
       "en": "The Pokémon gets scared when hit by a Dark-, Ghost-, or Bug-type attack or if intimidated, which boosts its Speed stat.",
@@ -3577,7 +3577,7 @@
     },
     "shortDesc": "Speed is raised 1 stage if hit by a Bug-, Dark-, or Ghost-type attack, or Intimidated.",
     "id": "rattled",
-    "champions": true
+    "champions": false
   },
   {
     "flags": {
@@ -3590,7 +3590,7 @@
       "en": "Receiver",
       "es": "Receptor"
     },
-    "rating": 0.0,
+    "rating": 0,
     "num": 222,
     "desc": {
       "en": "The Pokémon copies the Ability of a defeated ally.",
@@ -3607,7 +3607,7 @@
       "en": "Reckless",
       "es": "Audaz"
     },
-    "rating": 3.0,
+    "rating": 3,
     "num": 120,
     "desc": {
       "en": "Powers up moves that have recoil damage.",
@@ -3625,7 +3625,7 @@
       "en": "Refrigerate",
       "es": "Piel Helada"
     },
-    "rating": 4.0,
+    "rating": 4,
     "num": 174,
     "desc": {
       "en": "Normal-type moves become Ice-type moves. The power of those moves is boosted a little.",
@@ -3659,7 +3659,7 @@
       "en": "Ripen",
       "es": "Maduración"
     },
-    "rating": 2.0,
+    "rating": 2,
     "num": 247,
     "desc": {
       "en": "Ripens Berries and doubles their effect.",
@@ -3676,7 +3676,7 @@
       "en": "Rivalry",
       "es": "Rivalidad"
     },
-    "rating": 0.0,
+    "rating": 0,
     "num": 79,
     "desc": {
       "en": "The Pokémon's competitive spirit makes it deal more damage to Pokémon of the same gender, but less damage to Pokémon of the opposite gender.",
@@ -3699,7 +3699,7 @@
       "en": "RKS System",
       "es": "Sistema Alfa"
     },
-    "rating": 4.0,
+    "rating": 4,
     "num": 225,
     "desc": {
       "en": "Changes the Pokémon’s type to match the memory disc it holds.",
@@ -3707,7 +3707,7 @@
     },
     "shortDesc": "If this Pokemon is a Silvally, its type changes to match its held Memory.",
     "id": "rkssystem",
-    "champions": true
+    "champions": false
   },
   {
     "flags": {},
@@ -3715,7 +3715,7 @@
       "en": "Rock Head",
       "es": "Cabeza Roca"
     },
-    "rating": 3.0,
+    "rating": 3,
     "num": 69,
     "desc": {
       "en": "Protects the Pokémon from recoil damage.",
@@ -3741,7 +3741,7 @@
     },
     "shortDesc": "This Pokemon's offensive stat is multiplied by 1.5 while using a Rock-type attack.",
     "id": "rockypayload",
-    "champions": true
+    "champions": false
   },
   {
     "onDamagingHitOrder": 1,
@@ -3766,7 +3766,7 @@
       "en": "Run Away",
       "es": "Fuga"
     },
-    "rating": 0.0,
+    "rating": 0,
     "num": 50,
     "desc": {
       "en": "Enables a sure getaway from wild Pokémon.",
@@ -3774,7 +3774,7 @@
     },
     "shortDesc": "No competitive use.",
     "id": "runaway",
-    "champions": true
+    "champions": false
   },
   {
     "onBasePowerPriority": 21,
@@ -3783,7 +3783,7 @@
       "en": "Sand Force",
       "es": "Poder Arena"
     },
-    "rating": 2.0,
+    "rating": 2,
     "num": 159,
     "desc": {
       "en": "Boosts the power of Rock-, Ground-, and Steel-type moves in a sandstorm.",
@@ -3799,7 +3799,7 @@
       "en": "Sand Rush",
       "es": "Ímpetu Arena"
     },
-    "rating": 3.0,
+    "rating": 3,
     "num": 146,
     "desc": {
       "en": "Boosts the Pokémon's Speed stat in a sandstorm.",
@@ -3815,7 +3815,7 @@
       "en": "Sand Spit",
       "es": "Expulsarena"
     },
-    "rating": 1.0,
+    "rating": 1,
     "num": 245,
     "desc": {
       "en": "The Pokémon creates a sandstorm when it's hit by an attack.",
@@ -3831,7 +3831,7 @@
       "en": "Sand Stream",
       "es": "Chorro Arena"
     },
-    "rating": 4.0,
+    "rating": 4,
     "num": 45,
     "desc": {
       "en": "The Pokémon summons a sandstorm when it enters a battle.",
@@ -3869,7 +3869,7 @@
       "en": "Sap Sipper",
       "es": "Herbívoro"
     },
-    "rating": 3.0,
+    "rating": 3,
     "num": 157,
     "desc": {
       "en": "The Pokémon takes no damage when hit by Grass-type moves. Instead, its Attack stat is boosted.",
@@ -3894,7 +3894,7 @@
       "en": "Schooling",
       "es": "Banco"
     },
-    "rating": 3.0,
+    "rating": 3,
     "num": 208,
     "desc": {
       "en": "When it has a lot of HP, the Pokémon forms a powerful school. It stops schooling when its HP is low.",
@@ -3902,7 +3902,7 @@
     },
     "shortDesc": "If user is Wishiwashi, changes to School Form if it has > 1/4 max HP, else Solo Form.",
     "id": "schooling",
-    "champions": true
+    "champions": false
   },
   {
     "onModifyMovePriority": -5,
@@ -3911,7 +3911,7 @@
       "en": "Scrappy",
       "es": "Intrépido"
     },
-    "rating": 3.0,
+    "rating": 3,
     "num": 113,
     "desc": {
       "en": "The Pokémon can hit Ghost-type Pokémon with Normal- and Fighting-type moves. It is also unaffected by Intimidate.",
@@ -3927,7 +3927,7 @@
       "en": "Screen Cleaner",
       "es": "Antibarrera"
     },
-    "rating": 2.0,
+    "rating": 2,
     "num": 251,
     "desc": {
       "en": "When the Pokémon enters a battle, the effects of Light Screen, Reflect, and Aurora Veil are nullified for both opposing and ally Pokémon.",
@@ -3951,7 +3951,7 @@
     },
     "shortDesc": "When this Pokemon is hit by an attack, the effect of Grassy Terrain begins.",
     "id": "seedsower",
-    "champions": true
+    "champions": false
   },
   {
     "onModifyMovePriority": -2,
@@ -3968,7 +3968,7 @@
     },
     "shortDesc": "This Pokemon's moves have their secondary effect chance doubled.",
     "id": "serenegrace",
-    "champions": true
+    "champions": false
   },
   {
     "flags": {},
@@ -3984,7 +3984,7 @@
     },
     "shortDesc": "If this Pokemon is at full HP, damage taken from attacks is halved.",
     "id": "shadowshield",
-    "champions": true
+    "champions": false
   },
   {
     "flags": {},
@@ -3992,7 +3992,7 @@
       "en": "Shadow Tag",
       "es": "Sombra Trampa"
     },
-    "rating": 5.0,
+    "rating": 5,
     "num": 23,
     "desc": {
       "en": "The Pokémon steps on the opposing Pokémon's shadows to prevent them from fleeing or switching out.",
@@ -4027,7 +4027,7 @@
       "en": "Shed Skin",
       "es": "Mudar"
     },
-    "rating": 3.0,
+    "rating": 3,
     "num": 61,
     "desc": {
       "en": "The Pokémon may cure its own status conditions by shedding its skin.",
@@ -4063,7 +4063,7 @@
       "en": "Shell Armor",
       "es": "Caparazón"
     },
-    "rating": 1.0,
+    "rating": 1,
     "num": 75,
     "desc": {
       "en": "A hard shell protects the Pokémon from critical hits.",
@@ -4081,7 +4081,7 @@
       "en": "Shield Dust",
       "es": "Polvo Escudo"
     },
-    "rating": 2.0,
+    "rating": 2,
     "num": 19,
     "desc": {
       "en": "Protective dust shields the Pokémon from the additional effects of moves.",
@@ -4106,7 +4106,7 @@
       "en": "Shields Down",
       "es": "Escudo Limitado"
     },
-    "rating": 3.0,
+    "rating": 3,
     "num": 197,
     "desc": {
       "en": "When its HP drops to half or less, the Pokémon's shell breaks and it becomes aggressive.",
@@ -4114,7 +4114,7 @@
     },
     "shortDesc": "If Minior, switch-in/end of turn it changes to Core at 1/2 max HP or less, else Meteor.",
     "id": "shieldsdown",
-    "champions": true
+    "champions": false
   },
   {
     "flags": {
@@ -4124,7 +4124,7 @@
       "en": "Simple",
       "es": "Simple"
     },
-    "rating": 4.0,
+    "rating": 4,
     "num": 86,
     "desc": {
       "en": "Doubles the effects of the Pokémon's stat changes.",
@@ -4140,7 +4140,7 @@
       "en": "Skill Link",
       "es": "Encadenado"
     },
-    "rating": 3.0,
+    "rating": 3,
     "num": 92,
     "desc": {
       "en": "Maximizes the number of times multistrike moves hit.",
@@ -4159,7 +4159,7 @@
       "en": "Slow Start",
       "es": "Inicio Lento"
     },
-    "rating": -1.0,
+    "rating": -1,
     "num": 112,
     "desc": {
       "en": "For five turns, the Pokémon's Attack and Speed stats are halved.",
@@ -4167,7 +4167,7 @@
     },
     "shortDesc": "On switch-in, this Pokemon's Attack and Speed are halved for 5 turns.",
     "id": "slowstart",
-    "champions": true
+    "champions": false
   },
   {
     "flags": {},
@@ -4175,7 +4175,7 @@
       "en": "Slush Rush",
       "es": "Quitanieves"
     },
-    "rating": 3.0,
+    "rating": 3,
     "num": 202,
     "desc": {
       "en": "Boosts the Pokémon's Speed stat in snow.",
@@ -4191,7 +4191,7 @@
       "en": "Sniper",
       "es": "Francotirador"
     },
-    "rating": 2.0,
+    "rating": 2,
     "num": 97,
     "desc": {
       "en": "If the Pokémon's attack lands a critical hit, the attack is powered up even further.",
@@ -4226,7 +4226,7 @@
       "en": "Snow Warning",
       "es": "Nevada"
     },
-    "rating": 4.0,
+    "rating": 4,
     "num": 117,
     "desc": {
       "en": "The Pokémon makes it snow when it enters a battle.",
@@ -4243,7 +4243,7 @@
       "en": "Solar Power",
       "es": "Poder Solar"
     },
-    "rating": 2.0,
+    "rating": 2,
     "num": 94,
     "desc": {
       "en": "In harsh sunlight, the Pokémon's Sp. Atk stat is boosted, but its HP decreases every turn.",
@@ -4261,7 +4261,7 @@
       "en": "Solid Rock",
       "es": "Roca Sólida"
     },
-    "rating": 3.0,
+    "rating": 3,
     "num": 116,
     "desc": {
       "en": "Reduces the power of supereffective attacks that hit the Pokémon.",
@@ -4286,7 +4286,7 @@
     },
     "shortDesc": "This Pokemon's Special Attack is raised by 1 stage when another Pokemon faints.",
     "id": "soulheart",
-    "champions": true
+    "champions": false
   },
   {
     "flags": {
@@ -4296,7 +4296,7 @@
       "en": "Soundproof",
       "es": "Insonorizar"
     },
-    "rating": 2.0,
+    "rating": 2,
     "num": 43,
     "desc": {
       "en": "Soundproofing gives the Pokémon full immunity to all sound-based moves.",
@@ -4331,7 +4331,7 @@
       "en": "Spicy Spray",
       "es": ""
     },
-    "rating": 3.0,
+    "rating": 3,
     "num": 318,
     "desc": {
       "en": "When the Pokémon takes damage from a move, it burns the attacker.",
@@ -4357,7 +4357,7 @@
     },
     "shortDesc": "This Pokemon's offensive stat is doubled against a target that switched in this turn.",
     "id": "stakeout",
-    "champions": true
+    "champions": false
   },
   {
     "onFractionalPriority": -0.1,
@@ -4366,7 +4366,7 @@
       "en": "Stall",
       "es": "Rezagado"
     },
-    "rating": -1.0,
+    "rating": -1,
     "num": 100,
     "desc": {
       "en": "The Pokémon is always the last to use its moves.",
@@ -4383,7 +4383,7 @@
       "en": "Stalwart",
       "es": "Acérrimo"
     },
-    "rating": 0.0,
+    "rating": 0,
     "num": 242,
     "desc": {
       "en": "Ignores the effects of opposing Pokémon's Abilities and moves that draw in moves.",
@@ -4399,7 +4399,7 @@
       "en": "Stamina",
       "es": "Firmeza"
     },
-    "rating": 4.0,
+    "rating": 4,
     "num": 192,
     "desc": {
       "en": "Boosts the Defense stat when the Pokémon is hit by an attack.",
@@ -4423,7 +4423,7 @@
       "en": "Stance Change",
       "es": "Cambio Táctico"
     },
-    "rating": 4.0,
+    "rating": 4,
     "num": 176,
     "desc": {
       "en": "The Pokémon changes its form to Blade Forme when it uses an attack move and changes to Shield Forme when it uses King’s Shield.",
@@ -4439,7 +4439,7 @@
       "en": "Static",
       "es": "Elec. Estática"
     },
-    "rating": 2.0,
+    "rating": 2,
     "num": 9,
     "desc": {
       "en": "The Pokémon is charged with static electricity and may paralyze attackers that make direct contact with it.",
@@ -4455,7 +4455,7 @@
       "en": "Steadfast",
       "es": "Impasible"
     },
-    "rating": 1.0,
+    "rating": 1,
     "num": 80,
     "desc": {
       "en": "The Pokémon's determination boosts its Speed stat every time it flinches.",
@@ -4471,7 +4471,7 @@
       "en": "Steam Engine",
       "es": "Combustible"
     },
-    "rating": 2.0,
+    "rating": 2,
     "num": 243,
     "desc": {
       "en": "Boosts the Speed stat drastically when the Pokémon is hit by a Fire- or Water-type move.",
@@ -4479,7 +4479,7 @@
     },
     "shortDesc": "This Pokemon's Speed is raised by 6 stages after it is damaged by Fire/Water moves.",
     "id": "steamengine",
-    "champions": true
+    "champions": false
   },
   {
     "onModifyAtkPriority": 5,
@@ -4497,7 +4497,7 @@
     },
     "shortDesc": "This Pokemon's offensive stat is multiplied by 1.5 while using a Steel-type attack.",
     "id": "steelworker",
-    "champions": true
+    "champions": false
   },
   {
     "onAllyBasePowerPriority": 22,
@@ -4514,7 +4514,7 @@
     },
     "shortDesc": "This Pokemon and its allies' Steel-type moves have their power multiplied by 1.5.",
     "id": "steelyspirit",
-    "champions": true
+    "champions": false
   },
   {
     "onModifyMovePriority": -1,
@@ -4559,7 +4559,7 @@
       "en": "Storm Drain",
       "es": "Colector"
     },
-    "rating": 3.0,
+    "rating": 3,
     "num": 114,
     "desc": {
       "en": "The Pokémon draws in all Water-type moves. Instead of taking damage from them, its Sp. Atk stat is boosted.",
@@ -4567,7 +4567,7 @@
     },
     "shortDesc": "This Pokemon draws Water moves to itself to raise Sp. Atk by 1; Water immunity.",
     "id": "stormdrain",
-    "champions": true
+    "champions": false
   },
   {
     "onBasePowerPriority": 19,
@@ -4595,7 +4595,7 @@
       "en": "Sturdy",
       "es": "Robustez"
     },
-    "rating": 3.0,
+    "rating": 3,
     "num": 5,
     "desc": {
       "en": "The Pokémon cannot be knocked out by a single hit as long as its HP is full. One-hit KO moves will also fail to knock it out.",
@@ -4614,7 +4614,7 @@
       "en": "Suction Cups",
       "es": "Ventosas"
     },
-    "rating": 1.0,
+    "rating": 1,
     "num": 21,
     "desc": {
       "en": "The Pokémon uses suction cups to stay in one spot. This protects it from moves and items that would force it to switch out.",
@@ -4663,7 +4663,7 @@
       "en": "Supreme Overlord",
       "es": "General Supremo"
     },
-    "rating": 4.0,
+    "rating": 4,
     "num": 293,
     "desc": {
       "en": "When the Pokémon enters a battle, its Attack and Sp. Atk stats are slightly boosted for each of the allies in its party that have already been defeated.",
@@ -4679,7 +4679,7 @@
       "en": "Surge Surfer",
       "es": "Cola Surf"
     },
-    "rating": 3.0,
+    "rating": 3,
     "num": 207,
     "desc": {
       "en": "Doubles the Pokémon's Speed stat on Electric Terrain.",
@@ -4697,7 +4697,7 @@
       "en": "Swarm",
       "es": "Enjambre"
     },
-    "rating": 2.0,
+    "rating": 2,
     "num": 68,
     "desc": {
       "en": "Powers up Bug-type moves when the Pokémon's HP is low.",
@@ -4715,7 +4715,7 @@
       "en": "Sweet Veil",
       "es": "Velo Dulce"
     },
-    "rating": 2.0,
+    "rating": 2,
     "num": 175,
     "desc": {
       "en": "Prevents the Pokémon and its allies from falling asleep.",
@@ -4731,7 +4731,7 @@
       "en": "Swift Swim",
       "es": "Nado Rápido"
     },
-    "rating": 3.0,
+    "rating": 3,
     "num": 33,
     "desc": {
       "en": "Boosts the Pokémon's Speed stat in rain.",
@@ -4755,7 +4755,7 @@
     },
     "shortDesc": "Active Pokemon without this Ability have their Defense multiplied by 0.75.",
     "id": "swordofruin",
-    "champions": true
+    "champions": false
   },
   {
     "flags": {},
@@ -4763,7 +4763,7 @@
       "en": "Symbiosis",
       "es": "Simbiosis"
     },
-    "rating": 0.0,
+    "rating": 0,
     "num": 180,
     "desc": {
       "en": "The Pokémon passes its held item to an ally that has used up an item.",
@@ -4779,7 +4779,7 @@
       "en": "Synchronize",
       "es": "Sincronía"
     },
-    "rating": 2.0,
+    "rating": 2,
     "num": 28,
     "desc": {
       "en": "If the Pokémon is burned, paralyzed, or poisoned by another Pokémon, that Pokémon will be inflicted with the same status condition.",
@@ -4803,7 +4803,7 @@
     },
     "shortDesc": "Active Pokemon without this Ability have their Attack multiplied by 0.75.",
     "id": "tabletsofruin",
-    "champions": true
+    "champions": false
   },
   {
     "onModifyAccuracyPriority": -1,
@@ -4814,7 +4814,7 @@
       "en": "Tangled Feet",
       "es": "Tumbos"
     },
-    "rating": 1.0,
+    "rating": 1,
     "num": 77,
     "desc": {
       "en": "Boosts the Pokémon's evasiveness if it is confused.",
@@ -4830,7 +4830,7 @@
       "en": "Tangling Hair",
       "es": "Rizos Rebeldes"
     },
-    "rating": 2.0,
+    "rating": 2,
     "num": 221,
     "desc": {
       "en": "Contact with the Pokémon lowers the attacker's Speed stat.",
@@ -4865,7 +4865,7 @@
       "en": "Telepathy",
       "es": "Telepatía"
     },
-    "rating": 0.0,
+    "rating": 0,
     "num": 140,
     "desc": {
       "en": "The Pokémon anticipates and dodges the attacks of its allies.",
@@ -4887,7 +4887,7 @@
       "en": "Teraform Zero",
       "es": "Teraformación 0"
     },
-    "rating": 3.0,
+    "rating": 3,
     "num": 309,
     "desc": {
       "en": "When Terapagos changes into its Stellar Form, it uses its hidden powers to eliminate all effects of weather and terrain, reducing them to zero.",
@@ -4895,7 +4895,7 @@
     },
     "shortDesc": "Terapagos: Terastallizing ends the effects of weather and terrain. Once per battle.",
     "id": "teraformzero",
-    "champions": true
+    "champions": false
   },
   {
     "flags": {
@@ -4918,7 +4918,7 @@
     },
     "shortDesc": "Terapagos: If full HP, attacks taken have 0.5x effectiveness unless naturally immune.",
     "id": "terashell",
-    "champions": true
+    "champions": false
   },
   {
     "onSwitchInPriority": 2,
@@ -4935,7 +4935,7 @@
       "en": "Tera Shift",
       "es": "Teracambio"
     },
-    "rating": 3.0,
+    "rating": 3,
     "num": 307,
     "desc": {
       "en": "When the Pokémon enters a battle, it absorbs the energy around itself and transforms into its Terastal Form.",
@@ -4943,7 +4943,7 @@
     },
     "shortDesc": "If this Pokemon is a Terapagos, it transforms into its Terastal Form on entry.",
     "id": "terashift",
-    "champions": true
+    "champions": false
   },
   {
     "flags": {},
@@ -4951,7 +4951,7 @@
       "en": "Teravolt",
       "es": "Terravoltaje"
     },
-    "rating": 3.0,
+    "rating": 3,
     "num": 164,
     "desc": {
       "en": "The Pokémon's moves are unimpeded by the Ability of the target.",
@@ -4959,7 +4959,7 @@
     },
     "shortDesc": "This Pokemon's moves and their effects ignore the Abilities of other Pokemon.",
     "id": "teravolt",
-    "champions": true
+    "champions": false
   },
   {
     "flags": {
@@ -4977,7 +4977,7 @@
     },
     "shortDesc": "This Pokemon's Attack is raised by 1 when damaged by Fire moves; can't be burned.",
     "id": "thermalexchange",
-    "champions": true
+    "champions": false
   },
   {
     "onSourceModifyAtkPriority": 6,
@@ -5005,7 +5005,7 @@
       "en": "Tinted Lens",
       "es": "Cromolente"
     },
-    "rating": 4.0,
+    "rating": 4,
     "num": 110,
     "desc": {
       "en": "The Pokémon can use “not very effective” moves to deal regular damage.",
@@ -5013,7 +5013,7 @@
     },
     "shortDesc": "This Pokemon's attacks that are not very effective on a target deal double damage.",
     "id": "tintedlens",
-    "champions": true
+    "champions": false
   },
   {
     "onModifyAtkPriority": 5,
@@ -5023,7 +5023,7 @@
       "en": "Torrent",
       "es": "Torrente"
     },
-    "rating": 2.0,
+    "rating": 2,
     "num": 67,
     "desc": {
       "en": "Powers up Water-type moves when the Pokémon's HP is low.",
@@ -5057,7 +5057,7 @@
       "en": "Toxic Boost",
       "es": "Ímpetu Tóxico"
     },
-    "rating": 3.0,
+    "rating": 3,
     "num": 137,
     "desc": {
       "en": "Powers up physical moves when the Pokémon is poisoned.",
@@ -5065,7 +5065,7 @@
     },
     "shortDesc": "While this Pokemon is poisoned, its physical attacks have 1.5x power.",
     "id": "toxicboost",
-    "champions": true
+    "champions": false
   },
   {
     "flags": {},
@@ -5081,7 +5081,7 @@
     },
     "shortDesc": "This Pokemon's attacks have a 30% chance of badly poisoning.",
     "id": "toxicchain",
-    "champions": true
+    "champions": false
   },
   {
     "flags": {},
@@ -5136,7 +5136,7 @@
     },
     "shortDesc": "This Pokemon's offensive stat is multiplied by 1.3 while using an Electric-type attack.",
     "id": "transistor",
-    "champions": true
+    "champions": false
   },
   {
     "flags": {},
@@ -5152,7 +5152,7 @@
     },
     "shortDesc": "This Pokemon's healing moves have their priority increased by 3.",
     "id": "triage",
-    "champions": true
+    "champions": false
   },
   {
     "onBeforeMovePriority": 9,
@@ -5162,7 +5162,7 @@
       "en": "Truant",
       "es": "Ausente"
     },
-    "rating": -1.0,
+    "rating": -1,
     "num": 54,
     "desc": {
       "en": "Each time the Pokémon uses a move, it spends the next turn loafing around.",
@@ -5170,7 +5170,7 @@
     },
     "shortDesc": "This Pokemon skips every other turn instead of using a move.",
     "id": "truant",
-    "champions": true
+    "champions": false
   },
   {
     "flags": {},
@@ -5178,7 +5178,7 @@
       "en": "Turboblaze",
       "es": "Turbollama"
     },
-    "rating": 3.0,
+    "rating": 3,
     "num": 163,
     "desc": {
       "en": "The Pokémon's moves are unimpeded by the Ability of the target.",
@@ -5186,7 +5186,7 @@
     },
     "shortDesc": "This Pokemon's moves and their effects ignore the Abilities of other Pokemon.",
     "id": "turboblaze",
-    "champions": true
+    "champions": false
   },
   {
     "flags": {
@@ -5196,7 +5196,7 @@
       "en": "Unaware",
       "es": "Ignorante"
     },
-    "rating": 4.0,
+    "rating": 4,
     "num": 109,
     "desc": {
       "en": "When attacking, the Pokémon ignores the target's stat changes.",
@@ -5230,7 +5230,7 @@
       "en": "Unnerve",
       "es": "Nerviosismo"
     },
-    "rating": 1.0,
+    "rating": 1,
     "num": 127,
     "desc": {
       "en": "Unnerves opposing Pokémon and makes them unable to eat Berries.",
@@ -5246,7 +5246,7 @@
       "en": "Unseen Fist",
       "es": "Puño Invisible"
     },
-    "rating": 2.0,
+    "rating": 2,
     "num": 260,
     "desc": {
       "en": "If the Pokémon uses moves that make direct contact, it can attack the target even if the target protects itself.",
@@ -5270,7 +5270,7 @@
     },
     "shortDesc": "Active Pokemon without this Ability have their Special Attack multiplied by 0.75.",
     "id": "vesselofruin",
-    "champions": true
+    "champions": false
   },
   {
     "onAnyModifyAccuracyPriority": -1,
@@ -5279,7 +5279,7 @@
       "en": "Victory Star",
       "es": "Tinovictoria"
     },
-    "rating": 2.0,
+    "rating": 2,
     "num": 162,
     "desc": {
       "en": "Boosts the accuracy of its allies and itself.",
@@ -5287,7 +5287,7 @@
     },
     "shortDesc": "This Pokemon and its allies' moves have their accuracy multiplied by 1.1.",
     "id": "victorystar",
-    "champions": true
+    "champions": false
   },
   {
     "flags": {
@@ -5393,7 +5393,7 @@
     },
     "shortDesc": "This Pokemon's Defense is raised 2 stages after it is damaged by a Water-type move.",
     "id": "watercompaction",
-    "champions": true
+    "champions": false
   },
   {
     "flags": {
@@ -5403,7 +5403,7 @@
       "en": "Water Veil",
       "es": "Velo Agua"
     },
-    "rating": 2.0,
+    "rating": 2,
     "num": 41,
     "desc": {
       "en": "The Pokémon's water veil prevents it from being burned.",
@@ -5411,7 +5411,7 @@
     },
     "shortDesc": "This Pokemon cannot be burned. Gaining this Ability while burned cures it.",
     "id": "waterveil",
-    "champions": true
+    "champions": false
   },
   {
     "flags": {},
@@ -5419,7 +5419,7 @@
       "en": "Weak Armor",
       "es": "Armadura Frágil"
     },
-    "rating": 1.0,
+    "rating": 1,
     "num": 133,
     "desc": {
       "en": "The Pokémon's Defense stat is lowered when it takes damage from physical moves, but its Speed stat is sharply boosted.",
@@ -5445,7 +5445,7 @@
     },
     "shortDesc": "This Pokemon's Defense is raised 2 stages if hit by a Fire move; Fire immunity.",
     "id": "wellbakedbody",
-    "champions": true
+    "champions": false
   },
   {
     "flags": {
@@ -5455,7 +5455,7 @@
       "en": "White Smoke",
       "es": "Humo Blanco"
     },
-    "rating": 2.0,
+    "rating": 2,
     "num": 73,
     "desc": {
       "en": "The Pokémon is protected by its white smoke, which prevents other Pokémon from lowering its stats.",
@@ -5471,7 +5471,7 @@
       "en": "Wimp Out",
       "es": "Huida"
     },
-    "rating": 1.0,
+    "rating": 1,
     "num": 193,
     "desc": {
       "en": "The Pokémon cowardly switches out when its HP becomes half or less.",
@@ -5479,7 +5479,7 @@
     },
     "shortDesc": "This Pokemon switches out when it reaches 1/2 or less of its maximum HP.",
     "id": "wimpout",
-    "champions": true
+    "champions": false
   },
   {
     "onDamagingHitOrder": 1,
@@ -5488,7 +5488,7 @@
       "en": "Wind Power",
       "es": "Energía Eólica"
     },
-    "rating": 1.0,
+    "rating": 1,
     "num": 277,
     "desc": {
       "en": "The Pokémon becomes charged when it is hit by a wind move, boosting the power of the next Electric-type move the Pokémon uses.",
@@ -5496,7 +5496,7 @@
     },
     "shortDesc": "This Pokemon gains the Charge effect when hit by a wind move or Tailwind begins.",
     "id": "windpower",
-    "champions": true
+    "champions": false
   },
   {
     "flags": {
@@ -5514,7 +5514,7 @@
     },
     "shortDesc": "Attack raised by 1 if hit by a wind move or Tailwind begins. Wind move immunity.",
     "id": "windrider",
-    "champions": true
+    "champions": false
   },
   {
     "flags": {
@@ -5528,7 +5528,7 @@
       "en": "Wonder Guard",
       "es": "Superguarda"
     },
-    "rating": 5.0,
+    "rating": 5,
     "num": 25,
     "desc": {
       "en": "Its mysterious power only lets supereffective moves hit the Pokémon.",
@@ -5536,7 +5536,7 @@
     },
     "shortDesc": "This Pokemon can only be damaged by supereffective moves and indirect damage.",
     "id": "wonderguard",
-    "champions": true
+    "champions": false
   },
   {
     "onModifyAccuracyPriority": 10,
@@ -5547,7 +5547,7 @@
       "en": "Wonder Skin",
       "es": "Piel Milagro"
     },
-    "rating": 2.0,
+    "rating": 2,
     "num": 147,
     "desc": {
       "en": "Makes status moves more likely to miss the Pokémon.",
@@ -5555,7 +5555,7 @@
     },
     "shortDesc": "Status moves with accuracy checks are 50% accurate when used on this Pokemon.",
     "id": "wonderskin",
-    "champions": true
+    "champions": false
   },
   {
     "onResidualOrder": 29,
@@ -5572,7 +5572,7 @@
       "en": "Zen Mode",
       "es": "Modo Daruma"
     },
-    "rating": 0.0,
+    "rating": 0,
     "num": 161,
     "desc": {
       "en": "Changes the Pokémon’s shape when HP is half or less.",
@@ -5580,7 +5580,7 @@
     },
     "shortDesc": "If Darmanitan, at end of turn changes Mode to Standard if > 1/2 max HP, else Zen.",
     "id": "zenmode",
-    "champions": true
+    "champions": false
   },
   {
     "flags": {
@@ -5596,7 +5596,7 @@
       "en": "Zero to Hero",
       "es": "Cambio Heroico"
     },
-    "rating": 5.0,
+    "rating": 5,
     "num": 278,
     "desc": {
       "en": "The Pokémon transforms into its Hero Form when it switches out.",
@@ -5604,6 +5604,30 @@
     },
     "shortDesc": "If this Pokemon is a Palafin in Zero Form, switching out has it change to Hero Form.",
     "id": "zerotohero",
+    "champions": true
+  },
+  {
+    "id": "eelevate",
+    "name": {
+      "en": "Eelevate",
+      "es": ""
+    },
+    "desc": {
+      "en": "",
+      "es": ""
+    },
+    "champions": true
+  },
+  {
+    "id": "firemane",
+    "name": {
+      "en": "Fire Mane",
+      "es": ""
+    },
+    "desc": {
+      "en": "",
+      "es": ""
+    },
     "champions": true
   }
 ]
