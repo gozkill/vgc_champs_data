@@ -37,7 +37,7 @@
     "zMove": null,
     "maxMove": null,
     "isChampionsModified": false,
-    "champions": false
+    "champions": true
   },
   {
     "id": "karatechop",
@@ -208,7 +208,7 @@
     "zMove": null,
     "maxMove": null,
     "isChampionsModified": false,
-    "champions": false
+    "champions": true
   },
   {
     "id": "payday",
@@ -716,7 +716,7 @@
     "zMove": null,
     "maxMove": null,
     "isChampionsModified": false,
-    "champions": false
+    "champions": true
   },
   {
     "id": "whirlwind",
@@ -1023,7 +1023,7 @@
       "basePower": 80
     },
     "isChampionsModified": false,
-    "champions": false
+    "champions": true
   },
   {
     "id": "megakick",
@@ -1199,7 +1199,7 @@
     },
     "maxMove": null,
     "isChampionsModified": false,
-    "champions": false
+    "champions": true
   },
   {
     "id": "headbutt",
@@ -1415,7 +1415,7 @@
     "zMove": null,
     "maxMove": null,
     "isChampionsModified": false,
-    "champions": false
+    "champions": true
   },
   {
     "id": "bodyslam",
@@ -1545,7 +1545,7 @@
     "zMove": null,
     "maxMove": null,
     "isChampionsModified": false,
-    "champions": false,
+    "champions": true,
     "recoil": 0.25
   },
   {
@@ -1864,7 +1864,7 @@
     },
     "maxMove": null,
     "isChampionsModified": false,
-    "champions": false
+    "champions": true
   },
   {
     "id": "bite",
@@ -1961,7 +1961,7 @@
     },
     "maxMove": null,
     "isChampionsModified": false,
-    "champions": false
+    "champions": true
   },
   {
     "id": "roar",
@@ -2276,7 +2276,7 @@
     "zMove": null,
     "maxMove": null,
     "isChampionsModified": false,
-    "champions": false
+    "champions": true
   },
   {
     "id": "flamethrower",
@@ -2363,7 +2363,7 @@
     },
     "maxMove": null,
     "isChampionsModified": false,
-    "champions": false
+    "champions": true
   },
   {
     "id": "watergun",
@@ -2626,7 +2626,7 @@
     "zMove": null,
     "maxMove": null,
     "isChampionsModified": false,
-    "champions": false
+    "champions": true
   },
   {
     "id": "bubblebeam",
@@ -2672,7 +2672,7 @@
     "zMove": null,
     "maxMove": null,
     "isChampionsModified": false,
-    "champions": false
+    "champions": true
   },
   {
     "id": "aurorabeam",
@@ -3271,7 +3271,7 @@
     "zMove": null,
     "maxMove": null,
     "isChampionsModified": false,
-    "champions": false,
+    "champions": true,
     "critRatio": 2
   },
   {
@@ -3682,7 +3682,7 @@
     "zMove": null,
     "maxMove": null,
     "isChampionsModified": false,
-    "champions": false
+    "champions": true
   },
   {
     "id": "thunderbolt",
@@ -4089,7 +4089,7 @@
     "zMove": null,
     "maxMove": null,
     "isChampionsModified": false,
-    "champions": false
+    "champions": true
   },
   {
     "id": "psychic",
@@ -4672,7 +4672,7 @@
     },
     "maxMove": null,
     "isChampionsModified": false,
-    "champions": false
+    "champions": true
   },
   {
     "id": "minimize",
@@ -4763,7 +4763,7 @@
     },
     "maxMove": null,
     "isChampionsModified": false,
-    "champions": false
+    "champions": true
   },
   {
     "id": "confuseray",
@@ -4854,7 +4854,7 @@
     },
     "maxMove": null,
     "isChampionsModified": false,
-    "champions": false
+    "champions": true
   },
   {
     "id": "defensecurl",
@@ -4898,7 +4898,7 @@
     },
     "maxMove": null,
     "isChampionsModified": false,
-    "champions": false
+    "champions": true
   },
   {
     "id": "barrier",
@@ -5198,7 +5198,7 @@
     "zMove": null,
     "maxMove": null,
     "isChampionsModified": false,
-    "champions": false
+    "champions": true
   },
   {
     "id": "mirrormove",
@@ -5372,7 +5372,7 @@
     "zMove": null,
     "maxMove": null,
     "isChampionsModified": false,
-    "champions": false
+    "champions": true
   },
   {
     "id": "smog",
@@ -5416,7 +5416,7 @@
     "zMove": null,
     "maxMove": null,
     "isChampionsModified": false,
-    "champions": false
+    "champions": true
   },
   {
     "id": "sludge",
@@ -5460,7 +5460,7 @@
     "zMove": null,
     "maxMove": null,
     "isChampionsModified": false,
-    "champions": false
+    "champions": true
   },
   {
     "id": "boneclub",
@@ -5678,7 +5678,7 @@
     "zMove": null,
     "maxMove": null,
     "isChampionsModified": false,
-    "champions": false
+    "champions": true
   },
   {
     "id": "skullbash",
@@ -5941,7 +5941,7 @@
     },
     "maxMove": null,
     "isChampionsModified": true,
-    "champions": true,
+    "champions": false,
     "championsOverride": {
       "pp": 8
     },
@@ -6077,7 +6077,7 @@
     "zMove": null,
     "maxMove": null,
     "isChampionsModified": false,
-    "champions": false,
+    "champions": true,
     "drain": 0.5
   },
   {
@@ -6488,7 +6488,7 @@
     },
     "maxMove": null,
     "isChampionsModified": true,
-    "champions": true,
+    "champions": false,
     "championsOverride": {
       "pp": 16
     }
@@ -6618,7 +6618,7 @@
     },
     "maxMove": null,
     "isChampionsModified": false,
-    "champions": false
+    "champions": true
   },
   {
     "id": "acidarmor",
@@ -6793,7 +6793,7 @@
       "basePower": 100
     },
     "isChampionsModified": false,
-    "champions": false
+    "champions": true
   },
   {
     "id": "bonemerang",
@@ -7291,7 +7291,7 @@
     "zMove": null,
     "maxMove": null,
     "isChampionsModified": false,
-    "champions": true
+    "champions": false
   },
   {
     "id": "sketch",
@@ -7609,7 +7609,7 @@
     "zMove": null,
     "maxMove": null,
     "isChampionsModified": false,
-    "champions": false
+    "champions": true
   },
   {
     "id": "snore",
@@ -8012,7 +8012,7 @@
     "zMove": null,
     "maxMove": null,
     "isChampionsModified": false,
-    "champions": false
+    "champions": true
   },
   {
     "id": "protect",
@@ -9105,7 +9105,7 @@
     "zMove": null,
     "maxMove": null,
     "isChampionsModified": false,
-    "champions": false
+    "champions": true
   },
   {
     "id": "falseswipe",
@@ -9145,7 +9145,7 @@
     "zMove": null,
     "maxMove": null,
     "isChampionsModified": false,
-    "champions": false
+    "champions": true
   },
   {
     "id": "swagger",
@@ -9234,7 +9234,7 @@
     },
     "maxMove": null,
     "isChampionsModified": true,
-    "champions": true,
+    "champions": false,
     "championsOverride": {
       "pp": 8
     },
@@ -9283,7 +9283,7 @@
     "zMove": null,
     "maxMove": null,
     "isChampionsModified": false,
-    "champions": false
+    "champions": true
   },
   {
     "id": "furycutter",
@@ -9324,7 +9324,7 @@
     "zMove": null,
     "maxMove": null,
     "isChampionsModified": false,
-    "champions": false
+    "champions": true
   },
   {
     "id": "steelwing",
@@ -10002,7 +10002,7 @@
     "zMove": null,
     "maxMove": null,
     "isChampionsModified": false,
-    "champions": false
+    "champions": true
   },
   {
     "id": "batonpass",
@@ -10330,7 +10330,7 @@
     "zMove": null,
     "maxMove": null,
     "isChampionsModified": false,
-    "champions": false
+    "champions": true
   },
   {
     "id": "vitalthrow",
@@ -10630,7 +10630,7 @@
     "zMove": null,
     "maxMove": null,
     "isChampionsModified": false,
-    "champions": false
+    "champions": true
   },
   {
     "id": "raindance",
@@ -11089,7 +11089,7 @@
     "zMove": null,
     "maxMove": null,
     "isChampionsModified": false,
-    "champions": false
+    "champions": true
   },
   {
     "id": "whirlpool",
@@ -11484,7 +11484,7 @@
     },
     "maxMove": null,
     "isChampionsModified": false,
-    "champions": false
+    "champions": true
   },
   {
     "id": "torment",
@@ -12326,7 +12326,7 @@
     },
     "maxMove": null,
     "isChampionsModified": false,
-    "champions": false
+    "champions": true
   },
   {
     "id": "recycle",
@@ -12411,7 +12411,7 @@
     "zMove": null,
     "maxMove": null,
     "isChampionsModified": false,
-    "champions": false
+    "champions": true
   },
   {
     "id": "brickbreak",
@@ -12806,7 +12806,7 @@
     },
     "maxMove": null,
     "isChampionsModified": false,
-    "champions": false
+    "champions": true
   },
   {
     "id": "snatch",
@@ -13817,7 +13817,7 @@
     "zMove": null,
     "maxMove": null,
     "isChampionsModified": false,
-    "champions": false
+    "champions": true
   },
   {
     "id": "weatherball",
@@ -13905,7 +13905,7 @@
     },
     "maxMove": null,
     "isChampionsModified": false,
-    "champions": false
+    "champions": true
   },
   {
     "id": "faketears",
@@ -15294,7 +15294,7 @@
     "zMove": null,
     "maxMove": null,
     "isChampionsModified": false,
-    "champions": false,
+    "champions": true,
     "critRatio": 2
   },
   {
@@ -15428,7 +15428,7 @@
     "zMove": null,
     "maxMove": null,
     "isChampionsModified": false,
-    "champions": false
+    "champions": true
   },
   {
     "id": "watersport",
@@ -15691,7 +15691,7 @@
     "zMove": null,
     "maxMove": null,
     "isChampionsModified": false,
-    "champions": false
+    "champions": true
   },
   {
     "id": "waterpulse",
@@ -16172,7 +16172,7 @@
     "zMove": null,
     "maxMove": null,
     "isChampionsModified": false,
-    "champions": false
+    "champions": true
   },
   {
     "id": "naturalgift",
@@ -20937,7 +20937,7 @@
     },
     "maxMove": null,
     "isChampionsModified": false,
-    "champions": false
+    "champions": true
   },
   {
     "id": "wideguard",
@@ -21245,7 +21245,7 @@
     },
     "maxMove": null,
     "isChampionsModified": false,
-    "champions": false
+    "champions": true
   },
   {
     "id": "ragepowder",
@@ -22231,7 +22231,7 @@
     "zMove": null,
     "maxMove": null,
     "isChampionsModified": false,
-    "champions": false
+    "champions": true
   },
   {
     "id": "chipaway",
@@ -22811,7 +22811,7 @@
     "zMove": null,
     "maxMove": null,
     "isChampionsModified": false,
-    "champions": false
+    "champions": true
   },
   {
     "id": "quash",
@@ -22987,7 +22987,7 @@
     "zMove": null,
     "maxMove": null,
     "isChampionsModified": false,
-    "champions": false
+    "champions": true
   },
   {
     "id": "finalgambit",
@@ -23164,7 +23164,7 @@
     "zMove": null,
     "maxMove": null,
     "isChampionsModified": false,
-    "champions": false
+    "champions": true
   },
   {
     "id": "firepledge",
@@ -23205,7 +23205,7 @@
     "zMove": null,
     "maxMove": null,
     "isChampionsModified": false,
-    "champions": false
+    "champions": true
   },
   {
     "id": "grasspledge",
@@ -23511,7 +23511,7 @@
     },
     "maxMove": null,
     "isChampionsModified": false,
-    "champions": false
+    "champions": true
   },
   {
     "id": "electroweb",
@@ -25680,7 +25680,7 @@
     "zMove": null,
     "maxMove": null,
     "isChampionsModified": false,
-    "champions": false
+    "champions": true
   },
   {
     "id": "partingshot",
@@ -25769,7 +25769,7 @@
     },
     "maxMove": null,
     "isChampionsModified": false,
-    "champions": false
+    "champions": true
   },
   {
     "id": "drainingkiss",
@@ -25853,7 +25853,7 @@
     },
     "maxMove": null,
     "isChampionsModified": false,
-    "champions": false
+    "champions": true
   },
   {
     "id": "flowershield",
@@ -26119,7 +26119,7 @@
     "zMove": null,
     "maxMove": null,
     "isChampionsModified": false,
-    "champions": false
+    "champions": true
   },
   {
     "id": "moonblast",
@@ -26348,7 +26348,7 @@
     },
     "maxMove": null,
     "isChampionsModified": false,
-    "champions": false
+    "champions": true
   },
   {
     "id": "confide",
@@ -26395,7 +26395,7 @@
     },
     "maxMove": null,
     "isChampionsModified": false,
-    "champions": false
+    "champions": true
   },
   {
     "id": "diamondstorm",
@@ -26795,7 +26795,7 @@
     },
     "maxMove": null,
     "isChampionsModified": false,
-    "champions": false
+    "champions": true
   },
   {
     "id": "powder",
@@ -27394,7 +27394,7 @@
     "zMove": null,
     "maxMove": null,
     "isChampionsModified": false,
-    "champions": false
+    "champions": true
   },
   {
     "id": "oblivionwing",
@@ -29375,7 +29375,7 @@
     },
     "maxMove": null,
     "isChampionsModified": false,
-    "champions": false
+    "champions": true
   },
   {
     "id": "gearup",
@@ -32503,7 +32503,7 @@
     "zMove": null,
     "maxMove": null,
     "isChampionsModified": false,
-    "champions": false
+    "champions": true
   },
   {
     "id": "tarshot",
@@ -34133,7 +34133,7 @@
     "zMove": null,
     "maxMove": null,
     "isChampionsModified": false,
-    "champions": false
+    "champions": true
   },
   {
     "id": "strangesteam",
@@ -34295,7 +34295,7 @@
     "zMove": null,
     "maxMove": null,
     "isChampionsModified": false,
-    "champions": false
+    "champions": true
   },
   {
     "id": "meteorassault",
@@ -35863,7 +35863,7 @@
     "zMove": null,
     "maxMove": null,
     "isChampionsModified": true,
-    "champions": true,
+    "champions": false,
     "championsOverride": {
       "pp": 12
     }
@@ -36316,7 +36316,7 @@
     "zMove": null,
     "maxMove": null,
     "isChampionsModified": false,
-    "champions": false
+    "champions": true
   },
   {
     "id": "esperwing",
@@ -36859,7 +36859,7 @@
     "zMove": null,
     "maxMove": null,
     "isChampionsModified": false,
-    "champions": false
+    "champions": true
   },
   {
     "id": "silktrap",
@@ -37856,7 +37856,7 @@
     "zMove": null,
     "maxMove": null,
     "isChampionsModified": false,
-    "champions": false
+    "champions": true
   },
   {
     "id": "psyblade",
@@ -38465,7 +38465,7 @@
     "zMove": null,
     "maxMove": null,
     "isChampionsModified": false,
-    "champions": false
+    "champions": true
   },
   {
     "id": "armorcannon",
