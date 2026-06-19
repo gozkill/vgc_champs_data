@@ -449,7 +449,7 @@
     },
     "type": "Normal",
     "category": "Physical",
-    "power": 0,
+    "power": 55,
     "accuracy": 100,
     "pp": 0,
     "priority": 0,
@@ -37855,8 +37855,18 @@
     },
     "zMove": null,
     "maxMove": null,
-    "isChampionsModified": false,
-    "champions": true
+    "isChampionsModified": true,
+    "champions": true,
+    "championsOverride": {
+      "accuracy": 95,
+      "effects": {
+        "self": {
+          "boosts": {
+            "spa": -2
+          }
+        }
+      }
+    }
   },
   {
     "id": "psyblade",
