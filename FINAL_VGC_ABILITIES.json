@@ -110,7 +110,7 @@
     "num": 271,
     "desc": {
       "en": "When an attack causes its HP to drop to half or less, the Pokémon gets angry. This lowers its Defense and Sp. Def stats but boosts its Attack, Sp. Atk, and Speed stats.",
-      "es": ""
+      "es": "Al perder la mitad de sus PS máximos, su Defensa y Defensa Especial bajan, pero su Ataque, Ataque Especial y Velocidad aumentan."
     },
     "shortDesc": "At 1/2 or less of this Pokemon's max HP: +1 Atk, Sp. Atk, Spe, and -1 Def, Sp. Def.",
     "id": "angershell",
@@ -160,7 +160,7 @@
     "num": 296,
     "desc": {
       "en": "The mysterious tail covering the Pokémon's head makes opponents unable to use priority moves against the Pokémon or its allies.",
-      "es": ""
+      "es": "La misteriosa armadura que recubre su cola impide a los rivales usar movimientos con prioridad contra este Pokémon o sus aliados."
     },
     "shortDesc": "This Pokemon and its allies are protected from opposing priority moves.",
     "id": "armortail",
@@ -354,7 +354,7 @@
     "num": 284,
     "desc": {
       "en": "The power of the Pokémon's ruinous beads lowers the Sp. Def stats of all Pokémon except itself.",
-      "es": ""
+      "es": "El poder de sus abalorios malditos reduce un 25% la Defensa Especial de todos los demás Pokémon en el campo de batalla."
     },
     "shortDesc": "Active Pokemon without this Ability have their Special Defense multiplied by 0.75.",
     "id": "beadsofruin",
@@ -585,7 +585,7 @@
     "num": 279,
     "desc": {
       "en": "When the Pokémon enters a battle, it goes inside the mouth of an ally Dondozo if one is on the field. The Pokémon then issues commands from there.",
-      "es": ""
+      "es": "Si el aliado es Dondozo, se introduce en su boca para darle órdenes desde allí, mejorando todas sus características."
     },
     "shortDesc": "If ally is Dondozo: this Pokemon cannot act or be hit, +2 to all Dondozo's stats.",
     "id": "commander",
@@ -669,7 +669,7 @@
     "num": 294,
     "desc": {
       "en": "When the Pokémon enters a battle, it copies an ally's stat changes.",
-      "es": ""
+      "es": "Al entrar a combatir, copia los cambios en las características de su aliado."
     },
     "shortDesc": "On switch-in, this Pokemon copies all of its ally's stat stage changes.",
     "id": "costar",
@@ -703,7 +703,7 @@
     "num": 291,
     "desc": {
       "en": "When the Pokémon eats a Berry, it will regurgitate that Berry at the end of the next turn and eat it one more time.",
-      "es": ""
+      "es": "Si el Pokémon se come una baya, la regurgita y vuelve a comérsela al final del turno siguiente, obteniendo de nuevo su efecto."
     },
     "shortDesc": "If this Pokemon eats a Berry, it will eat that Berry again at the end of the next turn.",
     "id": "cudchew",
@@ -957,13 +957,13 @@
     "flags": {},
     "name": {
       "en": "Dragonize",
-      "es": ""
+      "es": "Piel Dragón"
     },
     "rating": 4,
     "num": 312,
     "desc": {
       "en": "The Pokémon's Normal-type moves become Dragon-type moves and their power is boosted by 20%.",
-      "es": ""
+      "es": "Los movimientos de tipo Normal del Pokémon pasan a ser de tipo Dragón y su potencia aumenta un 20%."
     },
     "shortDesc": "This Pokemon's Normal-type moves become Dragon type and have 1.2x power.",
     "id": "dragonize",
@@ -1066,7 +1066,7 @@
     "num": 297,
     "desc": {
       "en": "If hit by a Ground-type move, the Pokémon has its HP restored instead of taking damage.",
-      "es": ""
+      "es": "Si le alcanza un movimiento de tipo Tierra, el Pokémon no recibe daño, sino que recupera PS."
     },
     "shortDesc": "This Pokemon heals 1/4 of its max HP when hit by Ground moves; Ground immunity.",
     "id": "eartheater",
@@ -1115,7 +1115,7 @@
     "num": 280,
     "desc": {
       "en": "The Pokémon becomes charged when it takes damage, boosting the power of the next Electric-type move the Pokémon uses.",
-      "es": ""
+      "es": "El Pokémon se carga de electricidad al recibir un ataque, lo que aumenta la potencia del siguiente movimiento de tipo Eléctrico que use."
     },
     "shortDesc": "This Pokemon gains the Charge effect when it takes a hit from an attack.",
     "id": "electromorphosis",
@@ -1550,7 +1550,7 @@
     "num": 283,
     "desc": {
       "en": "A body of pure, solid gold gives the Pokémon full immunity to other Pokémon's status moves.",
-      "es": ""
+      "es": "Su cuerpo de oro puro lo hace inmune a los movimientos de estado de los rivales."
     },
     "shortDesc": "This Pokemon is immune to Status moves.",
     "id": "goodasgold",
@@ -1654,7 +1654,7 @@
     "num": 275,
     "desc": {
       "en": "Boosts the Pokémon’s Attack stat if intimidated. Moves and items that would force the Pokémon to switch out also fail to work.",
-      "es": ""
+      "es": "Aumenta su Ataque si es intimidado. Los movimientos u objetos que fuerzan el cambio no surten efecto en él."
     },
     "shortDesc": "Immune to Intimidate. Intimidated: +1 Attack. Cannot be forced to switch out.",
     "id": "guarddog",
@@ -1707,7 +1707,7 @@
     "num": 289,
     "desc": {
       "en": "Turns the ground into Electric Terrain when the Pokémon enters a battle. The futuristic engine within the Pokémon also boosts its Sp. Atk stat on Electric Terrain.",
-      "es": ""
+      "es": "Crea un campo eléctrico al entrar en combate. Mientras haya un campo eléctrico, su Ataque Especial aumenta."
     },
     "shortDesc": "On switch-in, summons Electric Terrain. During Electric Terrain, Sp. Atk is 1.3333x.",
     "id": "hadronengine",
@@ -1815,7 +1815,7 @@
     "num": 299,
     "desc": {
       "en": "When the Pokémon enters a battle, it showers its ally with hospitality, restoring a small amount of the ally's HP",
-      "es": ""
+      "es": "Al entrar en combate, atiende con hospitalidad a su aliado, restaurando un poco de sus PS."
     },
     "shortDesc": "On switch-in, this Pokemon restores 1/4 of its ally's maximum HP, rounded down.",
     "id": "hospitality",
@@ -2358,7 +2358,7 @@
     "num": 268,
     "desc": {
       "en": "Contact with the Pokémon changes the attacker's Ability to Lingering Aroma.",
-      "es": ""
+      "es": "El contacto físico con este Pokémon contagia su olor al atacante y cambia su habilidad a Olor Persistente."
     },
     "shortDesc": "Making contact with this Pokemon has the attacker's Ability become Lingering Aroma.",
     "id": "lingeringaroma",
@@ -2540,13 +2540,13 @@
     "flags": {},
     "name": {
       "en": "Mega Sol",
-      "es": ""
+      "es": "Mega Sol"
     },
     "rating": 3,
     "num": 315,
     "desc": {
       "en": "Even when the sunlight has not turned harsh, the Pokémon can use its moves as if the weather were harsh sunlight.",
-      "es": ""
+      "es": "El Pokémon usa sus movimientos asumiendo que el clima soleado está activo, aunque no lo esté."
     },
     "shortDesc": "This Pokemon's moves are used as if the effects of Sunny Day were active.",
     "id": "megasol",
@@ -2592,13 +2592,13 @@
     },
     "name": {
       "en": "Mind’s Eye",
-      "es": "Ojo Mental "
+      "es": "Ojo Mental"
     },
     "rating": 0,
     "num": 300,
     "desc": {
       "en": "The Pokémon ignores changes to opponents' evasiveness, its accuracy can't be lowered, and it can hit Ghost types with Normal-type and Fighting-type moves",
-      "es": ""
+      "es": "Sus movimientos ignoran los cambios en la Evasión del rival. Su Precisión no puede bajar, y sus ataques Normal o Lucha golpean a los tipo Fantasma."
     },
     "shortDesc": "Fighting, Normal moves hit Ghost. Accuracy can't be lowered, ignores evasiveness.",
     "id": "mindseye",
@@ -2791,7 +2791,7 @@
     "num": 298,
     "desc": {
       "en": "The Pokémon will always act more slowly when using status moves, but these moves will be unimpeded by the Ability of the target.",
-      "es": ""
+      "es": "El Pokémon siempre actúa más lento al usar movimientos de estado, pero estos ignoran las habilidades de sus objetivos."
     },
     "shortDesc": "This Pokemon's Status moves go last in their priority bracket and ignore Abilities.",
     "id": "myceliummight",
@@ -2918,7 +2918,7 @@
     "num": 290,
     "desc": {
       "en": "If an opponent's stat is boosted, the Pokémon seizes the opportunity to boost the same stat for itself.",
-      "es": ""
+      "es": "Si se incrementa alguna característica de un oponente, el Pokémon copia ese aumento."
     },
     "shortDesc": "When an opposing Pokemon has a stat stage raised, this Pokemon copies the effect.",
     "id": "opportunist",
@@ -2935,7 +2935,7 @@
     "num": 288,
     "desc": {
       "en": "Turns the sunlight harsh when the Pokémon enters a battle. The ancient pulse thrumming through the Pokémon also boosts its Attack stat in harsh sunlight.",
-      "es": ""
+      "es": "Invoca un sol abrasador al entrar en combate. Su Ataque aumenta mientras el clima sea soleado."
     },
     "shortDesc": "On switch-in, summons Sunny Day. During Sunny Day, Attack is 1.3333x.",
     "id": "orichalcumpulse",
@@ -3085,13 +3085,13 @@
     "flags": {},
     "name": {
       "en": "Piercing Drill",
-      "es": ""
+      "es": "Taladro Perforador"
     },
     "rating": 1,
     "num": 311,
     "desc": {
       "en": "When the Pokémon uses contact moves, it can hit even targets that are protecting themselves, dealing 1/4 of the damage that the move would otherwise deal. Everything aside from the target's protective effects is still triggered.",
-      "es": ""
+      "es": "Sus movimientos de contacto golpean incluso si el objetivo se está protegiendo, pero infligen 1/4 del daño normal. Activa efectos secundarios."
     },
     "shortDesc": "This Pokemon's contact moves ignore a target's protection and deal 1/4 the usual damage.",
     "id": "piercingdrill",
@@ -3181,7 +3181,7 @@
     "num": 310,
     "desc": {
       "en": "Pokémon poisoned by Pecharunt's moves will also become confused.",
-      "es": ""
+      "es": "Los Pokémon envenenados por los ataques de este Pokémon también se confunden."
     },
     "shortDesc": "Pecharunt: If this Pokemon poisons a target, the target also becomes confused.",
     "id": "poisonpuppeteer",
@@ -3387,7 +3387,7 @@
     "num": 281,
     "desc": {
       "en": "Boosts the Pokémon's most proficient stat in harsh sunlight or if the Pokémon is holding Booster Energy.",
-      "es": ""
+      "es": "Aumenta su característica más alta si hay sol abrasador o si lleva equipado el objeto Energía Potenciadora."
     },
     "shortDesc": "Sunny Day active or Booster Energy used: highest stat is 1.3x, or 1.5x if Speed.",
     "id": "protosynthesis",
@@ -3459,7 +3459,7 @@
     "num": 272,
     "desc": {
       "en": "The Pokémon's pure salt protects it from status conditions and halves the damage taken from Ghost-type moves.",
-      "es": ""
+      "es": "La sal pura lo protege de problemas de estado y reduce a la mitad el daño que recibe de ataques tipo Fantasma."
     },
     "shortDesc": "Ghost damage to this Pokemon dealt with a halved offensive stat; can't be statused.",
     "id": "purifyingsalt",
@@ -3490,7 +3490,7 @@
     "num": 282,
     "desc": {
       "en": "Boosts the Pokémon's most proficient stat on Electric Terrain or if the Pokémon is holding Booster Energy.",
-      "es": ""
+      "es": "Aumenta su característica más alta si hay un campo eléctrico o si lleva equipado el objeto Energía Potenciadora."
     },
     "shortDesc": "Electric Terrain active or Booster Energy used: highest stat is 1.3x, or 1.5x if Speed.",
     "id": "quarkdrive",
@@ -3737,7 +3737,7 @@
     "num": 276,
     "desc": {
       "en": "Powers up Rock-type moves.",
-      "es": ""
+      "es": "Aumenta la potencia de sus movimientos de tipo Roca."
     },
     "shortDesc": "This Pokemon's offensive stat is multiplied by 1.5 while using a Rock-type attack.",
     "id": "rockypayload",
@@ -3947,7 +3947,7 @@
     "num": 269,
     "desc": {
       "en": "Turns the ground into Grassy Terrain when the Pokémon is hit by an attack.",
-      "es": ""
+      "es": "Crea un campo de hierba cuando el Pokémon es golpeado por un ataque."
     },
     "shortDesc": "When this Pokemon is hit by an attack, the effect of Grassy Terrain begins.",
     "id": "seedsower",
@@ -4013,7 +4013,7 @@
     "num": 292,
     "desc": {
       "en": "Powers up slicing moves.",
-      "es": ""
+      "es": "Aumenta un 50% la potencia de sus movimientos cortantes."
     },
     "shortDesc": "This Pokemon's slicing moves have their power multiplied by 1.5.",
     "id": "sharpness",
@@ -4329,13 +4329,13 @@
     "flags": {},
     "name": {
       "en": "Spicy Spray",
-      "es": ""
+      "es": "Espray Picante"
     },
     "rating": 3,
     "num": 318,
     "desc": {
       "en": "When the Pokémon takes damage from a move, it burns the attacker.",
-      "es": ""
+      "es": "Causa quemadura al Pokémon que lo ataque con un movimiento de daño directo."
     },
     "shortDesc": "If this Pokemon is hit by an attack, the attacker becomes burned.",
     "id": "spicyspray",
@@ -4650,7 +4650,7 @@
     "num": 306,
     "desc": {
       "en": "Lowers the evasion of opposing Pokémon by 1 stage when first sent into battle",
-      "es": ""
+      "es": "Reduce la evasión de los rivales al entrar en combate por primera vez."
     },
     "shortDesc": "On switch-in, this Pokemon lowers the evasiveness of opponents 1 stage. Once per battle.",
     "id": "supersweetsyrup",
@@ -4667,7 +4667,7 @@
     "num": 293,
     "desc": {
       "en": "When the Pokémon enters a battle, its Attack and Sp. Atk stats are slightly boosted for each of the allies in its party that have already been defeated.",
-      "es": ""
+      "es": "Aumenta un poco su Ataque y Ataque Especial por cada aliado derrotado en su equipo al entrar a combatir."
     },
     "shortDesc": "This Pokemon's moves have 10% more power for each fainted ally, up to 5 allies.",
     "id": "supremeoverlord",
@@ -4751,7 +4751,7 @@
     "num": 285,
     "desc": {
       "en": "The power of the Pokémon's ruinous sword lowers the Defense stats of all Pokémon except itself.",
-      "es": ""
+      "es": "El poder de su espada maldita reduce un 25% la Defensa de todos los demás Pokémon en el campo de batalla."
     },
     "shortDesc": "Active Pokemon without this Ability have their Defense multiplied by 0.75.",
     "id": "swordofruin",
@@ -4799,7 +4799,7 @@
     "num": 284,
     "desc": {
       "en": "The power of the Pokémon's ruinous wooden tablets lowers the Attack stats of all Pokémon except itself.",
-      "es": ""
+      "es": "El poder de su tablilla maldita reduce un 25% el Ataque de todos los demás Pokémon en el campo de batalla."
     },
     "shortDesc": "Active Pokemon without this Ability have their Attack multiplied by 0.75.",
     "id": "tabletsofruin",
@@ -4891,7 +4891,7 @@
     "num": 309,
     "desc": {
       "en": "When Terapagos changes into its Stellar Form, it uses its hidden powers to eliminate all effects of weather and terrain, reducing them to zero.",
-      "es": ""
+      "es": "Al adoptar su Forma Astral, elimina todos los efectos del clima y del terreno, devolviéndolos a la normalidad."
     },
     "shortDesc": "Terapagos: Terastallizing ends the effects of weather and terrain. Once per battle.",
     "id": "teraformzero",
@@ -4914,7 +4914,7 @@
     "num": 308,
     "desc": {
       "en": "The Pokémon's shell contains the powers of each type. All damage-dealing moves that hit the Pokémon when its HP is full will not be very effective.",
-      "es": ""
+      "es": "Si tiene todos sus PS, recibe daño poco eficaz de todos los ataques."
     },
     "shortDesc": "Terapagos: If full HP, attacks taken have 0.5x effectiveness unless naturally immune.",
     "id": "terashell",
@@ -4939,7 +4939,7 @@
     "num": 307,
     "desc": {
       "en": "When the Pokémon enters a battle, it absorbs the energy around itself and transforms into its Terastal Form.",
-      "es": ""
+      "es": "Al entrar en combate, absorbe la energía de su entorno para transformarse en su Forma Teracristal."
     },
     "shortDesc": "If this Pokemon is a Terapagos, it transforms into its Terastal Form on entry.",
     "id": "terashift",
@@ -4973,7 +4973,7 @@
     "num": 270,
     "desc": {
       "en": "Boosts the Attack stat when the Pokémon is hit by a Fire-type move. The Pokémon also cannot be burned.",
-      "es": ""
+      "es": "Aumenta su Ataque al recibir daño de un movimiento tipo Fuego. El Pokémon no puede ser quemado."
     },
     "shortDesc": "This Pokemon's Attack is raised by 1 when damaged by Fire moves; can't be burned.",
     "id": "thermalexchange",
@@ -5077,7 +5077,7 @@
     "num": 305,
     "desc": {
       "en": "The power of the Pokémon's toxic chain may badly poison any target the Pokémon hits with a move",
-      "es": ""
+      "es": "Los ataques de este Pokémon pueden envenenar gravemente al objetivo gracias al poder de su cadena tóxica."
     },
     "shortDesc": "This Pokemon's attacks have a 30% chance of badly poisoning.",
     "id": "toxicchain",
@@ -5093,7 +5093,7 @@
     "num": 295,
     "desc": {
       "en": "Scatters poison spikes at the feet of the opposing team when the Pokémon takes damage from physical moves.",
-      "es": ""
+      "es": "Arroja púas tóxicas al campo rival cada vez que recibe un ataque físico."
     },
     "shortDesc": "If this Pokemon is hit by a physical attack, Toxic Spikes are set on the opposing side.",
     "id": "toxicdebris",
@@ -5266,7 +5266,7 @@
     "num": 284,
     "desc": {
       "en": "The power of the Pokémon's ruinous vessel lowers the Sp. Atk stats of all Pokémon except itself.",
-      "es": ""
+      "es": "El poder de su caldero maldito reduce un 25% el Ataque Especial de todos los demás Pokémon en el campo de batalla."
     },
     "shortDesc": "Active Pokemon without this Ability have their Special Attack multiplied by 0.75.",
     "id": "vesselofruin",
@@ -5441,7 +5441,7 @@
     "num": 273,
     "desc": {
       "en": "The Pokémon takes no damage when hit by Fire-type moves. Instead, its Defense stat is sharply boosted.",
-      "es": ""
+      "es": "El Pokémon no recibe daño de ataques de tipo Fuego y, en su lugar, aumenta mucho su Defensa."
     },
     "shortDesc": "This Pokemon's Defense is raised 2 stages if hit by a Fire move; Fire immunity.",
     "id": "wellbakedbody",
@@ -5492,7 +5492,7 @@
     "num": 277,
     "desc": {
       "en": "The Pokémon becomes charged when it is hit by a wind move, boosting the power of the next Electric-type move the Pokémon uses.",
-      "es": ""
+      "es": "El Pokémon se carga de electricidad si le alcanza un ataque de viento, aumentando la potencia de su siguiente movimiento Eléctrico."
     },
     "shortDesc": "This Pokemon gains the Charge effect when hit by a wind move or Tailwind begins.",
     "id": "windpower",
@@ -5510,7 +5510,7 @@
     "num": 274,
     "desc": {
       "en": "Boosts the Pokémon's Attack stat if Tailwind takes effect or if the Pokémon is hit by a wind move. The Pokémon also takes no damage from wind moves.",
-      "es": ""
+      "es": "Aumenta su Ataque si el Viento Afín está activo o si le golpea un movimiento de viento. No recibe daño de ataques de viento."
     },
     "shortDesc": "Attack raised by 1 if hit by a wind move or Tailwind begins. Wind move immunity.",
     "id": "windrider",
@@ -5600,7 +5600,7 @@
     "num": 278,
     "desc": {
       "en": "The Pokémon transforms into its Hero Form when it switches out.",
-      "es": ""
+      "es": "El Pokémon adopta su Forma Heroica cuando se retira de la batalla."
     },
     "shortDesc": "If this Pokemon is a Palafin in Zero Form, switching out has it change to Hero Form.",
     "id": "zerotohero",
@@ -5610,24 +5610,29 @@
     "id": "eelevate",
     "name": {
       "en": "Eelevate",
-      "es": ""
+      "es": "Impulso Anguila"
     },
     "desc": {
-      "en": "",
-      "es": ""
+      "en": "The Pokémon floats off the ground, making it immune to Ground-type moves, as well as the Spikes, Toxic Spikes, and Sticky Web statuses. When the Pokémon knocks out a target with an attack, its highest stat is boosted by 1 stage.",
+      "es": "El Pokémon levita, lo que le otorga inmunidad a los movimientos de tipo Tierra y a Púas, Púas Tóxicas y Red Viscosa. Si derrota a un objetivo, su característica más alta aumenta un nivel."
     },
-    "champions": true
+    "champions": true,
+    "shortDesc": "Immune to Ground, Spikes, Toxic Spikes, Sticky Web. Boosts highest stat on KO.",
+    "flags": {
+      "breakable": true
+    }
   },
   {
     "id": "firemane",
     "name": {
       "en": "Fire Mane",
-      "es": ""
+      "es": "Melena de Fuego"
     },
     "desc": {
-      "en": "",
-      "es": ""
+      "en": "Boosts the power of the Pokémon’s Fire-type moves by 50%.",
+      "es": "Aumenta un 50% la potencia de los movimientos de tipo Fuego del Pokémon."
     },
-    "champions": true
+    "champions": true,
+    "shortDesc": "This Pokemon's Fire-type attacks have 1.5x power."
   }
 ]
