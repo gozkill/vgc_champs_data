@@ -7075,8 +7075,8 @@
             "spe": 90
         }
     },
-    "rotom-fan-rotom": {
-        "name": "rotom-fan-rotom",
+    "rotom-fan": {
+        "name": "rotom-fan",
         "types": [
             "Electric",
             "Flying"
@@ -7099,8 +7099,8 @@
             "spe": 86
         }
     },
-    "rotom-frost-rotom": {
-        "name": "rotom-frost-rotom",
+    "rotom-frost": {
+        "name": "rotom-frost",
         "types": [
             "Electric",
             "Ice"
@@ -7123,8 +7123,8 @@
             "spe": 86
         }
     },
-    "rotom-heat-rotom": {
-        "name": "rotom-heat-rotom",
+    "rotom-heat": {
+        "name": "rotom-heat",
         "types": [
             "Electric",
             "Fire"
@@ -7147,8 +7147,8 @@
             "spe": 86
         }
     },
-    "rotom-mow-rotom": {
-        "name": "rotom-mow-rotom",
+    "rotom-mow": {
+        "name": "rotom-mow",
         "types": [
             "Electric",
             "Grass"
@@ -7171,8 +7171,8 @@
             "spe": 86
         }
     },
-    "rotom-wash-rotom": {
-        "name": "rotom-wash-rotom",
+    "rotom-wash": {
+        "name": "rotom-wash",
         "types": [
             "Electric",
             "Water"
