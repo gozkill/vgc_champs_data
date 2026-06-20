@@ -1,6 +1,6 @@
 {
-    "abomasnow-mega-abomasnow": {
-        "name": "abomasnow-mega-abomasnow",
+    "abomasnowmega": {
+        "name": "abomasnowmega",
         "types": [
             "Grass",
             "Ice"
@@ -54,8 +54,8 @@
             "spe": 60
         }
     },
-    "absol-mega-absol": {
-        "name": "absol-mega-absol",
+    "absolmega": {
+        "name": "absolmega",
         "types": [
             "Dark"
         ],
@@ -162,8 +162,8 @@
             "spe": 60
         }
     },
-    "aerodactyl-mega-aerodactyl": {
-        "name": "aerodactyl-mega-aerodactyl",
+    "aerodactylmega": {
+        "name": "aerodactylmega",
         "types": [
             "Rock",
             "Flying"
@@ -224,8 +224,8 @@
             "spe": 130
         }
     },
-    "aggron-mega-aggron": {
-        "name": "aggron-mega-aggron",
+    "aggronmega": {
+        "name": "aggronmega",
         "types": [
             "Steel"
         ],
@@ -285,8 +285,8 @@
             "spe": 50
         }
     },
-    "alakazam-mega-alakazam": {
-        "name": "alakazam-mega-alakazam",
+    "alakazammega": {
+        "name": "alakazammega",
         "types": [
             "Psychic"
         ],
@@ -375,8 +375,8 @@
             "spe": 64
         }
     },
-    "altaria-mega-altaria": {
-        "name": "altaria-mega-altaria",
+    "altariamega": {
+        "name": "altariamega",
         "types": [
             "Dragon",
             "Fairy"
@@ -430,8 +430,8 @@
             "spe": 80
         }
     },
-    "ampharos-mega-ampharos": {
-        "name": "ampharos-mega-ampharos",
+    "ampharosmega": {
+        "name": "ampharosmega",
         "types": [
             "Electric",
             "Dragon"
@@ -840,8 +840,8 @@
             "spe": 29
         }
     },
-    "audino-mega-audino": {
-        "name": "audino-mega-audino",
+    "audinomega": {
+        "name": "audinomega",
         "types": [
             "Normal",
             "Fairy"
@@ -1045,8 +1045,8 @@
             "spe": 50
         }
     },
-    "banette-mega-banette": {
-        "name": "banette-mega-banette",
+    "banettemega": {
+        "name": "banettemega",
         "types": [
             "Ghost"
         ],
@@ -1105,8 +1105,8 @@
             "spe": 65
         }
     },
-    "barbaracle-mega-barbaracle": {
-        "name": "barbaracle-mega-barbaracle",
+    "barbaraclemega": {
+        "name": "barbaraclemega",
         "types": [
             "Rock",
             "Fighting"
@@ -1311,8 +1311,8 @@
             "spe": 50
         }
     },
-    "beedrill-mega-beedrill": {
-        "name": "beedrill-mega-beedrill",
+    "beedrillmega": {
+        "name": "beedrillmega",
         "types": [
             "Bug",
             "Poison"
@@ -1403,8 +1403,8 @@
             "spe": 45
         }
     },
-    "blastoise-mega-blastoise": {
-        "name": "blastoise-mega-blastoise",
+    "blastoisemega": {
+        "name": "blastoisemega",
         "types": [
             "Water"
         ],
@@ -1456,8 +1456,8 @@
             "spe": 78
         }
     },
-    "blaziken-mega-blaziken": {
-        "name": "blaziken-mega-blaziken",
+    "blazikenmega": {
+        "name": "blazikenmega",
         "types": [
             "Fire",
             "Fighting"
@@ -1511,8 +1511,8 @@
             "spe": 80
         }
     },
-    "camerupt-mega-camerupt": {
-        "name": "camerupt-mega-camerupt",
+    "cameruptmega": {
+        "name": "cameruptmega",
         "types": [
             "Fire",
             "Ground"
@@ -1696,8 +1696,8 @@
             "spe": 85
         }
     },
-    "chandelure-mega-chandelure": {
-        "name": "chandelure-mega-chandelure",
+    "chandeluremega": {
+        "name": "chandeluremega",
         "types": [
             "Ghost",
             "Fire"
@@ -1758,8 +1758,8 @@
             "spe": 80
         }
     },
-    "charizard-mega-charizard-x": {
-        "name": "charizard-mega-charizard-x",
+    "charizardmegax": {
+        "name": "charizardmegax",
         "types": [
             "Fire",
             "Dragon"
@@ -1782,8 +1782,8 @@
             "spe": 100
         }
     },
-    "charizard-mega-charizard-y": {
-        "name": "charizard-mega-charizard-y",
+    "charizardmegay": {
+        "name": "charizardmegay",
         "types": [
             "Fire",
             "Flying"
@@ -1837,8 +1837,8 @@
             "spe": 100
         }
     },
-    "chesnaught-mega-chesnaught": {
-        "name": "chesnaught-mega-chesnaught",
+    "chesnaughtmega": {
+        "name": "chesnaughtmega",
         "types": [
             "Grass",
             "Fighting"
@@ -1892,8 +1892,8 @@
             "spe": 64
         }
     },
-    "chimecho-mega-chimecho": {
-        "name": "chimecho-mega-chimecho",
+    "chimechomega": {
+        "name": "chimechomega",
         "types": [
             "Psychic",
             "Steel"
@@ -1962,8 +1962,8 @@
             "spe": 59
         }
     },
-    "clefable-mega-clefable": {
-        "name": "clefable-mega-clefable",
+    "clefablemega": {
+        "name": "clefablemega",
         "types": [
             "Fairy",
             "Flying"
@@ -2121,8 +2121,8 @@
             "spe": 67
         }
     },
-    "crabominable-mega-crabominable": {
-        "name": "crabominable-mega-crabominable",
+    "crabominablemega": {
+        "name": "crabominablemega",
         "types": [
             "Fighting",
             "Ice"
@@ -2283,8 +2283,8 @@
             "spe": 101
         }
     },
-    "delphox-mega-delphox": {
-        "name": "delphox-mega-delphox",
+    "delphoxmega": {
+        "name": "delphoxmega",
         "types": [
             "Fire",
             "Psychic"
@@ -2406,8 +2406,8 @@
             "spe": 48
         }
     },
-    "dragalge-mega-dragalge": {
-        "name": "dragalge-mega-dragalge",
+    "dragalgemega": {
+        "name": "dragalgemega",
         "types": [
             "Poison",
             "Dragon"
@@ -2506,8 +2506,8 @@
             "spe": 142
         }
     },
-    "dragonite-mega-dragonite": {
-        "name": "dragonite-mega-dragonite",
+    "dragonitemega": {
+        "name": "dragonitemega",
         "types": [
             "Dragon",
             "Flying"
@@ -2561,8 +2561,8 @@
             "spe": 80
         }
     },
-    "drampa-mega-drampa": {
-        "name": "drampa-mega-drampa",
+    "drampamega": {
+        "name": "drampamega",
         "types": [
             "Normal",
             "Dragon"
@@ -2623,8 +2623,8 @@
             "spe": 36
         }
     },
-    "eelektross-mega-eelektross": {
-        "name": "eelektross-mega-eelektross",
+    "eelektrossmega": {
+        "name": "eelektrossmega",
         "types": [
             "Electric"
         ],
@@ -2669,8 +2669,8 @@
             "spe": 50
         }
     },
-    "emboar-mega-emboar": {
-        "name": "emboar-mega-emboar",
+    "emboarmega": {
+        "name": "emboarmega",
         "types": [
             "Fire",
             "Fighting"
@@ -2853,8 +2853,8 @@
             "spe": 110
         }
     },
-    "excadrill-mega-excadrill": {
-        "name": "excadrill-mega-excadrill",
+    "excadrillmega": {
+        "name": "excadrillmega",
         "types": [
             "Ground",
             "Steel"
@@ -2915,8 +2915,8 @@
             "spe": 88
         }
     },
-    "falinks-mega-falinks": {
-        "name": "falinks-mega-falinks",
+    "falinksmega": {
+        "name": "falinksmega",
         "types": [
             "Fighting"
         ],
@@ -3006,8 +3006,8 @@
             "spe": 60
         }
     },
-    "feraligatr-mega-feraligatr": {
-        "name": "feraligatr-mega-feraligatr",
+    "feraligatrmega": {
+        "name": "feraligatrmega",
         "types": [
             "Water",
             "Dragon"
@@ -3158,8 +3158,8 @@
             "spe": 92
         }
     },
-    "floette-mega-floette": {
-        "name": "floette-mega-floette",
+    "floettemega": {
+        "name": "floettemega",
         "types": [
             "Fairy"
         ],
@@ -3242,8 +3242,8 @@
             "spe": 40
         }
     },
-    "froslass-mega-froslass": {
-        "name": "froslass-mega-froslass",
+    "froslassmega": {
+        "name": "froslassmega",
         "types": [
             "Ice",
             "Ghost"
@@ -3320,8 +3320,8 @@
             "spe": 102
         }
     },
-    "gallade-mega-gallade": {
-        "name": "gallade-mega-gallade",
+    "gallademega": {
+        "name": "gallademega",
         "types": [
             "Psychic",
             "Fighting"
@@ -3419,8 +3419,8 @@
             "spe": 75
         }
     },
-    "garchomp-mega-garchomp": {
-        "name": "garchomp-mega-garchomp",
+    "garchompmega": {
+        "name": "garchompmega",
         "types": [
             "Dragon",
             "Ground"
@@ -3474,8 +3474,8 @@
             "spe": 102
         }
     },
-    "gardevoir-mega-gardevoir": {
-        "name": "gardevoir-mega-gardevoir",
+    "gardevoirmega": {
+        "name": "gardevoirmega",
         "types": [
             "Psychic",
             "Fairy"
@@ -3573,8 +3573,8 @@
             "spe": 35
         }
     },
-    "gengar-mega-gengar": {
-        "name": "gengar-mega-gengar",
+    "gengarmega": {
+        "name": "gengarmega",
         "types": [
             "Ghost",
             "Poison"
@@ -3675,8 +3675,8 @@
             "spe": 65
         }
     },
-    "glalie-mega-glalie": {
-        "name": "glalie-mega-glalie",
+    "glaliemega": {
+        "name": "glaliemega",
         "types": [
             "Ice"
         ],
@@ -3735,8 +3735,8 @@
             "spe": 80
         }
     },
-    "glimmora-mega-glimmora": {
-        "name": "glimmora-mega-glimmora",
+    "glimmoramega": {
+        "name": "glimmoramega",
         "types": [
             "Rock",
             "Poison"
@@ -3828,8 +3828,8 @@
             "spe": 95
         }
     },
-    "golurk-mega-golurk": {
-        "name": "golurk-mega-golurk",
+    "golurkmega": {
+        "name": "golurkmega",
         "types": [
             "Ground",
             "Ghost"
@@ -4117,8 +4117,8 @@
             "spe": 84
         }
     },
-    "greninja-mega-greninja": {
-        "name": "greninja-mega-greninja",
+    "greninjamega": {
+        "name": "greninjamega",
         "types": [
             "Water",
             "Dark"
@@ -4210,8 +4210,8 @@
             "spe": 60
         }
     },
-    "gyarados-mega-gyarados": {
-        "name": "gyarados-mega-gyarados",
+    "gyaradosmega": {
+        "name": "gyaradosmega",
         "types": [
             "Water",
             "Dark"
@@ -4303,8 +4303,8 @@
             "spe": 29
         }
     },
-    "hawlucha-mega-hawlucha": {
-        "name": "hawlucha-mega-hawlucha",
+    "hawluchamega": {
+        "name": "hawluchamega",
         "types": [
             "Fighting",
             "Flying"
@@ -4403,8 +4403,8 @@
             "spe": 109
         }
     },
-    "heracross-mega-heracross": {
-        "name": "heracross-mega-heracross",
+    "heracrossmega": {
+        "name": "heracrossmega",
         "types": [
             "Bug",
             "Fighting"
@@ -4495,8 +4495,8 @@
             "spe": 47
         }
     },
-    "houndoom-mega-houndoom": {
-        "name": "houndoom-mega-houndoom",
+    "houndoommega": {
+        "name": "houndoommega",
         "types": [
             "Dark",
             "Fire"
@@ -4741,8 +4741,8 @@
             "spe": 130
         }
     },
-    "kangaskhan-mega-kangaskhan": {
-        "name": "kangaskhan-mega-kangaskhan",
+    "kangaskhanmega": {
+        "name": "kangaskhanmega",
         "types": [
             "Normal"
         ],
@@ -5051,8 +5051,8 @@
             "spe": 106
         }
     },
-    "lopunny-mega-lopunny": {
-        "name": "lopunny-mega-lopunny",
+    "lopunnymega": {
+        "name": "lopunnymega",
         "types": [
             "Normal",
             "Fighting"
@@ -5112,8 +5112,8 @@
             "spe": 105
         }
     },
-    "lucario-mega-lucario": {
-        "name": "lucario-mega-lucario",
+    "lucariomega": {
+        "name": "lucariomega",
         "types": [
             "Fighting",
             "Steel"
@@ -5345,8 +5345,8 @@
             "spe": 55
         }
     },
-    "malamar-mega-malamar": {
-        "name": "malamar-mega-malamar",
+    "malamarmega": {
+        "name": "malamarmega",
         "types": [
             "Dark",
             "Psychic"
@@ -5445,8 +5445,8 @@
             "spe": 80
         }
     },
-    "manectric-mega-manectric": {
-        "name": "manectric-mega-manectric",
+    "manectricmega": {
+        "name": "manectricmega",
         "types": [
             "Electric"
         ],
@@ -5542,8 +5542,8 @@
             "spe": 111
         }
     },
-    "mawile-mega-mawile": {
-        "name": "mawile-mega-mawile",
+    "mawilemega": {
+        "name": "mawilemega",
         "types": [
             "Steel",
             "Fairy"
@@ -5604,8 +5604,8 @@
             "spe": 50
         }
     },
-    "medicham-mega-medicham": {
-        "name": "medicham-mega-medicham",
+    "medichammega": {
+        "name": "medichammega",
         "types": [
             "Fighting",
             "Psychic"
@@ -5659,8 +5659,8 @@
             "spe": 80
         }
     },
-    "meganium-mega-meganium": {
-        "name": "meganium-mega-meganium",
+    "meganiummega": {
+        "name": "meganiummega",
         "types": [
             "Grass",
             "Fairy"
@@ -5781,8 +5781,8 @@
             "spe": 104
         }
     },
-    "meowstic-mega-meowstic": {
-        "name": "meowstic-mega-meowstic",
+    "meowsticmega": {
+        "name": "meowsticmega",
         "types": [
             "Psychic"
         ],
@@ -5841,8 +5841,8 @@
             "spe": 104
         }
     },
-    "metagross-mega-metagross": {
-        "name": "metagross-mega-metagross",
+    "metagrossmega": {
+        "name": "metagrossmega",
         "types": [
             "Steel",
             "Psychic"
@@ -6450,8 +6450,8 @@
             "spe": 65
         }
     },
-    "pidgeot-mega-pidgeot": {
-        "name": "pidgeot-mega-pidgeot",
+    "pidgeotmega": {
+        "name": "pidgeotmega",
         "types": [
             "Normal",
             "Flying"
@@ -6542,8 +6542,8 @@
             "spe": 90
         }
     },
-    "pinsir-mega-pinsir": {
-        "name": "pinsir-mega-pinsir",
+    "pinsirmega": {
+        "name": "pinsirmega",
         "types": [
             "Bug",
             "Flying"
@@ -6701,8 +6701,8 @@
             "spe": 60
         }
     },
-    "pyroar-mega-pyroar": {
-        "name": "pyroar-mega-pyroar",
+    "pyroarmega": {
+        "name": "pyroarmega",
         "types": [
             "Fire",
             "Normal"
@@ -6856,8 +6856,8 @@
             "spe": 110
         }
     },
-    "raichu-mega-raichu-x": {
-        "name": "raichu-mega-raichu-x",
+    "raichumegax": {
+        "name": "raichumegax",
         "types": [
             "Electric"
         ],
@@ -6879,8 +6879,8 @@
             "spe": 110
         }
     },
-    "raichu-mega-raichu-y": {
-        "name": "raichu-mega-raichu-y",
+    "raichumegay": {
+        "name": "raichumegay",
         "types": [
             "Electric"
         ],
@@ -7243,8 +7243,8 @@
             "spe": 30
         }
     },
-    "sableye-mega-sableye": {
-        "name": "sableye-mega-sableye",
+    "sableyemega": {
+        "name": "sableyemega",
         "types": [
             "Dark",
             "Ghost"
@@ -7434,8 +7434,8 @@
             "spe": 71
         }
     },
-    "sceptile-mega-sceptile": {
-        "name": "sceptile-mega-sceptile",
+    "sceptilemega": {
+        "name": "sceptilemega",
         "types": [
             "Grass",
             "Dragon"
@@ -7488,8 +7488,8 @@
             "spe": 120
         }
     },
-    "scizor-mega-scizor": {
-        "name": "scizor-mega-scizor",
+    "scizormega": {
+        "name": "scizormega",
         "types": [
             "Bug",
             "Steel"
@@ -7550,8 +7550,8 @@
             "spe": 65
         }
     },
-    "scolipede-mega-scolipede": {
-        "name": "scolipede-mega-scolipede",
+    "scolipedemega": {
+        "name": "scolipedemega",
         "types": [
             "Bug",
             "Poison"
@@ -7612,8 +7612,8 @@
             "spe": 112
         }
     },
-    "scovillain-mega-scovillain": {
-        "name": "scovillain-mega-scovillain",
+    "scovillainmega": {
+        "name": "scovillainmega",
         "types": [
             "Grass",
             "Fire"
@@ -7674,8 +7674,8 @@
             "spe": 75
         }
     },
-    "scrafty-mega-scrafty": {
-        "name": "scrafty-mega-scrafty",
+    "scraftymega": {
+        "name": "scraftymega",
         "types": [
             "Dark",
             "Fighting"
@@ -7766,8 +7766,8 @@
             "spe": 113
         }
     },
-    "sharpedo-mega-sharpedo": {
-        "name": "sharpedo-mega-sharpedo",
+    "sharpedomega": {
+        "name": "sharpedomega",
         "types": [
             "Water",
             "Dark"
@@ -7942,8 +7942,8 @@
             "spe": 70
         }
     },
-    "skarmory-mega-skarmory": {
-        "name": "skarmory-mega-skarmory",
+    "skarmorymega": {
+        "name": "skarmorymega",
         "types": [
             "Steel",
             "Flying"
@@ -8073,8 +8073,8 @@
             "spe": 30
         }
     },
-    "slowbro-mega-slowbro": {
-        "name": "slowbro-mega-slowbro",
+    "slowbromega": {
+        "name": "slowbromega",
         "types": [
             "Water",
             "Psychic"
@@ -8347,8 +8347,8 @@
             "spe": 35
         }
     },
-    "staraptor-mega-staraptor": {
-        "name": "staraptor-mega-staraptor",
+    "staraptormega": {
+        "name": "staraptormega",
         "types": [
             "Fighting",
             "Flying"
@@ -8402,8 +8402,8 @@
             "spe": 100
         }
     },
-    "starmie-mega-starmie": {
-        "name": "starmie-mega-starmie",
+    "starmiemega": {
+        "name": "starmiemega",
         "types": [
             "Water",
             "Psychic"
@@ -8464,8 +8464,8 @@
             "spe": 115
         }
     },
-    "steelix-mega-steelix": {
-        "name": "steelix-mega-steelix",
+    "steelixmega": {
+        "name": "steelixmega",
         "types": [
             "Steel",
             "Ground"
@@ -8588,8 +8588,8 @@
             "spe": 32
         }
     },
-    "swampert-mega-swampert": {
-        "name": "swampert-mega-swampert",
+    "swampertmega": {
+        "name": "swampertmega",
         "types": [
             "Water",
             "Ground"
@@ -9210,8 +9210,8 @@
             "spe": 100
         }
     },
-    "tyranitar-mega-tyranitar": {
-        "name": "tyranitar-mega-tyranitar",
+    "tyranitarmega": {
+        "name": "tyranitarmega",
         "types": [
             "Rock",
             "Dark"
@@ -9393,8 +9393,8 @@
             "spe": 65
         }
     },
-    "venusaur-mega-venusaur": {
-        "name": "venusaur-mega-venusaur",
+    "venusaurmega": {
+        "name": "venusaurmega",
         "types": [
             "Grass",
             "Poison"
@@ -9448,8 +9448,8 @@
             "spe": 80
         }
     },
-    "victreebel-mega-victreebel": {
-        "name": "victreebel-mega-victreebel",
+    "victreebelmega": {
+        "name": "victreebelmega",
         "types": [
             "Grass",
             "Poison"
